@@ -119,6 +119,8 @@ function renderCols(region, r, elId){
 }
 
 load();
+// Refresh data every 5 minutes
+setInterval(load, 5 * 60 * 1000);
 </script>
 </body>
 </html>
