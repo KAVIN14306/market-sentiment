@@ -3,7 +3,7 @@ name: Daily Market Sentiment Update
 on:
   schedule:
     # 06:00 UTC = 11:30 AM IST — before the Indian market opens
-    - cron: "0 6 * * *"
+    - cron: "0 2 * * *"
   workflow_dispatch: {}  # lets you trigger it manually from the Actions tab
 
 permissions:
