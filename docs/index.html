@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Market Pulse — Daily Sentiment</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#12141a; --paper:#f3efe4; --paper-dim:#e9e3d3; --navy:#0c1420; --navy-2:#161f2e;
+    --saffron:#c9782f; --saffron-2:#e0a45c; --up:#2e7d4f; --down:#a83232; --rule: rgba(18,20,26,0.14);
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:'Inter',sans-serif;-webkit-font-smoothing:antialiased;}
+  .masthead{background:var(--navy);color:var(--paper);padding:28px 24px 22px;border-bottom:4px solid var(--saffron);}
+  .masthead-inner{max-width:1120px;margin:0 auto;display:flex;justify-content:space-between;align-items:flex-end;flex-wrap:wrap;gap:12px;}
+  .brand h1{font-family:'Fraunces',serif;font-weight:700;font-size:clamp(28px,4vw,42px);margin:0;}
+  .brand .tag{font-size:11px;letter-spacing:0.14em;text-transform:uppercase;color:var(--saffron-2);}
+  .datebar{font-family:'JetBrains Mono',monospace;font-size:12px;color:#b9c2cf;text-align:right;}
+  main{max-width:1120px;margin:0 auto;padding:32px 24px 60px;}
+  .gauge-row{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:36px;}
+  @media (max-width:760px){.gauge-row,.cols{grid-template-columns:1fr;}}
+  .gauge-card{background:var(--paper-dim);border:1px solid var(--rule);padding:20px 22px;}
+  .gauge-card .region{font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:0.12em;text-transform:uppercase;color:#6b6252;margin-bottom:6px;}
+  .gauge-card h2{font-family:'Fraunces',serif;font-size:24px;margin:0 0 14px;font-weight:600;}
+  .meter{height:10px;background:#dcd4bf;position:relative;margin-bottom:8px;overflow:hidden;}
+  .meter-fill{height:100%;position:absolute;left:0;top:0;}
+  .meter-label{display:flex;justify-content:space-between;font-family:'JetBrains Mono',monospace;font-size:11px;color:#6b6252;}
+  .mood{font-weight:600;font-size:15px;margin-top:10px;color:var(--saffron);}
+  .section-label{font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:0.16em;text-transform:uppercase;color:#8a8168;border-bottom:1px solid var(--rule);padding-bottom:8px;margin:44px 0 18px;}
+  .cols{display:grid;grid-template-columns:1fr 1fr;gap:28px;}
+  .news-block h3{font-family:'Fraunces',serif;font-size:19px;margin:0 0 14px;display:flex;align-items:center;gap:8px;}
+  .dot{width:8px;height:8px;border-radius:50%;display:inline-block;}
+  .dot.up{background:var(--up);} .dot.down{background:var(--down);}
+  .card{background:#fffdf7;border:1px solid var(--rule);border-left:3px solid transparent;padding:14px 16px;margin-bottom:10px;}
+  .card.pos{border-left-color:var(--up);} .card.neg{border-left-color:var(--down);}
+  .card p{margin:0;font-size:14px;line-height:1.5;}
+  .card a{color:inherit;text-decoration:none;}
+  .card a:hover{text-decoration:underline;}
+  .card .src{display:block;margin-top:8px;font-family:'JetBrains Mono',monospace;font-size:10.5px;color:#8a8168;}
+  .empty{font-size:13px;color:#8a8168;font-style:italic;}
+  .note{margin-top:48px;padding:18px 20px;background:var(--navy);color:#c9d0da;font-size:13px;line-height:1.6;}
+  footer{text-align:center;font-family:'JetBrains Mono',monospace;font-size:11px;color:#8a8168;padding:20px 0 40px;}
+</style>
+</head>
+<body>
+
+<div class="masthead">
+  <div class="masthead-inner">
+    <div class="brand"><h1>Market Pulse</h1><span class="tag">Sentiment Desk · Auto-updated</span></div>
+    <div class="datebar"><div id="updated">Loading…</div></div>
+  </div>
+</div>
+
+<main>
+  <div class="gauge-row" id="gauges"></div>
+  <div class="section-label">Indian Markets</div>
+  <div class="cols" id="india-cols"></div>
+  <div class="section-label">World Markets</div>
+  <div class="cols" id="world-cols"></div>
+  <div class="note">
+    <strong>How this updates:</strong> A GitHub Actions job runs daily, pulls free RSS headlines
+    (Economic Times, Moneycontrol, Business Standard for India; CNBC, BBC Business, Investing.com for World),
+    scores them with VADER sentiment, and rewrites <code>sentiment.json</code> — which this page fetches on load.
+    No paid API keys required.
+  </div>
+</main>
+<footer>MARKET PULSE — FOR INFORMATIONAL PURPOSES ONLY, NOT INVESTMENT ADVICE</footer>
+
+<script>
+async function load() {
+  try {
+    const res = await fetch('sentiment.json', {cache: 'no-store'});
+    const data = await res.json();
+    document.getElementById('updated').textContent =
+      'Updated ' + new Date(data.generated_at).toLocaleString();
+    renderGauges(data.regions);
+    renderCols('india', data.regions.india, 'india-cols');
+    renderCols('world', data.regions.world, 'world-cols');
+  } catch (e) {
+    document.getElementById('updated').textContent = 'No data yet — waiting for first Action run';
+  }
+}
+
+function moodColor(score){
+  if (score > 0.15) return 'linear-gradient(90deg,var(--saffron),var(--up))';
+  if (score < -0.15) return 'linear-gradient(90deg,var(--down),var(--saffron))';
+  return 'linear-gradient(90deg,var(--down),var(--saffron),var(--up))';
+}
+
+function renderGauges(regions){
+  const el = document.getElementById('gauges');
+  el.innerHTML = '';
+  for (const [name, r] of Object.entries(regions)){
+    const pct = Math.round(((r.avg_score + 1) / 2) * 100);
+    el.innerHTML += `
+      <div class="gauge-card">
+        <div class="region">${name}</div>
+        <h2>${r.mood}</h2>
+        <div class="meter"><div class="meter-fill" style="width:${pct}%;background:${moodColor(r.avg_score)};"></div></div>
+        <div class="meter-label"><span>Bearish</span><span>Bullish</span></div>
+        <div class="mood">Average sentiment score: ${r.avg_score} across ${r.sample_size || 0} headlines</div>
+      </div>`;
+  }
+}
+
+function cardHtml(item, cls){
+  return `<div class="card ${cls}"><p><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></p><span class="src">${item.source} · score ${item.score}</span></div>`;
+}
+
+function renderCols(region, r, elId){
+  const el = document.getElementById(elId);
+  const pos = (r.positive||[]).map(i => cardHtml(i,'pos')).join('') || '<div class="empty">No strongly positive headlines right now.</div>';
+  const neg = (r.negative||[]).map(i => cardHtml(i,'neg')).join('') || '<div class="empty">No strongly negative headlines right now.</div>';
+  el.innerHTML = `
+    <div class="news-block"><h3><span class="dot up"></span>Positive</h3>${pos}</div>
+    <div class="news-block"><h3><span class="dot down"></span>Negative</h3>${neg}</div>`;
+}
+
+load();
+</script>
+</body>
+</html>
