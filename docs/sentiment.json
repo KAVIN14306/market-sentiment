@@ -1,0 +1,125 @@
+{
+  "generated_at": "2026-07-01T15:35:40.203043Z",
+  "regions": {
+    "india": {
+      "avg_score": -0.079,
+      "mood": "Mixed / Neutral",
+      "positive": [
+        {
+          "title": "Micron, GM sign semiconductor supply agreement for vehicles",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/micron-gm-sign-semiconductor-supply-agreement-for-vehicles/articleshow/132117263.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.494
+        },
+        {
+          "title": "US Stocks: Meta building cloud business to sell AI computing, says report; shares rise",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-meta-building-cloud-business-to-sell-ai-computing-says-report-shares-rise/articleshow/132117532.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.296
+        },
+        {
+          "title": "Retail space leasing in malls, high streets rises 18 pc to 2.4 mn sq ft across top 8 cities: Cushman",
+          "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/retail-space-leasing-in-malls-high-streets-rises-18-pc-to-2-4-mn-sq-ft-across-top-8-cities-cushman/articleshow/132117276.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.202
+        }
+      ],
+      "negative": [
+        {
+          "title": "US Stocks: Nike shares fall on grim sales outlook; China woes hit turnaround plans",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nike-shares-fall-on-grim-sales-outlook-china-woes-hit-turnaround-plans/articleshow/132116899.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.66
+        },
+        {
+          "title": "US stocks today: US stocks dip as US-Iran tensions weigh on sentiment",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-slip-at-open-as-us-iran-tensions-cloud-start-to-second-half/articleshow/132116754.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.402
+        },
+        {
+          "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks dip as US-Iran tensions weigh on sentiment",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-nike-shutterstock-oklo-stock-price-news-1-july-2026/liveblog/132115120.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.402
+        },
+        {
+          "title": "From WhatsApp chats to food orders: How Sebi cracked a Rs 144 crore stock manipulation scheme",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-whatsapp-chats-to-food-orders-how-sebi-cracked-a-rs-144-crore-stock-manipulation-scheme/articleshow/132118593.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.296
+        },
+        {
+          "title": "Quote of the day by Edwin Lefevre: \"It is not the certainty of disaster ahead but the uncertainty of better days to come that keeps the investor from buying\"",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-edwin-lefevre-it-is-not-the-certainty-of-disaster-ahead-but-the-uncertainty-of-better-days-to-come-that-keeps-the-investor-from-buying/articleshow/132106135.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.289
+        }
+      ],
+      "sample_size": 15
+    },
+    "world": {
+      "avg_score": 0.087,
+      "mood": "Mixed / Neutral",
+      "positive": [
+        {
+          "title": "Up to 150 ex-WHSmith High Street stores to close as rescue deal approved",
+          "link": "https://www.bbc.co.uk/news/articles/cn751pkmgyxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.727
+        },
+        {
+          "title": "A surprisingly strong summer box office could mean Hollywood's first $10 billion year since the pandemic",
+          "link": "https://www.cnbc.com/2026/06/27/strong-summer-box-office.html",
+          "source": "Business News",
+          "score": 0.67
+        },
+        {
+          "title": "A 'perfect storm' points to a much smaller U.S. auto market by 2040",
+          "link": "https://www.cnbc.com/2026/06/28/us-auto-market.html",
+          "source": "Business News",
+          "score": 0.572
+        },
+        {
+          "title": "The brands winning with World Cup advertising may not be the sponsors",
+          "link": "https://www.cnbc.com/2026/06/26/world-cup-marketing-levis-nike-taco-bell.html",
+          "source": "Business News",
+          "score": 0.527
+        },
+        {
+          "title": "Walmart heir Lukas Walton buys minority stake in the Chicago Bulls and United Center",
+          "link": "https://www.cnbc.com/2026/06/26/walmart-heir-lukas-walton-chicago-bulls.html",
+          "source": "Business News",
+          "score": 0.421
+        }
+      ],
+      "negative": [
+        {
+          "title": "Brewery boss who banned phones and swearing from pubs dies aged 81",
+          "link": "https://www.bbc.co.uk/news/articles/c0ky1v2e275o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.612
+        },
+        {
+          "title": "How Kohl's lost its way \u2014 and is trying to become relevant again",
+          "link": "https://www.cnbc.com/2026/06/27/how-kohls-lost-its-way-and-is-trying-to-become-relevant-again.html",
+          "source": "Business News",
+          "score": -0.318
+        },
+        {
+          "title": "Rise in memory chip costs puts pressure on retailers of laptops and smartphones",
+          "link": "https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html",
+          "source": "Business News",
+          "score": -0.296
+        },
+        {
+          "title": "Estrogen patches are hard to find, and it may not be resolved any time soon",
+          "link": "https://www.cnbc.com/2026/06/26/estrogen-patches-are-in-short-supply-as-women-seek-menopause-support.html",
+          "source": "Business News",
+          "score": -0.231
+        }
+      ],
+      "sample_size": 20
+    }
+  }
+}
