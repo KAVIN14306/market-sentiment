@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-07-01T16:13:34.796766Z",
+  "generated_at": "2026-07-01T16:48:32.776060Z",
   "regions": {
     "india": {
-      "avg_score": -0.079,
+      "avg_score": 0.036,
       "mood": "Mixed / Neutral",
       "positive": [
+        {
+          "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+          "source": "Moneycontrol Market Reports",
+          "score": 0.869
+        },
+        {
+          "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+          "source": "Moneycontrol Market Reports",
+          "score": 0.7
+        },
         {
           "title": "Micron, GM sign semiconductor supply agreement for vehicles",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/micron-gm-sign-semiconductor-supply-agreement-for-vehicles/articleshow/132117263.cms",
@@ -38,12 +50,6 @@
           "score": -0.402
         },
         {
-          "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks dip as US-Iran tensions weigh on sentiment",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-nike-shutterstock-oklo-stock-price-news-1-july-2026/liveblog/132115120.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.402
-        },
-        {
           "title": "From WhatsApp chats to food orders: How Sebi cracked a Rs 144 crore stock manipulation scheme",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-whatsapp-chats-to-food-orders-how-sebi-cracked-a-rs-144-crore-stock-manipulation-scheme/articleshow/132118593.cms",
           "source": "Markets-Economic Times",
@@ -56,7 +62,7 @@
           "score": -0.289
         }
       ],
-      "sample_size": 15
+      "sample_size": 19
     },
     "world": {
       "avg_score": 0.087,
