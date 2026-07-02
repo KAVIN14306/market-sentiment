@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-01T17:06:56.508234Z",
+  "generated_at": "2026-07-02T06:06:38.206522Z",
   "regions": {
     "india": {
-      "avg_score": 0.036,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.179,
+      "mood": "Positive",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -18,62 +18,44 @@
           "score": 0.7
         },
         {
-          "title": "Micron, GM sign semiconductor supply agreement for vehicles",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/micron-gm-sign-semiconductor-supply-agreement-for-vehicles/articleshow/132117263.cms",
+          "title": "Tamilnad Mercantile Bank shares surge 5% after strong Q1FY27 business update",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tamilnad-mercantile-bank-shares-surge-5-after-strong-q1fy27-business-update/articleshow/132129770.cms",
           "source": "Markets-Economic Times",
-          "score": 0.494
+          "score": 0.67
         },
         {
-          "title": "US Stocks: Meta building cloud business to sell AI computing, says report; shares rise",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-meta-building-cloud-business-to-sell-ai-computing-says-report-shares-rise/articleshow/132117532.cms",
+          "title": "Vedanta Iron and Steel shares rocket 113% in 13 sessions since listing; market value more than doubles",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-iron-and-steel-shares-rocket-113-in-13-sessions-since-listing-market-value-more-than-doubles/articleshow/132129896.cms",
           "source": "Markets-Economic Times",
-          "score": 0.296
+          "score": 0.557
         },
         {
-          "title": "Retail space leasing in malls, high streets rises 18 pc to 2.4 mn sq ft across top 8 cities: Cushman",
-          "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/retail-space-leasing-in-malls-high-streets-rises-18-pc-to-2-4-mn-sq-ft-across-top-8-cities-cushman/articleshow/132117276.cms",
+          "title": "Inside Meta's Cloud Push: The strategy driving Wall Street optimism",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/inside-metas-cloud-push-the-strategy-driving-wall-street-optimism/slideshow/132130187.cms",
           "source": "Markets-Economic Times",
-          "score": 0.202
+          "score": 0.542
         }
       ],
       "negative": [
         {
-          "title": "US Stocks: Nike shares fall on grim sales outlook; China woes hit turnaround plans",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nike-shares-fall-on-grim-sales-outlook-china-woes-hit-turnaround-plans/articleshow/132116899.cms",
+          "title": "Infosys, TCS and other IT stocks jump up to 5% on dip buying. Is the worst over?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-tcs-and-other-it-stocks-jump-up-to-5-on-dip-buying-is-the-worst-over/articleshow/132129063.cms",
           "source": "Markets-Economic Times",
-          "score": -0.66
+          "score": -0.625
         },
         {
-          "title": "US stocks today: US stocks dip as US-Iran tensions weigh on sentiment",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-slip-at-open-as-us-iran-tensions-cloud-start-to-second-half/articleshow/132116754.cms",
+          "title": "Crude oil correction could be India's next big market trigger: Rohit Seksaria",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/crude-oil-correction-could-be-indias-next-big-market-trigger-rohit-seksaria/articleshow/132129226.cms",
           "source": "Markets-Economic Times",
-          "score": -0.402
-        },
-        {
-          "title": "From WhatsApp chats to food orders: How Sebi cracked a Rs 144 crore stock manipulation scheme",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-whatsapp-chats-to-food-orders-how-sebi-cracked-a-rs-144-crore-stock-manipulation-scheme/articleshow/132118593.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.296
-        },
-        {
-          "title": "Quote of the day by Edwin Lefevre: \"It is not the certainty of disaster ahead but the uncertainty of better days to come that keeps the investor from buying\"",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-edwin-lefevre-it-is-not-the-certainty-of-disaster-ahead-but-the-uncertainty-of-better-days-to-come-that-keeps-the-investor-from-buying/articleshow/132106135.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.289
+          "score": -0.572
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.087,
+      "avg_score": 0.05,
       "mood": "Mixed / Neutral",
       "positive": [
-        {
-          "title": "Up to 150 ex-WHSmith High Street stores to close as rescue deal approved",
-          "link": "https://www.bbc.co.uk/news/articles/cn751pkmgyxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.727
-        },
         {
           "title": "A surprisingly strong summer box office could mean Hollywood's first $10 billion year since the pandemic",
           "link": "https://www.cnbc.com/2026/06/27/strong-summer-box-office.html",
@@ -101,10 +83,10 @@
       ],
       "negative": [
         {
-          "title": "Brewery boss who banned phones and swearing from pubs dies aged 81",
-          "link": "https://www.bbc.co.uk/news/articles/c0ky1v2e275o?at_medium=RSS&at_campaign=rss",
+          "title": "World Cup dreams shattered as StubHub tickets cancelled at last minute leaving fans stranded outside stadiums",
+          "link": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.612
+          "score": -0.34
         },
         {
           "title": "How Kohl's lost its way \u2014 and is trying to become relevant again",
@@ -119,10 +101,10 @@
           "score": -0.296
         },
         {
-          "title": "Estrogen patches are hard to find, and it may not be resolved any time soon",
-          "link": "https://www.cnbc.com/2026/06/26/estrogen-patches-are-in-short-supply-as-women-seek-menopause-support.html",
-          "source": "Business News",
-          "score": -0.231
+          "title": "Bibles, Home Alone and perfume: Six takeaways from Trump's 2025 finances",
+          "link": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.25
         }
       ],
       "sample_size": 20
