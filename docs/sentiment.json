@@ -1,110 +1,116 @@
 {
-  "generated_at": "2026-07-02T06:06:38.206522Z",
+  "generated_at": "2026-07-03T06:00:49.531955Z",
   "regions": {
     "india": {
-      "avg_score": 0.179,
+      "avg_score": 0.186,
       "mood": "Positive",
       "positive": [
         {
-          "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-          "source": "Moneycontrol Market Reports",
-          "score": 0.869
-        },
-        {
-          "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-          "source": "Moneycontrol Market Reports",
-          "score": 0.7
-        },
-        {
-          "title": "Tamilnad Mercantile Bank shares surge 5% after strong Q1FY27 business update",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tamilnad-mercantile-bank-shares-surge-5-after-strong-q1fy27-business-update/articleshow/132129770.cms",
+          "title": "Holiday Halt: S&amp;P 500, Nasdaq to remain closed today for Independence Day holiday",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/holiday-halt-sp-500-nasdaq-to-remain-closed-today-for-independence-day-holiday/articleshow/132152818.cms",
           "source": "Markets-Economic Times",
-          "score": 0.67
+          "score": 0.66
         },
         {
-          "title": "Vedanta Iron and Steel shares rocket 113% in 13 sessions since listing; market value more than doubles",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-iron-and-steel-shares-rocket-113-in-13-sessions-since-listing-market-value-more-than-doubles/articleshow/132129896.cms",
+          "title": "Knack Packaging IPO Day 3: Issue subscribed 8.34x so far; GMP signals 17% listing gain. Is it worth subscribing?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/knack-packaging-ipo-day-3-issue-subscribed-8-34x-so-far-gmp-signals-17-listing-gain-is-it-worth-subscribing/articleshow/132153117.cms",
           "source": "Markets-Economic Times",
-          "score": 0.557
+          "score": 0.649
         },
         {
-          "title": "Inside Meta's Cloud Push: The strategy driving Wall Street optimism",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/inside-metas-cloud-push-the-strategy-driving-wall-street-optimism/slideshow/132130187.cms",
+          "title": "US Stock Market: Healthcare, momentum bets power hedge funds to strong H1 returns",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-healthcare-momentum-bets-power-hedge-funds-to-strong-h1-returns/articleshow/132152313.cms",
           "source": "Markets-Economic Times",
-          "score": 0.542
+          "score": 0.511
+        },
+        {
+          "title": "Market Skepticism: Why Tesla\u2019s best delivery quarter still triggered a sell-off",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-skepticism-why-teslas-best-delivery-quarter-still-triggered-a-sell-off/slideshow/132153280.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.494
+        },
+        {
+          "title": "AI bubble or boom? Why Warren Buffett called Big Short fame Michael Burry \u2018Cassandra\u2019",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/ai-bubble-or-boom-why-warren-buffett-called-big-short-fame-michael-burry-cassandra/articleshow/132152663.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.44
         }
       ],
       "negative": [
         {
-          "title": "Infosys, TCS and other IT stocks jump up to 5% on dip buying. Is the worst over?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-tcs-and-other-it-stocks-jump-up-to-5-on-dip-buying-is-the-worst-over/articleshow/132129063.cms",
+          "title": "Forget Nifty50, smallcap index soars up to 200% in 2026. Will the mammoth rally continue?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/forget-nifty50-smallcap-index-soars-up-to-200-in-2026-will-the-mammoth-rally-continue/articleshow/132152516.cms",
           "source": "Markets-Economic Times",
-          "score": -0.625
-        },
-        {
-          "title": "Crude oil correction could be India's next big market trigger: Rohit Seksaria",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/crude-oil-correction-could-be-indias-next-big-market-trigger-rohit-seksaria/articleshow/132129226.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.572
+          "score": -0.226
         }
       ],
-      "sample_size": 19
+      "sample_size": 15
     },
     "world": {
-      "avg_score": 0.05,
+      "avg_score": -0.035,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "A surprisingly strong summer box office could mean Hollywood's first $10 billion year since the pandemic",
-          "link": "https://www.cnbc.com/2026/06/27/strong-summer-box-office.html",
-          "source": "Business News",
-          "score": 0.67
+          "title": "'We give up to \u00a3400': How much should you gift at a wedding?",
+          "link": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.44
         },
         {
-          "title": "A 'perfect storm' points to a much smaller U.S. auto market by 2040",
-          "link": "https://www.cnbc.com/2026/06/28/us-auto-market.html",
+          "title": "Sandwich chain Jersey Mike's files for IPO, reports 50% same-store sales growth in recent years",
+          "link": "https://www.cnbc.com/2026/07/02/jersey-mikes-files-for-ipo.html",
           "source": "Business News",
-          "score": 0.572
+          "score": 0.382
         },
         {
-          "title": "The brands winning with World Cup advertising may not be the sponsors",
-          "link": "https://www.cnbc.com/2026/06/26/world-cup-marketing-levis-nike-taco-bell.html",
+          "title": "High-end camping and a capital raise: AutoCamp is banking on summer travel to fuel growth",
+          "link": "https://www.cnbc.com/2026/07/02/autocamp-high-end-camping-summer-travel-capital-raise.html",
           "source": "Business News",
-          "score": 0.527
+          "score": 0.382
         },
         {
-          "title": "Walmart heir Lukas Walton buys minority stake in the Chicago Bulls and United Center",
-          "link": "https://www.cnbc.com/2026/06/26/walmart-heir-lukas-walton-chicago-bulls.html",
+          "title": "Stock market gains minted nearly 1 million new millionaires in 2025, new UBS report says",
+          "link": "https://www.cnbc.com/2026/07/02/stock-market-gains-new-millionaires-ubs.html",
           "source": "Business News",
-          "score": 0.421
+          "score": 0.34
+        },
+        {
+          "title": "Ford CEO wants level playing field with Toyota, GM imports as USMCA trade talks reopen",
+          "link": "https://www.cnbc.com/2026/07/02/ford-jim-farley-usmca.html",
+          "source": "Business News",
+          "score": 0.202
         }
       ],
       "negative": [
         {
-          "title": "World Cup dreams shattered as StubHub tickets cancelled at last minute leaving fans stranded outside stadiums",
-          "link": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss",
+          "title": "Ryanair warns of 'queue chaos' from new EU border system",
+          "link": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.34
+          "score": -0.625
         },
         {
-          "title": "How Kohl's lost its way \u2014 and is trying to become relevant again",
-          "link": "https://www.cnbc.com/2026/06/27/how-kohls-lost-its-way-and-is-trying-to-become-relevant-again.html",
+          "title": "Ford Q2 sales drop 10.3% due to F-Series supplier issue, falling EV demand",
+          "link": "https://www.cnbc.com/2026/07/02/ford-q2-sales.html",
           "source": "Business News",
-          "score": -0.318
+          "score": -0.494
         },
         {
-          "title": "Rise in memory chip costs puts pressure on retailers of laptops and smartphones",
-          "link": "https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html",
-          "source": "Business News",
-          "score": -0.296
-        },
-        {
-          "title": "Bibles, Home Alone and perfume: Six takeaways from Trump's 2025 finances",
-          "link": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss",
+          "title": "Goat and skin in millions of 'lamb' kebabs compared to horsemeat lasagne scandal",
+          "link": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.25
+          "score": -0.44
+        },
+        {
+          "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
+          "link": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.402
+        },
+        {
+          "title": "Rivian raises 2026 delivery outlook while Lucid misses Wall Street expectations for second quarter",
+          "link": "https://www.cnbc.com/2026/07/02/rivian-lucid-q2-deliveries-demand.html",
+          "source": "Business News",
+          "score": -0.226
         }
       ],
       "sample_size": 20
