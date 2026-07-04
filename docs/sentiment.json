@@ -1,60 +1,90 @@
 {
-  "generated_at": "2026-07-03T06:00:49.531955Z",
+  "generated_at": "2026-07-04T05:53:14.334532Z",
   "regions": {
     "india": {
-      "avg_score": 0.186,
-      "mood": "Positive",
+      "avg_score": 0.145,
+      "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "Holiday Halt: S&amp;P 500, Nasdaq to remain closed today for Independence Day holiday",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/holiday-halt-sp-500-nasdaq-to-remain-closed-today-for-independence-day-holiday/articleshow/132152818.cms",
+          "title": "Dalal Street also smokes peace pipe, ends in green for 4th week in row",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-also-smokes-peace-pipe-ends-in-green-for-4th-week-in-row/articleshow/132174623.cms",
           "source": "Markets-Economic Times",
-          "score": 0.66
+          "score": 0.542
         },
         {
-          "title": "Knack Packaging IPO Day 3: Issue subscribed 8.34x so far; GMP signals 17% listing gain. Is it worth subscribing?",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/knack-packaging-ipo-day-3-issue-subscribed-8-34x-so-far-gmp-signals-17-listing-gain-is-it-worth-subscribing/articleshow/132153117.cms",
+          "title": "Oil prices little changed as US-Iran peace efforts hold",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-little-changed-as-us-iran-peace-efforts-hold/articleshow/132174283.cms",
           "source": "Markets-Economic Times",
-          "score": 0.649
+          "score": 0.542
         },
         {
-          "title": "US Stock Market: Healthcare, momentum bets power hedge funds to strong H1 returns",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-healthcare-momentum-bets-power-hedge-funds-to-strong-h1-returns/articleshow/132152313.cms",
+          "title": "FMCG, healthcare in line for strong show in FY27: Brickworks",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fmcg-healthcare-in-line-for-strong-show-in-fy27-brickworks/articleshow/132174681.cms",
           "source": "Markets-Economic Times",
           "score": 0.511
         },
         {
-          "title": "Market Skepticism: Why Tesla\u2019s best delivery quarter still triggered a sell-off",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-skepticism-why-teslas-best-delivery-quarter-still-triggered-a-sell-off/slideshow/132153280.cms",
+          "title": "Global stocks mostly rise as beaten-down tech enjoys bounce",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-mostly-rise-as-beaten-down-tech-enjoys-bounce/articleshow/132174242.cms",
           "source": "Markets-Economic Times",
-          "score": 0.494
+          "score": 0.511
         },
         {
-          "title": "AI bubble or boom? Why Warren Buffett called Big Short fame Michael Burry \u2018Cassandra\u2019",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/ai-bubble-or-boom-why-warren-buffett-called-big-short-fame-michael-burry-cassandra/articleshow/132152663.cms",
+          "title": "Reliance market value now equals India's top five IT companies combined",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-market-value-now-equals-indias-top-five-it-companies-combined/articleshow/132175237.cms",
           "source": "Markets-Economic Times",
-          "score": 0.44
+          "score": 0.494
         }
       ],
       "negative": [
         {
-          "title": "Forget Nifty50, smallcap index soars up to 200% in 2026. Will the mammoth rally continue?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/forget-nifty50-smallcap-index-soars-up-to-200-in-2026-will-the-mammoth-rally-continue/articleshow/132152516.cms",
+          "title": "HDFC Bank Q1 business update: Gross advances rise 15% to Rs 30.61 lakh crore",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-q1-business-update-gross-advances-rise-15-to-rs-30-61-lakh-crore/articleshow/132174586.cms",
           "source": "Markets-Economic Times",
-          "score": -0.226
+          "score": -0.477
+        },
+        {
+          "title": "Rupee ends losing run on whiff of FPI flows into stocks",
+          "link": "https://economictimes.indiatimes.com/markets/forex/rupee-ends-losing-run-on-whiff-of-fpi-flows-into-stocks/articleshow/132174791.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.382
+        },
+        {
+          "title": "Dollar set for biggest weekly drop since April after jobs data lowers Fed hike bets",
+          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-set-for-biggest-weekly-drop-since-april-after-jobs-data-lowers-fed-hike-bets/articleshow/132174538.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.382
+        },
+        {
+          "title": "Gold heads for weekly gain as weak US jobs data tempers rate hike bets",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-weekly-gain-as-weak-us-jobs-data-tempers-rate-hike-bets/articleshow/132174386.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.202
+        },
+        {
+          "title": "On Bond Street, falling yields spur a Rs 17,000-crore fundraise",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/on-bond-street-falling-yields-spur-a-rs-17000-crore-fundraise/articleshow/132174815.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.153
         }
       ],
       "sample_size": 15
     },
     "world": {
-      "avg_score": -0.035,
+      "avg_score": 0.107,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "'We give up to \u00a3400': How much should you gift at a wedding?",
-          "link": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.44
+          "title": "Trump\u2019s Freedom 250 draws corporate sponsors with business before his administration",
+          "link": "https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html",
+          "source": "Business News",
+          "score": 0.637
+        },
+        {
+          "title": "Ford achieves quality milestone, as CEO targets flawless new vehicle launches",
+          "link": "https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html",
+          "source": "Business News",
+          "score": 0.511
         },
         {
           "title": "Sandwich chain Jersey Mike's files for IPO, reports 50% same-store sales growth in recent years",
@@ -69,42 +99,24 @@
           "score": 0.382
         },
         {
-          "title": "Stock market gains minted nearly 1 million new millionaires in 2025, new UBS report says",
-          "link": "https://www.cnbc.com/2026/07/02/stock-market-gains-new-millionaires-ubs.html",
-          "source": "Business News",
-          "score": 0.34
-        },
-        {
-          "title": "Ford CEO wants level playing field with Toyota, GM imports as USMCA trade talks reopen",
-          "link": "https://www.cnbc.com/2026/07/02/ford-jim-farley-usmca.html",
-          "source": "Business News",
-          "score": 0.202
+          "title": "Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
+          "link": "https://www.bbc.co.uk/news/articles/cq61j11r577o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.382
         }
       ],
       "negative": [
         {
-          "title": "Ryanair warns of 'queue chaos' from new EU border system",
-          "link": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.625
+          "title": "American Express and Chase move luxury lounge wars beyond the airport",
+          "link": "https://www.cnbc.com/2026/07/03/amex-chase-credit-card-lounges.html",
+          "source": "Business News",
+          "score": -0.557
         },
         {
           "title": "Ford Q2 sales drop 10.3% due to F-Series supplier issue, falling EV demand",
           "link": "https://www.cnbc.com/2026/07/02/ford-q2-sales.html",
           "source": "Business News",
           "score": -0.494
-        },
-        {
-          "title": "Goat and skin in millions of 'lamb' kebabs compared to horsemeat lasagne scandal",
-          "link": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.44
-        },
-        {
-          "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
-          "link": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.402
         },
         {
           "title": "Rivian raises 2026 delivery outlook while Lucid misses Wall Street expectations for second quarter",
