@@ -1,74 +1,56 @@
 {
-  "generated_at": "2026-07-04T05:53:14.334532Z",
+  "generated_at": "2026-07-05T06:12:42.148339Z",
   "regions": {
     "india": {
-      "avg_score": 0.145,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.193,
+      "mood": "Positive",
       "positive": [
         {
-          "title": "Dalal Street also smokes peace pipe, ends in green for 4th week in row",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-also-smokes-peace-pipe-ends-in-green-for-4th-week-in-row/articleshow/132174623.cms",
+          "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+          "source": "Moneycontrol Market Reports",
+          "score": 0.869
+        },
+        {
+          "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+          "source": "Moneycontrol Market Reports",
+          "score": 0.7
+        },
+        {
+          "title": "F&amp;O Talk: Smallcap index better placed than Nifty, says Sudeep Shah; picks 9 stocks for next week",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-smallcap-index-better-placed-than-nifty-says-sudeep-shah-picks-9-stocks-for-next-week/articleshow/132178739.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.681
+        },
+        {
+          "title": "Why the next Bitcoin cycle will be won by investors who understand liquidity",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/why-the-next-bitcoin-cycle-will-be-won-by-investors-who-understand-liquidity/articleshow/132176686.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.572
+        },
+        {
+          "title": "Bonus issues, stock splits &amp; dividends: Titan, JSW Steel among 49 stocks turning ex-date this week. Do you own any?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issues-stock-splits-dividends-titan-jsw-steel-among-49-stocks-turning-ex-date-this-week-do-you-own-any/articleshow/132191539.cms",
           "source": "Markets-Economic Times",
           "score": 0.542
-        },
-        {
-          "title": "Oil prices little changed as US-Iran peace efforts hold",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-little-changed-as-us-iran-peace-efforts-hold/articleshow/132174283.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.542
-        },
-        {
-          "title": "FMCG, healthcare in line for strong show in FY27: Brickworks",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fmcg-healthcare-in-line-for-strong-show-in-fy27-brickworks/articleshow/132174681.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.511
-        },
-        {
-          "title": "Global stocks mostly rise as beaten-down tech enjoys bounce",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-mostly-rise-as-beaten-down-tech-enjoys-bounce/articleshow/132174242.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.511
-        },
-        {
-          "title": "Reliance market value now equals India's top five IT companies combined",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-market-value-now-equals-indias-top-five-it-companies-combined/articleshow/132175237.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.494
         }
       ],
       "negative": [
         {
-          "title": "HDFC Bank Q1 business update: Gross advances rise 15% to Rs 30.61 lakh crore",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-q1-business-update-gross-advances-rise-15-to-rs-30-61-lakh-crore/articleshow/132174586.cms",
+          "title": "Gold\u2019s sharp correction: What lies ahead for prices?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/golds-sharp-correction-what-lies-ahead-for-prices/articleshow/132177503.cms",
           "source": "Markets-Economic Times",
-          "score": -0.477
+          "score": -0.421
         },
         {
-          "title": "Rupee ends losing run on whiff of FPI flows into stocks",
-          "link": "https://economictimes.indiatimes.com/markets/forex/rupee-ends-losing-run-on-whiff-of-fpi-flows-into-stocks/articleshow/132174791.cms",
+          "title": "Bitcoin trades near $62,000; inflation, geopolitical risks remain key market drivers",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-62000-inflation-geopolitical-risks-remain-key-market-drivers/articleshow/132177558.cms",
           "source": "Markets-Economic Times",
-          "score": -0.382
-        },
-        {
-          "title": "Dollar set for biggest weekly drop since April after jobs data lowers Fed hike bets",
-          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-set-for-biggest-weekly-drop-since-april-after-jobs-data-lowers-fed-hike-bets/articleshow/132174538.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.382
-        },
-        {
-          "title": "Gold heads for weekly gain as weak US jobs data tempers rate hike bets",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-weekly-gain-as-weak-us-jobs-data-tempers-rate-hike-bets/articleshow/132174386.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.202
-        },
-        {
-          "title": "On Bond Street, falling yields spur a Rs 17,000-crore fundraise",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/on-bond-street-falling-yields-spur-a-rs-17000-crore-fundraise/articleshow/132174815.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.153
+          "score": -0.273
         }
       ],
-      "sample_size": 15
+      "sample_size": 19
     },
     "world": {
       "avg_score": 0.107,
