@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-06T06:44:16.710281Z",
+  "generated_at": "2026-07-07T06:16:20.287433Z",
   "regions": {
     "india": {
-      "avg_score": 0.237,
+      "avg_score": 0.166,
       "mood": "Positive",
       "positive": [
         {
@@ -12,42 +12,48 @@
           "score": 0.869
         },
         {
-          "title": "Cupid shares jump 6%, extend rally to 11% in one week as company raises FY27 revenue guidance after strong Q1 biz update",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-jump-6-extend-rally-to-11-in-one-week-as-company-raises-fy27-revenue-guidance-after-strong-q1-biz-update/articleshow/132208481.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.735
-        },
-        {
-          "title": "India bonds track Treasury gains; monsoon, foreign inflow lend support",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-track-treasury-gains-monsoon-foreign-inflow-lend-support/articleshow/132209045.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.71
-        },
-        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Zen Tech, HAL &amp; other defence stocks rally up to 6% on DAC's Rs 52,000-crore approval. Motilal picks 3 shares to buy",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zen-tech-hal-other-defence-stocks-rally-up-to-6-on-dacs-rs-52000-crore-approval-motilal-picks-3-shares-to-buy/articleshow/132207899.cms",
+          "title": "Vedanta Aluminium wipes off Rs 25,000 cr worth investor wealth in under a month. Time to buy?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-wipes-off-rs-25000-cr-worth-investor-wealth-in-under-a-month-time-to-buy/articleshow/132230375.cms",
           "source": "Markets-Economic Times",
-          "score": 0.691
+          "score": 0.625
+        },
+        {
+          "title": "Cult.fit IPO: Fitness company files draft IPO papers to raise Rs 950 crore via fresh issue",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/cult-fit-ipo-fitness-company-files-draft-ipo-papers-to-raise-rs-950-crore-via-fresh-issue/articleshow/132231549.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.527
+        },
+        {
+          "title": "Bitcoin climbs over $63,000 as buying interest returns; key on-chain metric signals market stabilization",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-climbs-over-63000-as-buying-interest-returns-key-on-chain-metric-signals-market-stabilization/articleshow/132230728.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.459
         }
       ],
       "negative": [
         {
-          "title": "Midcap stocks ignore Middle East war, AI worries to jump up to 85% in 2026. More rally or sharp correction ahead?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/midcap-stocks-ignore-middle-east-war-ai-worries-to-jump-up-to-85-in-2026-more-rally-or-sharp-correction-ahead/articleshow/132209109.cms",
+          "title": "India bond rally pauses ahead of state debt sale",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bond-rally-pauses-ahead-of-state-debt-sale/articleshow/132231287.cms",
           "source": "Markets-Economic Times",
-          "score": -0.848
+          "score": -0.361
+        },
+        {
+          "title": "Vedanta Iron and Steel, Vedanta Aluminium, 2 other stocks drop up to 5%. What\u2019s spooking investors?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-iron-and-steel-vedanta-aluminium-2-other-stocks-drop-up-to-5-whats-spooking-investors/articleshow/132230470.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.273
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.057,
+      "avg_score": 0.036,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -57,16 +63,16 @@
           "score": 0.637
         },
         {
-          "title": "EasyJet reaches 'agreement in principle' over potential takeover",
-          "link": "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.527
-        },
-        {
           "title": "Ford achieves quality milestone, as CEO targets flawless new vehicle launches",
           "link": "https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html",
           "source": "Business News",
           "score": 0.511
+        },
+        {
+          "title": "Samsung profits jump 1,800% as AI chip sales soar",
+          "link": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.44
         },
         {
           "title": "Sandwich chain Jersey Mike's files for IPO, reports 50% same-store sales growth in recent years",
@@ -75,13 +81,19 @@
           "score": 0.382
         },
         {
-          "title": "High-end camping and a capital raise: AutoCamp is banking on summer travel to fuel growth",
-          "link": "https://www.cnbc.com/2026/07/02/autocamp-high-end-camping-summer-travel-capital-raise.html",
+          "title": "Stock market gains minted nearly 1 million new millionaires in 2025, new UBS report says",
+          "link": "https://www.cnbc.com/2026/07/02/stock-market-gains-new-millionaires-ubs.html",
           "source": "Business News",
-          "score": 0.382
+          "score": 0.34
         }
       ],
       "negative": [
+        {
+          "title": "Banks accused of failing most vulnerable customers",
+          "link": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.771
+        },
         {
           "title": "American Express and Chase move luxury lounge wars beyond the airport",
           "link": "https://www.cnbc.com/2026/07/03/amex-chase-credit-card-lounges.html",
@@ -95,21 +107,15 @@
           "score": -0.494
         },
         {
-          "title": "Wegovy weight loss pill now available in UK - here's what you need to know",
-          "link": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.318
-        },
-        {
-          "title": "Three things you can do to stop EU border checks at the airport costing you",
-          "link": "https://www.bbc.co.uk/news/articles/cg4w39gvdw1o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.296
-        },
-        {
           "title": "Rivian raises 2026 delivery outlook while Lucid misses Wall Street expectations for second quarter",
           "link": "https://www.cnbc.com/2026/07/02/rivian-lucid-q2-deliveries-demand.html",
           "source": "Business News",
+          "score": -0.226
+        },
+        {
+          "title": "'I wear it on my middle finger': The rise of the defiant divorce ring",
+          "link": "https://www.bbc.co.uk/news/articles/c3wy56v4ge6o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
           "score": -0.226
         }
       ],
