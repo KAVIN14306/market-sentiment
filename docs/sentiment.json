@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-07-07T06:16:20.287433Z",
+  "generated_at": "2026-07-08T05:28:55.961844Z",
   "regions": {
     "india": {
-      "avg_score": 0.166,
-      "mood": "Positive",
+      "avg_score": 0.105,
+      "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-          "source": "Moneycontrol Market Reports",
-          "score": 0.869
-        },
-        {
-          "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-          "source": "Moneycontrol Market Reports",
-          "score": 0.7
-        },
-        {
-          "title": "Vedanta Aluminium wipes off Rs 25,000 cr worth investor wealth in under a month. Time to buy?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-wipes-off-rs-25000-cr-worth-investor-wealth-in-under-a-month-time-to-buy/articleshow/132230375.cms",
+          "title": "RCF shares jump 3% after board approves Rs 1,500 crore FPO",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rcf-shares-jump-3-after-board-approves-rs-1500-crore-fpo/articleshow/132254062.cms",
           "source": "Markets-Economic Times",
-          "score": 0.625
+          "score": 0.599
         },
         {
-          "title": "Cult.fit IPO: Fitness company files draft IPO papers to raise Rs 950 crore via fresh issue",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/cult-fit-ipo-fitness-company-files-draft-ipo-papers-to-raise-rs-950-crore-via-fresh-issue/articleshow/132231549.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.527
-        },
-        {
-          "title": "Bitcoin climbs over $63,000 as buying interest returns; key on-chain metric signals market stabilization",
-          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-climbs-over-63000-as-buying-interest-returns-key-on-chain-metric-signals-market-stabilization/articleshow/132230728.cms",
+          "title": "Trent among 5 F&amp;O stocks with a sharp rise in futures open interest",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/trent-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/132253348.cms",
           "source": "Markets-Economic Times",
           "score": 0.459
+        },
+        {
+          "title": "Airtel to Trent: 44 stocks likely to report double-digit profit slump in Q1. Are your stocks on the list?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/airtel-to-trent-44-stocks-likely-to-report-double-digit-profit-slump-in-q1-are-your-stocks-on-the-list/articleshow/132253779.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.44
+        },
+        {
+          "title": "Are bluechip stocks cheap and safe to invest in now? Radhika Gupta explains why the answer isn't so simple",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/are-bluechip-stocks-cheap-and-safe-to-invest-in-now-radhika-gupta-explains-why-the-answer-isnt-so-simple/articleshow/132253411.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.44
+        },
+        {
+          "title": "Info Edge shares rally 19% in 2 days after Q1 update. Here\u2019s what Nomura, Goldman Sachs, other brokerages say",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/info-edge-shares-rally-19-in-2-days-after-q1-update-heres-what-nomura-goldman-sachs-other-brokerages-say/articleshow/132253998.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.296
         }
       ],
       "negative": [
         {
-          "title": "India bond rally pauses ahead of state debt sale",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bond-rally-pauses-ahead-of-state-debt-sale/articleshow/132231287.cms",
+          "title": "IndiGo, HPCL, other oil sensitive stocks plunge up to 5% as US strikes on Iran lift crude prices",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-hpcl-other-oil-sensitive-stocks-plunge-up-to-5-as-us-strikes-on-iran-lifts-crude-prices/articleshow/132253542.cms",
           "source": "Markets-Economic Times",
-          "score": -0.361
+          "score": -0.735
         },
         {
-          "title": "Vedanta Iron and Steel, Vedanta Aluminium, 2 other stocks drop up to 5%. What\u2019s spooking investors?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-iron-and-steel-vedanta-aluminium-2-other-stocks-drop-up-to-5-whats-spooking-investors/articleshow/132230470.cms",
+          "title": "Global Market: Samsung, SK Hynix rebound as bargain buying offsets AI chip selloff fears",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-samsung-sk-hynix-rebound-as-bargain-buying-offsets-ai-chip-selloff-fears/articleshow/132253789.cms",
           "source": "Markets-Economic Times",
-          "score": -0.273
+          "score": -0.25
         }
       ],
-      "sample_size": 19
+      "sample_size": 15
     },
     "world": {
-      "avg_score": 0.036,
+      "avg_score": 0.059,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -69,10 +69,10 @@
           "score": 0.511
         },
         {
-          "title": "Samsung profits jump 1,800% as AI chip sales soar",
-          "link": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.44
+          "title": "Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights; package could reach $2 billion",
+          "link": "https://www.cnbc.com/2026/07/07/fifa-world-cup-media-rights-netflix-disney-youtube.html",
+          "source": "Business News",
+          "score": 0.421
         },
         {
           "title": "Sandwich chain Jersey Mike's files for IPO, reports 50% same-store sales growth in recent years",
@@ -81,19 +81,13 @@
           "score": 0.382
         },
         {
-          "title": "Stock market gains minted nearly 1 million new millionaires in 2025, new UBS report says",
-          "link": "https://www.cnbc.com/2026/07/02/stock-market-gains-new-millionaires-ubs.html",
-          "source": "Business News",
-          "score": 0.34
+          "title": "Package holidays to Dubai and Egypt cheaper as European prices creep up",
+          "link": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.382
         }
       ],
       "negative": [
-        {
-          "title": "Banks accused of failing most vulnerable customers",
-          "link": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.771
-        },
         {
           "title": "American Express and Chase move luxury lounge wars beyond the airport",
           "link": "https://www.cnbc.com/2026/07/03/amex-chase-credit-card-lounges.html",
@@ -107,16 +101,16 @@
           "score": -0.494
         },
         {
-          "title": "Rivian raises 2026 delivery outlook while Lucid misses Wall Street expectations for second quarter",
-          "link": "https://www.cnbc.com/2026/07/02/rivian-lucid-q2-deliveries-demand.html",
-          "source": "Business News",
-          "score": -0.226
+          "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
+          "link": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.494
         },
         {
-          "title": "'I wear it on my middle finger': The rise of the defiant divorce ring",
-          "link": "https://www.bbc.co.uk/news/articles/c3wy56v4ge6o?at_medium=RSS&at_campaign=rss",
+          "title": "Victims of 23andMe data breach to get $47m payout, judge rules",
+          "link": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.226
+          "score": -0.318
         }
       ],
       "sample_size": 20
