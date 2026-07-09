@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-07-08T05:28:55.961844Z",
+  "generated_at": "2026-07-09T06:12:59.965171Z",
   "regions": {
     "india": {
-      "avg_score": 0.105,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.18,
+      "mood": "Positive",
       "positive": [
         {
-          "title": "RCF shares jump 3% after board approves Rs 1,500 crore FPO",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rcf-shares-jump-3-after-board-approves-rs-1500-crore-fpo/articleshow/132254062.cms",
+          "title": "Bitcoin falls close to $62,000 as geopolitical risks weigh, $143 million ETF inflows offer support",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-falls-close-to-62000-as-geopolitical-risks-weigh-143-million-etf-inflows-offer-support/articleshow/132278304.cms",
           "source": "Markets-Economic Times",
-          "score": 0.599
+          "score": 0.7
         },
         {
-          "title": "Trent among 5 F&amp;O stocks with a sharp rise in futures open interest",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/trent-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/132253348.cms",
+          "title": "Dixon Tech, Syrma SGS, Amber shares surge up to 6%.  What does customs duty relief mean?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-syrma-sgs-amber-shares-surge-up-to-6-what-does-customs-duty-relief-mean/articleshow/132277651.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.649
+        },
+        {
+          "title": "Kalyan Jewellers shares jump 9%, extend two-day rally to over 15% after robust Q1 business update",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kalyan-jewellers-shares-jump-9-extend-two-day-rally-to-over-15-after-robust-q1-business-update/articleshow/132277444.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.649
+        },
+        {
+          "title": "Cochin Shipyard among 5 F&amp;O stocks with a sharp rise in futures open interest",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cochin-shipyard-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/132276995.cms",
           "source": "Markets-Economic Times",
           "score": 0.459
         },
         {
-          "title": "Airtel to Trent: 44 stocks likely to report double-digit profit slump in Q1. Are your stocks on the list?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/airtel-to-trent-44-stocks-likely-to-report-double-digit-profit-slump-in-q1-are-your-stocks-on-the-list/articleshow/132253779.cms",
+          "title": "Sensex jumps over 600 points, Nifty reclaims 24,000. 5 key factors behind today's sharp D-Street rebound",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-450-points-nifty-above-24000-after-yesterdays-massive-bear-attack-what-lies-ahead/articleshow/132276575.cms",
           "source": "Markets-Economic Times",
-          "score": 0.44
-        },
-        {
-          "title": "Are bluechip stocks cheap and safe to invest in now? Radhika Gupta explains why the answer isn't so simple",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/are-bluechip-stocks-cheap-and-safe-to-invest-in-now-radhika-gupta-explains-why-the-answer-isnt-so-simple/articleshow/132253411.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.44
-        },
-        {
-          "title": "Info Edge shares rally 19% in 2 days after Q1 update. Here\u2019s what Nomura, Goldman Sachs, other brokerages say",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/info-edge-shares-rally-19-in-2-days-after-q1-update-heres-what-nomura-goldman-sachs-other-brokerages-say/articleshow/132253998.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.296
+          "score": 0.402
         }
       ],
       "negative": [
         {
-          "title": "IndiGo, HPCL, other oil sensitive stocks plunge up to 5% as US strikes on Iran lift crude prices",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-hpcl-other-oil-sensitive-stocks-plunge-up-to-5-as-us-strikes-on-iran-lifts-crude-prices/articleshow/132253542.cms",
+          "title": "Gold prices fall to Rs 1.43 lakh/10 grams, silver dips Rs 15,000 in 4 days as Iran war raises inflation worries. Time to exit?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/gold-prices-fall-to-rs-1-43-lakh/10-grams-silver-dips-rs-15000-in-4-days-as-iran-war-raises-inflation-worries-time-to-exit/articleshow/132276853.cms",
           "source": "Markets-Economic Times",
-          "score": -0.735
+          "score": -0.772
         },
         {
-          "title": "Global Market: Samsung, SK Hynix rebound as bargain buying offsets AI chip selloff fears",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-samsung-sk-hynix-rebound-as-bargain-buying-offsets-ai-chip-selloff-fears/articleshow/132253789.cms",
+          "title": "TCS, Infosys crash up to 55%: Why India's largest mutual fund scheme is still buying",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-crash-up-to-55-why-indias-largest-mutual-fund-scheme-is-still-buying/articleshow/132276602.cms",
           "source": "Markets-Economic Times",
-          "score": -0.25
+          "score": -0.402
         }
       ],
       "sample_size": 15
     },
     "world": {
-      "avg_score": 0.059,
+      "avg_score": 0.018,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -75,19 +75,25 @@
           "score": 0.421
         },
         {
-          "title": "Sandwich chain Jersey Mike's files for IPO, reports 50% same-store sales growth in recent years",
-          "link": "https://www.cnbc.com/2026/07/02/jersey-mikes-files-for-ipo.html",
+          "title": "Manhattan luxury real estate sales hold firm despite fears of a 'Mamdani effect'",
+          "link": "https://www.cnbc.com/2026/07/03/manhattan-luxury-real-estate-sales-mamdani.html",
           "source": "Business News",
-          "score": 0.382
+          "score": 0.325
         },
         {
-          "title": "Package holidays to Dubai and Egypt cheaper as European prices creep up",
-          "link": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.382
+          "title": "Rivian stock falls 18% as company sells 75 million shares to raise capital",
+          "link": "https://www.cnbc.com/2026/07/07/rivian-stock-rivn-capital-raise.html",
+          "source": "Business News",
+          "score": 0.296
         }
       ],
       "negative": [
+        {
+          "title": "Used EVs keep getting more expensive amid Iran war, high gas prices",
+          "link": "https://www.cnbc.com/2026/07/08/used-ev-prices-gas-war.html",
+          "source": "Business News",
+          "score": -0.599
+        },
         {
           "title": "American Express and Chase move luxury lounge wars beyond the airport",
           "link": "https://www.cnbc.com/2026/07/03/amex-chase-credit-card-lounges.html",
@@ -95,22 +101,16 @@
           "score": -0.557
         },
         {
-          "title": "Ford Q2 sales drop 10.3% due to F-Series supplier issue, falling EV demand",
-          "link": "https://www.cnbc.com/2026/07/02/ford-q2-sales.html",
-          "source": "Business News",
-          "score": -0.494
+          "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
+          "link": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.516
         },
         {
-          "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
-          "link": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
+          "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
+          "link": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.494
-        },
-        {
-          "title": "Victims of 23andMe data breach to get $47m payout, judge rules",
-          "link": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.318
+          "score": -0.25
         }
       ],
       "sample_size": 20
