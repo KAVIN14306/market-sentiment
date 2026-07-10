@@ -1,72 +1,59 @@
 {
-  "generated_at": "2026-07-09T06:12:59.965171Z",
+  "generated_at": "2026-07-10T06:12:06.472945Z",
   "regions": {
     "india": {
-      "avg_score": 0.18,
+      "avg_score": 0.299,
       "mood": "Positive",
       "positive": [
         {
-          "title": "Bitcoin falls close to $62,000 as geopolitical risks weigh, $143 million ETF inflows offer support",
-          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-falls-close-to-62000-as-geopolitical-risks-weigh-143-million-etf-inflows-offer-support/articleshow/132278304.cms",
+          "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+          "source": "Moneycontrol Market Reports",
+          "score": 0.869
+        },
+        {
+          "title": "US Stock Market: Treasury yields ease as investors buy bonds after selloff; strong auction boosts sentiment",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-treasury-yields-ease-as-investors-buy-bonds-after-selloff-strong-auction-boosts-sentiment/articleshow/132303499.cms",
           "source": "Markets-Economic Times",
+          "score": 0.836
+        },
+        {
+          "title": "Rs 5 lakh crore wealth boost! Top 5 factors fuelling today's 800-point Sensex rally",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-jumps-over-700-points-nifty-above-24100-5-key-factors-behind-todays-d-st-rally/articleshow/132302461.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.79
+        },
+        {
+          "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+          "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Dixon Tech, Syrma SGS, Amber shares surge up to 6%.  What does customs duty relief mean?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-syrma-sgs-amber-shares-surge-up-to-6-what-does-customs-duty-relief-mean/articleshow/132277651.cms",
+          "title": "Dr. Reddy's Lab among 4 F&amp;O stocks that saw a high increase in futures open interest",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dr-reddys-lab-among-4-fampo-stocks-that-saw-a-high-increase-in-futures-open-interest/slideshow/132303201.cms",
           "source": "Markets-Economic Times",
           "score": 0.649
-        },
-        {
-          "title": "Kalyan Jewellers shares jump 9%, extend two-day rally to over 15% after robust Q1 business update",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kalyan-jewellers-shares-jump-9-extend-two-day-rally-to-over-15-after-robust-q1-business-update/articleshow/132277444.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.649
-        },
-        {
-          "title": "Cochin Shipyard among 5 F&amp;O stocks with a sharp rise in futures open interest",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cochin-shipyard-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/132276995.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.459
-        },
-        {
-          "title": "Sensex jumps over 600 points, Nifty reclaims 24,000. 5 key factors behind today's sharp D-Street rebound",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-450-points-nifty-above-24000-after-yesterdays-massive-bear-attack-what-lies-ahead/articleshow/132276575.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.402
         }
       ],
-      "negative": [
-        {
-          "title": "Gold prices fall to Rs 1.43 lakh/10 grams, silver dips Rs 15,000 in 4 days as Iran war raises inflation worries. Time to exit?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/gold-prices-fall-to-rs-1-43-lakh/10-grams-silver-dips-rs-15000-in-4-days-as-iran-war-raises-inflation-worries-time-to-exit/articleshow/132276853.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.772
-        },
-        {
-          "title": "TCS, Infosys crash up to 55%: Why India's largest mutual fund scheme is still buying",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-crash-up-to-55-why-indias-largest-mutual-fund-scheme-is-still-buying/articleshow/132276602.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.402
-        }
-      ],
-      "sample_size": 15
+      "negative": [],
+      "sample_size": 19
     },
     "world": {
-      "avg_score": 0.018,
+      "avg_score": 0.078,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "Trump\u2019s Freedom 250 draws corporate sponsors with business before his administration",
-          "link": "https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html",
+          "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
+          "link": "https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html",
           "source": "Business News",
-          "score": 0.637
+          "score": 0.735
         },
         {
-          "title": "Ford achieves quality milestone, as CEO targets flawless new vehicle launches",
-          "link": "https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html",
-          "source": "Business News",
-          "score": 0.511
+          "title": "We saved \u00a36,000 on holidays by swapping homes with strangers",
+          "link": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.66
         },
         {
           "title": "Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights; package could reach $2 billion",
@@ -75,10 +62,10 @@
           "score": 0.421
         },
         {
-          "title": "Manhattan luxury real estate sales hold firm despite fears of a 'Mamdani effect'",
-          "link": "https://www.cnbc.com/2026/07/03/manhattan-luxury-real-estate-sales-mamdani.html",
-          "source": "Business News",
-          "score": 0.325
+          "title": "Vapes to have less enticing names to protect children, under UK plans",
+          "link": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.382
         },
         {
           "title": "Rivian stock falls 18% as company sells 75 million shares to raise capital",
@@ -95,22 +82,22 @@
           "score": -0.599
         },
         {
-          "title": "American Express and Chase move luxury lounge wars beyond the airport",
-          "link": "https://www.cnbc.com/2026/07/03/amex-chase-credit-card-lounges.html",
+          "title": "June home sales disappoint as prices reach an all-time high",
+          "link": "https://www.cnbc.com/2026/07/09/june-home-sales-prices.html",
           "source": "Business News",
-          "score": -0.557
+          "score": -0.382
         },
         {
-          "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
-          "link": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
+          "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
+          "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.516
+          "score": -0.202
         },
         {
-          "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
-          "link": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.25
+          "title": "PepsiCo earnings miss estimates as U.S. consumers tighten their budgets",
+          "link": "https://www.cnbc.com/2026/07/09/pepsico-pep-q2-2026-earnings.html",
+          "source": "Business News",
+          "score": -0.153
         }
       ],
       "sample_size": 20
