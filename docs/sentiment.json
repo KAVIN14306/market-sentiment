@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10T06:12:06.472945Z",
+  "generated_at": "2026-07-11T05:19:49.245939Z",
   "regions": {
     "india": {
-      "avg_score": 0.299,
+      "avg_score": 0.184,
       "mood": "Positive",
       "positive": [
         {
@@ -12,16 +12,10 @@
           "score": 0.869
         },
         {
-          "title": "US Stock Market: Treasury yields ease as investors buy bonds after selloff; strong auction boosts sentiment",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-treasury-yields-ease-as-investors-buy-bonds-after-selloff-strong-auction-boosts-sentiment/articleshow/132303499.cms",
+          "title": "SK Hynix shares jump in marquee US debut as AI euphoria persists",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-shares-jump-in-marquee-us-debut-as-ai-euphoria-persists/articleshow/132324183.cms",
           "source": "Markets-Economic Times",
-          "score": 0.836
-        },
-        {
-          "title": "Rs 5 lakh crore wealth boost! Top 5 factors fuelling today's 800-point Sensex rally",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-jumps-over-700-points-nifty-above-24100-5-key-factors-behind-todays-d-st-rally/articleshow/132302461.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.79
+          "score": 0.758
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -30,17 +24,36 @@
           "score": 0.7
         },
         {
-          "title": "Dr. Reddy's Lab among 4 F&amp;O stocks that saw a high increase in futures open interest",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dr-reddys-lab-among-4-fampo-stocks-that-saw-a-high-increase-in-futures-open-interest/slideshow/132303201.cms",
+          "title": "Korea\u2019s SK Hynix shares make stellar US market debut, rocket 13% on continued AI optimism",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-sk-hynix-shares-make-stellar-us-market-debut-rocket-13-on-continued-ai-optimism/articleshow/132324857.cms",
           "source": "Markets-Economic Times",
-          "score": 0.649
+          "score": 0.691
+        },
+        {
+          "title": "Will Google be Berkshire CEO Greg Abel's best stock pick after predecessor Warren Buffett's Apple bet?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-google-be-berkshire-ceo-greg-abels-best-stock-pick-after-predecessor-warren-buffetts-apple-bet/articleshow/132324438.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.637
         }
       ],
-      "negative": [],
+      "negative": [
+        {
+          "title": "Indian Bank drops capital raising plan on lower ECL hit",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-drops-capital-raising-plan-on-lower-ecl-hit/articleshow/132318232.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.296
+        },
+        {
+          "title": "Fed officials fret over inflation risk, weigh rate hikes",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-officials-fret-over-inflation-risk-weigh-rate-hikes/articleshow/132324219.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.273
+        }
+      ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.078,
+      "avg_score": 0.07,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -50,28 +63,28 @@
           "score": 0.735
         },
         {
-          "title": "We saved \u00a36,000 on holidays by swapping homes with strangers",
-          "link": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
+          "title": "Private chef salaries reach $300,000 as the rich seek their own Michelin stars",
+          "link": "https://www.cnbc.com/2026/07/10/private-chef-salaries.html",
+          "source": "Business News",
+          "score": 0.572
+        },
+        {
+          "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says",
+          "link": "https://www.cnbc.com/2026/07/10/delta-air-lines-dal-q2-2026-earnings.html",
+          "source": "Business News",
+          "score": 0.459
+        },
+        {
+          "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
+          "link": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": 0.66
+          "score": 0.44
         },
         {
           "title": "Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights; package could reach $2 billion",
           "link": "https://www.cnbc.com/2026/07/07/fifa-world-cup-media-rights-netflix-disney-youtube.html",
           "source": "Business News",
           "score": 0.421
-        },
-        {
-          "title": "Vapes to have less enticing names to protect children, under UK plans",
-          "link": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.382
-        },
-        {
-          "title": "Rivian stock falls 18% as company sells 75 million shares to raise capital",
-          "link": "https://www.cnbc.com/2026/07/07/rivian-stock-rivn-capital-raise.html",
-          "source": "Business News",
-          "score": 0.296
         }
       ],
       "negative": [
@@ -80,6 +93,12 @@
           "link": "https://www.cnbc.com/2026/07/08/used-ev-prices-gas-war.html",
           "source": "Business News",
           "score": -0.599
+        },
+        {
+          "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+          "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.459
         },
         {
           "title": "June home sales disappoint as prices reach an all-time high",
