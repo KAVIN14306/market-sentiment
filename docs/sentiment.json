@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-11T05:19:49.245939Z",
+  "generated_at": "2026-07-12T05:35:33.382212Z",
   "regions": {
     "india": {
-      "avg_score": 0.184,
+      "avg_score": 0.183,
       "mood": "Positive",
       "positive": [
         {
@@ -12,10 +12,16 @@
           "score": 0.869
         },
         {
-          "title": "SK Hynix shares jump in marquee US debut as AI euphoria persists",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-shares-jump-in-marquee-us-debut-as-ai-euphoria-persists/articleshow/132324183.cms",
+          "title": "George Goodman\u2019s investing wisdom: Why sometimes the best move is to do nothing",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/george-goodmans-investing-wisdom-why-sometimes-the-best-move-is-to-do-nothing/articleshow/132327422.cms",
           "source": "Markets-Economic Times",
-          "score": 0.758
+          "score": 0.823
+        },
+        {
+          "title": "Will Nifty, Sensex extend gains on Monday? Q1, oil among 5 major factors investors must track",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-extend-gains-on-monday-q1-oil-among-5-major-factors-investors-must-track/articleshow/132340394.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.7
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -24,36 +30,24 @@
           "score": 0.7
         },
         {
-          "title": "Korea\u2019s SK Hynix shares make stellar US market debut, rocket 13% on continued AI optimism",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-sk-hynix-shares-make-stellar-us-market-debut-rocket-13-on-continued-ai-optimism/articleshow/132324857.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.691
-        },
-        {
-          "title": "Will Google be Berkshire CEO Greg Abel's best stock pick after predecessor Warren Buffett's Apple bet?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-google-be-berkshire-ceo-greg-abels-best-stock-pick-after-predecessor-warren-buffetts-apple-bet/articleshow/132324438.cms",
+          "title": "HDFC Bank, HCL Tech among 143 companies to announce earnings this week",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-hcl-tech-among-143-companies-to-announce-earnings-this-week/articleshow/132340559.cms",
           "source": "Markets-Economic Times",
           "score": 0.637
         }
       ],
       "negative": [
         {
-          "title": "Indian Bank drops capital raising plan on lower ECL hit",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-drops-capital-raising-plan-on-lower-ecl-hit/articleshow/132318232.cms",
+          "title": "12 penny stocks plunge up to 80% in 6 months. Are you affected?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/12-penny-stocks-plunge-up-to-80-in-6-months-are-you-affected/slideshow/132340545.cms",
           "source": "Markets-Economic Times",
-          "score": -0.296
-        },
-        {
-          "title": "Fed officials fret over inflation risk, weigh rate hikes",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-officials-fret-over-inflation-risk-weigh-rate-hikes/articleshow/132324219.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.273
+          "score": -0.153
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.07,
+      "avg_score": 0.084,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -93,12 +87,6 @@
           "link": "https://www.cnbc.com/2026/07/08/used-ev-prices-gas-war.html",
           "source": "Business News",
           "score": -0.599
-        },
-        {
-          "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-          "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.459
         },
         {
           "title": "June home sales disappoint as prices reach an all-time high",
