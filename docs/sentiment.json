@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-12T05:35:33.382212Z",
+  "generated_at": "2026-07-13T05:45:54.795202Z",
   "regions": {
     "india": {
-      "avg_score": 0.183,
+      "avg_score": 0.25,
       "mood": "Positive",
       "positive": [
         {
@@ -12,42 +12,48 @@
           "score": 0.869
         },
         {
-          "title": "George Goodman\u2019s investing wisdom: Why sometimes the best move is to do nothing",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/george-goodmans-investing-wisdom-why-sometimes-the-best-move-is-to-do-nothing/articleshow/132327422.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.823
-        },
-        {
-          "title": "Will Nifty, Sensex extend gains on Monday? Q1, oil among 5 major factors investors must track",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-extend-gains-on-monday-q1-oil-among-5-major-factors-investors-must-track/articleshow/132340394.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.7
-        },
-        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "HDFC Bank, HCL Tech among 143 companies to announce earnings this week",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-hcl-tech-among-143-companies-to-announce-earnings-this-week/articleshow/132340559.cms",
+          "title": "TCS shares jump 3%, extend gains to day two after Q1 earnings. Should you buy, sell or hold?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-jump-3-extend-gains-to-day-two-after-q1-earnings-should-you-buy-sell-or-hold/articleshow/132357763.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.649
+        },
+        {
+          "title": "Exclusive | Motilal Oswal opens up on succession, 10X profit goal and his 39-year partnership with Raamdeo Agrawal",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/exclusive-motilal-oswal-opens-up-on-succession-10x-profit-goal-and-his-39-year-partnership-with-raamdeo-agrawal/articleshow/132356427.cms",
           "source": "Markets-Economic Times",
           "score": 0.637
+        },
+        {
+          "title": "Avantel shares jump 10% after Q1 profit surges 67% YoY, revenue climbs 36%",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/avantel-shares-jump-10-after-q1-profit-surges-67-yoy-revenue-climbs-36/articleshow/132356885.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.625
         }
       ],
       "negative": [
         {
-          "title": "12 penny stocks plunge up to 80% in 6 months. Are you affected?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/12-penny-stocks-plunge-up-to-80-in-6-months-are-you-affected/slideshow/132340545.cms",
+          "title": "Global Market:  SK Hynix warns of historic memory chip shortage by 2027 as AI demand soars",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-sk-hynix-warns-of-historic-memory-chip-shortage-by-2027-as-ai-demand-soars/articleshow/132357699.cms",
           "source": "Markets-Economic Times",
-          "score": -0.153
+          "score": -0.44
+        },
+        {
+          "title": "US Stock Market: Wall Street braces for pivotal week as earnings, inflation data and Middle East tensions come into focus",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-wall-street-braces-for-pivotal-week-as-earnings-inflation-data-and-middle-east-tensions-come-into-focus/articleshow/132357231.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.402
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.084,
+      "avg_score": 0.102,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -57,31 +63,37 @@
           "score": 0.735
         },
         {
+          "title": "Why switching to save money is easier than you might think",
+          "link": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.718
+        },
+        {
           "title": "Private chef salaries reach $300,000 as the rich seek their own Michelin stars",
           "link": "https://www.cnbc.com/2026/07/10/private-chef-salaries.html",
           "source": "Business News",
           "score": 0.572
         },
         {
+          "title": "The SpaceX IPO made history. Is the excitement still there?",
+          "link": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.494
+        },
+        {
           "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says",
           "link": "https://www.cnbc.com/2026/07/10/delta-air-lines-dal-q2-2026-earnings.html",
           "source": "Business News",
           "score": 0.459
-        },
-        {
-          "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
-          "link": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.44
-        },
-        {
-          "title": "Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights; package could reach $2 billion",
-          "link": "https://www.cnbc.com/2026/07/07/fifa-world-cup-media-rights-netflix-disney-youtube.html",
-          "source": "Business News",
-          "score": 0.421
         }
       ],
       "negative": [
+        {
+          "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
+          "link": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.625
+        },
         {
           "title": "Used EVs keep getting more expensive amid Iran war, high gas prices",
           "link": "https://www.cnbc.com/2026/07/08/used-ev-prices-gas-war.html",
@@ -93,12 +105,6 @@
           "link": "https://www.cnbc.com/2026/07/09/june-home-sales-prices.html",
           "source": "Business News",
           "score": -0.382
-        },
-        {
-          "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
-          "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.202
         },
         {
           "title": "PepsiCo earnings miss estimates as U.S. consumers tighten their budgets",
