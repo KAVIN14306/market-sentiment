@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-13T05:45:54.795202Z",
+  "generated_at": "2026-07-14T05:07:15.469366Z",
   "regions": {
     "india": {
-      "avg_score": 0.25,
+      "avg_score": 0.205,
       "mood": "Positive",
       "positive": [
         {
@@ -12,48 +12,60 @@
           "score": 0.869
         },
         {
+          "title": "ICICI Prudential AMC shares gain 2% after Q1 net profit rises 23% to Rs 965 crore. Here\u2019s what brokerages say",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/icici-prudential-amc-shares-in-focus-after-q1-net-profit-rises-23-to-rs-965-crore-heres-what-brokerages-say/articleshow/132380561.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.818
+        },
+        {
+          "title": "Nuvoco Vistas shares rocket 14% after Q1 net profit jumps 20%; firm reports strongest EBITDA ever",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nuvoco-vistas-shares-rocket-14-after-q1-net-profit-jumps-20-firm-reports-strongest-ebitda-ever/articleshow/132381134.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.791
+        },
+        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "TCS shares jump 3%, extend gains to day two after Q1 earnings. Should you buy, sell or hold?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-jump-3-extend-gains-to-day-two-after-q1-earnings-should-you-buy-sell-or-hold/articleshow/132357763.cms",
+          "title": "Q1 Showdown: Analysts pick top bets as ICICI Bank, HDFC, Axis, Kotak, Yes Bank gear up for results this week",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/q1-showdown-analysts-pick-top-bets-as-icici-bank-hdfc-axis-kotak-yes-bank-gear-up-for-results-this-week/articleshow/132380504.cms",
           "source": "Markets-Economic Times",
-          "score": 0.649
-        },
-        {
-          "title": "Exclusive | Motilal Oswal opens up on succession, 10X profit goal and his 39-year partnership with Raamdeo Agrawal",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/exclusive-motilal-oswal-opens-up-on-succession-10x-profit-goal-and-his-39-year-partnership-with-raamdeo-agrawal/articleshow/132356427.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.637
-        },
-        {
-          "title": "Avantel shares jump 10% after Q1 profit surges 67% YoY, revenue climbs 36%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/avantel-shares-jump-10-after-q1-profit-surges-67-yoy-revenue-climbs-36/articleshow/132356885.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.625
+          "score": 0.542
         }
       ],
       "negative": [
         {
-          "title": "Global Market:  SK Hynix warns of historic memory chip shortage by 2027 as AI demand soars",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-sk-hynix-warns-of-historic-memory-chip-shortage-by-2027-as-ai-demand-soars/articleshow/132357699.cms",
+          "title": "Gold prices snap 2-day fall, silver at Rs 2.18 lakh/kg despite rising oil prices, rate hike fears. Key levels to watch today",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-snap-2-day-fall-silver-at-rs-2-18-lakh/kg-despite-rising-oil-prices-rate-hike-fears-key-levels-to-watch-today/articleshow/132380620.cms",
           "source": "Markets-Economic Times",
-          "score": -0.44
+          "score": -0.421
         },
         {
-          "title": "US Stock Market: Wall Street braces for pivotal week as earnings, inflation data and Middle East tensions come into focus",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-wall-street-braces-for-pivotal-week-as-earnings-inflation-data-and-middle-east-tensions-come-into-focus/articleshow/132357231.cms",
+          "title": "Rupee drops past 96 per dollar as oil prices climb on renewed US-Iran tensions",
+          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-drops-past-96-per-dollar-as-oil-prices-climb-on-renewed-us-iran-tensions/articleshow/132380415.cms",
           "source": "Markets-Economic Times",
           "score": -0.402
+        },
+        {
+          "title": "Sensex falls 500 points, Nifty slips below 24,100 as US-Iran conflict escalates. What lies ahead?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-500-points-nifty-slips-below-24100-as-us-iran-conflict-escalates-what-lies-ahead/articleshow/132380455.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.34
+        },
+        {
+          "title": "South Korea's Kospi crashes 5% again, plunges 31% in one month. Is the AI frenzy over?",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-koreas-kospi-crashes-5-again-plunges-31-in-one-month-is-the-ai-frenzy-over/articleshow/132381048.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.318
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.102,
+      "avg_score": -0.024,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -63,37 +75,25 @@
           "score": 0.735
         },
         {
-          "title": "Why switching to save money is easier than you might think",
-          "link": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.718
-        },
-        {
           "title": "Private chef salaries reach $300,000 as the rich seek their own Michelin stars",
           "link": "https://www.cnbc.com/2026/07/10/private-chef-salaries.html",
           "source": "Business News",
           "score": 0.572
         },
         {
-          "title": "The SpaceX IPO made history. Is the excitement still there?",
-          "link": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.494
-        },
-        {
           "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says",
           "link": "https://www.cnbc.com/2026/07/10/delta-air-lines-dal-q2-2026-earnings.html",
           "source": "Business News",
           "score": 0.459
+        },
+        {
+          "title": "Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights; package could reach $2 billion",
+          "link": "https://www.cnbc.com/2026/07/07/fifa-world-cup-media-rights-netflix-disney-youtube.html",
+          "source": "Business News",
+          "score": 0.421
         }
       ],
       "negative": [
-        {
-          "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
-          "link": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.625
-        },
         {
           "title": "Used EVs keep getting more expensive amid Iran war, high gas prices",
           "link": "https://www.cnbc.com/2026/07/08/used-ev-prices-gas-war.html",
@@ -101,16 +101,28 @@
           "score": -0.599
         },
         {
+          "title": "Paramount, WBD hit with lawsuit from 12 states, including California, to block merger",
+          "link": "https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html",
+          "source": "Business News",
+          "score": -0.586
+        },
+        {
+          "title": "California leads lawsuit to block Paramount Warner Bros mega merger",
+          "link": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.586
+        },
+        {
+          "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
+          "link": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
+          "source": "Business News",
+          "score": -0.44
+        },
+        {
           "title": "June home sales disappoint as prices reach an all-time high",
           "link": "https://www.cnbc.com/2026/07/09/june-home-sales-prices.html",
           "source": "Business News",
           "score": -0.382
-        },
-        {
-          "title": "PepsiCo earnings miss estimates as U.S. consumers tighten their budgets",
-          "link": "https://www.cnbc.com/2026/07/09/pepsico-pep-q2-2026-earnings.html",
-          "source": "Business News",
-          "score": -0.153
         }
       ],
       "sample_size": 20
