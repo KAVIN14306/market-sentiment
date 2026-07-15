@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14T05:07:15.469366Z",
+  "generated_at": "2026-07-15T05:07:35.235281Z",
   "regions": {
     "india": {
-      "avg_score": 0.205,
+      "avg_score": 0.153,
       "mood": "Positive",
       "positive": [
         {
@@ -12,16 +12,10 @@
           "score": 0.869
         },
         {
-          "title": "ICICI Prudential AMC shares gain 2% after Q1 net profit rises 23% to Rs 965 crore. Here\u2019s what brokerages say",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/icici-prudential-amc-shares-in-focus-after-q1-net-profit-rises-23-to-rs-965-crore-heres-what-brokerages-say/articleshow/132380561.cms",
+          "title": "Bonus issue alert! Last day to buy this microcap pharma stock that rallied 200% in one year",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-last-day-to-buy-this-microcap-pharma-stock-that-rallied-200-in-one-year/articleshow/132406123.cms",
           "source": "Markets-Economic Times",
-          "score": 0.818
-        },
-        {
-          "title": "Nuvoco Vistas shares rocket 14% after Q1 net profit jumps 20%; firm reports strongest EBITDA ever",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nuvoco-vistas-shares-rocket-14-after-q1-net-profit-jumps-20-firm-reports-strongest-ebitda-ever/articleshow/132381134.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.791
+          "score": 0.718
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -30,42 +24,54 @@
           "score": 0.7
         },
         {
-          "title": "Q1 Showdown: Analysts pick top bets as ICICI Bank, HDFC, Axis, Kotak, Yes Bank gear up for results this week",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/q1-showdown-analysts-pick-top-bets-as-icici-bank-hdfc-axis-kotak-yes-bank-gear-up-for-results-this-week/articleshow/132380504.cms",
+          "title": "Nuvoco Vistas shares soar 10% after strong Q1. Why Nomura, Choice see up to 47% upside?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nuvoco-vistas-shares-soar-10-after-strong-q1-why-nomura-choice-see-up-to-47-upside/articleshow/132406082.cms",
           "source": "Markets-Economic Times",
-          "score": 0.542
+          "score": 0.67
+        },
+        {
+          "title": "Global Market: SK Hynix jumps 13% as easing US inflation, AI memory optimism lift chip stocks",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-sk-hynix-jumps-13-as-easing-us-inflation-ai-memory-optimism-lift-chip-stocks/articleshow/132405944.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.67
         }
       ],
       "negative": [
         {
-          "title": "Gold prices snap 2-day fall, silver at Rs 2.18 lakh/kg despite rising oil prices, rate hike fears. Key levels to watch today",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-snap-2-day-fall-silver-at-rs-2-18-lakh/kg-despite-rising-oil-prices-rate-hike-fears-key-levels-to-watch-today/articleshow/132380620.cms",
+          "title": "Just 2% return! Will SBI Funds Management break the curse of India's poor billion-dollar IPO record?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/just-2-return-will-sbi-funds-management-break-the-curse-of-indias-poor-billion-dollar-ipo-record/articleshow/132406165.cms",
           "source": "Markets-Economic Times",
-          "score": -0.421
+          "score": -0.784
         },
         {
-          "title": "Rupee drops past 96 per dollar as oil prices climb on renewed US-Iran tensions",
-          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-drops-past-96-per-dollar-as-oil-prices-climb-on-renewed-us-iran-tensions/articleshow/132380415.cms",
+          "title": "Tata Elxsi shares slide 6% after weak Q1 results. Why Motilal Oswal sees 16% downside from current levels?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-elxsi-shares-crash-6-after-weak-q1-results-why-motilal-oswal-sees-16-downside-from-current-levels/articleshow/132405822.cms",
           "source": "Markets-Economic Times",
           "score": -0.402
         },
         {
-          "title": "Sensex falls 500 points, Nifty slips below 24,100 as US-Iran conflict escalates. What lies ahead?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-500-points-nifty-slips-below-24100-as-us-iran-conflict-escalates-what-lies-ahead/articleshow/132380455.cms",
+          "title": "US Stock Market: Citigroup shares slide after upbeat results fail to ease worries over higher costs",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-citigroup-shares-slide-after-upbeat-results-fail-to-ease-worries-over-higher-costs/articleshow/132406149.cms",
           "source": "Markets-Economic Times",
-          "score": -0.34
+          "score": -0.382
         },
         {
-          "title": "South Korea's Kospi crashes 5% again, plunges 31% in one month. Is the AI frenzy over?",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-koreas-kospi-crashes-5-again-plunges-31-in-one-month-is-the-ai-frenzy-over/articleshow/132381048.cms",
+          "title": "Wipro Q1 Preview: Under pressure from AI, what can investors expect from earnings?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q1-preview-under-pressure-from-ai-what-can-investors-expect-from-earnings/articleshow/132406701.cms",
           "source": "Markets-Economic Times",
-          "score": -0.318
+          "score": -0.296
+        },
+        {
+          "title": "Ashish Kacholia cuts stake in two chemical stocks after 114% rally. What's driving the move?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-cuts-stake-in-two-chemical-stocks-after-114-rally-whats-driving-the-move/articleshow/132406665.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.296
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.024,
+      "avg_score": 0.088,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -81,25 +87,25 @@
           "score": 0.572
         },
         {
+          "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
+          "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
+          "source": "Business News",
+          "score": 0.477
+        },
+        {
           "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says",
           "link": "https://www.cnbc.com/2026/07/10/delta-air-lines-dal-q2-2026-earnings.html",
           "source": "Business News",
           "score": 0.459
         },
         {
-          "title": "Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights; package could reach $2 billion",
-          "link": "https://www.cnbc.com/2026/07/07/fifa-world-cup-media-rights-netflix-disney-youtube.html",
+          "title": "United Airlines' new upsell: Keeping other travelers out of the middle seat",
+          "link": "https://www.cnbc.com/2026/07/14/united-airlines-for-empty-middle-seat-is-new-upsell.html",
           "source": "Business News",
           "score": 0.421
         }
       ],
       "negative": [
-        {
-          "title": "Used EVs keep getting more expensive amid Iran war, high gas prices",
-          "link": "https://www.cnbc.com/2026/07/08/used-ev-prices-gas-war.html",
-          "source": "Business News",
-          "score": -0.599
-        },
         {
           "title": "Paramount, WBD hit with lawsuit from 12 states, including California, to block merger",
           "link": "https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html",
@@ -107,22 +113,16 @@
           "score": -0.586
         },
         {
-          "title": "California leads lawsuit to block Paramount Warner Bros mega merger",
-          "link": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
+          "title": "Buy Now Pay Later rules to bring refunds and rejections",
+          "link": "https://www.bbc.co.uk/news/articles/c9q283r9px3o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.586
+          "score": -0.542
         },
         {
           "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
           "link": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
           "source": "Business News",
           "score": -0.44
-        },
-        {
-          "title": "June home sales disappoint as prices reach an all-time high",
-          "link": "https://www.cnbc.com/2026/07/09/june-home-sales-prices.html",
-          "source": "Business News",
-          "score": -0.382
         }
       ],
       "sample_size": 20
