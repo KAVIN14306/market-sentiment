@@ -1,91 +1,67 @@
 {
-  "generated_at": "2026-07-15T05:07:35.235281Z",
+  "generated_at": "2026-07-16T05:17:41.717393Z",
   "regions": {
     "india": {
-      "avg_score": 0.153,
+      "avg_score": 0.162,
       "mood": "Positive",
       "positive": [
         {
-          "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-          "source": "Moneycontrol Market Reports",
-          "score": 0.869
-        },
-        {
-          "title": "Bonus issue alert! Last day to buy this microcap pharma stock that rallied 200% in one year",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-last-day-to-buy-this-microcap-pharma-stock-that-rallied-200-in-one-year/articleshow/132406123.cms",
+          "title": "RIL Q1 preview: Will strong O2C performance drive overall earnings growth?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ril-q1-preview-will-strong-o2c-performance-drive-overall-earnings-growth/articleshow/132428989.cms",
           "source": "Markets-Economic Times",
-          "score": 0.718
+          "score": 0.71
         },
         {
-          "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-          "source": "Moneycontrol Market Reports",
-          "score": 0.7
-        },
-        {
-          "title": "Nuvoco Vistas shares soar 10% after strong Q1. Why Nomura, Choice see up to 47% upside?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nuvoco-vistas-shares-soar-10-after-strong-q1-why-nomura-choice-see-up-to-47-upside/articleshow/132406082.cms",
+          "title": "Groww shares rally 9% in two sessions after strong Q1 results. Should you buy, sell or hold the stock?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/groww-shares-rally-9-in-two-sessions-after-strong-q1-results-should-you-buy-sell-or-hold-the-stock/articleshow/132429174.cms",
           "source": "Markets-Economic Times",
           "score": 0.67
         },
         {
-          "title": "Global Market: SK Hynix jumps 13% as easing US inflation, AI memory optimism lift chip stocks",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-sk-hynix-jumps-13-as-easing-us-inflation-ai-memory-optimism-lift-chip-stocks/articleshow/132405944.cms",
+          "title": "Global Market: TSMC likely to post record Q2 profit as AI chip demand powers growth",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-tsmc-likely-to-post-record-q2-profit-as-ai-chip-demand-powers-growth/articleshow/132429438.cms",
           "source": "Markets-Economic Times",
-          "score": 0.67
+          "score": 0.612
+        },
+        {
+          "title": "Dividend alert! Last day to buy HCL Tech, MRF, Dabur, among 68 stocks for dividend payout worth Rs 1,365",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-hcl-tech-mrf-dabur-among-68-stocks-for-dividend-payout-worth-rs-1365/articleshow/132428996.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.525
+        },
+        {
+          "title": "Tata Elxsi among 4 F&amp;O stocks with a sharp rise in futures open interest",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-elxsi-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/132429216.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.459
         }
       ],
       "negative": [
         {
-          "title": "Just 2% return! Will SBI Funds Management break the curse of India's poor billion-dollar IPO record?",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/just-2-return-will-sbi-funds-management-break-the-curse-of-indias-poor-billion-dollar-ipo-record/articleshow/132406165.cms",
+          "title": "Oil is crude once again! Is $95 the new normal and what it means for Indian investors?",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-is-crude-once-again-is-95-the-new-normal-and-what-it-means-for-indian-investors/articleshow/132430022.cms",
           "source": "Markets-Economic Times",
-          "score": -0.784
+          "score": -0.611
         },
         {
-          "title": "Tata Elxsi shares slide 6% after weak Q1 results. Why Motilal Oswal sees 16% downside from current levels?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-elxsi-shares-crash-6-after-weak-q1-results-why-motilal-oswal-sees-16-downside-from-current-levels/articleshow/132405822.cms",
+          "title": "US Stock Market: Money market funds shorten maturities as Fed rate uncertainty drives cautious positioning",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-money-market-funds-shorten-maturities-as-fed-rate-uncertainty-drives-cautious-positioning/articleshow/132429784.cms",
           "source": "Markets-Economic Times",
-          "score": -0.402
+          "score": -0.421
         },
         {
-          "title": "US Stock Market: Citigroup shares slide after upbeat results fail to ease worries over higher costs",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-citigroup-shares-slide-after-upbeat-results-fail-to-ease-worries-over-higher-costs/articleshow/132406149.cms",
+          "title": "Dual engines to fuel bull market? Mutual fund cash hits multi-year low of 4% as FIIs turn buyers after 4 months",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dual-engines-to-fuel-bull-market-mutual-fund-cash-hits-multi-year-low-of-4-as-fiis-turn-buyers-after-4-months/articleshow/132429040.cms",
           "source": "Markets-Economic Times",
-          "score": -0.382
-        },
-        {
-          "title": "Wipro Q1 Preview: Under pressure from AI, what can investors expect from earnings?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q1-preview-under-pressure-from-ai-what-can-investors-expect-from-earnings/articleshow/132406701.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.296
-        },
-        {
-          "title": "Ashish Kacholia cuts stake in two chemical stocks after 114% rally. What's driving the move?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-cuts-stake-in-two-chemical-stocks-after-114-rally-whats-driving-the-move/articleshow/132406665.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.296
+          "score": -0.273
         }
       ],
-      "sample_size": 19
+      "sample_size": 15
     },
     "world": {
-      "avg_score": 0.088,
+      "avg_score": 0.066,
       "mood": "Mixed / Neutral",
       "positive": [
-        {
-          "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
-          "link": "https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html",
-          "source": "Business News",
-          "score": 0.735
-        },
-        {
-          "title": "Private chef salaries reach $300,000 as the rich seek their own Michelin stars",
-          "link": "https://www.cnbc.com/2026/07/10/private-chef-salaries.html",
-          "source": "Business News",
-          "score": 0.572
-        },
         {
           "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
           "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
@@ -93,16 +69,28 @@
           "score": 0.477
         },
         {
-          "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says",
-          "link": "https://www.cnbc.com/2026/07/10/delta-air-lines-dal-q2-2026-earnings.html",
+          "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
+          "link": "https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html",
           "source": "Business News",
-          "score": 0.459
+          "score": 0.44
         },
         {
           "title": "United Airlines' new upsell: Keeping other travelers out of the middle seat",
           "link": "https://www.cnbc.com/2026/07/14/united-airlines-for-empty-middle-seat-is-new-upsell.html",
           "source": "Business News",
           "score": 0.421
+        },
+        {
+          "title": "\u2018Arsenal of democracy\u2019: Jamie Dimon announces $24 million effort to boost American shipbuilding",
+          "link": "https://www.cnbc.com/2026/07/15/jamie-dimon-jpmorgan-chase-defense.html",
+          "source": "Business News",
+          "score": 0.402
+        },
+        {
+          "title": "United earnings top estimates but airline expects $6 billion in added fuel costs",
+          "link": "https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html",
+          "source": "Business News",
+          "score": 0.318
         }
       ],
       "negative": [
@@ -113,10 +101,10 @@
           "score": -0.586
         },
         {
-          "title": "Buy Now Pay Later rules to bring refunds and rejections",
-          "link": "https://www.bbc.co.uk/news/articles/c9q283r9px3o?at_medium=RSS&at_campaign=rss",
+          "title": "Burnham faces crucial choice for chancellor as battle for No 11 continues",
+          "link": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.542
+          "score": -0.586
         },
         {
           "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
