@@ -1,65 +1,59 @@
 {
-  "generated_at": "2026-07-16T05:17:41.717393Z",
+  "generated_at": "2026-07-17T05:20:02.318752Z",
   "regions": {
     "india": {
-      "avg_score": 0.162,
+      "avg_score": 0.182,
       "mood": "Positive",
       "positive": [
         {
-          "title": "RIL Q1 preview: Will strong O2C performance drive overall earnings growth?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ril-q1-preview-will-strong-o2c-performance-drive-overall-earnings-growth/articleshow/132428989.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.71
+          "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+          "source": "Moneycontrol Market Reports",
+          "score": 0.869
         },
         {
-          "title": "Groww shares rally 9% in two sessions after strong Q1 results. Should you buy, sell or hold the stock?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/groww-shares-rally-9-in-two-sessions-after-strong-q1-results-should-you-buy-sell-or-hold-the-stock/articleshow/132429174.cms",
+          "title": "Sensex rallies 700 points powered by tech stocks; Nifty tops 24,250 level",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-climbs-500-points-nifty-tops-24200-as-investors-brace-for-earnings-session/articleshow/132452064.cms",
           "source": "Markets-Economic Times",
-          "score": 0.67
+          "score": 0.718
         },
         {
-          "title": "Global Market: TSMC likely to post record Q2 profit as AI chip demand powers growth",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-tsmc-likely-to-post-record-q2-profit-as-ai-chip-demand-powers-growth/articleshow/132429438.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.612
+          "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+          "source": "Moneycontrol Market Reports",
+          "score": 0.7
         },
         {
-          "title": "Dividend alert! Last day to buy HCL Tech, MRF, Dabur, among 68 stocks for dividend payout worth Rs 1,365",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-hcl-tech-mrf-dabur-among-68-stocks-for-dividend-payout-worth-rs-1365/articleshow/132428996.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.525
-        },
-        {
-          "title": "Tata Elxsi among 4 F&amp;O stocks with a sharp rise in futures open interest",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-elxsi-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/132429216.cms",
+          "title": "HDFC AMC among 5 F&amp;O stocks with a sharp rise in futures open interest",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-amc-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/132452698.cms",
           "source": "Markets-Economic Times",
           "score": 0.459
+        },
+        {
+          "title": "Global Market: China eyes faster national infrastructure spending to steady growth amid local investment slump",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-eyes-faster-national-infrastructure-spending-to-steady-growth-amid-local-investment-slump/articleshow/132452765.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.382
         }
       ],
       "negative": [
         {
-          "title": "Oil is crude once again! Is $95 the new normal and what it means for Indian investors?",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-is-crude-once-again-is-95-the-new-normal-and-what-it-means-for-indian-investors/articleshow/132430022.cms",
+          "title": "RIL investors lose Rs 3.5 lakh crore this year. Can Q1 earnings bring the stock back to life?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ril-investors-lose-rs-3-5-lakh-crore-this-year-can-q1-earnings-bring-the-stock-back-to-life/articleshow/132452203.cms",
           "source": "Markets-Economic Times",
-          "score": -0.611
+          "score": -0.402
         },
         {
-          "title": "US Stock Market: Money market funds shorten maturities as Fed rate uncertainty drives cautious positioning",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-money-market-funds-shorten-maturities-as-fed-rate-uncertainty-drives-cautious-positioning/articleshow/132429784.cms",
+          "title": "US Stock Market: US homebuilder sentiment falls unexpectedly in July; housing stocks may stay under pressure",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-us-homebuilder-sentiment-falls-unexpectedly-in-july-housing-stocks-may-stay-under-pressure/articleshow/132452418.cms",
           "source": "Markets-Economic Times",
-          "score": -0.421
-        },
-        {
-          "title": "Dual engines to fuel bull market? Mutual fund cash hits multi-year low of 4% as FIIs turn buyers after 4 months",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dual-engines-to-fuel-bull-market-mutual-fund-cash-hits-multi-year-low-of-4-as-fiis-turn-buyers-after-4-months/articleshow/132429040.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.273
+          "score": -0.296
         }
       ],
-      "sample_size": 15
+      "sample_size": 19
     },
     "world": {
-      "avg_score": 0.066,
+      "avg_score": 0.082,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -95,22 +89,22 @@
       ],
       "negative": [
         {
-          "title": "Paramount, WBD hit with lawsuit from 12 states, including California, to block merger",
-          "link": "https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html",
+          "title": "Here's why the housing market is hurting so much this summer",
+          "link": "https://www.cnbc.com/2026/07/16/housing-market-mortgages-homebuilding.html",
           "source": "Business News",
-          "score": -0.586
+          "score": -0.402
         },
         {
-          "title": "Burnham faces crucial choice for chancellor as battle for No 11 continues",
-          "link": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po?at_medium=RSS&at_campaign=rss",
+          "title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
+          "link": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.586
+          "score": -0.361
         },
         {
-          "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
-          "link": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
-          "source": "Business News",
-          "score": -0.44
+          "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
+          "link": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.153
         }
       ],
       "sample_size": 20
