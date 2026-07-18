@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-17T05:20:02.318752Z",
+  "generated_at": "2026-07-18T04:54:30.133520Z",
   "regions": {
     "india": {
-      "avg_score": 0.182,
+      "avg_score": 0.21,
       "mood": "Positive",
       "positive": [
         {
@@ -12,10 +12,16 @@
           "score": 0.869
         },
         {
-          "title": "Sensex rallies 700 points powered by tech stocks; Nifty tops 24,250 level",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-climbs-500-points-nifty-tops-24200-as-investors-brace-for-earnings-session/articleshow/132452064.cms",
+          "title": "NIfty IT logs best weekly gains since Oct 2025",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-it-logs-best-weekly-gains-since-oct-2025/articleshow/132473695.cms",
           "source": "Markets-Economic Times",
-          "score": 0.718
+          "score": 0.852
+        },
+        {
+          "title": "JSW Steel\u2019s Q1 profit soars 2x YoY on robust topline growth",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steels-q1-profit-soars-2x-yoy-on-robust-topline-growth/articleshow/132474031.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.784
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -24,28 +30,22 @@
           "score": 0.7
         },
         {
-          "title": "HDFC AMC among 5 F&amp;O stocks with a sharp rise in futures open interest",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-amc-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/132452698.cms",
+          "title": "JSW Steel\u2019s profit doubles on revenue growth, beats estimates",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steels-profit-doubles-on-revenue-growth-beats-estimates/articleshow/132465171.cms",
           "source": "Markets-Economic Times",
-          "score": 0.459
-        },
-        {
-          "title": "Global Market: China eyes faster national infrastructure spending to steady growth amid local investment slump",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-eyes-faster-national-infrastructure-spending-to-steady-growth-amid-local-investment-slump/articleshow/132452765.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.382
+          "score": 0.67
         }
       ],
       "negative": [
         {
-          "title": "RIL investors lose Rs 3.5 lakh crore this year. Can Q1 earnings bring the stock back to life?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ril-investors-lose-rs-3-5-lakh-crore-this-year-can-q1-earnings-bring-the-stock-back-to-life/articleshow/132452203.cms",
+          "title": "Investors take to gold dip as Mideast war rages on",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/investors-take-to-gold-dip-as-mideast-war-rages-on/articleshow/132473460.cms",
           "source": "Markets-Economic Times",
-          "score": -0.402
+          "score": -0.791
         },
         {
-          "title": "US Stock Market: US homebuilder sentiment falls unexpectedly in July; housing stocks may stay under pressure",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-us-homebuilder-sentiment-falls-unexpectedly-in-july-housing-stocks-may-stay-under-pressure/articleshow/132452418.cms",
+          "title": "US stocks today: Nasdaq, S&amp;P fall over 1%, end lower for week as chip selloff broadens",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-for-the-day-and-week-as-chip-selloff-broadens/articleshow/132469580.cms",
           "source": "Markets-Economic Times",
           "score": -0.296
         }
@@ -53,9 +53,15 @@
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.082,
+      "avg_score": 0.053,
       "mood": "Mixed / Neutral",
       "positive": [
+        {
+          "title": "How big is the great wealth transfer? It could be over $100 trillion or $36 trillion",
+          "link": "https://www.cnbc.com/2026/07/17/great-wealth-transfer-estimates.html",
+          "source": "Business News",
+          "score": 0.807
+        },
         {
           "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
           "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
@@ -67,12 +73,6 @@
           "link": "https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html",
           "source": "Business News",
           "score": 0.44
-        },
-        {
-          "title": "United Airlines' new upsell: Keeping other travelers out of the middle seat",
-          "link": "https://www.cnbc.com/2026/07/14/united-airlines-for-empty-middle-seat-is-new-upsell.html",
-          "source": "Business News",
-          "score": 0.421
         },
         {
           "title": "\u2018Arsenal of democracy\u2019: Jamie Dimon announces $24 million effort to boost American shipbuilding",
@@ -89,16 +89,22 @@
       ],
       "negative": [
         {
+          "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
+          "link": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
+          "source": "Business News",
+          "score": -0.818
+        },
+        {
           "title": "Here's why the housing market is hurting so much this summer",
           "link": "https://www.cnbc.com/2026/07/16/housing-market-mortgages-homebuilding.html",
           "source": "Business News",
           "score": -0.402
         },
         {
-          "title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
-          "link": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo?at_medium=RSS&at_campaign=rss",
+          "title": "Brewdog founder faces data complaints over efforts to buy back firm",
+          "link": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.361
+          "score": -0.402
         },
         {
           "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
