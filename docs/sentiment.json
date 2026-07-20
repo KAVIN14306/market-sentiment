@@ -1,16 +1,10 @@
 {
-  "generated_at": "2026-07-19T05:29:50.215769Z",
+  "generated_at": "2026-07-20T05:46:30.861862Z",
   "regions": {
     "india": {
-      "avg_score": 0.37,
+      "avg_score": 0.257,
       "mood": "Positive",
       "positive": [
-        {
-          "title": "RBL Bank Q1 Results: Net profit rises 27% YoY to Rs 254 crore; Emirates NBD ownership boosts growth outlook",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/rbl-bank-q1-results-net-profit-rises-27-yoy-to-rs-254-crore-emirates-nbd-ownership-boosts-growth-outlook/articleshow/132478468.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.87
-        },
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -18,36 +12,48 @@
           "score": 0.869
         },
         {
-          "title": "F&amp;O Talk: Nifty IT gaining strong momentum, says Sudeep Shah; outlines HDFC Bank, ICICI Bank strategy after Q1",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fo-talk-nifty-it-gaining-strong-momentum-says-sudeep-shah-outlines-hdfc-bank-icici-bank-strategy-after-q1/articleshow/132489745.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.832
-        },
-        {
-          "title": "Will Sensex, Nifty extend gains on Monday? Q1 earnings, global tech selloff among 6 factors to steer D-St this week",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-extend-gains-on-monday-q1-earnings-global-tech-selloff-among-6-factors-to-steer-d-st-this-week/articleshow/132489722.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.7
-        },
-        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
+        },
+        {
+          "title": "Rs 91,000 crore wipeout: What spooked HDFC Bank, Axis Bank and Kotak investors even as credit growth picked up?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-91000-crore-wipeout-what-spooked-hdfc-bank-axis-bank-and-kotak-investors-even-as-credit-growth-picked-up/articleshow/132506463.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.637
+        },
+        {
+          "title": "PNB shares jump 6% as Q1 profit soars 214%, beats Street estimates. What next?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pnb-shares-jump-6-as-q1-profit-soars-214-beats-street-estimates-what-next/articleshow/132506317.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.625
+        },
+        {
+          "title": "SBI Funds Management IPO listing tomorrow: GMP signals 18% listing gain",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-management-ipo-listing-tomorrow-gmp-signals-18-listing-gain/articleshow/132506401.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.527
         }
       ],
       "negative": [
         {
-          "title": "Fred Kelly\u2019s timeless investing lessons: Why the crowd is usually wrong",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fred-kellys-timeless-investing-lessons-why-the-crowd-is-usually-wrong/articleshow/132477889.cms",
+          "title": "Ashish Kacholia, Mukul Agrawal, other ace investors sell smallcaps again in Q1. Should you worry?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-mukul-agrawal-other-ace-investors-sell-smallcaps-again-in-q1-should-you-worry/articleshow/132505687.cms",
           "source": "Markets-Economic Times",
-          "score": -0.477
+          "score": -0.44
+        },
+        {
+          "title": "Kotak Mahindra Bank shares fall over 3% despite Q1 profit growth. Analysts weigh in",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-fall-over-3-after-q1-earnings-what-are-motilal-oswal-other-brokerages-saying/articleshow/132506336.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.338
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.039,
+      "avg_score": 0.105,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -55,6 +61,12 @@
           "link": "https://www.cnbc.com/2026/07/17/great-wealth-transfer-estimates.html",
           "source": "Business News",
           "score": 0.807
+        },
+        {
+          "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
+          "link": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html",
+          "source": "Business News",
+          "score": 0.599
         },
         {
           "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
@@ -73,12 +85,6 @@
           "link": "https://www.cnbc.com/2026/07/15/jamie-dimon-jpmorgan-chase-defense.html",
           "source": "Business News",
           "score": 0.402
-        },
-        {
-          "title": "United earnings top estimates but airline expects $6 billion in added fuel costs",
-          "link": "https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html",
-          "source": "Business News",
-          "score": 0.318
         }
       ],
       "negative": [
@@ -95,22 +101,10 @@
           "score": -0.402
         },
         {
-          "title": "Brewdog founder faces data complaints over efforts to buy back firm",
-          "link": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.402
-        },
-        {
-          "title": "'My buyers dropped their offer by \u00a315,000 the day before exchange': Gazundering and how to avoid it",
-          "link": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
+          "title": "Are you a parent missing out on \u00a327 a week? Here's how to check",
+          "link": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "score": -0.296
-        },
-        {
-          "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
-          "link": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.153
         }
       ],
       "sample_size": 20
