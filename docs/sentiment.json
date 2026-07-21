@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-20T05:46:30.861862Z",
+  "generated_at": "2026-07-21T05:27:46.889549Z",
   "regions": {
     "india": {
-      "avg_score": 0.257,
+      "avg_score": 0.296,
       "mood": "Positive",
       "positive": [
         {
@@ -12,48 +12,48 @@
           "score": 0.869
         },
         {
+          "title": "ICICI Bank wins analysts\u2019 vote after Q1 show; HDFC Bank, Axis, Kotak &amp; Yes Bank face scrutiny",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/icici-bank-wins-analysts-vote-after-q1-show-hdfc-bank-axis-kotak-yes-bank-face-scrutiny/articleshow/132528114.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.751
+        },
+        {
+          "title": "Gold prices rise by Rs 1,000/10g, silver up Rs 3,100/kg on hopes of Iran peace talks. Key levels to watch today",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-by-rs-1000/10g-silver-up-rs-3100/kg-on-hopes-of-iran-peace-talks-key-levels-to-watch-today/articleshow/132528204.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.743
+        },
+        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Rs 91,000 crore wipeout: What spooked HDFC Bank, Axis Bank and Kotak investors even as credit growth picked up?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-91000-crore-wipeout-what-spooked-hdfc-bank-axis-bank-and-kotak-investors-even-as-credit-growth-picked-up/articleshow/132506463.cms",
+          "title": "UltraTech Cement shares gain 2% after Q1 results. Why Nuvama, other brokerages raised target?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ultratech-cement-shares-gain-2-after-q1-results-why-nuvama-other-brokerages-raised-target/articleshow/132527695.cms",
           "source": "Markets-Economic Times",
-          "score": 0.637
-        },
-        {
-          "title": "PNB shares jump 6% as Q1 profit soars 214%, beats Street estimates. What next?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pnb-shares-jump-6-as-q1-profit-soars-214-beats-street-estimates-what-next/articleshow/132506317.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.625
-        },
-        {
-          "title": "SBI Funds Management IPO listing tomorrow: GMP signals 18% listing gain",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-management-ipo-listing-tomorrow-gmp-signals-18-listing-gain/articleshow/132506401.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.527
+          "score": 0.681
         }
       ],
       "negative": [
         {
-          "title": "Ashish Kacholia, Mukul Agrawal, other ace investors sell smallcaps again in Q1. Should you worry?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-mukul-agrawal-other-ace-investors-sell-smallcaps-again-in-q1-should-you-worry/articleshow/132505687.cms",
+          "title": "Cause for concern? HDFC Bank is lagging ICICI Bank where it matters as investors count Rs 5 lakh crore loss",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cause-for-concern-hdfc-bank-is-lagging-icici-bank-where-it-matters-as-investors-count-rs-5-lakh-crore-loss/articleshow/132527749.cms",
           "source": "Markets-Economic Times",
-          "score": -0.44
+          "score": -0.511
         },
         {
-          "title": "Kotak Mahindra Bank shares fall over 3% despite Q1 profit growth. Analysts weigh in",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-fall-over-3-after-q1-earnings-what-are-motilal-oswal-other-brokerages-saying/articleshow/132506336.cms",
+          "title": "South Korea\u2019s Kospi jumps 4% after 31% crash from June peak. What\u2019s ahead?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/south-koreas-kospi-jumps-4-after-31-crash-from-june-peak-whats-ahead/articleshow/132527587.cms",
           "source": "Markets-Economic Times",
-          "score": -0.338
+          "score": -0.402
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.105,
+      "avg_score": -0.054,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -69,22 +69,10 @@
           "score": 0.599
         },
         {
-          "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
-          "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
+          "title": "JetBlue wins Spirit slots at LaGuardia Airport, eyes move to Marine Air Terminal as airlines fight for space",
+          "link": "https://www.cnbc.com/2026/07/20/jetblue-spirit-airlines-laguardia-airport-new-york.html",
           "source": "Business News",
-          "score": 0.477
-        },
-        {
-          "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
-          "link": "https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html",
-          "source": "Business News",
-          "score": 0.44
-        },
-        {
-          "title": "\u2018Arsenal of democracy\u2019: Jamie Dimon announces $24 million effort to boost American shipbuilding",
-          "link": "https://www.cnbc.com/2026/07/15/jamie-dimon-jpmorgan-chase-defense.html",
-          "source": "Business News",
-          "score": 0.402
+          "score": 0.421
         }
       ],
       "negative": [
@@ -95,16 +83,28 @@
           "score": -0.818
         },
         {
+          "title": "John Healey becomes chancellor weeks after shock resignation from defence job",
+          "link": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.527
+        },
+        {
+          "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+          "link": "https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
+          "source": "Business News",
+          "score": -0.511
+        },
+        {
+          "title": "The FDA made a big reversal in its cyclosporiasis probe, but it still thinks iceberg lettuce is to blame",
+          "link": "https://www.cnbc.com/2026/07/20/cyclosporiasis-fda-taylor-farms-lettuce-false-positive.html",
+          "source": "Business News",
+          "score": -0.477
+        },
+        {
           "title": "Here's why the housing market is hurting so much this summer",
           "link": "https://www.cnbc.com/2026/07/16/housing-market-mortgages-homebuilding.html",
           "source": "Business News",
           "score": -0.402
-        },
-        {
-          "title": "Are you a parent missing out on \u00a327 a week? Here's how to check",
-          "link": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.296
         }
       ],
       "sample_size": 20
