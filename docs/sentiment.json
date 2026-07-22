@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-21T05:27:46.889549Z",
+  "generated_at": "2026-07-22T05:26:37.967713Z",
   "regions": {
     "india": {
-      "avg_score": 0.296,
+      "avg_score": 0.166,
       "mood": "Positive",
       "positive": [
         {
@@ -12,55 +12,67 @@
           "score": 0.869
         },
         {
-          "title": "ICICI Bank wins analysts\u2019 vote after Q1 show; HDFC Bank, Axis, Kotak &amp; Yes Bank face scrutiny",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/icici-bank-wins-analysts-vote-after-q1-show-hdfc-bank-axis-kotak-yes-bank-face-scrutiny/articleshow/132528114.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.751
-        },
-        {
-          "title": "Gold prices rise by Rs 1,000/10g, silver up Rs 3,100/kg on hopes of Iran peace talks. Key levels to watch today",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-by-rs-1000/10g-silver-up-rs-3100/kg-on-hopes-of-iran-peace-talks-key-levels-to-watch-today/articleshow/132528204.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.743
-        },
-        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "UltraTech Cement shares gain 2% after Q1 results. Why Nuvama, other brokerages raised target?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ultratech-cement-shares-gain-2-after-q1-results-why-nuvama-other-brokerages-raised-target/articleshow/132527695.cms",
+          "title": "Cube Highways Trust InvIT subscription opens today. Here are key details for investors",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cube-highways-trust-invit-subscription-opens-today-here-are-key-details-for-investors/articleshow/132550919.cms",
           "source": "Markets-Economic Times",
-          "score": 0.681
+          "score": 0.511
+        },
+        {
+          "title": "Vedanta shares drop 26% in two months, erase all post-demerger gains. Time to buy or better to avoid?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-drop-26-in-two-months-erase-all-post-demerger-gains-time-to-buy-or-better-to-avoid/articleshow/132550874.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.494
+        },
+        {
+          "title": "NHPC among 5 F&amp;O stocks with a sharp rise in futures open interest",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nhpc-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/132550801.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.459
         }
       ],
       "negative": [
         {
-          "title": "Cause for concern? HDFC Bank is lagging ICICI Bank where it matters as investors count Rs 5 lakh crore loss",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cause-for-concern-hdfc-bank-is-lagging-icici-bank-where-it-matters-as-investors-count-rs-5-lakh-crore-loss/articleshow/132527749.cms",
+          "title": "SBI Funds shares fall 3%, but brokerages scream 'Buy' with target price up to Rs 750",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-funds-shares-fall-3-but-brokerages-scream-buy-with-target-price-up-to-rs-750/articleshow/132551208.cms",
           "source": "Markets-Economic Times",
-          "score": -0.511
+          "score": -0.45
         },
         {
-          "title": "South Korea\u2019s Kospi jumps 4% after 31% crash from June peak. What\u2019s ahead?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/south-koreas-kospi-jumps-4-after-31-crash-from-june-peak-whats-ahead/articleshow/132527587.cms",
+          "title": "Bandhan Bank shares crash 15% after Q1 results; lender cuts RoA guidance. Should you buy, sell or hold?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bandhan-bank-shares-crash-10-after-q1-results-lender-cuts-roa-guidance-should-you-buy-sell-or-hold/articleshow/132550886.cms",
           "source": "Markets-Economic Times",
           "score": -0.402
+        },
+        {
+          "title": "US House passes stopgap funding bill to avert shutdown before midterm elections",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-house-passes-stopgap-funding-bill-to-avert-shutdown-before-midterm-elections/articleshow/132550837.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.178
+        },
+        {
+          "title": "Triveni Engineering shares adjust 38.5% as stock turns ex-demerger. What lies ahead for 95,000 shareholders",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/triveni-engineering-shares-adjust-38-5-as-stock-turns-ex-demerger-what-lies-ahead-for-95000-shareholders/articleshow/132551423.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.153
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.054,
+      "avg_score": -0.087,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "How big is the great wealth transfer? It could be over $100 trillion or $36 trillion",
-          "link": "https://www.cnbc.com/2026/07/17/great-wealth-transfer-estimates.html",
+          "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
+          "link": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
           "source": "Business News",
-          "score": 0.807
+          "score": 0.691
         },
         {
           "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
@@ -73,6 +85,18 @@
           "link": "https://www.cnbc.com/2026/07/20/jetblue-spirit-airlines-laguardia-airport-new-york.html",
           "source": "Business News",
           "score": 0.421
+        },
+        {
+          "title": "Will AI help you do your job or replace you?",
+          "link": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.402
+        },
+        {
+          "title": "Boost youth jobs by cutting employers' national insurance, MPs urge",
+          "link": "https://www.bbc.co.uk/news/articles/cy45p77l3zwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.296
         }
       ],
       "negative": [
@@ -83,14 +107,20 @@
           "score": -0.818
         },
         {
-          "title": "John Healey becomes chancellor weeks after shock resignation from defence job",
-          "link": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
+          "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
+          "link": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.527
+          "score": -0.696
+        },
+        {
+          "title": "Wall Street is selling more rental homes, as buying ban takes effect",
+          "link": "https://www.cnbc.com/2026/07/21/wall-street-selling-homes-real-estate.html",
+          "source": "Business News",
+          "score": -0.557
         },
         {
           "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-          "link": "https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
+          "link": "https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
           "source": "Business News",
           "score": -0.511
         },
@@ -99,12 +129,6 @@
           "link": "https://www.cnbc.com/2026/07/20/cyclosporiasis-fda-taylor-farms-lettuce-false-positive.html",
           "source": "Business News",
           "score": -0.477
-        },
-        {
-          "title": "Here's why the housing market is hurting so much this summer",
-          "link": "https://www.cnbc.com/2026/07/16/housing-market-mortgages-homebuilding.html",
-          "source": "Business News",
-          "score": -0.402
         }
       ],
       "sample_size": 20
