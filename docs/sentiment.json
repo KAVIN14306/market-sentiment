@@ -1,71 +1,59 @@
 {
-  "generated_at": "2026-07-22T05:26:37.967713Z",
+  "generated_at": "2026-07-23T05:32:20.834489Z",
   "regions": {
     "india": {
-      "avg_score": 0.166,
+      "avg_score": 0.173,
       "mood": "Positive",
       "positive": [
         {
-          "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-          "source": "Moneycontrol Market Reports",
-          "score": 0.869
-        },
-        {
-          "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-          "source": "Moneycontrol Market Reports",
-          "score": 0.7
-        },
-        {
-          "title": "Cube Highways Trust InvIT subscription opens today. Here are key details for investors",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cube-highways-trust-invit-subscription-opens-today-here-are-key-details-for-investors/articleshow/132550919.cms",
+          "title": "US Stock Market: CME shares jump 6% after Q2 profit beats estimates; strong hedging demand boosts results",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-cme-shares-jump-6-after-q2-profit-beats-estimates-strong-hedging-demand-boosts-results/articleshow/132571632.cms",
           "source": "Markets-Economic Times",
-          "score": 0.511
+          "score": 0.848
         },
         {
-          "title": "Vedanta shares drop 26% in two months, erase all post-demerger gains. Time to buy or better to avoid?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-drop-26-in-two-months-erase-all-post-demerger-gains-time-to-buy-or-better-to-avoid/articleshow/132550874.cms",
+          "title": "Global Market:  Chinese stocks slip as AI, chip shares extend correction; defensive sectors offer support",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-stocks-slip-as-ai-chip-shares-extend-correction-defensive-sectors-offer-support/articleshow/132572332.cms",
           "source": "Markets-Economic Times",
-          "score": 0.494
+          "score": 0.691
         },
         {
-          "title": "NHPC among 5 F&amp;O stocks with a sharp rise in futures open interest",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nhpc-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/132550801.cms",
+          "title": "IndusInd Bank shares fall 5% despite 72% YoY Q1 profit surge. Why analysts remain bullish?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indusind-bank-shares-fall-5-despite-72-yoy-q1-profit-surge-why-analysts-remain-bullish/articleshow/132571613.cms",
           "source": "Markets-Economic Times",
-          "score": 0.459
+          "score": 0.625
+        },
+        {
+          "title": "Global Market: Wellington, Vanguard, Blackstone launch hybrid public-private investment funds for wealthy clients",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-wellington-vanguard-blackstone-launch-hybrid-public-private-investment-funds-for-wealthy-clients/articleshow/132571639.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.361
+        },
+        {
+          "title": "Bluestone Jewellery shares rocket 36% in just three days after Q1 results. Can the momentum sustain?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bluestone-jewellery-shares-rocket-36-in-just-three-days-after-q1-results-can-the-momentum-sustain/articleshow/132572210.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.296
         }
       ],
       "negative": [
         {
-          "title": "SBI Funds shares fall 3%, but brokerages scream 'Buy' with target price up to Rs 750",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-funds-shares-fall-3-but-brokerages-scream-buy-with-target-price-up-to-rs-750/articleshow/132551208.cms",
+          "title": "Dr Reddy\u2019s shares crack 9% after weak Q1; these 3 brokerages slash their target prices",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dr-reddys-shares-crash-9-after-weak-q1-results-heres-why-these-3-brokerages-are-bearish/articleshow/132571767.cms",
           "source": "Markets-Economic Times",
-          "score": -0.45
+          "score": -0.421
         },
         {
-          "title": "Bandhan Bank shares crash 15% after Q1 results; lender cuts RoA guidance. Should you buy, sell or hold?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bandhan-bank-shares-crash-10-after-q1-results-lender-cuts-roa-guidance-should-you-buy-sell-or-hold/articleshow/132550886.cms",
+          "title": "Kospi jumps 9% in 3 days after big crash. Is South Korea's stock market heading for another rally?",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/kospi-jumps-9-in-3-days-after-big-crash-is-south-koreas-stock-market-heading-for-another-rally/articleshow/132571420.cms",
           "source": "Markets-Economic Times",
           "score": -0.402
-        },
-        {
-          "title": "US House passes stopgap funding bill to avert shutdown before midterm elections",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-house-passes-stopgap-funding-bill-to-avert-shutdown-before-midterm-elections/articleshow/132550837.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.178
-        },
-        {
-          "title": "Triveni Engineering shares adjust 38.5% as stock turns ex-demerger. What lies ahead for 95,000 shareholders",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/triveni-engineering-shares-adjust-38-5-as-stock-turns-ex-demerger-what-lies-ahead-for-95000-shareholders/articleshow/132551423.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.153
         }
       ],
-      "sample_size": 19
+      "sample_size": 15
     },
     "world": {
-      "avg_score": -0.087,
+      "avg_score": -0.074,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -75,43 +63,19 @@
           "score": 0.691
         },
         {
-          "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
-          "link": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html",
+          "title": "EU antitrust regulators clear Paramount-WBD merger as it faces challenge by U.S. states",
+          "link": "https://www.cnbc.com/2026/07/22/european-commission-paramount-wbd-approval.html",
           "source": "Business News",
-          "score": 0.599
+          "score": 0.44
         },
         {
           "title": "JetBlue wins Spirit slots at LaGuardia Airport, eyes move to Marine Air Terminal as airlines fight for space",
           "link": "https://www.cnbc.com/2026/07/20/jetblue-spirit-airlines-laguardia-airport-new-york.html",
           "source": "Business News",
           "score": 0.421
-        },
-        {
-          "title": "Will AI help you do your job or replace you?",
-          "link": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.402
-        },
-        {
-          "title": "Boost youth jobs by cutting employers' national insurance, MPs urge",
-          "link": "https://www.bbc.co.uk/news/articles/cy45p77l3zwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.296
         }
       ],
       "negative": [
-        {
-          "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
-          "link": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
-          "source": "Business News",
-          "score": -0.818
-        },
-        {
-          "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
-          "link": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.696
-        },
         {
           "title": "Wall Street is selling more rental homes, as buying ban takes effect",
           "link": "https://www.cnbc.com/2026/07/21/wall-street-selling-homes-real-estate.html",
@@ -129,6 +93,18 @@
           "link": "https://www.cnbc.com/2026/07/20/cyclosporiasis-fda-taylor-farms-lettuce-false-positive.html",
           "source": "Business News",
           "score": -0.477
+        },
+        {
+          "title": "Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising",
+          "link": "https://www.cnbc.com/2026/07/21/novo-nordisk-sues-eli-lilly-glp-1-ads.html",
+          "source": "Business News",
+          "score": -0.402
+        },
+        {
+          "title": "Firm hacked by rogue OpenAI models says it is 'a wake up call'",
+          "link": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.402
         }
       ],
       "sample_size": 20
