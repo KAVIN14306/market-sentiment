@@ -1,110 +1,128 @@
 {
-  "generated_at": "2026-07-23T05:32:20.834489Z",
+  "generated_at": "2026-07-24T05:27:20.733399Z",
   "regions": {
     "india": {
-      "avg_score": 0.173,
-      "mood": "Positive",
+      "avg_score": 0.111,
+      "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "US Stock Market: CME shares jump 6% after Q2 profit beats estimates; strong hedging demand boosts results",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-cme-shares-jump-6-after-q2-profit-beats-estimates-strong-hedging-demand-boosts-results/articleshow/132571632.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.848
+          "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+          "source": "Moneycontrol Market Reports",
+          "score": 0.869
         },
         {
-          "title": "Global Market:  Chinese stocks slip as AI, chip shares extend correction; defensive sectors offer support",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-stocks-slip-as-ai-chip-shares-extend-correction-defensive-sectors-offer-support/articleshow/132572332.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.691
+          "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+          "source": "Moneycontrol Market Reports",
+          "score": 0.7
         },
         {
-          "title": "IndusInd Bank shares fall 5% despite 72% YoY Q1 profit surge. Why analysts remain bullish?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indusind-bank-shares-fall-5-despite-72-yoy-q1-profit-surge-why-analysts-remain-bullish/articleshow/132571613.cms",
+          "title": "Gold prices fall Rs 3,500/10 gram in 2 days, silver down Rs 8,700/kg as oil hits $100 again. Time to sell precious metals?",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-rs-3500/10-gram-in-2-days-silver-down-rs-8700/kg-as-oil-hits-100-again-time-to-sell-precious-metals/articleshow/132595729.cms",
           "source": "Markets-Economic Times",
-          "score": 0.625
+          "score": 0.572
         },
         {
-          "title": "Global Market: Wellington, Vanguard, Blackstone launch hybrid public-private investment funds for wealthy clients",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-wellington-vanguard-blackstone-launch-hybrid-public-private-investment-funds-for-wealthy-clients/articleshow/132571639.cms",
+          "title": "HDFC Bank, 3 other bank stocks wipe out Rs 1.5 lakh crore of investors' wealth after Q1. Time to buy the dip?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-3-other-bank-stocks-wipe-out-rs-1-5-lakh-crore-of-investors-wealth-after-q1-time-to-buy-the-dip/articleshow/132596148.cms",
           "source": "Markets-Economic Times",
-          "score": 0.361
+          "score": 0.494
         },
         {
-          "title": "Bluestone Jewellery shares rocket 36% in just three days after Q1 results. Can the momentum sustain?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bluestone-jewellery-shares-rocket-36-in-just-three-days-after-q1-results-can-the-momentum-sustain/articleshow/132572210.cms",
+          "title": "Caliber Mining and Logistics shares list at 19% premium over IPO price on BSE",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/caliber-mining-and-logistics-shares-list-at-19-premium-over-ipo-price-on-bse/articleshow/132596430.cms",
           "source": "Markets-Economic Times",
           "score": 0.296
         }
       ],
       "negative": [
         {
-          "title": "Dr Reddy\u2019s shares crack 9% after weak Q1; these 3 brokerages slash their target prices",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dr-reddys-shares-crash-9-after-weak-q1-results-heres-why-these-3-brokerages-are-bearish/articleshow/132571767.cms",
+          "title": "Global Market: US urges BOJ to keep raising rates, flags persistent yen weakness despite narrower yield gap",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-us-urges-boj-to-keep-raising-rates-flags-persistent-yen-weakness-despite-narrower-yield-gap/articleshow/132596001.cms",
           "source": "Markets-Economic Times",
           "score": -0.421
         },
         {
-          "title": "Kospi jumps 9% in 3 days after big crash. Is South Korea's stock market heading for another rally?",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/kospi-jumps-9-in-3-days-after-big-crash-is-south-koreas-stock-market-heading-for-another-rally/articleshow/132571420.cms",
+          "title": "Forget selling! FIIs doubled down on this AI multibagger stock that's up 200% YTD",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/forget-selling-fiis-doubled-down-on-this-ai-multibagger-stock-thats-up-200-ytd/articleshow/132596323.cms",
           "source": "Markets-Economic Times",
-          "score": -0.402
+          "score": -0.294
+        },
+        {
+          "title": "Meesho shares crack 5% as weak Q2 outlook spooks Street; Citi, Morgan Stanley react",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/meesho-shares-decline-5-as-firm-expects-weak-q2-what-are-citi-morgan-stanley-saying/articleshow/132595895.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.178
+        },
+        {
+          "title": "Why is market falling today? Sensex slumps over 800 points: 7 key factors behind Rs 3 lakh crore rout",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-drops-over-700-points-nifty-below-23700-7-key-factors-behind-d-street-selloff/articleshow/132595743.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.153
         }
       ],
-      "sample_size": 15
+      "sample_size": 19
     },
     "world": {
-      "avg_score": -0.074,
+      "avg_score": -0.051,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
-          "link": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
+          "title": "Cyclospora outbreak tests RFK Jr.'s promise to overhaul food system, rebuild trust in CDC",
+          "link": "https://www.cnbc.com/2026/07/23/cyclospora-outbreak-tests-rfk-jr-response-funding-cuts.html",
           "source": "Business News",
-          "score": 0.691
+          "score": 0.681
+        },
+        {
+          "title": "Comcast earnings highlight NBCUniversal strength ahead of planned split",
+          "link": "https://www.cnbc.com/2026/07/23/comcast-earnings-nbcuniversal-strength-split.html",
+          "source": "Business News",
+          "score": 0.681
+        },
+        {
+          "title": "Eli Lilly says it will file for approval of next-generation obesity drug in 2027 as it clears two more trials",
+          "link": "https://www.cnbc.com/2026/07/23/eli-lilly-will-file-for-approval-of-retatrutide-obesity-drug-in-2027.html",
+          "source": "Business News",
+          "score": 0.527
         },
         {
           "title": "EU antitrust regulators clear Paramount-WBD merger as it faces challenge by U.S. states",
           "link": "https://www.cnbc.com/2026/07/22/european-commission-paramount-wbd-approval.html",
           "source": "Business News",
           "score": 0.44
-        },
-        {
-          "title": "JetBlue wins Spirit slots at LaGuardia Airport, eyes move to Marine Air Terminal as airlines fight for space",
-          "link": "https://www.cnbc.com/2026/07/20/jetblue-spirit-airlines-laguardia-airport-new-york.html",
-          "source": "Business News",
-          "score": 0.421
         }
       ],
       "negative": [
         {
-          "title": "Wall Street is selling more rental homes, as buying ban takes effect",
-          "link": "https://www.cnbc.com/2026/07/21/wall-street-selling-homes-real-estate.html",
-          "source": "Business News",
-          "score": -0.557
-        },
-        {
-          "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-          "link": "https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
-          "source": "Business News",
-          "score": -0.511
-        },
-        {
-          "title": "The FDA made a big reversal in its cyclosporiasis probe, but it still thinks iceberg lettuce is to blame",
-          "link": "https://www.cnbc.com/2026/07/20/cyclosporiasis-fda-taylor-farms-lettuce-false-positive.html",
-          "source": "Business News",
-          "score": -0.477
-        },
-        {
-          "title": "Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising",
-          "link": "https://www.cnbc.com/2026/07/21/novo-nordisk-sues-eli-lilly-glp-1-ads.html",
-          "source": "Business News",
-          "score": -0.402
-        },
-        {
-          "title": "Firm hacked by rogue OpenAI models says it is 'a wake up call'",
-          "link": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
+          "title": "UK complacent about war threat, warns defence boss",
+          "link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.402
+          "score": -0.823
+        },
+        {
+          "title": "Albertsons stock plunges as it says weaker grocery spending will cut into sales and earnings",
+          "link": "https://www.cnbc.com/2026/07/23/albertsons-stock-plunges-on-lowered-outlook-softened-grocery-trends.html",
+          "source": "Business News",
+          "score": -0.612
+        },
+        {
+          "title": "US imposes tariffs on dozens of trade partners, citing forced labour concerns",
+          "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.527
+        },
+        {
+          "title": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
+          "link": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html",
+          "source": "Business News",
+          "score": -0.421
+        },
+        {
+          "title": "As Honda CR-V leads U.S. sales, automaker teases new American-built pickup truck",
+          "link": "https://www.cnbc.com/2026/07/23/honda-american-built-pickup-truck.html",
+          "source": "Business News",
+          "score": -0.296
         }
       ],
       "sample_size": 20
