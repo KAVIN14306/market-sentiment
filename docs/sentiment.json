@@ -1,71 +1,77 @@
 {
-  "generated_at": "2026-07-24T05:27:20.733399Z",
+  "generated_at": "2026-07-25T05:21:05.418364Z",
   "regions": {
     "india": {
-      "avg_score": 0.111,
+      "avg_score": -0.089,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-          "source": "Moneycontrol Market Reports",
-          "score": 0.869
-        },
-        {
-          "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-          "source": "Moneycontrol Market Reports",
-          "score": 0.7
-        },
-        {
-          "title": "Gold prices fall Rs 3,500/10 gram in 2 days, silver down Rs 8,700/kg as oil hits $100 again. Time to sell precious metals?",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-rs-3500/10-gram-in-2-days-silver-down-rs-8700/kg-as-oil-hits-100-again-time-to-sell-precious-metals/articleshow/132595729.cms",
+          "title": "European shares gain as SAP lifts tech stocks; Middle East on watch",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-gain-as-sap-lifts-tech-stocks-middle-east-on-watch/articleshow/132618864.cms",
           "source": "Markets-Economic Times",
-          "score": 0.572
+          "score": 0.681
         },
         {
-          "title": "HDFC Bank, 3 other bank stocks wipe out Rs 1.5 lakh crore of investors' wealth after Q1. Time to buy the dip?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-3-other-bank-stocks-wipe-out-rs-1-5-lakh-crore-of-investors-wealth-after-q1-time-to-buy-the-dip/articleshow/132596148.cms",
+          "title": "More banks may join overseas bond run after ICICI Bank\u2019s bumper dollar bond sale",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/more-banks-may-join-overseas-bond-run-after-icicis-bumper-dollar-bond-sale/articleshow/132618588.cms",
           "source": "Markets-Economic Times",
-          "score": 0.494
+          "score": 0.353
         },
         {
-          "title": "Caliber Mining and Logistics shares list at 19% premium over IPO price on BSE",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/caliber-mining-and-logistics-shares-list-at-19-premium-over-ipo-price-on-bse/articleshow/132596430.cms",
+          "title": "Gold edges up as Brent eases, Mideast developments in focus ahead of Fed meet",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-up-as-brent-eases-mideast-developments-in-focus-ahead-of-fed-meet/articleshow/132618808.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.318
+        },
+        {
+          "title": "NMC health settlement drags Bank of Baroda Q1 net profit down 72%",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nmc-health-settlement-drags-bank-of-baroda-q1-net-profit-down-72/articleshow/132618762.cms",
           "source": "Markets-Economic Times",
           "score": 0.296
+        },
+        {
+          "title": "Rupee hits day\u2019s low against US dollar, recovers on RBI support",
+          "link": "https://economictimes.indiatimes.com/markets/forex/rupee-hits-days-low-against-us-dollar-recovers-on-rbi-support/articleshow/132618749.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.153
         }
       ],
       "negative": [
         {
-          "title": "Global Market: US urges BOJ to keep raising rates, flags persistent yen weakness despite narrower yield gap",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-us-urges-boj-to-keep-raising-rates-flags-persistent-yen-weakness-despite-narrower-yield-gap/articleshow/132596001.cms",
+          "title": "Crude oil prices rise 10% this week but China enters fray to push for end to Iran war. What\u2019s next?",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-prices-rise-10-this-week-but-china-enters-fray-to-push-for-end-to-iran-war-whats-next/articleshow/132619080.cms",
           "source": "Markets-Economic Times",
-          "score": -0.421
+          "score": -0.827
         },
         {
-          "title": "Forget selling! FIIs doubled down on this AI multibagger stock that's up 200% YTD",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/forget-selling-fiis-doubled-down-on-this-ai-multibagger-stock-thats-up-200-ytd/articleshow/132596323.cms",
+          "title": "Oil falls on report China pushing for end US-Iran war",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-on-report-china-pushing-for-end-us-iran-war/articleshow/132618787.cms",
           "source": "Markets-Economic Times",
-          "score": -0.294
+          "score": -0.599
         },
         {
-          "title": "Meesho shares crack 5% as weak Q2 outlook spooks Street; Citi, Morgan Stanley react",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/meesho-shares-decline-5-as-firm-expects-weak-q2-what-are-citi-morgan-stanley-saying/articleshow/132595895.cms",
+          "title": "Stocks waver on Wall Street while crude oil prices fall for the first time in a week",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/stocks-waver-on-wall-street-while-crude-oil-prices-fall-for-the-first-time-in-a-week/articleshow/132618845.cms",
           "source": "Markets-Economic Times",
-          "score": -0.178
+          "score": -0.572
         },
         {
-          "title": "Why is market falling today? Sensex slumps over 800 points: 7 key factors behind Rs 3 lakh crore rout",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-drops-over-700-points-nifty-below-23700-7-key-factors-behind-d-street-selloff/articleshow/132595743.cms",
+          "title": "Sensex sinks over 2,000 points in 5 days. How scary do the charts look for next week?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-sinks-over-2000-points-in-5-days-how-scary-do-the-charts-look-for-next-week/articleshow/132619248.cms",
           "source": "Markets-Economic Times",
-          "score": -0.153
+          "score": -0.494
+        },
+        {
+          "title": "Nifty closes below key 23,800 level on Gulf war ripples",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-closes-below-key-23800-level-on-gulf-war-ripples/articleshow/132618691.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.296
         }
       ],
-      "sample_size": 19
+      "sample_size": 15
     },
     "world": {
-      "avg_score": -0.051,
+      "avg_score": 0.031,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -87,30 +93,24 @@
           "score": 0.527
         },
         {
-          "title": "EU antitrust regulators clear Paramount-WBD merger as it faces challenge by U.S. states",
-          "link": "https://www.cnbc.com/2026/07/22/european-commission-paramount-wbd-approval.html",
+          "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say",
+          "link": "https://www.cnbc.com/2026/07/24/wealth-auctions-art-watches.html",
           "source": "Business News",
-          "score": 0.44
+          "score": 0.494
+        },
+        {
+          "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+          "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+          "source": "Business News",
+          "score": 0.178
         }
       ],
       "negative": [
-        {
-          "title": "UK complacent about war threat, warns defence boss",
-          "link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.823
-        },
         {
           "title": "Albertsons stock plunges as it says weaker grocery spending will cut into sales and earnings",
           "link": "https://www.cnbc.com/2026/07/23/albertsons-stock-plunges-on-lowered-outlook-softened-grocery-trends.html",
           "source": "Business News",
           "score": -0.612
-        },
-        {
-          "title": "US imposes tariffs on dozens of trade partners, citing forced labour concerns",
-          "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.527
         },
         {
           "title": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
@@ -123,6 +123,18 @@
           "link": "https://www.cnbc.com/2026/07/23/honda-american-built-pickup-truck.html",
           "source": "Business News",
           "score": -0.296
+        },
+        {
+          "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
+          "link": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.296
+        },
+        {
+          "title": "American Airlines stock tumbles 8% as fuel spike further postpones turnaround",
+          "link": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
+          "source": "Business News",
+          "score": -0.273
         }
       ],
       "sample_size": 20
