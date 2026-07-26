@@ -1,77 +1,65 @@
 {
-  "generated_at": "2026-07-25T05:21:05.418364Z",
+  "generated_at": "2026-07-26T05:39:39.326802Z",
   "regions": {
     "india": {
-      "avg_score": -0.089,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.188,
+      "mood": "Positive",
       "positive": [
         {
-          "title": "European shares gain as SAP lifts tech stocks; Middle East on watch",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-gain-as-sap-lifts-tech-stocks-middle-east-on-watch/articleshow/132618864.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.681
+          "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+          "source": "Moneycontrol Market Reports",
+          "score": 0.869
         },
         {
-          "title": "More banks may join overseas bond run after ICICI Bank\u2019s bumper dollar bond sale",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/more-banks-may-join-overseas-bond-run-after-icicis-bumper-dollar-bond-sale/articleshow/132618588.cms",
+          "title": "IDFC First Bank Q1 profit tops 1,000 cr",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/idfc-first-bank-q1-profit-tops-1000-cr/articleshow/132636183.cms",
           "source": "Markets-Economic Times",
-          "score": 0.353
+          "score": 0.735
         },
         {
-          "title": "Gold edges up as Brent eases, Mideast developments in focus ahead of Fed meet",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-up-as-brent-eases-mideast-developments-in-focus-ahead-of-fed-meet/articleshow/132618808.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.318
+          "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+          "source": "Moneycontrol Market Reports",
+          "score": 0.7
         },
         {
-          "title": "NMC health settlement drags Bank of Baroda Q1 net profit down 72%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nmc-health-settlement-drags-bank-of-baroda-q1-net-profit-down-72/articleshow/132618762.cms",
+          "title": "Will Nifty, Sensex fall for 6th straight session on Monday? US Fed among 5 factors to watch this week",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-fall-for-6th-straight-session-on-monday-us-fed-among-5-factors-to-watch-this-week/articleshow/132636082.cms",
           "source": "Markets-Economic Times",
-          "score": 0.296
+          "score": 0.557
         },
         {
-          "title": "Rupee hits day\u2019s low against US dollar, recovers on RBI support",
-          "link": "https://economictimes.indiatimes.com/markets/forex/rupee-hits-days-low-against-us-dollar-recovers-on-rbi-support/articleshow/132618749.cms",
+          "title": "Bonus issues &amp; dividends: Wipro, UltraTech Cement among more than 110 stocks turning ex-date this week. Do you own?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issues-dividends-wipro-ultratech-cement-among-more-than-110-stocks-turning-ex-date-this-week-do-you-own/articleshow/132636204.cms",
           "source": "Markets-Economic Times",
-          "score": 0.153
+          "score": 0.542
         }
       ],
       "negative": [
         {
-          "title": "Crude oil prices rise 10% this week but China enters fray to push for end to Iran war. What\u2019s next?",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-prices-rise-10-this-week-but-china-enters-fray-to-push-for-end-to-iran-war-whats-next/articleshow/132619080.cms",
+          "title": "Violent crypto attacks rise as criminals hunt bigger payouts",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/violent-crypto-attacks-rise-as-criminals-hunt-bigger-payouts/articleshow/132625026.cms",
           "source": "Markets-Economic Times",
-          "score": -0.827
+          "score": -0.888
         },
         {
-          "title": "Oil falls on report China pushing for end US-Iran war",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-on-report-china-pushing-for-end-us-iran-war/articleshow/132618787.cms",
+          "title": "Bitcoin stays near $64K, Ethereum underperforms as weak risk appetite keeps crypto markets under pressure",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-stays-near-64k-ethereum-underperforms-as-weak-risk-appetite-keeps-crypto-markets-under-pressure/articleshow/132621788.cms",
           "source": "Markets-Economic Times",
-          "score": -0.599
+          "score": -0.735
         },
         {
-          "title": "Stocks waver on Wall Street while crude oil prices fall for the first time in a week",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/stocks-waver-on-wall-street-while-crude-oil-prices-fall-for-the-first-time-in-a-week/articleshow/132618845.cms",
+          "title": "14 penny stocks plunge up to 70% in 3 months. Are you affected?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/15-penny-stocks-plunge-up-to-70-in-3-months-are-you-affected/slideshow/132636473.cms",
           "source": "Markets-Economic Times",
-          "score": -0.572
-        },
-        {
-          "title": "Sensex sinks over 2,000 points in 5 days. How scary do the charts look for next week?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-sinks-over-2000-points-in-5-days-how-scary-do-the-charts-look-for-next-week/articleshow/132619248.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.494
-        },
-        {
-          "title": "Nifty closes below key 23,800 level on Gulf war ripples",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-closes-below-key-23800-level-on-gulf-war-ripples/articleshow/132618691.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.296
+          "score": -0.153
         }
       ],
-      "sample_size": 15
+      "sample_size": 19
     },
     "world": {
-      "avg_score": 0.031,
+      "avg_score": 0.068,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -99,10 +87,10 @@
           "score": 0.494
         },
         {
-          "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
-          "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+          "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
+          "link": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
           "source": "Business News",
-          "score": 0.178
+          "score": 0.34
         }
       ],
       "negative": [
