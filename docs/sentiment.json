@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-26T05:39:39.326802Z",
+  "generated_at": "2026-07-27T05:57:49.334394Z",
   "regions": {
     "india": {
-      "avg_score": 0.188,
+      "avg_score": 0.257,
       "mood": "Positive",
       "positive": [
+        {
+          "title": "Laurus Labs shares rally over 4% as Q1FY27 profit jumps 126% on strong CDMO growth",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/laurus-labs-shares-surge-over-4-as-q1fy27-profit-jumps-126-on-strong-cdmo-growth/articleshow/132653199.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.875
+        },
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.869
-        },
-        {
-          "title": "IDFC First Bank Q1 profit tops 1,000 cr",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/idfc-first-bank-q1-profit-tops-1000-cr/articleshow/132636183.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.735
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -24,42 +24,36 @@
           "score": 0.7
         },
         {
-          "title": "Will Nifty, Sensex fall for 6th straight session on Monday? US Fed among 5 factors to watch this week",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-fall-for-6th-straight-session-on-monday-us-fed-among-5-factors-to-watch-this-week/articleshow/132636082.cms",
+          "title": "Global Market: CXMT shares soar 470% in Shanghai debut, becomes China's most valuable listed company",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-cxmt-shares-soar-470-in-shanghai-debut-becomes-chinas-most-valuable-listed-company/articleshow/132652253.cms",
           "source": "Markets-Economic Times",
-          "score": 0.557
+          "score": 0.68
         },
         {
-          "title": "Bonus issues &amp; dividends: Wipro, UltraTech Cement among more than 110 stocks turning ex-date this week. Do you own?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issues-dividends-wipro-ultratech-cement-among-more-than-110-stocks-turning-ex-date-this-week-do-you-own/articleshow/132636204.cms",
+          "title": "Sterlite Tech shares jump 5% after CLSA upgrades 2026 multibagger after strong Q1 results",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sterlite-tech-shares-jump-5-after-clsa-upgrades-2026-multibagger-after-strong-q1-results/articleshow/132652800.cms",
           "source": "Markets-Economic Times",
-          "score": 0.542
+          "score": 0.67
         }
       ],
       "negative": [
         {
-          "title": "Violent crypto attacks rise as criminals hunt bigger payouts",
-          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/violent-crypto-attacks-rise-as-criminals-hunt-bigger-payouts/articleshow/132625026.cms",
+          "title": "US Stock Market: Rising oil prices and bond yields threaten Wall Street rally as Middle East tensions unsettle investors",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-rising-oil-prices-and-bond-yields-threaten-wall-street-rally-as-middle-east-tensions-unsettle-investors/articleshow/132652351.cms",
           "source": "Markets-Economic Times",
-          "score": -0.888
+          "score": -0.649
         },
         {
-          "title": "Bitcoin stays near $64K, Ethereum underperforms as weak risk appetite keeps crypto markets under pressure",
-          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-stays-near-64k-ethereum-underperforms-as-weak-risk-appetite-keeps-crypto-markets-under-pressure/articleshow/132621788.cms",
+          "title": "Indian bonds rebound as easing Middle East tensions drag oil lower",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rebound-as-easing-middle-east-tensions-drag-oil-lower/articleshow/132652823.cms",
           "source": "Markets-Economic Times",
-          "score": -0.735
-        },
-        {
-          "title": "14 penny stocks plunge up to 70% in 3 months. Are you affected?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/15-penny-stocks-plunge-up-to-70-in-3-months-are-you-affected/slideshow/132636473.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.153
+          "score": -0.586
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.068,
+      "avg_score": 0.105,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -81,16 +75,16 @@
           "score": 0.527
         },
         {
+          "title": "Chipmaker CXMT becomes mainland China's most valuable listed firm",
+          "link": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.526
+        },
+        {
           "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say",
           "link": "https://www.cnbc.com/2026/07/24/wealth-auctions-art-watches.html",
           "source": "Business News",
           "score": 0.494
-        },
-        {
-          "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
-          "link": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
-          "source": "Business News",
-          "score": 0.34
         }
       ],
       "negative": [
@@ -107,15 +101,15 @@
           "score": -0.421
         },
         {
+          "title": "Shein swings to $99m loss as Trump tariffs hit sales",
+          "link": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.318
+        },
+        {
           "title": "As Honda CR-V leads U.S. sales, automaker teases new American-built pickup truck",
           "link": "https://www.cnbc.com/2026/07/23/honda-american-built-pickup-truck.html",
           "source": "Business News",
-          "score": -0.296
-        },
-        {
-          "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
-          "link": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
           "score": -0.296
         },
         {
