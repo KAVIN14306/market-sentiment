@@ -1,21 +1,27 @@
 {
-  "generated_at": "2026-07-27T05:57:49.334394Z",
+  "generated_at": "2026-07-28T05:21:44.504567Z",
   "regions": {
     "india": {
-      "avg_score": 0.257,
+      "avg_score": 0.285,
       "mood": "Positive",
       "positive": [
-        {
-          "title": "Laurus Labs shares rally over 4% as Q1FY27 profit jumps 126% on strong CDMO growth",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/laurus-labs-shares-surge-over-4-as-q1fy27-profit-jumps-126-on-strong-cdmo-growth/articleshow/132653199.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.875
-        },
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.869
+        },
+        {
+          "title": "HUL Q1 Results: Revenue rises 10% YoY to Rs 17,149 crore, but profit falls 3% on one-off tax credit",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hul-q1-results-revenue-rises-10-yoy-to-rs-17149-crore-but-profit-falls-3-on-one-off-tax-credit/articleshow/132675385.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.805
+        },
+        {
+          "title": "Happiest Minds Q1 Results: Profit rises 18% YoY to Rs 68 crore; revenue up 14%",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/happiest-minds-q1-results-profit-rises-18-yoy-to-rs-68-crore-revenue-up-14/articleshow/132675417.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.796
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -24,36 +30,30 @@
           "score": 0.7
         },
         {
-          "title": "Global Market: CXMT shares soar 470% in Shanghai debut, becomes China's most valuable listed company",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-cxmt-shares-soar-470-in-shanghai-debut-becomes-chinas-most-valuable-listed-company/articleshow/132652253.cms",
+          "title": "Coforge shares surge 7% after Q1 profit spikes 63% YoY",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-surge-7-after-q1-profit-spikes-63-yoy/articleshow/132675389.cms",
           "source": "Markets-Economic Times",
-          "score": 0.68
-        },
-        {
-          "title": "Sterlite Tech shares jump 5% after CLSA upgrades 2026 multibagger after strong Q1 results",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sterlite-tech-shares-jump-5-after-clsa-upgrades-2026-multibagger-after-strong-q1-results/articleshow/132652800.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.67
+          "score": 0.625
         }
       ],
       "negative": [
         {
-          "title": "US Stock Market: Rising oil prices and bond yields threaten Wall Street rally as Middle East tensions unsettle investors",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-rising-oil-prices-and-bond-yields-threaten-wall-street-rally-as-middle-east-tensions-unsettle-investors/articleshow/132652351.cms",
+          "title": "India's crorepati list is growing but the problem is who will manage their money",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-crorepati-list-is-growing-but-the-problem-is-who-will-manage-their-money/articleshow/132674286.cms",
           "source": "Markets-Economic Times",
-          "score": -0.649
+          "score": -0.494
         },
         {
-          "title": "Indian bonds rebound as easing Middle East tensions drag oil lower",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rebound-as-easing-middle-east-tensions-drag-oil-lower/articleshow/132652823.cms",
+          "title": "Global Market: ECB may need more rate hikes to curb inflation risks, says Kazimir",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ecb-may-need-more-rate-hikes-to-curb-inflation-risks-says-kazimir/articleshow/132674958.cms",
           "source": "Markets-Economic Times",
-          "score": -0.586
+          "score": -0.273
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.105,
+      "avg_score": 0.001,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -63,28 +63,28 @@
           "score": 0.681
         },
         {
-          "title": "Comcast earnings highlight NBCUniversal strength ahead of planned split",
-          "link": "https://www.cnbc.com/2026/07/23/comcast-earnings-nbcuniversal-strength-split.html",
+          "title": "Ford wants more customers to customize vehicles to boost profits as it eyes 'Nike shoe drop' moments",
+          "link": "https://www.cnbc.com/2026/07/27/ford-vehicle-customization-bronco.html",
           "source": "Business News",
-          "score": 0.681
-        },
-        {
-          "title": "Eli Lilly says it will file for approval of next-generation obesity drug in 2027 as it clears two more trials",
-          "link": "https://www.cnbc.com/2026/07/23/eli-lilly-will-file-for-approval-of-retatrutide-obesity-drug-in-2027.html",
-          "source": "Business News",
-          "score": 0.527
-        },
-        {
-          "title": "Chipmaker CXMT becomes mainland China's most valuable listed firm",
-          "link": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.526
+          "score": 0.542
         },
         {
           "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say",
           "link": "https://www.cnbc.com/2026/07/24/wealth-auctions-art-watches.html",
           "source": "Business News",
           "score": 0.494
+        },
+        {
+          "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
+          "link": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
+          "source": "Business News",
+          "score": 0.34
+        },
+        {
+          "title": "JetBlue overhauls fare options, from basic first to flexible economy. Here's what to know",
+          "link": "https://www.cnbc.com/2026/07/27/jetblue-new-fare-options-basic-economy-first-class.html",
+          "source": "Business News",
+          "score": 0.226
         }
       ],
       "negative": [
@@ -95,28 +95,28 @@
           "score": -0.612
         },
         {
+          "title": "Cracker Barrel chief executive steps down a year after rebrand chaos",
+          "link": "https://www.bbc.co.uk/news/articles/cr49z0r54nko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.572
+        },
+        {
+          "title": "Consolidated food supply may be worsening cyclospora outbreaks, experts say",
+          "link": "https://www.cnbc.com/2026/07/27/cyclospora-outbreak-food-industry-consolidation.html",
+          "source": "Business News",
+          "score": -0.459
+        },
+        {
           "title": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
           "link": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html",
           "source": "Business News",
           "score": -0.421
         },
         {
-          "title": "Shein swings to $99m loss as Trump tariffs hit sales",
-          "link": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.318
-        },
-        {
           "title": "As Honda CR-V leads U.S. sales, automaker teases new American-built pickup truck",
           "link": "https://www.cnbc.com/2026/07/23/honda-american-built-pickup-truck.html",
           "source": "Business News",
           "score": -0.296
-        },
-        {
-          "title": "American Airlines stock tumbles 8% as fuel spike further postpones turnaround",
-          "link": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
-          "source": "Business News",
-          "score": -0.273
         }
       ],
       "sample_size": 20
