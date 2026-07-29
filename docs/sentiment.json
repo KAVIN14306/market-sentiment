@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-28T05:21:44.504567Z",
+  "generated_at": "2026-07-29T05:29:08.518575Z",
   "regions": {
     "india": {
-      "avg_score": 0.285,
+      "avg_score": 0.262,
       "mood": "Positive",
       "positive": [
         {
@@ -12,16 +12,10 @@
           "score": 0.869
         },
         {
-          "title": "HUL Q1 Results: Revenue rises 10% YoY to Rs 17,149 crore, but profit falls 3% on one-off tax credit",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hul-q1-results-revenue-rises-10-yoy-to-rs-17149-crore-but-profit-falls-3-on-one-off-tax-credit/articleshow/132675385.cms",
+          "title": "Why is market rising today? Sensex soars over 800 pts, Nifty tops 24,200; 4 key factors powering D-Street",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-soars-over-700-pts-nifty-nears-24200-4-key-factors/articleshow/132699652.cms",
           "source": "Markets-Economic Times",
-          "score": 0.805
-        },
-        {
-          "title": "Happiest Minds Q1 Results: Profit rises 18% YoY to Rs 68 crore; revenue up 14%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/happiest-minds-q1-results-profit-rises-18-yoy-to-rs-68-crore-revenue-up-14/articleshow/132675417.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.796
+          "score": 0.718
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -30,38 +24,38 @@
           "score": 0.7
         },
         {
-          "title": "Coforge shares surge 7% after Q1 profit spikes 63% YoY",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-surge-7-after-q1-profit-spikes-63-yoy/articleshow/132675389.cms",
+          "title": "Kospi crashes 12% after SK Hynix earnings; best performing Asian market of 2026 plunges 43% in a month. What\u2019s ahead?",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/kospi-crashes-11-plunges-43-from-peak-after-skyrocketing-rally-is-the-ai-bubble-going-bust/articleshow/132701189.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.637
+        },
+        {
+          "title": "Tata Capital shares rally 4% after Q1 profit surges 56%; AUM nears Rs 3 lakh crore",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-capital-shares-rally-4-after-q1-profit-surges-56-aum-nears-rs-3-lakh-crore/articleshow/132701339.cms",
           "source": "Markets-Economic Times",
           "score": 0.625
         }
       ],
       "negative": [
         {
-          "title": "India's crorepati list is growing but the problem is who will manage their money",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-crorepati-list-is-growing-but-the-problem-is-who-will-manage-their-money/articleshow/132674286.cms",
+          "title": "Global Market: Warning signals flash red as oil, AI concerns and debt risks rattle investors",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-warning-signals-flash-red-as-oil-ai-concerns-and-debt-risks-rattle-investors/articleshow/132700977.cms",
           "source": "Markets-Economic Times",
-          "score": -0.494
+          "score": -0.718
         },
         {
-          "title": "Global Market: ECB may need more rate hikes to curb inflation risks, says Kazimir",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ecb-may-need-more-rate-hikes-to-curb-inflation-risks-says-kazimir/articleshow/132674958.cms",
+          "title": "US Stock Market: Bond investors turn cautious ahead of Fed meeting as inflation risks cloud rate outlook",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-bond-investors-turn-cautious-ahead-of-fed-meeting-as-inflation-risks-cloud-rate-outlook/articleshow/132699838.cms",
           "source": "Markets-Economic Times",
-          "score": -0.273
+          "score": -0.361
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.001,
+      "avg_score": 0.003,
       "mood": "Mixed / Neutral",
       "positive": [
-        {
-          "title": "Cyclospora outbreak tests RFK Jr.'s promise to overhaul food system, rebuild trust in CDC",
-          "link": "https://www.cnbc.com/2026/07/23/cyclospora-outbreak-tests-rfk-jr-response-funding-cuts.html",
-          "source": "Business News",
-          "score": 0.681
-        },
         {
           "title": "Ford wants more customers to customize vehicles to boost profits as it eyes 'Nike shoe drop' moments",
           "link": "https://www.cnbc.com/2026/07/27/ford-vehicle-customization-bronco.html",
@@ -69,16 +63,22 @@
           "score": 0.542
         },
         {
-          "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say",
-          "link": "https://www.cnbc.com/2026/07/24/wealth-auctions-art-watches.html",
+          "title": "Coca-Cola hikes full-year forecast. CEO tells CNBC the World Cup boosted its brands",
+          "link": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
           "source": "Business News",
-          "score": 0.494
+          "score": 0.361
         },
         {
           "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
           "link": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
           "source": "Business News",
           "score": 0.34
+        },
+        {
+          "title": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
+          "link": "https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html",
+          "source": "Business News",
+          "score": 0.25
         },
         {
           "title": "JetBlue overhauls fare options, from basic first to flexible economy. Here's what to know",
@@ -89,16 +89,10 @@
       ],
       "negative": [
         {
-          "title": "Albertsons stock plunges as it says weaker grocery spending will cut into sales and earnings",
-          "link": "https://www.cnbc.com/2026/07/23/albertsons-stock-plunges-on-lowered-outlook-softened-grocery-trends.html",
-          "source": "Business News",
-          "score": -0.612
-        },
-        {
-          "title": "Cracker Barrel chief executive steps down a year after rebrand chaos",
-          "link": "https://www.bbc.co.uk/news/articles/cr49z0r54nko?at_medium=RSS&at_campaign=rss",
+          "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
+          "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.572
+          "score": -0.649
         },
         {
           "title": "Consolidated food supply may be worsening cyclospora outbreaks, experts say",
@@ -107,16 +101,16 @@
           "score": -0.459
         },
         {
-          "title": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
-          "link": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html",
-          "source": "Business News",
-          "score": -0.421
+          "title": "eBay agrees $56m settlement with bloggers over harassment case",
+          "link": "https://www.bbc.co.uk/news/articles/cj039p238r5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.402
         },
         {
-          "title": "As Honda CR-V leads U.S. sales, automaker teases new American-built pickup truck",
-          "link": "https://www.cnbc.com/2026/07/23/honda-american-built-pickup-truck.html",
+          "title": "Boeing posts wider loss than expected as Air Force One costs weigh on results",
+          "link": "https://www.cnbc.com/2026/07/28/boeing-ba-2q-2026-earnings.html",
           "source": "Business News",
-          "score": -0.296
+          "score": -0.318
         }
       ],
       "sample_size": 20
