@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-29T05:29:08.518575Z",
+  "generated_at": "2026-07-30T05:15:48.390099Z",
   "regions": {
     "india": {
-      "avg_score": 0.262,
+      "avg_score": 0.209,
       "mood": "Positive",
       "positive": [
         {
@@ -12,105 +12,98 @@
           "score": 0.869
         },
         {
-          "title": "Why is market rising today? Sensex soars over 800 pts, Nifty tops 24,200; 4 key factors powering D-Street",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-soars-over-700-pts-nifty-nears-24200-4-key-factors/articleshow/132699652.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.718
-        },
-        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Kospi crashes 12% after SK Hynix earnings; best performing Asian market of 2026 plunges 43% in a month. What\u2019s ahead?",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/kospi-crashes-11-plunges-43-from-peak-after-skyrocketing-rally-is-the-ai-bubble-going-bust/articleshow/132701189.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.637
-        },
-        {
-          "title": "Tata Capital shares rally 4% after Q1 profit surges 56%; AUM nears Rs 3 lakh crore",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-capital-shares-rally-4-after-q1-profit-surges-56-aum-nears-rs-3-lakh-crore/articleshow/132701339.cms",
+          "title": "Redington shares rally 15% after Q1 profit surges 77%; revenue rises 35% YoY",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/redington-shares-rally-15-after-q1-profit-surges-77-revenue-rises-35-yoy/articleshow/132727511.cms",
           "source": "Markets-Economic Times",
           "score": 0.625
-        }
-      ],
-      "negative": [
-        {
-          "title": "Global Market: Warning signals flash red as oil, AI concerns and debt risks rattle investors",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-warning-signals-flash-red-as-oil-ai-concerns-and-debt-risks-rattle-investors/articleshow/132700977.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.718
         },
         {
-          "title": "US Stock Market: Bond investors turn cautious ahead of Fed meeting as inflation risks cloud rate outlook",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-bond-investors-turn-cautious-ahead-of-fed-meeting-as-inflation-risks-cloud-rate-outlook/articleshow/132699838.cms",
+          "title": "Sensex, Nifty trade flat as hawkish Fed pause dents sentiment. What's driving the caution?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-open-flat-as-hawkish-fed-pause-dents-sentiment-whats-driving-the-caution/articleshow/132726545.cms",
           "source": "Markets-Economic Times",
-          "score": -0.361
+          "score": 0.402
+        },
+        {
+          "title": "Global chip rout: How should investors play India's AI trade that gave up to 400% returns this year?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-chip-rout-how-should-investors-play-indias-ai-trade-that-gave-up-to-400-returns-this-year/articleshow/132726470.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.34
         }
       ],
+      "negative": [],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.003,
+      "avg_score": 0.107,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "Ford wants more customers to customize vehicles to boost profits as it eyes 'Nike shoe drop' moments",
-          "link": "https://www.cnbc.com/2026/07/27/ford-vehicle-customization-bronco.html",
+          "title": "Humana tops quarterly estimates, maintains profit outlook as medical costs stay in line",
+          "link": "https://www.cnbc.com/2026/07/29/humana-hum-earnings-q2-2026.html",
           "source": "Business News",
-          "score": 0.542
+          "score": 0.735
         },
         {
-          "title": "Coca-Cola hikes full-year forecast. CEO tells CNBC the World Cup boosted its brands",
-          "link": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
-          "source": "Business News",
-          "score": 0.361
+          "title": "Burnham says nuclear sub investment will protect UK and boost jobs",
+          "link": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.649
         },
         {
-          "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
-          "link": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
-          "source": "Business News",
-          "score": 0.34
+          "title": "I dropped out of university and built five beauty businesses. Here's how I did it",
+          "link": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.586
         },
         {
-          "title": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
-          "link": "https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html",
+          "title": "YES Network, MSG Networks to exit Gotham app for DAZN streaming service",
+          "link": "https://www.cnbc.com/2026/07/29/yes-network-msg-networks-dazn-streaming.html",
           "source": "Business News",
-          "score": 0.25
+          "score": 0.532
         },
         {
-          "title": "JetBlue overhauls fare options, from basic first to flexible economy. Here's what to know",
-          "link": "https://www.cnbc.com/2026/07/27/jetblue-new-fare-options-basic-economy-first-class.html",
-          "source": "Business News",
-          "score": 0.226
+          "title": "Interest rates expected to be held again by Bank of England",
+          "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.459
         }
       ],
       "negative": [
         {
-          "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
-          "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.649
-        },
-        {
-          "title": "Consolidated food supply may be worsening cyclospora outbreaks, experts say",
-          "link": "https://www.cnbc.com/2026/07/27/cyclospora-outbreak-food-industry-consolidation.html",
+          "title": "Cyclospora outbreak tied to Taco Bell will steal the spotlight from Yum Brands' earnings",
+          "link": "https://www.cnbc.com/2026/07/29/cyclospora-outbreak-taco-bell-yum-brands-earnings.html",
           "source": "Business News",
-          "score": -0.459
+          "score": -0.494
         },
         {
-          "title": "eBay agrees $56m settlement with bloggers over harassment case",
-          "link": "https://www.bbc.co.uk/news/articles/cj039p238r5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.402
+          "title": "Chipotle hikes same-store sales forecast, says cyclospora fears hit sales in late July",
+          "link": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
+          "source": "Business News",
+          "score": -0.421
+        },
+        {
+          "title": "Nike was once China's sneaker king. Here's why its sales have fallen 30%",
+          "link": "https://www.cnbc.com/2026/07/29/nike-china-sales-decline.html",
+          "source": "Business News",
+          "score": -0.361
         },
         {
           "title": "Boeing posts wider loss than expected as Air Force One costs weigh on results",
           "link": "https://www.cnbc.com/2026/07/28/boeing-ba-2q-2026-earnings.html",
           "source": "Business News",
           "score": -0.318
+        },
+        {
+          "title": "Carvana stock falls as auto retailer\u2019s 2026 earnings guidance misses Wall Street\u2019s expectations",
+          "link": "https://www.cnbc.com/2026/07/29/carvana-cvna-earnings-q2-2026.html",
+          "source": "Business News",
+          "score": -0.226
         }
       ],
       "sample_size": 20
