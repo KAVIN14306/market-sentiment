@@ -1,27 +1,15 @@
 {
-  "generated_at": "2026-07-31T05:42:30.600503Z",
+  "generated_at": "2026-08-01T05:33:41.928703Z",
   "regions": {
     "india": {
-      "avg_score": 0.265,
-      "mood": "Positive",
+      "avg_score": 0.069,
+      "mood": "Mixed / Neutral",
       "positive": [
-        {
-          "title": "Zepto IPO hurdle revives investor interest in Swiggy, Eternal; shares set for best month in years",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zepto-ipo-hurdle-revives-investor-interest-in-swiggy-eternal-shares-set-for-best-month-in-years/articleshow/132756263.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.9
-        },
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.869
-        },
-        {
-          "title": "Multibagger Astra Microwave shares rally 14% to 52-week high after Rs 2,205 crore order win from HAL",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/multibagger-astra-microwave-shares-rally-14-to-52-week-high-after-rs-2205-crore-order-win-from-hal/articleshow/132755861.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.718
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -30,49 +18,67 @@
           "score": 0.7
         },
         {
-          "title": "M&amp;M shares climb 3% after strong Q1 results. Morgan Stanley sees up to 29% upside scope",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mm-shares-climb-3-after-strong-q1-results-morgan-stanley-sees-up-to-29-upside-scope/articleshow/132755545.cms",
+          "title": "Bajaj Finserv Q1 net up 18% on NBFC strength",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finserv-q1-net-up-18-on-nbfc-strength/articleshow/132780431.cms",
           "source": "Markets-Economic Times",
-          "score": 0.67
+          "score": 0.494
+        },
+        {
+          "title": "Maruti Suzuki Q1 profit drops 11% to Rs 3,352 crore amid rising input costs",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/maruti-suzuki-q1-profit-drops-11-to-rs-3352-crore-amid-rising-input-costs/articleshow/132779937.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.44
+        },
+        {
+          "title": "Rupee gains 30 paise to touch monthly high",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rupee-gains-30-paise-to-touch-monthly-high/articleshow/132780513.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.34
         }
       ],
       "negative": [
         {
-          "title": "Global Market: Weak yen lifts Japan's forex reserve surplus to $31 billion in FY25",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-weak-yen-lifts-japans-forex-reserve-surplus-to-31-billion-in-fy25/articleshow/132755944.cms",
+          "title": "Apple set to lose nearly $500 billion in value after weak forecast",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/apple-set-to-lose-nearly-500-billion-in-value-after-weak-forecast/articleshow/132780796.cms",
           "source": "Markets-Economic Times",
-          "score": -0.44
+          "score": -0.494
         },
         {
-          "title": "Global Market: China's factory activity contracts unexpectedly in July; metal, commodity stocks may stay under pressure",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-factory-activity-contracts-unexpectedly-in-july-metal-commodity-stocks-may-stay-under-pressure/articleshow/132755802.cms",
+          "title": "Mind Over Money | Golf taught me the same lesson as investing\u2014stay calm after a bad shot: B Gopkumar",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/mind-over-money-golf-taught-me-the-same-lesson-as-investingstay-calm-after-a-bad-shot-b-gopkumar/articleshow/132781308.cms",
           "source": "Markets-Economic Times",
           "score": -0.296
+        },
+        {
+          "title": "ITC Q1 profit plunges 27% due to record cigarette taxes and West Asia crisis",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/itc-q1-profit-plunges-27-due-to-record-cigarette-taxes-and-west-asia-crisis/articleshow/132780034.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.296
+        },
+        {
+          "title": "Peter Lynch does not like the AI trade; here's why he says 'Know what you own'",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/peter-lynch-does-not-like-the-ai-trade-heres-why-he-says-know-what-you-own/articleshow/132781445.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.276
+        },
+        {
+          "title": "Amazon soars as cloud revenue surge allays fears over ballooning AI bets",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/amazon-soars-as-cloud-revenue-surge-allays-fears-over-ballooning-ai-bets/articleshow/132780762.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.273
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.05,
+      "avg_score": -0.008,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "Starbucks raises full-year outlook as CEO tells CNBC the chain is winning back customer loyalty",
-          "link": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
+          "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+          "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
           "source": "Business News",
-          "score": 0.784
-        },
-        {
-          "title": "Wealth managers face a new challenger: Their clients\u2019 AI chatbots",
-          "link": "https://www.cnbc.com/2026/07/30/wealth-managers-ai-chatbots.html",
-          "source": "Business News",
-          "score": 0.572
-        },
-        {
-          "title": "'I pay \u00a3580 a month to live in a disused care home': Property guardians show us around",
-          "link": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.421
+          "score": 0.382
         },
         {
           "title": "Retailer Reformation closes flat in NYSE debut as CEO says company is 'ready to scale'",
@@ -85,6 +91,18 @@
           "link": "https://www.cnbc.com/2026/07/30/yum-brands-yum-q2-2026-earnings.html",
           "source": "Business News",
           "score": 0.361
+        },
+        {
+          "title": "Jeep maker Stellantis swings to profit on rising demand in North America",
+          "link": "https://www.cnbc.com/2026/07/30/stellantis-q2-earnings-autos-jeep.html",
+          "source": "Business News",
+          "score": 0.34
+        },
+        {
+          "title": "Jersey Mike's stock falls 6% in public market debut after pricing shares at $23",
+          "link": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
+          "source": "Business News",
+          "score": 0.296
         }
       ],
       "negative": [
@@ -101,22 +119,22 @@
           "score": -0.557
         },
         {
-          "title": "Chipotle stock jumps as chain hikes same-store sales forecast, says cyclospora fears hit sales in late July",
-          "link": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
-          "source": "Business News",
-          "score": -0.421
-        },
-        {
-          "title": "Anthropic says Claude AI hacked three organisations during cyber tests",
-          "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+          "title": "AI firms must answer for rogue bots, says boss of hacked company",
+          "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "score": -0.402
         },
         {
-          "title": "Nike was once China's sneaker king. Here's why its sales have fallen 30%",
-          "link": "https://www.cnbc.com/2026/07/29/nike-china-sales-decline.html",
+          "title": "More consumer companies are staying private for longer, avoiding the IPO road",
+          "link": "https://www.cnbc.com/2026/07/31/private-consumer-companies-ipo.html",
           "source": "Business News",
-          "score": -0.361
+          "score": -0.34
+        },
+        {
+          "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund \u2014 and lost most of it in days",
+          "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+          "source": "Business News",
+          "score": -0.318
         }
       ],
       "sample_size": 20
