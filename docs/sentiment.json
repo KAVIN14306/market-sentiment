@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-01T05:33:41.928703Z",
+  "generated_at": "2026-08-02T05:34:34.459175Z",
   "regions": {
     "india": {
-      "avg_score": 0.069,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.194,
+      "mood": "Positive",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -12,68 +12,62 @@
           "score": 0.869
         },
         {
+          "title": "Clean Max Enviro Energy Solutions posts Rs 55-cr profit in Q1",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/clean-max-enviro-energy-solutions-posts-rs-55-cr-profit-in-q1/articleshow/132785490.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.813
+        },
+        {
+          "title": "Will Nifty, Sensex extend gains on Monday? 6 factors which will drive D-Street action this week",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-extend-gains-on-monday-6-factors-which-will-drive-d-street-action-this-week/articleshow/132800020.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.7
+        },
+        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Bajaj Finserv Q1 net up 18% on NBFC strength",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finserv-q1-net-up-18-on-nbfc-strength/articleshow/132780431.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.494
-        },
-        {
-          "title": "Maruti Suzuki Q1 profit drops 11% to Rs 3,352 crore amid rising input costs",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/maruti-suzuki-q1-profit-drops-11-to-rs-3352-crore-amid-rising-input-costs/articleshow/132779937.cms",
+          "title": "CDSL Q1 Results: Net profit rises 15% YoY to Rs 118 crore, revenue up 13%",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/cdsl-q1-results-net-profit-rises-15-yoy-to-rs-118-crore-revenue-up-13/articleshow/132786509.cms",
           "source": "Markets-Economic Times",
           "score": 0.44
-        },
-        {
-          "title": "Rupee gains 30 paise to touch monthly high",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rupee-gains-30-paise-to-touch-monthly-high/articleshow/132780513.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.34
         }
       ],
       "negative": [
         {
-          "title": "Apple set to lose nearly $500 billion in value after weak forecast",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/apple-set-to-lose-nearly-500-billion-in-value-after-weak-forecast/articleshow/132780796.cms",
+          "title": "AI bubble gone bust? Once a billionaire, how AI investor Leopold Aschenbrenner lost most of his hedge fund\u2019s fortune in days",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-bubble-gone-bust-once-a-billionaire-how-ai-investor-leopold-aschenbrenner-lost-most-of-his-hedge-funds-fortune-in-days/articleshow/132785441.cms",
           "source": "Markets-Economic Times",
-          "score": -0.494
+          "score": -0.318
         },
         {
-          "title": "Mind Over Money | Golf taught me the same lesson as investing\u2014stay calm after a bad shot: B Gopkumar",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/mind-over-money-golf-taught-me-the-same-lesson-as-investingstay-calm-after-a-bad-shot-b-gopkumar/articleshow/132781308.cms",
+          "title": "GHCL Q1 profit rises 32% to Rs 191 cr on lower costs, warns of margin pressure ahead",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ghcl-q1-profit-rises-32-pc-to-rs-191-cr-on-lower-costs-warns-of-margin-pressure-ahead/articleshow/132786743.cms",
           "source": "Markets-Economic Times",
-          "score": -0.296
+          "score": -0.226
         },
         {
-          "title": "ITC Q1 profit plunges 27% due to record cigarette taxes and West Asia crisis",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/itc-q1-profit-plunges-27-due-to-record-cigarette-taxes-and-west-asia-crisis/articleshow/132780034.cms",
+          "title": "Elon Musk loses nearly half of his wealth as SpaceX shares crash 46%. More downside ahead?",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/elon-musk-loses-nearly-half-of-his-wealth-as-spacex-shares-crash-46-more-downside-ahead/articleshow/132785517.cms",
           "source": "Markets-Economic Times",
-          "score": -0.296
-        },
-        {
-          "title": "Peter Lynch does not like the AI trade; here's why he says 'Know what you own'",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/peter-lynch-does-not-like-the-ai-trade-heres-why-he-says-know-what-you-own/articleshow/132781445.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.276
-        },
-        {
-          "title": "Amazon soars as cloud revenue surge allays fears over ballooning AI bets",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/amazon-soars-as-cloud-revenue-surge-allays-fears-over-ballooning-ai-bets/articleshow/132780762.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.273
+          "score": -0.225
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.008,
+      "avg_score": 0.01,
       "mood": "Mixed / Neutral",
       "positive": [
+        {
+          "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
+          "link": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
+          "source": "Business News",
+          "score": 0.71
+        },
         {
           "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
           "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
@@ -91,12 +85,6 @@
           "link": "https://www.cnbc.com/2026/07/30/yum-brands-yum-q2-2026-earnings.html",
           "source": "Business News",
           "score": 0.361
-        },
-        {
-          "title": "Jeep maker Stellantis swings to profit on rising demand in North America",
-          "link": "https://www.cnbc.com/2026/07/30/stellantis-q2-earnings-autos-jeep.html",
-          "source": "Business News",
-          "score": 0.34
         },
         {
           "title": "Jersey Mike's stock falls 6% in public market debut after pricing shares at $23",
