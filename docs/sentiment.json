@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-02T05:34:34.459175Z",
+  "generated_at": "2026-08-03T05:50:05.358187Z",
   "regions": {
     "india": {
-      "avg_score": 0.194,
+      "avg_score": 0.354,
       "mood": "Positive",
       "positive": [
         {
@@ -12,16 +12,16 @@
           "score": 0.869
         },
         {
-          "title": "Clean Max Enviro Energy Solutions posts Rs 55-cr profit in Q1",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/clean-max-enviro-energy-solutions-posts-rs-55-cr-profit-in-q1/articleshow/132785490.cms",
+          "title": "HFCL shares rebound 5% on Rs 523 crore order win. Still time to buy after 195% rally in 6 months?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-shares-rebound-5-on-rs-523-crore-order-win-still-time-to-buy-after-195-rally-in-6-months/articleshow/132819248.cms",
           "source": "Markets-Economic Times",
-          "score": 0.813
+          "score": 0.718
         },
         {
-          "title": "Will Nifty, Sensex extend gains on Monday? 6 factors which will drive D-Street action this week",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-extend-gains-on-monday-6-factors-which-will-drive-d-street-action-this-week/articleshow/132800020.cms",
+          "title": "Why is market rising today? Sensex surges 650 points, Nifty tops 24,600. 6 key factors fueling the rally",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-surges-500-points-nifty-above-24500-6-key-factors-fueling-the-rally/articleshow/132818002.cms",
           "source": "Markets-Economic Times",
-          "score": 0.7
+          "score": 0.718
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -30,36 +30,17 @@
           "score": 0.7
         },
         {
-          "title": "CDSL Q1 Results: Net profit rises 15% YoY to Rs 118 crore, revenue up 13%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/cdsl-q1-results-net-profit-rises-15-yoy-to-rs-118-crore-revenue-up-13/articleshow/132786509.cms",
+          "title": "US equity funds see inflows as AI optimism revives demand for tech stocks",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-equity-funds-see-inflows-as-ai-optimism-revives-demand-for-tech-stocks/articleshow/132818268.cms",
           "source": "Markets-Economic Times",
-          "score": 0.44
+          "score": 0.681
         }
       ],
-      "negative": [
-        {
-          "title": "AI bubble gone bust? Once a billionaire, how AI investor Leopold Aschenbrenner lost most of his hedge fund\u2019s fortune in days",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-bubble-gone-bust-once-a-billionaire-how-ai-investor-leopold-aschenbrenner-lost-most-of-his-hedge-funds-fortune-in-days/articleshow/132785441.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.318
-        },
-        {
-          "title": "GHCL Q1 profit rises 32% to Rs 191 cr on lower costs, warns of margin pressure ahead",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ghcl-q1-profit-rises-32-pc-to-rs-191-cr-on-lower-costs-warns-of-margin-pressure-ahead/articleshow/132786743.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.226
-        },
-        {
-          "title": "Elon Musk loses nearly half of his wealth as SpaceX shares crash 46%. More downside ahead?",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/elon-musk-loses-nearly-half-of-his-wealth-as-spacex-shares-crash-46-more-downside-ahead/articleshow/132785517.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.225
-        }
-      ],
+      "negative": [],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.01,
+      "avg_score": -0.017,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -67,6 +48,12 @@
           "link": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
           "source": "Business News",
           "score": 0.71
+        },
+        {
+          "title": "The change that may help you get a mortgage as a first-time buyer",
+          "link": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.402
         },
         {
           "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
@@ -81,12 +68,6 @@
           "score": 0.361
         },
         {
-          "title": "Cyclospora outbreak has hurt Taco Bell but sales are already improving, Yum Brands CEO says",
-          "link": "https://www.cnbc.com/2026/07/30/yum-brands-yum-q2-2026-earnings.html",
-          "source": "Business News",
-          "score": 0.361
-        },
-        {
           "title": "Jersey Mike's stock falls 6% in public market debut after pricing shares at $23",
           "link": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
           "source": "Business News",
@@ -94,6 +75,12 @@
         }
       ],
       "negative": [
+        {
+          "title": "Almost \u00a3200,000 of fuel stolen from UK forecourts every day since Iran war began",
+          "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.796
+        },
         {
           "title": "UEFA threatens World Cup boycott over FIFA private equity investment plan",
           "link": "https://www.cnbc.com/2026/07/30/uefa-threatens-world-cup-boycott-over-fifa-investment-plan.html",
@@ -105,12 +92,6 @@
           "link": "https://www.cnbc.com/2026/07/30/nbcuniversal-youtube-deal-streaming-wars.html",
           "source": "Business News",
           "score": -0.557
-        },
-        {
-          "title": "AI firms must answer for rogue bots, says boss of hacked company",
-          "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.402
         },
         {
           "title": "More consumer companies are staying private for longer, avoiding the IPO road",
