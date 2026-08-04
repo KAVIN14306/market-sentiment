@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-03T05:50:05.358187Z",
+  "generated_at": "2026-08-04T05:21:28.136011Z",
   "regions": {
     "india": {
-      "avg_score": 0.354,
+      "avg_score": 0.169,
       "mood": "Positive",
       "positive": [
         {
@@ -12,35 +12,48 @@
           "score": 0.869
         },
         {
-          "title": "HFCL shares rebound 5% on Rs 523 crore order win. Still time to buy after 195% rally in 6 months?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-shares-rebound-5-on-rs-523-crore-order-win-still-time-to-buy-after-195-rally-in-6-months/articleshow/132819248.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.718
-        },
-        {
-          "title": "Why is market rising today? Sensex surges 650 points, Nifty tops 24,600. 6 key factors fueling the rally",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-surges-500-points-nifty-above-24500-6-key-factors-fueling-the-rally/articleshow/132818002.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.718
-        },
-        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "US equity funds see inflows as AI optimism revives demand for tech stocks",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-equity-funds-see-inflows-as-ai-optimism-revives-demand-for-tech-stocks/articleshow/132818268.cms",
+          "title": "Ather Energy shares zoom 18% after Q1 results. Why is it Nomura's top 2-wheeler pick?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-zoom-18-after-q1-results-why-is-it-nomuras-top-2-wheeler-pick/articleshow/132846384.cms",
           "source": "Markets-Economic Times",
-          "score": 0.681
+          "score": 0.625
+        },
+        {
+          "title": "Poojaa Precision Engg set for BSE SME debut today, GMP signals 78% listing gain",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/poojaa-precision-engg-set-for-bse-sme-debut-today-gmp-signals-78-listing-gain/articleshow/132845886.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.527
+        },
+        {
+          "title": "SBI Funds Management shares drop 2% after first earnings since IPO; net profit up 3% to Rs 873 crore",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-funds-management-shares-in-focus-after-first-earnings-since-ipo-net-profit-jumps-3-to-rs-873-crore/articleshow/132845847.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.459
         }
       ],
-      "negative": [],
+      "negative": [
+        {
+          "title": "Paytm jumps over 4% after Rs 2,038-crore block deal; Saif Partners, Elevation Capital likely sellers",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-in-focus-as-saif-partners-elevation-capital-eye-stake-sale-in-rs-2002-crore-block-deal/articleshow/132845534.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.44
+        },
+        {
+          "title": "Nazara Tech Q1 Results: Co posts Rs 82.5 crore loss; Nitish Mittersain steps down as CEO",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nazara-tech-q1-results-co-posts-rs-82-5-crore-loss-nitish-mittersain-steps-down-as-ceo/articleshow/132846232.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.318
+        }
+      ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.017,
+      "avg_score": -0.021,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -50,10 +63,10 @@
           "score": 0.71
         },
         {
-          "title": "The change that may help you get a mortgage as a first-time buyer",
-          "link": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.402
+          "title": "Are Americans ready to embrace tiny 'cars'? These companies think so",
+          "link": "https://www.cnbc.com/2026/08/03/electric-lsv-stellantis-fiat-toppolino.html",
+          "source": "Business News",
+          "score": 0.586
         },
         {
           "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
@@ -62,36 +75,36 @@
           "score": 0.382
         },
         {
-          "title": "Retailer Reformation closes flat in NYSE debut as CEO says company is 'ready to scale'",
-          "link": "https://www.cnbc.com/2026/07/30/reformation-ipo-public-nyse-listing.html",
+          "title": "More tech millionaires are using donor-advised funds for tax savings and giving",
+          "link": "https://www.cnbc.com/2026/08/03/tech-millionaires-donor-advised-funds-tax-savings-giving.html",
           "source": "Business News",
-          "score": 0.361
+          "score": 0.34
         },
         {
-          "title": "Jersey Mike's stock falls 6% in public market debut after pricing shares at $23",
-          "link": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
-          "source": "Business News",
-          "score": 0.296
+          "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
+          "link": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.318
         }
       ],
       "negative": [
         {
-          "title": "Almost \u00a3200,000 of fuel stolen from UK forecourts every day since Iran war began",
-          "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
+          "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+          "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.796
+          "score": -0.908
         },
         {
-          "title": "UEFA threatens World Cup boycott over FIFA private equity investment plan",
-          "link": "https://www.cnbc.com/2026/07/30/uefa-threatens-world-cup-boycott-over-fifa-investment-plan.html",
+          "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
+          "link": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
           "source": "Business News",
-          "score": -0.599
+          "score": -0.586
         },
         {
-          "title": "How NBCUniversal's deal with YouTube could jump-start the next chapter of the streaming wars",
-          "link": "https://www.cnbc.com/2026/07/30/nbcuniversal-youtube-deal-streaming-wars.html",
-          "source": "Business News",
-          "score": -0.557
+          "title": "US states sue to block Trump tariffs impacting dozens of countries",
+          "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.44
         },
         {
           "title": "More consumer companies are staying private for longer, avoiding the IPO road",
