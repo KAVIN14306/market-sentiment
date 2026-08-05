@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04T05:21:28.136011Z",
+  "generated_at": "2026-08-05T05:21:30.593808Z",
   "regions": {
     "india": {
-      "avg_score": 0.169,
+      "avg_score": 0.321,
       "mood": "Positive",
       "positive": [
         {
@@ -18,105 +18,93 @@
           "score": 0.7
         },
         {
-          "title": "Ather Energy shares zoom 18% after Q1 results. Why is it Nomura's top 2-wheeler pick?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-zoom-18-after-q1-results-why-is-it-nomuras-top-2-wheeler-pick/articleshow/132846384.cms",
+          "title": "Deepak Nitrite shares jump 4% after Q1FY27 profit jumps 209%, revenue rises 36% YoY",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/deepak-nitrite-shares-surge-4-after-q1fy27-profit-jumps-209-revenue-rises-36-yoy/articleshow/132891677.cms",
           "source": "Markets-Economic Times",
           "score": 0.625
         },
         {
-          "title": "Poojaa Precision Engg set for BSE SME debut today, GMP signals 78% listing gain",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/poojaa-precision-engg-set-for-bse-sme-debut-today-gmp-signals-78-listing-gain/articleshow/132845886.cms",
+          "title": "Nykaa shares dip 3% despite multifold jump in Q1 profit; analysts weigh in",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nykaa-shares-dip-3-despite-multifold-jump-in-q1-profit-analysts-weigh-in/articleshow/132889186.cms",
           "source": "Markets-Economic Times",
-          "score": 0.527
+          "score": 0.625
         },
         {
-          "title": "SBI Funds Management shares drop 2% after first earnings since IPO; net profit up 3% to Rs 873 crore",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-funds-management-shares-in-focus-after-first-earnings-since-ipo-net-profit-jumps-3-to-rs-873-crore/articleshow/132845847.cms",
+          "title": "BSE shares fall 2% despite 62% jump in Q1 net profit to Rs 874 crore. Should you buy, sell or hold?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-in-focus-after-q1-net-profit-soars-62-yoy-to-rs-874-crore-should-you-buy-sell-or-hold/articleshow/132886990.cms",
           "source": "Markets-Economic Times",
-          "score": 0.459
+          "score": 0.625
         }
       ],
       "negative": [
         {
-          "title": "Paytm jumps over 4% after Rs 2,038-crore block deal; Saif Partners, Elevation Capital likely sellers",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-in-focus-as-saif-partners-elevation-capital-eye-stake-sale-in-rs-2002-crore-block-deal/articleshow/132845534.cms",
+          "title": "Rupee sails past 95 to one-month high, premiums drop before RBI decision",
+          "link": "https://economictimes.indiatimes.com/markets/forex/rupee-sails-past-95-to-one-month-high-premiums-drop-before-rbi-decision/articleshow/132890285.cms",
           "source": "Markets-Economic Times",
-          "score": -0.44
-        },
-        {
-          "title": "Nazara Tech Q1 Results: Co posts Rs 82.5 crore loss; Nitish Mittersain steps down as CEO",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nazara-tech-q1-results-co-posts-rs-82-5-crore-loss-nitish-mittersain-steps-down-as-ceo/articleshow/132846232.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.318
+          "score": -0.273
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.021,
+      "avg_score": 0.085,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
-          "link": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
+          "title": "Paramount Skydance raises full-year profit guidance, remains 'confident' about WBD merger",
+          "link": "https://www.cnbc.com/2026/08/04/paramount-skydance-psky-earnings-q2-2026.html",
           "source": "Business News",
-          "score": 0.71
+          "score": 0.727
         },
         {
-          "title": "Are Americans ready to embrace tiny 'cars'? These companies think so",
-          "link": "https://www.cnbc.com/2026/08/03/electric-lsv-stellantis-fiat-toppolino.html",
+          "title": "Pfizer tops estimates, hikes low end of revenue guidance on strength of Eliquis, other drugs",
+          "link": "https://www.cnbc.com/2026/08/04/pfizer-pfe-earnings-q2-2026.html",
           "source": "Business News",
-          "score": 0.586
+          "score": 0.66
         },
         {
-          "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
-          "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
-          "source": "Business News",
-          "score": 0.382
-        },
-        {
-          "title": "More tech millionaires are using donor-advised funds for tax savings and giving",
-          "link": "https://www.cnbc.com/2026/08/03/tech-millionaires-donor-advised-funds-tax-savings-giving.html",
-          "source": "Business News",
-          "score": 0.34
-        },
-        {
-          "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
-          "link": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
+          "title": "The cost of being single \u2013 and how friends are teaming up to beat it",
+          "link": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": 0.318
+          "score": 0.477
+        },
+        {
+          "title": "GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.",
+          "link": "https://www.cnbc.com/2026/08/04/gm-chinese-automaker-extend-tie-up-amid-geopolitical-tensions-with-us.html",
+          "source": "Business News",
+          "score": 0.451
+        },
+        {
+          "title": "Why Ford believes its 10.2% July U.S. sales decline was still a 'good' month",
+          "link": "https://www.cnbc.com/2026/08/04/ford-july-sales-decline.html",
+          "source": "Business News",
+          "score": 0.44
         }
       ],
       "negative": [
         {
-          "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
-          "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+          "title": "Fashion brand Jaded has ad banned for 'glamourising smoking'",
+          "link": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.908
+          "score": -0.681
         },
         {
-          "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
-          "link": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
-          "source": "Business News",
-          "score": -0.586
-        },
-        {
-          "title": "US states sue to block Trump tariffs impacting dozens of countries",
-          "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.44
-        },
-        {
-          "title": "More consumer companies are staying private for longer, avoiding the IPO road",
-          "link": "https://www.cnbc.com/2026/07/31/private-consumer-companies-ipo.html",
-          "source": "Business News",
-          "score": -0.34
-        },
-        {
-          "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund \u2014 and lost most of it in days",
-          "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+          "title": "Lucid begins 'operational reset' as CEO says EV maker will delay midsize vehicle",
+          "link": "https://www.cnbc.com/2026/08/04/lucid-group-lcid-earnings-q2-2026.html",
           "source": "Business News",
           "score": -0.318
+        },
+        {
+          "title": "McDonald's says its U.S. business is falling short as it announces new head of its largest market",
+          "link": "https://www.cnbc.com/2026/08/04/mcdonalds-mcd-q2-2026-earnings.html",
+          "source": "Business News",
+          "score": -0.153
+        },
+        {
+          "title": "Merck hikes revenue outlook as new drug sales grow, but cuts profit guidance due to deal charges",
+          "link": "https://www.cnbc.com/2026/08/04/merck-mrk-earnings-q2-2026.html",
+          "source": "Business News",
+          "score": -0.153
         }
       ],
       "sample_size": 20
