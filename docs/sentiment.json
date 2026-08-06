@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05T05:21:30.593808Z",
+  "generated_at": "2026-08-06T05:23:43.440803Z",
   "regions": {
     "india": {
-      "avg_score": 0.321,
+      "avg_score": 0.316,
       "mood": "Positive",
       "positive": [
         {
@@ -12,44 +12,50 @@
           "score": 0.869
         },
         {
+          "title": "Sensex rises 200 points, Nifty above 24,600 amid US-Iran peace hopes. What lies ahead?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-200-points-nifty-above-24600-amid-us-iran-peace-hopes-what-lies-ahead/articleshow/132980967.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.735
+        },
+        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Deepak Nitrite shares jump 4% after Q1FY27 profit jumps 209%, revenue rises 36% YoY",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/deepak-nitrite-shares-surge-4-after-q1fy27-profit-jumps-209-revenue-rises-36-yoy/articleshow/132891677.cms",
+          "title": "Mutual funds increase stake in Ather Energy for 5th straight quarter. Bigger rally brewing?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mutual-funds-increase-stake-in-ather-energy-for-5th-straight-quarter-bigger-rally-brewing/articleshow/132981894.cms",
           "source": "Markets-Economic Times",
-          "score": 0.625
+          "score": 0.649
         },
         {
-          "title": "Nykaa shares dip 3% despite multifold jump in Q1 profit; analysts weigh in",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nykaa-shares-dip-3-despite-multifold-jump-in-q1-profit-analysts-weigh-in/articleshow/132889186.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.625
-        },
-        {
-          "title": "BSE shares fall 2% despite 62% jump in Q1 net profit to Rs 874 crore. Should you buy, sell or hold?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-in-focus-after-q1-net-profit-soars-62-yoy-to-rs-874-crore-should-you-buy-sell-or-hold/articleshow/132886990.cms",
+          "title": "Neuland Laboratories shares jump over 6% after 975% YoY surge in Q1 profit",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/neuland-laboratories-shares-jump-over-6-after-975-yoy-surge-in-q1-profit/articleshow/132982715.cms",
           "source": "Markets-Economic Times",
           "score": 0.625
         }
       ],
       "negative": [
         {
-          "title": "Rupee sails past 95 to one-month high, premiums drop before RBI decision",
-          "link": "https://economictimes.indiatimes.com/markets/forex/rupee-sails-past-95-to-one-month-high-premiums-drop-before-rbi-decision/articleshow/132890285.cms",
+          "title": "South Korea\u2019s Kospi tumbles 5% after 2-day rally, angry retail investors vow not to invest again",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-koreas-kospi-tumbles-5-after-2-day-rally-angry-retail-investors-vow-not-to-invest-again/articleshow/132980706.cms",
           "source": "Markets-Economic Times",
-          "score": -0.273
+          "score": -0.511
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.085,
+      "avg_score": 0.14,
       "mood": "Mixed / Neutral",
       "positive": [
+        {
+          "title": "Disney weighs free, ad-supported streaming, says it has sold out Super Bowl ad spots",
+          "link": "https://www.cnbc.com/2026/08/05/disney-free-ad-supported-streaming-super-bowl-ads.html",
+          "source": "Business News",
+          "score": 0.802
+        },
         {
           "title": "Paramount Skydance raises full-year profit guidance, remains 'confident' about WBD merger",
           "link": "https://www.cnbc.com/2026/08/04/paramount-skydance-psky-earnings-q2-2026.html",
@@ -57,36 +63,42 @@
           "score": 0.727
         },
         {
-          "title": "Pfizer tops estimates, hikes low end of revenue guidance on strength of Eliquis, other drugs",
-          "link": "https://www.cnbc.com/2026/08/04/pfizer-pfe-earnings-q2-2026.html",
+          "title": "Disney tops earnings estimates as parks and streaming offer a boost",
+          "link": "https://www.cnbc.com/2026/08/05/disney-dis-earnings-q3-2026.html",
           "source": "Business News",
-          "score": 0.66
+          "score": 0.718
         },
         {
-          "title": "The cost of being single \u2013 and how friends are teaming up to beat it",
-          "link": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
+          "title": "Eli Lilly easily tops quarterly estimates, raises outlook as Zepbound and Mounjaro sales surge",
+          "link": "https://www.cnbc.com/2026/08/05/eli-lilly-lly-earnings-q2-2026.html",
+          "source": "Business News",
+          "score": 0.691
+        },
+        {
+          "title": "Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer?",
+          "link": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": 0.477
-        },
-        {
-          "title": "GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.",
-          "link": "https://www.cnbc.com/2026/08/04/gm-chinese-automaker-extend-tie-up-amid-geopolitical-tensions-with-us.html",
-          "source": "Business News",
-          "score": 0.451
-        },
-        {
-          "title": "Why Ford believes its 10.2% July U.S. sales decline was still a 'good' month",
-          "link": "https://www.cnbc.com/2026/08/04/ford-july-sales-decline.html",
-          "source": "Business News",
-          "score": 0.44
+          "score": 0.511
         }
       ],
       "negative": [
         {
-          "title": "Fashion brand Jaded has ad banned for 'glamourising smoking'",
-          "link": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
+          "title": "Salad and Go files for Chapter 11 bankruptcy after cyclospora fears worsened its challenges",
+          "link": "https://www.cnbc.com/2026/08/05/salad-and-go-files-chapter-11-bankruptcy-cyclospora.html",
+          "source": "Business News",
+          "score": -0.66
+        },
+        {
+          "title": "Meta says AI model accessed the internet and hacked another firm",
+          "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.681
+          "score": -0.402
+        },
+        {
+          "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
+          "link": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
+          "source": "Business News",
+          "score": -0.34
         },
         {
           "title": "Lucid begins 'operational reset' as CEO says EV maker will delay midsize vehicle",
@@ -95,16 +107,10 @@
           "score": -0.318
         },
         {
-          "title": "McDonald's says its U.S. business is falling short as it announces new head of its largest market",
-          "link": "https://www.cnbc.com/2026/08/04/mcdonalds-mcd-q2-2026-earnings.html",
-          "source": "Business News",
-          "score": -0.153
-        },
-        {
-          "title": "Merck hikes revenue outlook as new drug sales grow, but cuts profit guidance due to deal charges",
-          "link": "https://www.cnbc.com/2026/08/04/merck-mrk-earnings-q2-2026.html",
-          "source": "Business News",
-          "score": -0.153
+          "title": "Infantino sorry for errors but stays Fifa president",
+          "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.214
         }
       ],
       "sample_size": 20
