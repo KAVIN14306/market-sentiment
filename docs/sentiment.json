@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-06T05:23:43.440803Z",
+  "generated_at": "2026-08-07T04:30:24.634822Z",
   "regions": {
     "india": {
-      "avg_score": 0.316,
+      "avg_score": 0.211,
       "mood": "Positive",
       "positive": [
         {
@@ -12,105 +12,99 @@
           "score": 0.869
         },
         {
-          "title": "Sensex rises 200 points, Nifty above 24,600 amid US-Iran peace hopes. What lies ahead?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-200-points-nifty-above-24600-amid-us-iran-peace-hopes-what-lies-ahead/articleshow/132980967.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.735
-        },
-        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Mutual funds increase stake in Ather Energy for 5th straight quarter. Bigger rally brewing?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mutual-funds-increase-stake-in-ather-energy-for-5th-straight-quarter-bigger-rally-brewing/articleshow/132981894.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.649
-        },
-        {
-          "title": "Neuland Laboratories shares jump over 6% after 975% YoY surge in Q1 profit",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/neuland-laboratories-shares-jump-over-6-after-975-yoy-surge-in-q1-profit/articleshow/132982715.cms",
+          "title": "Britannia shares rally 4% as Q1 profit rises 14% YoY. Should you buy, sell or hold?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/britannia-shares-rally-4-as-q1-profit-rises-14-yoy-should-you-buy-sell-or-hold/articleshow/133020659.cms",
           "source": "Markets-Economic Times",
           "score": 0.625
+        },
+        {
+          "title": "Kalyan Jewellers among 5 F&amp;O stocks with a sharp rise in futures open interest",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kalyan-jewellers-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/133020372.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.459
+        },
+        {
+          "title": "SBI Q1 results preview: Will India's largest public bank report a decline in profit?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-q1-results-preview-will-indias-largest-public-bank-report-a-decline-in-profit/articleshow/133020164.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.44
         }
       ],
       "negative": [
         {
-          "title": "South Korea\u2019s Kospi tumbles 5% after 2-day rally, angry retail investors vow not to invest again",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-koreas-kospi-tumbles-5-after-2-day-rally-angry-retail-investors-vow-not-to-invest-again/articleshow/132980706.cms",
+          "title": "Swiggy\u2019s \u20b960,000 crore breakeven challenge: Can Instamart grow without restarting the cash war?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggys-60000-crore-breakeven-challenge-can-instamart-grow-without-restarting-the-cash-war/articleshow/133019933.cms",
           "source": "Markets-Economic Times",
-          "score": -0.511
+          "score": -0.557
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.14,
+      "avg_score": 0.05,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "Disney weighs free, ad-supported streaming, says it has sold out Super Bowl ad spots",
-          "link": "https://www.cnbc.com/2026/08/05/disney-free-ad-supported-streaming-super-bowl-ads.html",
+          "title": "Family offices back clean energy and sustainability startups in July as dealmaking holds steady",
+          "link": "https://www.cnbc.com/2026/08/06/family-offices-sustainability-startups-july-dealmaking.html",
           "source": "Business News",
-          "score": 0.802
+          "score": 0.586
         },
         {
-          "title": "Paramount Skydance raises full-year profit guidance, remains 'confident' about WBD merger",
-          "link": "https://www.cnbc.com/2026/08/04/paramount-skydance-psky-earnings-q2-2026.html",
-          "source": "Business News",
-          "score": 0.727
-        },
-        {
-          "title": "Disney tops earnings estimates as parks and streaming offer a boost",
-          "link": "https://www.cnbc.com/2026/08/05/disney-dis-earnings-q3-2026.html",
-          "source": "Business News",
-          "score": 0.718
-        },
-        {
-          "title": "Eli Lilly easily tops quarterly estimates, raises outlook as Zepbound and Mounjaro sales surge",
-          "link": "https://www.cnbc.com/2026/08/05/eli-lilly-lly-earnings-q2-2026.html",
-          "source": "Business News",
-          "score": 0.691
-        },
-        {
-          "title": "Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer?",
-          "link": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss",
+          "title": "Argos is getting a makeover - but can it attract new shoppers?",
+          "link": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": 0.511
+          "score": 0.502
+        },
+        {
+          "title": "Versant raises 2026 outlook on strength of platforms segment and advertising momentum",
+          "link": "https://www.cnbc.com/2026/08/06/versant-vsnt-earnings-q2-2026.html",
+          "source": "Business News",
+          "score": 0.494
+        },
+        {
+          "title": "Meta fined $567m in largest child safety ruling against social media giant",
+          "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.421
+        },
+        {
+          "title": "Fox advertising, streaming service Tubi get boost from World Cup",
+          "link": "https://www.cnbc.com/2026/08/06/fox-advertising-streaming-service-tubi-get-boost-from-world-cup.html",
+          "source": "Business News",
+          "score": 0.402
         }
       ],
       "negative": [
         {
-          "title": "Salad and Go files for Chapter 11 bankruptcy after cyclospora fears worsened its challenges",
-          "link": "https://www.cnbc.com/2026/08/05/salad-and-go-files-chapter-11-bankruptcy-cyclospora.html",
+          "title": "Megayacht Amadea sold for $187 million to Dubai billionaire with Trump ties",
+          "link": "https://www.cnbc.com/2026/08/06/megayacht-amadea-sale-dubai-billionaire-trump-ties.html",
           "source": "Business News",
-          "score": -0.66
+          "score": -0.625
         },
         {
-          "title": "Meta says AI model accessed the internet and hacked another firm",
-          "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.402
-        },
-        {
-          "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
-          "link": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
+          "title": "Sweetgreen cuts full-year outlook as cyclospora fears weigh on sales",
+          "link": "https://www.cnbc.com/2026/08/06/sweetgreen-cuts-full-year-outlook-as-cyclospora-fears-weigh-on-sales.html",
           "source": "Business News",
-          "score": -0.34
+          "score": -0.612
         },
         {
-          "title": "Lucid begins 'operational reset' as CEO says EV maker will delay midsize vehicle",
-          "link": "https://www.cnbc.com/2026/08/04/lucid-group-lcid-earnings-q2-2026.html",
+          "title": "Peloton posts first-ever annual net profit, but shares drop as outlook disappoints",
+          "link": "https://www.cnbc.com/2026/08/06/peloton-pton-q4-2026-earnings.html",
           "source": "Business News",
           "score": -0.318
         },
         {
-          "title": "Infantino sorry for errors but stays Fifa president",
-          "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.214
+          "title": "American Airlines will stop upgrading elite flyers to business from coach on long domestic flights",
+          "link": "https://www.cnbc.com/2026/08/06/american-airlines-flight-upgrades-become-harder-to-get.html",
+          "source": "Business News",
+          "score": -0.296
         }
       ],
       "sample_size": 20
