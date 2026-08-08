@@ -1,10 +1,16 @@
 {
-  "generated_at": "2026-08-07T04:30:24.634822Z",
+  "generated_at": "2026-08-08T03:39:28.151323Z",
   "regions": {
     "india": {
-      "avg_score": 0.211,
-      "mood": "Positive",
+      "avg_score": 0.099,
+      "mood": "Mixed / Neutral",
       "positive": [
+        {
+          "title": "SBI Q1 profit beats estimates on strong loan growth, asset quality",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q1-profit-beats-estimates-on-strong-loan-growth-asset-quality/articleshow/133035822.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.883
+        },
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -18,38 +24,62 @@
           "score": 0.7
         },
         {
-          "title": "Britannia shares rally 4% as Q1 profit rises 14% YoY. Should you buy, sell or hold?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/britannia-shares-rally-4-as-q1-profit-rises-14-yoy-should-you-buy-sell-or-hold/articleshow/133020659.cms",
+          "title": "Hitachi Energy India Q1 Results: Net profit rises over twofold to Rs 294 crore",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hitachi-energy-india-q1-results-net-profit-rises-over-twofold-to-rs-294-crore/articleshow/133034152.cms",
           "source": "Markets-Economic Times",
-          "score": 0.625
+          "score": 0.612
         },
         {
-          "title": "Kalyan Jewellers among 5 F&amp;O stocks with a sharp rise in futures open interest",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kalyan-jewellers-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/133020372.cms",
+          "title": "Airbnb shares surge 15% to four-year high on raised forecast, AI gains",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/airbnb-shares-surge-15-to-four-year-high-on-raised-forecast-ai-gains/articleshow/133036764.cms",
           "source": "Markets-Economic Times",
-          "score": 0.459
-        },
-        {
-          "title": "SBI Q1 results preview: Will India's largest public bank report a decline in profit?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-q1-results-preview-will-indias-largest-public-bank-report-a-decline-in-profit/articleshow/133020164.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.44
+          "score": 0.557
         }
       ],
       "negative": [
         {
-          "title": "Swiggy\u2019s \u20b960,000 crore breakeven challenge: Can Instamart grow without restarting the cash war?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggys-60000-crore-breakeven-challenge-can-instamart-grow-without-restarting-the-cash-war/articleshow/133019933.cms",
+          "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: S&amp;P 500 closes at record as weak jobs data cools rate-hike fears",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-peace-deal-crude-oil-fed-warsh-rate-hike-jobs-data-sandisk-cloudflare-atlassian-chip-stock-price-news-7th-august-2026/liveblog/133034022.cms",
           "source": "Markets-Economic Times",
-          "score": -0.557
+          "score": -0.691
+        },
+        {
+          "title": "Oil slips, heads for weekly loss as Hormuz deal uncertainty persists",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/oil-slips-heads-weekly-loss-as-hormuz-deal-uncertainty-persists/articleshow/133035490.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.572
+        },
+        {
+          "title": "Dollar falls against yen, euro as weak US jobs data clouds Fed outlook",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dollar-falls-against-yen-euro-as-weak-us-jobs-data-clouds-fed-outlook/articleshow/133040262.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.44
+        },
+        {
+          "title": "Gold hits seven-week high as weak U.S. jobs data dents rate hike bets",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-seven-week-high-as-weak-u-s-jobs-data-dents-rate-hike-bets/articleshow/133037877.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.44
+        },
+        {
+          "title": "Indian bonds clock first weekly rise in five on dovish RBI, easing crude",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-clock-first-weekly-rise-in-five-on-dovish-rbi-easing-crude/articleshow/133034019.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.402
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.05,
+      "avg_score": 0.109,
       "mood": "Mixed / Neutral",
       "positive": [
+        {
+          "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
+          "link": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
+          "source": "Business News",
+          "score": 0.586
+        },
         {
           "title": "Family offices back clean energy and sustainability startups in July as dealmaking holds steady",
           "link": "https://www.cnbc.com/2026/08/06/family-offices-sustainability-startups-july-dealmaking.html",
@@ -73,26 +103,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "score": 0.421
-        },
-        {
-          "title": "Fox advertising, streaming service Tubi get boost from World Cup",
-          "link": "https://www.cnbc.com/2026/08/06/fox-advertising-streaming-service-tubi-get-boost-from-world-cup.html",
-          "source": "Business News",
-          "score": 0.402
         }
       ],
       "negative": [
-        {
-          "title": "Megayacht Amadea sold for $187 million to Dubai billionaire with Trump ties",
-          "link": "https://www.cnbc.com/2026/08/06/megayacht-amadea-sale-dubai-billionaire-trump-ties.html",
-          "source": "Business News",
-          "score": -0.625
-        },
         {
           "title": "Sweetgreen cuts full-year outlook as cyclospora fears weigh on sales",
           "link": "https://www.cnbc.com/2026/08/06/sweetgreen-cuts-full-year-outlook-as-cyclospora-fears-weigh-on-sales.html",
           "source": "Business News",
           "score": -0.612
+        },
+        {
+          "title": "How a 90-second power outage sparked chaos for rail commuters",
+          "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.572
         },
         {
           "title": "Peloton posts first-ever annual net profit, but shares drop as outlook disappoints",
