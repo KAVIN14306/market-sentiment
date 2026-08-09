@@ -1,16 +1,10 @@
 {
-  "generated_at": "2026-08-08T03:39:28.151323Z",
+  "generated_at": "2026-08-09T03:49:01.248421Z",
   "regions": {
     "india": {
-      "avg_score": 0.099,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.161,
+      "mood": "Positive",
       "positive": [
-        {
-          "title": "SBI Q1 profit beats estimates on strong loan growth, asset quality",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q1-profit-beats-estimates-on-strong-loan-growth-asset-quality/articleshow/133035822.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.883
-        },
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -24,54 +18,48 @@
           "score": 0.7
         },
         {
-          "title": "Hitachi Energy India Q1 Results: Net profit rises over twofold to Rs 294 crore",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hitachi-energy-india-q1-results-net-profit-rises-over-twofold-to-rs-294-crore/articleshow/133034152.cms",
+          "title": "Mukul Agrawal\u2019s winning picks: 9 stocks rallied over 50% in CY26; one fresh Q1 addition",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mukul-agrawals-winning-picks-9-stocks-rallied-over-50-in-cy26-one-fresh-q1-addition/slideshow/133048465.cms",
           "source": "Markets-Economic Times",
-          "score": 0.612
+          "score": 0.691
         },
         {
-          "title": "Airbnb shares surge 15% to four-year high on raised forecast, AI gains",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/airbnb-shares-surge-15-to-four-year-high-on-raised-forecast-ai-gains/articleshow/133036764.cms",
+          "title": "F&amp;O Talk: Smallcaps look strong on charts, says Sudeep Shah; outlines Trent, Swiggy, Kalyan Jewellers strategy",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-smallcaps-look-strong-on-charts-says-sudeep-shah-outlines-trent-swiggy-kalyan-jewellers-strategy/articleshow/133048679.cms",
           "source": "Markets-Economic Times",
-          "score": 0.557
+          "score": 0.511
+        },
+        {
+          "title": "Apollo Micro Systems Q1 Results: Firm posts record June-quarter profit at Rs 25 crore; revenue surges 88% YoY",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/apollo-micro-systems-q1-results-firm-posts-record-june-quarter-profit-at-rs-25-crore-revenue-surges-88-yoy/articleshow/133051313.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.44
         }
       ],
       "negative": [
         {
-          "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: S&amp;P 500 closes at record as weak jobs data cools rate-hike fears",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-peace-deal-crude-oil-fed-warsh-rate-hike-jobs-data-sandisk-cloudflare-atlassian-chip-stock-price-news-7th-august-2026/liveblog/133034022.cms",
+          "title": "Foreign flows into Indian bonds may remain muted despite tax relief: SBI Funds",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/foreign-flows-into-indian-bonds-may-remain-muted-despite-tax-relief-sbi-funds/articleshow/133051511.cms",
           "source": "Markets-Economic Times",
-          "score": -0.691
+          "score": -0.372
         },
         {
-          "title": "Oil slips, heads for weekly loss as Hormuz deal uncertainty persists",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/oil-slips-heads-weekly-loss-as-hormuz-deal-uncertainty-persists/articleshow/133035490.cms",
+          "title": "CAS chaos splits Sensex and Nifty: How long will this last?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-splits-sensex-and-nifty-how-long-will-this-last/videoshow/133048887.cms",
           "source": "Markets-Economic Times",
-          "score": -0.572
+          "score": -0.25
         },
         {
-          "title": "Dollar falls against yen, euro as weak US jobs data clouds Fed outlook",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dollar-falls-against-yen-euro-as-weak-us-jobs-data-clouds-fed-outlook/articleshow/133040262.cms",
+          "title": "India's resilient economy to support markets but global risks remain elevated: Sebi",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-resilient-economy-to-support-markets-but-global-risks-remain-elevated-sebi/articleshow/133051804.cms",
           "source": "Markets-Economic Times",
-          "score": -0.44
-        },
-        {
-          "title": "Gold hits seven-week high as weak U.S. jobs data dents rate hike bets",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-seven-week-high-as-weak-u-s-jobs-data-dents-rate-hike-bets/articleshow/133037877.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.44
-        },
-        {
-          "title": "Indian bonds clock first weekly rise in five on dovish RBI, easing crude",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-clock-first-weekly-rise-in-five-on-dovish-rbi-easing-crude/articleshow/133034019.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.402
+          "score": -0.202
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.109,
+      "avg_score": 0.066,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -87,12 +75,6 @@
           "score": 0.586
         },
         {
-          "title": "Argos is getting a makeover - but can it attract new shoppers?",
-          "link": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.502
-        },
-        {
           "title": "Versant raises 2026 outlook on strength of platforms segment and advertising momentum",
           "link": "https://www.cnbc.com/2026/08/06/versant-vsnt-earnings-q2-2026.html",
           "source": "Business News",
@@ -103,9 +85,21 @@
           "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "score": 0.421
+        },
+        {
+          "title": "Fox advertising, streaming service Tubi get boost from World Cup",
+          "link": "https://www.cnbc.com/2026/08/06/fox-advertising-streaming-service-tubi-get-boost-from-world-cup.html",
+          "source": "Business News",
+          "score": 0.402
         }
       ],
       "negative": [
+        {
+          "title": "Cyclospora fears lead consumers to lose their appetite for salads",
+          "link": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
+          "source": "Business News",
+          "score": -0.67
+        },
         {
           "title": "Sweetgreen cuts full-year outlook as cyclospora fears weigh on sales",
           "link": "https://www.cnbc.com/2026/08/06/sweetgreen-cuts-full-year-outlook-as-cyclospora-fears-weigh-on-sales.html",
@@ -117,12 +111,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "score": -0.572
-        },
-        {
-          "title": "Peloton posts first-ever annual net profit, but shares drop as outlook disappoints",
-          "link": "https://www.cnbc.com/2026/08/06/peloton-pton-q4-2026-earnings.html",
-          "source": "Business News",
-          "score": -0.318
         },
         {
           "title": "American Airlines will stop upgrading elite flyers to business from coach on long domestic flights",
