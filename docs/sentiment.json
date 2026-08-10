@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T03:49:01.248421Z",
+  "generated_at": "2026-08-10T04:02:45.682375Z",
   "regions": {
     "india": {
-      "avg_score": 0.161,
+      "avg_score": 0.314,
       "mood": "Positive",
       "positive": [
         {
@@ -12,54 +12,35 @@
           "score": 0.869
         },
         {
+          "title": "ICICI Bank Share Price Live Updates: ICICI Bank's Price Movement Indicates Positive Trend",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-10-aug-2026/liveblog/133078726.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.7
+        },
+        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Mukul Agrawal\u2019s winning picks: 9 stocks rallied over 50% in CY26; one fresh Q1 addition",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mukul-agrawals-winning-picks-9-stocks-rallied-over-50-in-cy26-one-fresh-q1-addition/slideshow/133048465.cms",
+          "title": "How Adani\u2019s $125 billion capex boom is creating new winners on Dalal Street",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-adanis-125-billion-capex-boom-is-creating-new-winners-on-dalal-street/articleshow/133079045.cms",
           "source": "Markets-Economic Times",
-          "score": 0.691
+          "score": 0.649
         },
         {
-          "title": "F&amp;O Talk: Smallcaps look strong on charts, says Sudeep Shah; outlines Trent, Swiggy, Kalyan Jewellers strategy",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-smallcaps-look-strong-on-charts-says-sudeep-shah-outlines-trent-swiggy-kalyan-jewellers-strategy/articleshow/133048679.cms",
+          "title": "How Rakesh Jhunjhunwala's old Tata bet created Rs 80,000 crore wealth after two years of flat returns",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-rakesh-jhunjhunwalas-old-tata-bet-created-rs-80000-crore-wealth-after-two-years-of-flat-returns/articleshow/133079774.cms",
           "source": "Markets-Economic Times",
-          "score": 0.511
-        },
-        {
-          "title": "Apollo Micro Systems Q1 Results: Firm posts record June-quarter profit at Rs 25 crore; revenue surges 88% YoY",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/apollo-micro-systems-q1-results-firm-posts-record-june-quarter-profit-at-rs-25-crore-revenue-surges-88-yoy/articleshow/133051313.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.44
+          "score": 0.637
         }
       ],
-      "negative": [
-        {
-          "title": "Foreign flows into Indian bonds may remain muted despite tax relief: SBI Funds",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/foreign-flows-into-indian-bonds-may-remain-muted-despite-tax-relief-sbi-funds/articleshow/133051511.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.372
-        },
-        {
-          "title": "CAS chaos splits Sensex and Nifty: How long will this last?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-splits-sensex-and-nifty-how-long-will-this-last/videoshow/133048887.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.25
-        },
-        {
-          "title": "India's resilient economy to support markets but global risks remain elevated: Sebi",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-resilient-economy-to-support-markets-but-global-risks-remain-elevated-sebi/articleshow/133051804.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.202
-        }
-      ],
+      "negative": [],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.066,
+      "avg_score": 0.044,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -81,16 +62,16 @@
           "score": 0.494
         },
         {
-          "title": "Meta fined $567m in largest child safety ruling against social media giant",
-          "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.421
-        },
-        {
           "title": "Fox advertising, streaming service Tubi get boost from World Cup",
           "link": "https://www.cnbc.com/2026/08/06/fox-advertising-streaming-service-tubi-get-boost-from-world-cup.html",
           "source": "Business News",
           "score": 0.402
+        },
+        {
+          "title": "Savers Value Village thrift store launches new AI tool to price items",
+          "link": "https://www.cnbc.com/2026/08/06/savers-value-village-thrift-store-launches-new-ai-tool-to-price-items.html",
+          "source": "Business News",
+          "score": 0.34
         }
       ],
       "negative": [
