@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-11T03:50:14.147262Z",
+  "generated_at": "2026-08-12T04:13:30.571575Z",
   "regions": {
     "india": {
-      "avg_score": 0.207,
+      "avg_score": 0.304,
       "mood": "Positive",
       "positive": [
         {
@@ -18,42 +18,29 @@
           "score": 0.7
         },
         {
-          "title": "Positive Breakout: These 9 stocks cross above their 200 DMAs",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-9-stocks-cross-above-their-200-dmas/slideshow/133140624.cms",
+          "title": "Ardee Industries IPO set to debut today; 27% GMP points to strong listing gains",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-industries-ipo-set-to-debut-today-27-gmp-points-to-strong-listing-gains/articleshow/133168112.cms",
           "source": "Markets-Economic Times",
-          "score": 0.557
+          "score": 0.691
         },
         {
-          "title": "Dhoot Transmission IPO Day 2; GMP signals 30% listing gain - Should you subscribe?",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/dhoot-transmission-ipo-day-2-gmp-signals-30-listing-gain-should-you-subscribe/articleshow/133141011.cms",
+          "title": "Adani Ent Share Price Live Updates: Adani Enterprises' beta reflects its market dynamics",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-share-price-live-updates-12-aug-2026/liveblog/133168215.cms",
           "source": "Markets-Economic Times",
-          "score": 0.527
+          "score": 0.511
         },
         {
-          "title": "Milky Mist Dairy Food IPO opens today: GMP signals a 15% listing gain \u2014 Should you subscribe?",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-dairy-food-ipo-opens-today-gmp-signals-a-15-listing-gain-should-you-subscribe/articleshow/133140641.cms",
+          "title": "ETMarkets Smart Talk | India is \u2018pricey\u2019, not expensive: Mark Zuckerberg\u2019s Harvard classmate Vikas Pershad on investing",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-india-is-pricey-not-expensive-mark-zuckerbergs-harvard-classmate-vikas-pershad-on-investing/articleshow/133167982.cms",
           "source": "Markets-Economic Times",
-          "score": 0.527
+          "score": 0.402
         }
       ],
-      "negative": [
-        {
-          "title": "Oil Price Today (August 11): Crude oil rises to $88 after Trump's compensation demand dents Hormuz opening. Here's why",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-11-crude-oil-rises-to-88-after-trumps-compensation-demand-dents-hormuz-opening-heres-why/articleshow/133140451.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.637
-        },
-        {
-          "title": "Adani Group stocks in focus after US judge drops criminal case against Gautam Adani",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-group-stocks-in-focus-after-us-judge-drops-criminal-case-against-gautam-adani/articleshow/133141156.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.527
-        }
-      ],
+      "negative": [],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.086,
+      "avg_score": -0.019,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -63,22 +50,28 @@
           "score": 0.586
         },
         {
+          "title": "Baby products company Frida is expanding into kids\u2019 personal care",
+          "link": "https://www.cnbc.com/2026/08/11/frida-kids-personal-care.html",
+          "source": "Business News",
+          "score": 0.494
+        },
+        {
+          "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
+          "link": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.44
+        },
+        {
+          "title": "'I started in my 20s and made \u00a38,000': Why women are often better investors than men",
+          "link": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.44
+        },
+        {
           "title": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
           "link": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
           "source": "Business News",
           "score": 0.421
-        },
-        {
-          "title": "Savers Value Village thrift store launches new AI tool to price items",
-          "link": "https://www.cnbc.com/2026/08/06/savers-value-village-thrift-store-launches-new-ai-tool-to-price-items.html",
-          "source": "Business News",
-          "score": 0.34
-        },
-        {
-          "title": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO",
-          "link": "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html",
-          "source": "Business News",
-          "score": 0.273
         }
       ],
       "negative": [
@@ -89,16 +82,16 @@
           "score": -0.67
         },
         {
-          "title": "Sweetgreen cuts full-year outlook as cyclospora fears weigh on sales",
-          "link": "https://www.cnbc.com/2026/08/06/sweetgreen-cuts-full-year-outlook-as-cyclospora-fears-weigh-on-sales.html",
+          "title": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
+          "link": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
           "source": "Business News",
           "score": -0.612
         },
         {
-          "title": "Ban on 'subscription traps' brought forward by three months",
-          "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.557
+          "title": "Sweetgreen cuts full-year outlook as cyclospora fears weigh on sales",
+          "link": "https://www.cnbc.com/2026/08/06/sweetgreen-cuts-full-year-outlook-as-cyclospora-fears-weigh-on-sales.html",
+          "source": "Business News",
+          "score": -0.612
         },
         {
           "title": "Shein faces existential threat as tariffs hit low-price model, putting new focus on services",
@@ -107,10 +100,10 @@
           "score": -0.527
         },
         {
-          "title": "Councils to get more powers to stop vape and betting shops, PM announces",
-          "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.353
+          "title": "Invitation Homes CEO says ban on institutional homebuying will bring down prices, but not immediately",
+          "link": "https://www.cnbc.com/2026/08/11/invitation-homes-ceo-institutional-homebuying-ban-prices.html",
+          "source": "Business News",
+          "score": -0.318
         }
       ],
       "sample_size": 20
