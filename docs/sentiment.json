@@ -1,53 +1,60 @@
 {
-  "generated_at": "2026-08-12T04:13:30.571575Z",
+  "generated_at": "2026-08-13T04:18:07.483060Z",
   "regions": {
     "india": {
-      "avg_score": 0.304,
+      "avg_score": 0.201,
       "mood": "Positive",
       "positive": [
         {
-          "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-          "source": "Moneycontrol Market Reports",
-          "score": 0.869
-        },
-        {
-          "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-          "source": "Moneycontrol Market Reports",
-          "score": 0.7
-        },
-        {
-          "title": "Ardee Industries IPO set to debut today; 27% GMP points to strong listing gains",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-industries-ipo-set-to-debut-today-27-gmp-points-to-strong-listing-gains/articleshow/133168112.cms",
+          "title": "India said to plan easier rules to boost micro-cap listings",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-said-to-plan-easier-rules-to-boost-micro-cap-listings/articleshow/133197081.cms",
           "source": "Markets-Economic Times",
-          "score": 0.691
+          "score": 0.67
         },
         {
-          "title": "Adani Ent Share Price Live Updates: Adani Enterprises' beta reflects its market dynamics",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-share-price-live-updates-12-aug-2026/liveblog/133168215.cms",
+          "title": "Dhoot Transmission allotment likely today; GMP hints at strong listing: Here's how to check your status",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/dhoot-transmission-allotment-likely-today-gmp-hints-at-strong-listing-heres-how-to-check-your-status/articleshow/133196796.cms",
           "source": "Markets-Economic Times",
           "score": 0.511
         },
         {
-          "title": "ETMarkets Smart Talk | India is \u2018pricey\u2019, not expensive: Mark Zuckerberg\u2019s Harvard classmate Vikas Pershad on investing",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-india-is-pricey-not-expensive-mark-zuckerbergs-harvard-classmate-vikas-pershad-on-investing/articleshow/133167982.cms",
+          "title": "Godrej Consumer among 4 F&amp;O stocks with sharp rise in futures open interest",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/godrej-consumer-among-4-fampo-stocks-with-sharp-rise-in-futures-open-interest/slideshow/133196885.cms",
           "source": "Markets-Economic Times",
-          "score": 0.402
+          "score": 0.459
+        },
+        {
+          "title": "Shiprocket IPO Day 2: GMP signals 35% listing gains, Subscribed 97% so far: Should you subscribe?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/shiprocket-ipo-day-2-gmp-signals-35-listing-gains-subscribed-97-so-far-should-you-subscribe/articleshow/133196566.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.34
+        },
+        {
+          "title": "HAL shares in focus after Q1 earnings beat estimates. Nomura, other brokerages hike target price",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hal-shares-in-focus-after-q1-earnings-beat-estimates-nomura-other-brokerages-hike-target-price/articleshow/133196943.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.296
         }
       ],
-      "negative": [],
-      "sample_size": 19
+      "negative": [
+        {
+          "title": "Wipro Share Price Live Updates: Wipro's stock shows weakness as it falls below the 20-day EMA",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-today-live-13-aug-2026/liveblog/133196338.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.153
+        }
+      ],
+      "sample_size": 15
     },
     "world": {
-      "avg_score": -0.019,
+      "avg_score": -0.081,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
-          "link": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
-          "source": "Business News",
-          "score": 0.586
+          "title": "US inflation eases as food and fuel costs cool",
+          "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.557
         },
         {
           "title": "Baby products company Frida is expanding into kids\u2019 personal care",
@@ -56,22 +63,22 @@
           "score": 0.494
         },
         {
-          "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
-          "link": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.44
-        },
-        {
-          "title": "'I started in my 20s and made \u00a38,000': Why women are often better investors than men",
-          "link": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.44
-        },
-        {
           "title": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
           "link": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
           "source": "Business News",
           "score": 0.421
+        },
+        {
+          "title": "Trump sued over Truth Social's $100,000 early access service",
+          "link": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.318
+        },
+        {
+          "title": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO",
+          "link": "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html",
+          "source": "Business News",
+          "score": 0.273
         }
       ],
       "negative": [
@@ -88,9 +95,9 @@
           "score": -0.612
         },
         {
-          "title": "Sweetgreen cuts full-year outlook as cyclospora fears weigh on sales",
-          "link": "https://www.cnbc.com/2026/08/06/sweetgreen-cuts-full-year-outlook-as-cyclospora-fears-weigh-on-sales.html",
-          "source": "Business News",
+          "title": "Discord ordered to suspend livestreams in Brazil",
+          "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
           "score": -0.612
         },
         {
@@ -100,10 +107,10 @@
           "score": -0.527
         },
         {
-          "title": "Invitation Homes CEO says ban on institutional homebuying will bring down prices, but not immediately",
-          "link": "https://www.cnbc.com/2026/08/11/invitation-homes-ceo-institutional-homebuying-ban-prices.html",
-          "source": "Business News",
-          "score": -0.318
+          "title": "Burnham warned Iran war could hit UK growth next year",
+          "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.527
         }
       ],
       "sample_size": 20
