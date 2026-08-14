@@ -1,61 +1,48 @@
 {
-  "generated_at": "2026-08-13T04:18:07.483060Z",
+  "generated_at": "2026-08-14T04:14:30.577040Z",
   "regions": {
     "india": {
-      "avg_score": 0.201,
+      "avg_score": 0.294,
       "mood": "Positive",
       "positive": [
         {
-          "title": "India said to plan easier rules to boost micro-cap listings",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-said-to-plan-easier-rules-to-boost-micro-cap-listings/articleshow/133197081.cms",
+          "title": "India won political freedom in 1947. Financial freedom is the next frontier",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-won-political-freedom-in-1947-financial-freedom-is-the-next-frontier/articleshow/133228405.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.92
+        },
+        {
+          "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+          "source": "Moneycontrol Market Reports",
+          "score": 0.869
+        },
+        {
+          "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+          "source": "Moneycontrol Market Reports",
+          "score": 0.7
+        },
+        {
+          "title": "LTIMindtree Share Price Live Updates: LTIMindtree's strong performance in the last month",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-stock-price-live-updates-14-aug-2026/liveblog/133227832.cms",
           "source": "Markets-Economic Times",
           "score": 0.67
         },
         {
-          "title": "Dhoot Transmission allotment likely today; GMP hints at strong listing: Here's how to check your status",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/dhoot-transmission-allotment-likely-today-gmp-hints-at-strong-listing-heres-how-to-check-your-status/articleshow/133196796.cms",
+          "title": "Optimystix Entertainment shares to debut today. Here's what GMP suggests ahead of listing",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/optimystix-entertainment-shares-to-debut-today-heres-what-gmp-suggests-ahead-of-listing/articleshow/133228471.cms",
           "source": "Markets-Economic Times",
-          "score": 0.511
-        },
-        {
-          "title": "Godrej Consumer among 4 F&amp;O stocks with sharp rise in futures open interest",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/godrej-consumer-among-4-fampo-stocks-with-sharp-rise-in-futures-open-interest/slideshow/133196885.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.459
-        },
-        {
-          "title": "Shiprocket IPO Day 2: GMP signals 35% listing gains, Subscribed 97% so far: Should you subscribe?",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/shiprocket-ipo-day-2-gmp-signals-35-listing-gains-subscribed-97-so-far-should-you-subscribe/articleshow/133196566.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.34
-        },
-        {
-          "title": "HAL shares in focus after Q1 earnings beat estimates. Nomura, other brokerages hike target price",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hal-shares-in-focus-after-q1-earnings-beat-estimates-nomura-other-brokerages-hike-target-price/articleshow/133196943.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.296
+          "score": 0.612
         }
       ],
-      "negative": [
-        {
-          "title": "Wipro Share Price Live Updates: Wipro's stock shows weakness as it falls below the 20-day EMA",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-today-live-13-aug-2026/liveblog/133196338.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.153
-        }
-      ],
-      "sample_size": 15
+      "negative": [],
+      "sample_size": 19
     },
     "world": {
-      "avg_score": -0.081,
+      "avg_score": -0.094,
       "mood": "Mixed / Neutral",
       "positive": [
-        {
-          "title": "US inflation eases as food and fuel costs cool",
-          "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.557
-        },
         {
           "title": "Baby products company Frida is expanding into kids\u2019 personal care",
           "link": "https://www.cnbc.com/2026/08/11/frida-kids-personal-care.html",
@@ -69,16 +56,16 @@
           "score": 0.421
         },
         {
-          "title": "Trump sued over Truth Social's $100,000 early access service",
-          "link": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.318
+          "title": "Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
+          "link": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html",
+          "source": "Business News",
+          "score": 0.402
         },
         {
-          "title": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO",
-          "link": "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html",
+          "title": "Home Depot CEO taking temporary medical leave, two top execs to run the retailer",
+          "link": "https://www.cnbc.com/2026/08/12/home-depot-ceo-ted-decker-medical-leave.html",
           "source": "Business News",
-          "score": 0.273
+          "score": 0.153
         }
       ],
       "negative": [
@@ -89,15 +76,15 @@
           "score": -0.67
         },
         {
+          "title": "I got an \u00a389 refund \u2013 how to cancel and  avoid unwanted subscriptions",
+          "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.625
+        },
+        {
           "title": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
           "link": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
           "source": "Business News",
-          "score": -0.612
-        },
-        {
-          "title": "Discord ordered to suspend livestreams in Brazil",
-          "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
           "score": -0.612
         },
         {
@@ -107,10 +94,10 @@
           "score": -0.527
         },
         {
-          "title": "Burnham warned Iran war could hit UK growth next year",
-          "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.527
+          "title": "Invitation Homes CEO says ban on institutional homebuying will bring down prices, but not immediately",
+          "link": "https://www.cnbc.com/2026/08/11/invitation-homes-ceo-institutional-homebuying-ban-prices.html",
+          "source": "Business News",
+          "score": -0.318
         }
       ],
       "sample_size": 20
