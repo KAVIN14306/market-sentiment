@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-14T04:14:30.577040Z",
+  "generated_at": "2026-08-15T02:58:01.229220Z",
   "regions": {
     "india": {
-      "avg_score": 0.294,
-      "mood": "Positive",
+      "avg_score": 0.116,
+      "mood": "Mixed / Neutral",
       "positive": [
-        {
-          "title": "India won political freedom in 1947. Financial freedom is the next frontier",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-won-political-freedom-in-1947-financial-freedom-is-the-next-frontier/articleshow/133228405.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.92
-        },
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.869
+        },
+        {
+          "title": "US stocks: Capricor shares 77% soar as potential FDA lifeline revives Duchenne drug hopes",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-capricor-shares-70-soar-as-potential-fda-lifeline-revives-duchenne-drug-hopes/articleshow/133244529.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.765
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -24,25 +24,50 @@
           "score": 0.7
         },
         {
-          "title": "LTIMindtree Share Price Live Updates: LTIMindtree's strong performance in the last month",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-stock-price-live-updates-14-aug-2026/liveblog/133227832.cms",
+          "title": "Sebi mulls digital onboarding for individual foreign investors to boost participation in securities mkt",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-mulls-digital-onboarding-for-individual-foreign-investors-to-boost-participation-in-securities-mkt/articleshow/133245737.cms",
           "source": "Markets-Economic Times",
-          "score": 0.67
+          "score": 0.599
         },
         {
-          "title": "Optimystix Entertainment shares to debut today. Here's what GMP suggests ahead of listing",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/optimystix-entertainment-shares-to-debut-today-heres-what-gmp-suggests-ahead-of-listing/articleshow/133228471.cms",
+          "title": "Ashok Leyland Q1 profit rises 2% as revenue jumps 10% to Rs 10,750 crore",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ashok-leyland-q1-profit-rises-2-as-revenue-jumps-10-to-rs-10750-crore/articleshow/133245820.cms",
           "source": "Markets-Economic Times",
-          "score": 0.612
+          "score": 0.44
         }
       ],
-      "negative": [],
+      "negative": [
+        {
+          "title": "US stock: S&amp;P 500 ends lower as investors weigh data, Middle East tensions",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-sp-500-ends-lower-as-investors-weigh-data-middle-east-tensions/articleshow/133251425.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.599
+        },
+        {
+          "title": "US stocks: US markets trade muted as investors weigh Middle East tensions, data",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-mixed-as-investors-weigh-middle-east-tensions-data/articleshow/133243568.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.402
+        },
+        {
+          "title": "Nvidia\u2019s $500 billion plan envelops Wall Street in its AI frenzy",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-500-billion-plan-envelops-wall-street-in-its-ai-frenzy/articleshow/133249552.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.318
+        }
+      ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.094,
+      "avg_score": -0.107,
       "mood": "Mixed / Neutral",
       "positive": [
+        {
+          "title": "Disney CEO Josh D'Amaro tells CNBC parks were 'big surprise' in last quarter, company has 'clarity' and 'stability'",
+          "link": "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html",
+          "source": "Business News",
+          "score": 0.586
+        },
         {
           "title": "Baby products company Frida is expanding into kids\u2019 personal care",
           "link": "https://www.cnbc.com/2026/08/11/frida-kids-personal-care.html",
@@ -50,10 +75,10 @@
           "score": 0.494
         },
         {
-          "title": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
-          "link": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
+          "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
+          "link": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
           "source": "Business News",
-          "score": 0.421
+          "score": 0.475
         },
         {
           "title": "Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
@@ -70,10 +95,16 @@
       ],
       "negative": [
         {
-          "title": "Cyclospora fears lead consumers to lose their appetite for salads",
-          "link": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
+          "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+          "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.691
+        },
+        {
+          "title": "Housing investors say this is their worst market in at least 3 years",
+          "link": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html",
           "source": "Business News",
-          "score": -0.67
+          "score": -0.625
         },
         {
           "title": "I got an \u00a389 refund \u2013 how to cancel and  avoid unwanted subscriptions",
@@ -88,16 +119,10 @@
           "score": -0.612
         },
         {
-          "title": "Shein faces existential threat as tariffs hit low-price model, putting new focus on services",
-          "link": "https://www.cnbc.com/2026/08/10/shein-ipo-tariffs.html",
-          "source": "Business News",
-          "score": -0.527
-        },
-        {
-          "title": "Invitation Homes CEO says ban on institutional homebuying will bring down prices, but not immediately",
-          "link": "https://www.cnbc.com/2026/08/11/invitation-homes-ceo-institutional-homebuying-ban-prices.html",
-          "source": "Business News",
-          "score": -0.318
+          "title": "Selena Gomez sued for alleged fraud over mental health company",
+          "link": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.586
         }
       ],
       "sample_size": 20
