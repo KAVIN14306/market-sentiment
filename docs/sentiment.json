@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-15T02:58:01.229220Z",
+  "generated_at": "2026-08-16T03:07:04.497525Z",
   "regions": {
     "india": {
-      "avg_score": 0.116,
+      "avg_score": 0.106,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -12,10 +12,10 @@
           "score": 0.869
         },
         {
-          "title": "US stocks: Capricor shares 77% soar as potential FDA lifeline revives Duchenne drug hopes",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-capricor-shares-70-soar-as-potential-fda-lifeline-revives-duchenne-drug-hopes/articleshow/133244529.cms",
+          "title": "ETMarkets Smart Talk| Where is the value? Sachin Bajaj favours financials, healthcare, capex plays",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-where-is-the-value-sachin-bajaj-favours-financials-healthcare-capex-plays/articleshow/133258090.cms",
           "source": "Markets-Economic Times",
-          "score": 0.765
+          "score": 0.836
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -24,42 +24,48 @@
           "score": 0.7
         },
         {
-          "title": "Sebi mulls digital onboarding for individual foreign investors to boost participation in securities mkt",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-mulls-digital-onboarding-for-individual-foreign-investors-to-boost-participation-in-securities-mkt/articleshow/133245737.cms",
+          "title": "Three key milestones on the road to financial freedom",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/three-key-milestones-on-the-road-to-financial-freedom/articleshow/133256905.cms",
           "source": "Markets-Economic Times",
-          "score": 0.599
+          "score": 0.637
         },
         {
-          "title": "Ashok Leyland Q1 profit rises 2% as revenue jumps 10% to Rs 10,750 crore",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ashok-leyland-q1-profit-rises-2-as-revenue-jumps-10-to-rs-10750-crore/articleshow/133245820.cms",
+          "title": "Adani Enterprises, HDFC Bank among 10 stocks with highest increase in mutual fund holdings in value terms",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-hdfc-bank-among-10-stocks-with-highest-increase-in-mutual-fund-holdings-in-value-terms/slideshow/133257761.cms",
           "source": "Markets-Economic Times",
-          "score": 0.44
+          "score": 0.572
         }
       ],
       "negative": [
         {
-          "title": "US stock: S&amp;P 500 ends lower as investors weigh data, Middle East tensions",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-sp-500-ends-lower-as-investors-weigh-data-middle-east-tensions/articleshow/133251425.cms",
+          "title": "Bitcoin near $63,000 as weaker ETF demand and cancelled SEC meeting dampen crypto sentiment",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-63000-as-weaker-etf-demand-and-cancelled-sec-meeting-dampen-crypto-sentiment/articleshow/133259389.cms",
           "source": "Markets-Economic Times",
-          "score": -0.599
+          "score": -0.66
         },
         {
-          "title": "US stocks: US markets trade muted as investors weigh Middle East tensions, data",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-mixed-as-investors-weigh-middle-east-tensions-data/articleshow/133243568.cms",
+          "title": "Concurrent Losers: 11 stocks decline for 5 consecutive sessions",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-11-stocks-decline-for-5-consecutive-sessions/slideshow/133258683.cms",
           "source": "Markets-Economic Times",
-          "score": -0.402
+          "score": -0.527
         },
         {
-          "title": "Nvidia\u2019s $500 billion plan envelops Wall Street in its AI frenzy",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-500-billion-plan-envelops-wall-street-in-its-ai-frenzy/articleshow/133249552.cms",
+          "title": "Gold rises on weaker dollar as inflation data cements rate-hold bets",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-on-weaker-dollar-as-inflation-data-cements-rate-hold-bets/articleshow/133256537.cms",
           "source": "Markets-Economic Times",
-          "score": -0.318
+          "score": -0.44
+        },
+        {
+          "title": "Oil inches toward $90 on tanker attacks, lack of progress in Iran war peace deal",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-inches-toward-90-on-tanker-attacks-lack-of-progress-in-iran-war-peace-deal/articleshow/133256494.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.421
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.107,
+      "avg_score": -0.098,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -69,10 +75,10 @@
           "score": 0.586
         },
         {
-          "title": "Baby products company Frida is expanding into kids\u2019 personal care",
-          "link": "https://www.cnbc.com/2026/08/11/frida-kids-personal-care.html",
-          "source": "Business News",
-          "score": 0.494
+          "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+          "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.511
         },
         {
           "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
@@ -94,12 +100,6 @@
         }
       ],
       "negative": [
-        {
-          "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
-          "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.691
-        },
         {
           "title": "Housing investors say this is their worst market in at least 3 years",
           "link": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html",
@@ -123,6 +123,12 @@
           "link": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "score": -0.586
+        },
+        {
+          "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+          "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.542
         }
       ],
       "sample_size": 20
