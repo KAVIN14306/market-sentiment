@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-16T03:07:04.497525Z",
+  "generated_at": "2026-08-17T03:06:33.515127Z",
   "regions": {
     "india": {
-      "avg_score": 0.106,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.215,
+      "mood": "Positive",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -12,60 +12,48 @@
           "score": 0.869
         },
         {
-          "title": "ETMarkets Smart Talk| Where is the value? Sachin Bajaj favours financials, healthcare, capex plays",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-where-is-the-value-sachin-bajaj-favours-financials-healthcare-capex-plays/articleshow/133258090.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.836
-        },
-        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Three key milestones on the road to financial freedom",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/three-key-milestones-on-the-road-to-financial-freedom/articleshow/133256905.cms",
+          "title": "India Inc clocks strongest revenue growth in 9 quarters; margins squeezed by rising costs",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/india-inc-revenue-surges-19-4-in-q1-strongest-in-nine-quarters-driven-by-auto-banking-metals-pharma/articleshow/133284287.cms",
           "source": "Markets-Economic Times",
-          "score": 0.637
+          "score": 0.67
         },
         {
-          "title": "Adani Enterprises, HDFC Bank among 10 stocks with highest increase in mutual fund holdings in value terms",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-hdfc-bank-among-10-stocks-with-highest-increase-in-mutual-fund-holdings-in-value-terms/slideshow/133257761.cms",
+          "title": "Sensex Today | Stock Market LIVE Updates: GIFT Nifty signals a negative start; Asian shares trade mixed",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-voltas-cochin-shipward-share-price-17-august-2026/liveblog/133284863.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.59
+        },
+        {
+          "title": "Global Market Today: Asian shares mixed, dollar dips as Fed hike bets ease",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-mixed-dollar-dips-as-fed-hike-bets-ease/articleshow/133284332.cms",
           "source": "Markets-Economic Times",
           "score": 0.572
         }
       ],
       "negative": [
         {
-          "title": "Bitcoin near $63,000 as weaker ETF demand and cancelled SEC meeting dampen crypto sentiment",
-          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-63000-as-weaker-etf-demand-and-cancelled-sec-meeting-dampen-crypto-sentiment/articleshow/133259389.cms",
+          "title": "Oil Price Today (August 17): Crude oil approaches $90 again amid no breakthrough in Iran war talks. What\u2019s next?",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-17-crude-oil-approaches-90-again-amid-no-breakthrough-in-iran-war-talks-whats-next/articleshow/133284844.cms",
           "source": "Markets-Economic Times",
-          "score": -0.66
+          "score": -0.869
         },
         {
-          "title": "Concurrent Losers: 11 stocks decline for 5 consecutive sessions",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-11-stocks-decline-for-5-consecutive-sessions/slideshow/133258683.cms",
+          "title": "Negative Breakout: These 9 stocks cross below their 200 DMAs",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-9-stocks-cross-below-their-200-dmas/slideshow/133284958.cms",
           "source": "Markets-Economic Times",
-          "score": -0.527
-        },
-        {
-          "title": "Gold rises on weaker dollar as inflation data cements rate-hold bets",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-on-weaker-dollar-as-inflation-data-cements-rate-hold-bets/articleshow/133256537.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.44
-        },
-        {
-          "title": "Oil inches toward $90 on tanker attacks, lack of progress in Iran war peace deal",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-inches-toward-90-on-tanker-attacks-lack-of-progress-in-iran-war-peace-deal/articleshow/133256494.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.421
+          "score": -0.572
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.098,
+      "avg_score": -0.028,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -107,28 +95,28 @@
           "score": -0.625
         },
         {
-          "title": "I got an \u00a389 refund \u2013 how to cancel and  avoid unwanted subscriptions",
-          "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.625
-        },
-        {
           "title": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
           "link": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
           "source": "Business News",
           "score": -0.612
         },
         {
-          "title": "Selena Gomez sued for alleged fraud over mental health company",
-          "link": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.586
-        },
-        {
           "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
           "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "score": -0.542
+        },
+        {
+          "title": "Invitation Homes CEO says ban on institutional homebuying will bring down prices, but not immediately",
+          "link": "https://www.cnbc.com/2026/08/11/invitation-homes-ceo-institutional-homebuying-ban-prices.html",
+          "source": "Business News",
+          "score": -0.318
+        },
+        {
+          "title": "If Meta loses this trial, Instagram and Facebook could change forever",
+          "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.318
         }
       ],
       "sample_size": 20
