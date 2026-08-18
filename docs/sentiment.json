@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17T03:06:33.515127Z",
+  "generated_at": "2026-08-18T03:02:31.248455Z",
   "regions": {
     "india": {
-      "avg_score": 0.215,
+      "avg_score": 0.249,
       "mood": "Positive",
       "positive": [
         {
@@ -18,42 +18,42 @@
           "score": 0.7
         },
         {
-          "title": "India Inc clocks strongest revenue growth in 9 quarters; margins squeezed by rising costs",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/india-inc-revenue-surges-19-4-in-q1-strongest-in-nine-quarters-driven-by-auto-banking-metals-pharma/articleshow/133284287.cms",
+          "title": "Oil climbs as fading US-Iran peace hopes raise supply risks",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-as-fading-us-iran-peace-hopes-raise-supply-risks/articleshow/133309237.cms",
           "source": "Markets-Economic Times",
-          "score": 0.67
+          "score": 0.637
         },
         {
-          "title": "Sensex Today | Stock Market LIVE Updates: GIFT Nifty signals a negative start; Asian shares trade mixed",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-voltas-cochin-shipward-share-price-17-august-2026/liveblog/133284863.cms",
+          "title": "Strong earnings propel mid- and small-cap stocks to a significant rally on D-St",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/strong-earnings-support-mid-small-caps-d-street-run/articleshow/133308944.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.625
+        },
+        {
+          "title": "Sensex Today | Stock Market LIVE Updates: GIFT Nifty signals a negative start; Asian shares trade higher",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-airtel-paytm-share-price-18-august-2026/liveblog/133309391.cms",
           "source": "Markets-Economic Times",
           "score": 0.59
-        },
-        {
-          "title": "Global Market Today: Asian shares mixed, dollar dips as Fed hike bets ease",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-mixed-dollar-dips-as-fed-hike-bets-ease/articleshow/133284332.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.572
         }
       ],
       "negative": [
         {
-          "title": "Oil Price Today (August 17): Crude oil approaches $90 again amid no breakthrough in Iran war talks. What\u2019s next?",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-17-crude-oil-approaches-90-again-amid-no-breakthrough-in-iran-war-talks-whats-next/articleshow/133284844.cms",
+          "title": "Dollar feeble as rate hike bets dwindle, Iran war worries grow",
+          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-feeble-as-rate-hike-bets-dwindle-iran-war-worries-grow/articleshow/133309496.cms",
           "source": "Markets-Economic Times",
-          "score": -0.869
+          "score": -0.836
         },
         {
-          "title": "Negative Breakout: These 9 stocks cross below their 200 DMAs",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-9-stocks-cross-below-their-200-dmas/slideshow/133284958.cms",
+          "title": "Zaggle plummets to 52-week low after disappointing Q1 results",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zaggle-prepaid-ocean-services-stock-plummets-to-52-week-low-after-disappointing-q1-results/articleshow/133308996.cms",
           "source": "Markets-Economic Times",
-          "score": -0.572
+          "score": -0.649
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.028,
+      "avg_score": 0.065,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -63,10 +63,16 @@
           "score": 0.586
         },
         {
-          "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-          "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+          "title": "What will TV look like in three years? Media insiders share their predictions",
+          "link": "https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html",
+          "source": "Business News",
+          "score": 0.572
+        },
+        {
+          "title": "To joke or not to joke?: How to write a good out-of-office message",
+          "link": "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": 0.511
+          "score": 0.496
         },
         {
           "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
@@ -79,12 +85,6 @@
           "link": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html",
           "source": "Business News",
           "score": 0.402
-        },
-        {
-          "title": "Home Depot CEO taking temporary medical leave, two top execs to run the retailer",
-          "link": "https://www.cnbc.com/2026/08/12/home-depot-ceo-ted-decker-medical-leave.html",
-          "source": "Business News",
-          "score": 0.153
         }
       ],
       "negative": [
@@ -95,28 +95,22 @@
           "score": -0.625
         },
         {
-          "title": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
-          "link": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
-          "source": "Business News",
-          "score": -0.612
-        },
-        {
-          "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
-          "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+          "title": "Fifa official sacked after Infantino plan criticism",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.542
+          "score": -0.44
         },
         {
-          "title": "Invitation Homes CEO says ban on institutional homebuying will bring down prices, but not immediately",
-          "link": "https://www.cnbc.com/2026/08/11/invitation-homes-ceo-institutional-homebuying-ban-prices.html",
+          "title": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
+          "link": "https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.html",
           "source": "Business News",
           "score": -0.318
         },
         {
-          "title": "If Meta loses this trial, Instagram and Facebook could change forever",
-          "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.318
+          "title": "Why Jensen Huang\u2019s $500 billion AI financing plan faces a big risk from China",
+          "link": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+          "source": "Business News",
+          "score": -0.273
         }
       ],
       "sample_size": 20
