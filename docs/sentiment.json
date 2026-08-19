@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18T03:02:31.248455Z",
+  "generated_at": "2026-08-19T03:04:15.508395Z",
   "regions": {
     "india": {
-      "avg_score": 0.249,
+      "avg_score": 0.282,
       "mood": "Positive",
       "positive": [
         {
@@ -12,48 +12,48 @@
           "score": 0.869
         },
         {
+          "title": "Sensex Today | Nifty 50 | Stock Market LIVE Updates: GIFT Nifty signals a muted start; Asian shares trade lower",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ongc-bpcl-share-price-19-august-2026/liveblog/133335256.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.842
+        },
+        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Oil climbs as fading US-Iran peace hopes raise supply risks",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-as-fading-us-iran-peace-hopes-raise-supply-risks/articleshow/133309237.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.637
-        },
-        {
-          "title": "Strong earnings propel mid- and small-cap stocks to a significant rally on D-St",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/strong-earnings-support-mid-small-caps-d-street-run/articleshow/133308944.cms",
+          "title": "Can Gaja Alternative Asset Management IPO deliver long-term growth for high-risk investors?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/returns-speak-a-lot-for-gaja-alternative-asset-management-as-funding-stays-a-risky-bet/articleshow/133334804.cms",
           "source": "Markets-Economic Times",
           "score": 0.625
         },
         {
-          "title": "Sensex Today | Stock Market LIVE Updates: GIFT Nifty signals a negative start; Asian shares trade higher",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-airtel-paytm-share-price-18-august-2026/liveblog/133309391.cms",
+          "title": "Shiprocket shares to list today; GMP signals 37% listing gains",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/shiprocket-shares-to-list-today-gmp-signals-37-listing-gains/articleshow/133335398.cms",
           "source": "Markets-Economic Times",
-          "score": 0.59
+          "score": 0.557
         }
       ],
       "negative": [
         {
-          "title": "Dollar feeble as rate hike bets dwindle, Iran war worries grow",
-          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-feeble-as-rate-hike-bets-dwindle-iran-war-worries-grow/articleshow/133309496.cms",
+          "title": "Negative Breakout: These 13 stocks cross below their 200 DMAs",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-13-stocks-cross-below-their-200-dmas/slideshow/133335353.cms",
           "source": "Markets-Economic Times",
-          "score": -0.836
+          "score": -0.572
         },
         {
-          "title": "Zaggle plummets to 52-week low after disappointing Q1 results",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zaggle-prepaid-ocean-services-stock-plummets-to-52-week-low-after-disappointing-q1-results/articleshow/133308996.cms",
+          "title": "Oil edges up on uncertainty over exports through Hormuz",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-edges-up-on-uncertainty-over-exports-through-hormuz/articleshow/133335197.cms",
           "source": "Markets-Economic Times",
-          "score": -0.649
+          "score": -0.34
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.065,
+      "avg_score": 0.021,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -69,22 +69,22 @@
           "score": 0.572
         },
         {
-          "title": "To joke or not to joke?: How to write a good out-of-office message",
-          "link": "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.496
-        },
-        {
           "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
           "link": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
           "source": "Business News",
           "score": 0.475
         },
         {
-          "title": "Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
-          "link": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html",
+          "title": "American Airlines to add seatback screens, bigger first class in race to catch up to Delta and United",
+          "link": "https://www.cnbc.com/2026/08/18/american-airlines-seatback-screens.html",
           "source": "Business News",
-          "score": 0.402
+          "score": 0.421
+        },
+        {
+          "title": "Credit card issuer Synchrony announces partnership with OpenAI",
+          "link": "https://www.cnbc.com/2026/08/17/synchrony-openai.html",
+          "source": "Business News",
+          "score": 0.382
         }
       ],
       "negative": [
@@ -95,10 +95,16 @@
           "score": -0.625
         },
         {
-          "title": "Fifa official sacked after Infantino plan criticism",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+          "title": "'Banned over a pair of \u00a32 sandals': Why some sellers are complaining about Vinted",
+          "link": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.44
+          "score": -0.586
+        },
+        {
+          "title": "Hims & Hers CEO says FTC lawsuit misunderstands how the company works",
+          "link": "https://www.cnbc.com/2026/08/18/hims-hers-ceo-andrew-dudum-ftc-lawsuit-glp-1s-ai.html",
+          "source": "Business News",
+          "score": -0.494
         },
         {
           "title": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
@@ -107,10 +113,10 @@
           "score": -0.318
         },
         {
-          "title": "Why Jensen Huang\u2019s $500 billion AI financing plan faces a big risk from China",
-          "link": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+          "title": "Disney-owned ABC files First Amendment lawsuit against FCC",
+          "link": "https://www.cnbc.com/2026/08/18/disney-abc-first-amendment-lawsuit-fcc.html",
           "source": "Business News",
-          "score": -0.273
+          "score": -0.226
         }
       ],
       "sample_size": 20
