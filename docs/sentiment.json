@@ -1,16 +1,10 @@
 {
-  "generated_at": "2026-08-21T03:10:02.846554Z",
+  "generated_at": "2026-08-22T03:00:44.933966Z",
   "regions": {
     "india": {
-      "avg_score": 0.388,
-      "mood": "Positive",
+      "avg_score": 0.084,
+      "mood": "Mixed / Neutral",
       "positive": [
-        {
-          "title": "Sensex Today | Stock Market LIVE Updates: GIFT Nifty signals a positive start; Asian shares trade lower",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-bpcl-hal-share-price-21-august-2026/liveblog/133390893.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.873
-        },
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -24,32 +18,74 @@
           "score": 0.7
         },
         {
-          "title": "ETMarkets Smart Talk | India\u2019s next growth leaders? Bajaj Alts\u2019 Jitendra Gohil bets on electronics, solar, defence",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-indias-next-growth-leaders-bajaj-alts-jitendra-gohil-bets-on-electronics-solar-defence/articleshow/133391126.cms",
+          "title": "Memory stocks face headwinds as 'smart money' walks out",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/memory-stocks-face-headwinds-as-smart-money-walks-out/articleshow/133416138.cms",
           "source": "Markets-Economic Times",
-          "score": 0.691
+          "score": 0.402
         },
         {
-          "title": "Dividend alert! Last day to buy Senco Gold, NALCO among 10 stocks for dividend rewards",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-senco-gold-nalco-among-10-stocks-for-dividend-rewards/articleshow/133390915.cms",
+          "title": "Sebi proposes new channel partner network to boost retail bond access",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/sebi-proposes-new-channel-partner-network-to-boost-retail-bond-access/articleshow/133416068.cms",
           "source": "Markets-Economic Times",
-          "score": 0.68
+          "score": 0.402
+        },
+        {
+          "title": "Can Skyways Air Services IPO deliver long-term growth for high-risk investors?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-skyways-air-services-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133416205.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.382
         }
       ],
       "negative": [
         {
-          "title": "Oil set for second weekly rise as unsettled US-Iran war crimps supply",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-set-for-second-weekly-rise-as-unsettled-us-iran-war-crimps-supply/articleshow/133390801.cms",
+          "title": "Gold rallies to 3-month high on weaker dollar, bullish technicals",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/gold-rallies-to-3-month-high-on-weaker-dollar-bullish-technicals/articleshow/133407758.cms",
           "source": "Markets-Economic Times",
-          "score": -0.735
+          "score": -0.44
+        },
+        {
+          "title": "India bond yields hit two-month high as rate hike fears intensify",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bond-yields-hit-two-month-high-as-rate-hike-fears-intensify/articleshow/133407966.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.421
+        },
+        {
+          "title": "Banks ride RBI swap wave to raise $12 billion via overseas debt",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/banks-ride-rbi-swap-wave-to-raise-12-billion-via-overseas-debt/articleshow/133415906.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.361
+        },
+        {
+          "title": "FIIs near historical lows: Jio BlackRock flags potential contrarian setup for Indian equities",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-near-historical-lows-jio-blackrock-flags-potential-contrarian-setup-for-indian-equities/articleshow/133407830.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.202
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.113,
+      "avg_score": 0.029,
       "mood": "Mixed / Neutral",
       "positive": [
+        {
+          "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
+          "link": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.631
+        },
+        {
+          "title": "New York unseats San Francisco as the top market for tech talent, CBRE reports",
+          "link": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
+          "source": "Business News",
+          "score": 0.557
+        },
+        {
+          "title": "Most Americans aren't anti-vaccine. They're uncertain \u2014 and that's a growing public health challenge",
+          "link": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html",
+          "source": "Business News",
+          "score": 0.438
+        },
         {
           "title": "American Airlines to add seatback screens, bigger first class in race to catch up to Delta and United",
           "link": "https://www.cnbc.com/2026/08/18/american-airlines-seatback-screens.html",
@@ -57,28 +93,10 @@
           "score": 0.421
         },
         {
-          "title": "Millennials are struggling to buy a home - but is it actually getting easier?",
-          "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.421
-        },
-        {
           "title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
           "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
           "source": "Business News",
           "score": 0.402
-        },
-        {
-          "title": "Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales",
-          "link": "https://www.cnbc.com/2026/08/18/sea-ray-parent-brunswick-ai-recurring-revenue-boat-sales.html",
-          "source": "Business News",
-          "score": 0.226
-        },
-        {
-          "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
-          "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
-          "source": "Business News",
-          "score": 0.202
         }
       ],
       "negative": [
@@ -87,18 +105,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "score": -0.718
-        },
-        {
-          "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
-          "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.572
-        },
-        {
-          "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-          "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.527
         },
         {
           "title": "Hims & Hers CEO says FTC lawsuit misunderstands how the company works",
@@ -111,6 +117,18 @@
           "link": "https://www.cnbc.com/2026/08/20/wealthy-families-aging-parents-succession.html",
           "source": "Business News",
           "score": -0.459
+        },
+        {
+          "title": "Why some of America's biggest brands are losing ground in China",
+          "link": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html",
+          "source": "Business News",
+          "score": -0.382
+        },
+        {
+          "title": "Walmart stock tumbles 9% after outlook disappoints Wall Street",
+          "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+          "source": "Business News",
+          "score": -0.382
         }
       ],
       "sample_size": 20
