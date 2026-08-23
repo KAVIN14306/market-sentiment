@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-22T03:00:44.933966Z",
+  "generated_at": "2026-08-23T03:09:51.424823Z",
   "regions": {
     "india": {
-      "avg_score": 0.084,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.22,
+      "mood": "Positive",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -18,54 +18,36 @@
           "score": 0.7
         },
         {
-          "title": "Memory stocks face headwinds as 'smart money' walks out",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/memory-stocks-face-headwinds-as-smart-money-walks-out/articleshow/133416138.cms",
+          "title": "Dalal Street Week Ahead: Selective buying favoured as Nifty remains rangebound",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-selective-buying-favoured-as-nifty-remains-range-bound/articleshow/133423333.cms",
           "source": "Markets-Economic Times",
-          "score": 0.402
+          "score": 0.67
         },
         {
-          "title": "Sebi proposes new channel partner network to boost retail bond access",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/sebi-proposes-new-channel-partner-network-to-boost-retail-bond-access/articleshow/133416068.cms",
+          "title": "Bitcoin surges 23% in 1 week to trade nearly $78K as liquidity hopes, ETF inflows boost crypto markets",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-surges-23-in-1-week-to-trade-nearly-78k-as-liquidity-hopes-etf-inflows-boost-crypto-markets/articleshow/133420463.cms",
           "source": "Markets-Economic Times",
-          "score": 0.402
+          "score": 0.67
         },
         {
-          "title": "Can Skyways Air Services IPO deliver long-term growth for high-risk investors?",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-skyways-air-services-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133416205.cms",
+          "title": "Freedom Oils maker Gemini Edibles &amp; Fats India files DRHP with Sebi for IPO",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/freedom-oils-maker-gemini-edibles-fats-india-files-drhp-with-sebi-for-ipo/articleshow/133421580.cms",
           "source": "Markets-Economic Times",
-          "score": 0.382
+          "score": 0.637
         }
       ],
       "negative": [
         {
-          "title": "Gold rallies to 3-month high on weaker dollar, bullish technicals",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/gold-rallies-to-3-month-high-on-weaker-dollar-bullish-technicals/articleshow/133407758.cms",
+          "title": "CAS chaos triggers liquidity spiral: Nuvama says higher participation needed to break cycle",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-triggers-liquidity-spiral-nuvama-says-higher-participation-needed-to-break-cycle/articleshow/133421238.cms",
           "source": "Markets-Economic Times",
-          "score": -0.44
-        },
-        {
-          "title": "India bond yields hit two-month high as rate hike fears intensify",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bond-yields-hit-two-month-high-as-rate-hike-fears-intensify/articleshow/133407966.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.421
-        },
-        {
-          "title": "Banks ride RBI swap wave to raise $12 billion via overseas debt",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/banks-ride-rbi-swap-wave-to-raise-12-billion-via-overseas-debt/articleshow/133415906.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.361
-        },
-        {
-          "title": "FIIs near historical lows: Jio BlackRock flags potential contrarian setup for Indian equities",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-near-historical-lows-jio-blackrock-flags-potential-contrarian-setup-for-indian-equities/articleshow/133407830.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.202
+          "score": -0.572
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.029,
+      "avg_score": 0.026,
       "mood": "Mixed / Neutral",
       "positive": [
         {
