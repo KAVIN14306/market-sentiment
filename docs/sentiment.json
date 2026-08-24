@@ -1,10 +1,16 @@
 {
-  "generated_at": "2026-08-23T03:09:51.424823Z",
+  "generated_at": "2026-08-24T03:10:48.704411Z",
   "regions": {
     "india": {
-      "avg_score": 0.22,
-      "mood": "Positive",
+      "avg_score": 0.107,
+      "mood": "Mixed / Neutral",
       "positive": [
+        {
+          "title": "Sensex Today | Stock Market LIVE Updates: GIFT Nifty signals a positive start; Asian shares trade lower",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ril-bob-share-price-24-august-2026/liveblog/133449346.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.873
+        },
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -18,49 +24,61 @@
           "score": 0.7
         },
         {
-          "title": "Dalal Street Week Ahead: Selective buying favoured as Nifty remains rangebound",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-selective-buying-favoured-as-nifty-remains-range-bound/articleshow/133423333.cms",
+          "title": "PolicyBazaar technical setup turns positive; SMC Global\u2019s Shitij Gandhi recommends buying on dips",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/policybazaar-technical-setup-turns-positive-smc-globals-shitij-gandhi-recommends-buying-on-dips/videoshow/133421509.cms",
           "source": "Markets-Economic Times",
           "score": 0.67
         },
         {
-          "title": "Bitcoin surges 23% in 1 week to trade nearly $78K as liquidity hopes, ETF inflows boost crypto markets",
-          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-surges-23-in-1-week-to-trade-nearly-78k-as-liquidity-hopes-etf-inflows-boost-crypto-markets/articleshow/133420463.cms",
+          "title": "Stocks to buy in 2026 for long term: Jubilant FoodWorks, Max Financial among 5 stocks that could give 10-30% return",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-jubilant-foodworks-max-financial-among-5-stocks-that-could-give-10-30-return/slideshow/133449559.cms",
           "source": "Markets-Economic Times",
-          "score": 0.67
-        },
-        {
-          "title": "Freedom Oils maker Gemini Edibles &amp; Fats India files DRHP with Sebi for IPO",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/freedom-oils-maker-gemini-edibles-fats-india-files-drhp-with-sebi-for-ipo/articleshow/133421580.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.637
+          "score": 0.612
         }
       ],
       "negative": [
         {
-          "title": "CAS chaos triggers liquidity spiral: Nuvama says higher participation needed to break cycle",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-triggers-liquidity-spiral-nuvama-says-higher-participation-needed-to-break-cycle/articleshow/133421238.cms",
+          "title": "Oil Price Today (August 24): Crude oil slips below $93 ahead of US sanctions announcement on Iran. What are experts saying?",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-24-crude-oil-slips-below-93-ahead-of-us-sanctions-announcement-on-iran-what-are-experts-saying/articleshow/133449404.cms",
           "source": "Markets-Economic Times",
           "score": -0.572
+        },
+        {
+          "title": "Negative Breakout: These 7 stocks cross below their 200 DMAs",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-7-stocks-cross-below-their-200-dmas/slideshow/133449630.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.572
+        },
+        {
+          "title": "Dollar trading near multi-month lows, restrained by debt nerves",
+          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-trading-near-multi-month-lows-restrained-by-debt-nerves/articleshow/133449298.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.572
+        },
+        {
+          "title": "Derivatives get gen Z twist, but losses cast a long shadow: Sebi",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/derivatives-get-gen-z-twist-but-losses-cast-a-long-shadow-sebi/articleshow/133448921.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.55
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.026,
+      "avg_score": 0.103,
       "mood": "Mixed / Neutral",
       "positive": [
-        {
-          "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
-          "link": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.631
-        },
         {
           "title": "New York unseats San Francisco as the top market for tech talent, CBRE reports",
           "link": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
           "source": "Business News",
           "score": 0.557
+        },
+        {
+          "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
+          "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
+          "source": "Business News",
+          "score": 0.542
         },
         {
           "title": "Most Americans aren't anti-vaccine. They're uncertain \u2014 and that's a growing public health challenge",
@@ -69,8 +87,8 @@
           "score": 0.438
         },
         {
-          "title": "American Airlines to add seatback screens, bigger first class in race to catch up to Delta and United",
-          "link": "https://www.cnbc.com/2026/08/18/american-airlines-seatback-screens.html",
+          "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
+          "link": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
           "source": "Business News",
           "score": 0.421
         },
@@ -83,22 +101,16 @@
       ],
       "negative": [
         {
-          "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-          "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.718
-        },
-        {
-          "title": "Hims & Hers CEO says FTC lawsuit misunderstands how the company works",
-          "link": "https://www.cnbc.com/2026/08/18/hims-hers-ceo-andrew-dudum-ftc-lawsuit-glp-1s-ai.html",
-          "source": "Business News",
-          "score": -0.494
-        },
-        {
           "title": "How wealthy families can prepare for aging parents and avoid a succession crisis",
           "link": "https://www.cnbc.com/2026/08/20/wealthy-families-aging-parents-succession.html",
           "source": "Business News",
           "score": -0.459
+        },
+        {
+          "title": "'I didn't speak the Queen's English': Why people worry about their accents",
+          "link": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.44
         },
         {
           "title": "Why some of America's biggest brands are losing ground in China",
