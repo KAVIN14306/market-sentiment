@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-24T03:10:48.704411Z",
+  "generated_at": "2026-08-25T03:06:11.963604Z",
   "regions": {
     "india": {
-      "avg_score": 0.107,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.181,
+      "mood": "Positive",
       "positive": [
-        {
-          "title": "Sensex Today | Stock Market LIVE Updates: GIFT Nifty signals a positive start; Asian shares trade lower",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ril-bob-share-price-24-august-2026/liveblog/133449346.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.873
-        },
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.869
+        },
+        {
+          "title": "Sunshine Pictures shares set for debut today; GMP signals 14% listing gains",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sunshine-pictures-shares-set-for-debut-today-gmp-signals-14-listing-gains/articleshow/133487607.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.778
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -24,48 +24,42 @@
           "score": 0.7
         },
         {
-          "title": "PolicyBazaar technical setup turns positive; SMC Global\u2019s Shitij Gandhi recommends buying on dips",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/policybazaar-technical-setup-turns-positive-smc-globals-shitij-gandhi-recommends-buying-on-dips/videoshow/133421509.cms",
+          "title": "Stock split alert! Last day to buy this recently-listed travel firm's shares after over 50% rally in 2 months",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-split-alert-last-day-to-buy-this-recently-listed-travel-firms-shares-after-over-50-rally-in-2-months/articleshow/133487549.cms",
           "source": "Markets-Economic Times",
-          "score": 0.67
+          "score": 0.571
         },
         {
-          "title": "Stocks to buy in 2026 for long term: Jubilant FoodWorks, Max Financial among 5 stocks that could give 10-30% return",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-jubilant-foodworks-max-financial-among-5-stocks-that-could-give-10-30-return/slideshow/133449559.cms",
+          "title": "Positive Breakout: These 8 stocks cross above their 200 DMAs",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-8-stocks-cross-above-their-200-dmas/slideshow/133487410.cms",
           "source": "Markets-Economic Times",
-          "score": 0.612
+          "score": 0.557
         }
       ],
       "negative": [
         {
-          "title": "Oil Price Today (August 24): Crude oil slips below $93 ahead of US sanctions announcement on Iran. What are experts saying?",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-24-crude-oil-slips-below-93-ahead-of-us-sanctions-announcement-on-iran-what-are-experts-saying/articleshow/133449404.cms",
+          "title": "Sensex logs worst two-year return trend since 2012",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-stock-markets-deliver-negative-returns-for-two-years-worst-since-2012-et-analysis-reveals/articleshow/133486955.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.625
+        },
+        {
+          "title": "Oil Price Today (August 25): Crude oil at $92 as investors digest US economic sanctions on Iran. What\u2019s next for investors?",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-25-crude-oil-at-92-as-investors-digest-us-economic-sanctions-on-iran-whats-next-for-investors/articleshow/133487237.cms",
           "source": "Markets-Economic Times",
           "score": -0.572
         },
         {
-          "title": "Negative Breakout: These 7 stocks cross below their 200 DMAs",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-7-stocks-cross-below-their-200-dmas/slideshow/133449630.cms",
+          "title": "Dollar struggles for traction as markets weigh Iran sanctions, Treasury buybacks",
+          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-struggles-for-traction-as-markets-weigh-iran-sanctions-treasury-buybacks/articleshow/133487188.cms",
           "source": "Markets-Economic Times",
-          "score": -0.572
-        },
-        {
-          "title": "Dollar trading near multi-month lows, restrained by debt nerves",
-          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-trading-near-multi-month-lows-restrained-by-debt-nerves/articleshow/133449298.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.572
-        },
-        {
-          "title": "Derivatives get gen Z twist, but losses cast a long shadow: Sebi",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/derivatives-get-gen-z-twist-but-losses-cast-a-long-shadow-sebi/articleshow/133448921.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.55
+          "score": -0.178
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.103,
+      "avg_score": 0.047,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -81,6 +75,12 @@
           "score": 0.542
         },
         {
+          "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+          "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.459
+        },
+        {
           "title": "Most Americans aren't anti-vaccine. They're uncertain \u2014 and that's a growing public health challenge",
           "link": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html",
           "source": "Business News",
@@ -91,26 +91,14 @@
           "link": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
           "source": "Business News",
           "score": 0.421
-        },
-        {
-          "title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
-          "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
-          "source": "Business News",
-          "score": 0.402
         }
       ],
       "negative": [
         {
-          "title": "How wealthy families can prepare for aging parents and avoid a succession crisis",
-          "link": "https://www.cnbc.com/2026/08/20/wealthy-families-aging-parents-succession.html",
-          "source": "Business News",
-          "score": -0.459
-        },
-        {
-          "title": "'I didn't speak the Queen's English': Why people worry about their accents",
-          "link": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss",
+          "title": "How Canada could hit back to hurt the US economy - and Trump",
+          "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.44
+          "score": -0.527
         },
         {
           "title": "Why some of America's biggest brands are losing ground in China",
@@ -119,10 +107,22 @@
           "score": -0.382
         },
         {
-          "title": "Walmart stock tumbles 9% after outlook disappoints Wall Street",
-          "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+          "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+          "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
           "source": "Business News",
-          "score": -0.382
+          "score": -0.361
+        },
+        {
+          "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
+          "link": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
+          "source": "Business News",
+          "score": -0.292
+        },
+        {
+          "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
+          "link": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
+          "source": "Business News",
+          "score": -0.273
         }
       ],
       "sample_size": 20
