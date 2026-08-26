@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-25T03:06:11.963604Z",
+  "generated_at": "2026-08-26T03:12:48.948069Z",
   "regions": {
     "india": {
-      "avg_score": 0.181,
+      "avg_score": 0.192,
       "mood": "Positive",
       "positive": [
+        {
+          "title": "Sensex Today | Nifty 50 | Stock Market LIVE Updates: GIFT Nifty signals a positive start; Asian shares trade mixed",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-groww-tata-motors-pv-share-price-26-august-2026/liveblog/133527446.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.93
+        },
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.869
-        },
-        {
-          "title": "Sunshine Pictures shares set for debut today; GMP signals 14% listing gains",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sunshine-pictures-shares-set-for-debut-today-gmp-signals-14-listing-gains/articleshow/133487607.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.778
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -24,49 +24,43 @@
           "score": 0.7
         },
         {
-          "title": "Stock split alert! Last day to buy this recently-listed travel firm's shares after over 50% rally in 2 months",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-split-alert-last-day-to-buy-this-recently-listed-travel-firms-shares-after-over-50-rally-in-2-months/articleshow/133487549.cms",
+          "title": "Gaja Alternative Asset shares to list today. Check GMP ahead of debut",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/gaja-alternative-asset-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/133527367.cms",
           "source": "Markets-Economic Times",
-          "score": 0.571
+          "score": 0.572
         },
         {
-          "title": "Positive Breakout: These 8 stocks cross above their 200 DMAs",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-8-stocks-cross-above-their-200-dmas/slideshow/133487410.cms",
+          "title": "ETMarkets Smart Talk | Large caps look better for next 24 months, but hidden gems remain in smallcaps: Divam Sharma",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-large-caps-look-better-for-next-24-months-but-hidden-gems-remain-in-smallcaps-divam-sharma/articleshow/133528026.cms",
           "source": "Markets-Economic Times",
-          "score": 0.557
+          "score": 0.421
         }
       ],
       "negative": [
         {
-          "title": "Sensex logs worst two-year return trend since 2012",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-stock-markets-deliver-negative-returns-for-two-years-worst-since-2012-et-analysis-reveals/articleshow/133486955.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.625
-        },
-        {
-          "title": "Oil Price Today (August 25): Crude oil at $92 as investors digest US economic sanctions on Iran. What\u2019s next for investors?",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-25-crude-oil-at-92-as-investors-digest-us-economic-sanctions-on-iran-whats-next-for-investors/articleshow/133487237.cms",
+          "title": "Oil Price Today (August 26): Crude oil tanks 6% in two days to hover near $85. What\u2019s behind the decline?",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-26-crude-oil-tanks-6-in-two-days-to-hover-near-85-whats-behind-the-decline/articleshow/133527538.cms",
           "source": "Markets-Economic Times",
           "score": -0.572
-        },
-        {
-          "title": "Dollar struggles for traction as markets weigh Iran sanctions, Treasury buybacks",
-          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-struggles-for-traction-as-markets-weigh-iran-sanctions-treasury-buybacks/articleshow/133487188.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.178
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.047,
+      "avg_score": 0.143,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "New York unseats San Francisco as the top market for tech talent, CBRE reports",
-          "link": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
+          "title": "Lego posts record first-half revenue, CEO touts strong sales at high-end and value pricing",
+          "link": "https://www.cnbc.com/2026/08/25/lego-first-half-2026-revenue.html",
           "source": "Business News",
-          "score": 0.557
+          "score": 0.681
+        },
+        {
+          "title": "Investor competition for commercial real estate sees strongest growth in a year",
+          "link": "https://www.cnbc.com/2026/08/25/cre-investor-competition-sees-strongest-growth-in-a-year.html",
+          "source": "Business News",
+          "score": 0.67
         },
         {
           "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
@@ -75,37 +69,19 @@
           "score": 0.542
         },
         {
-          "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-          "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+          "title": "Back to school: How to save on uniform costs",
+          "link": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": 0.459
+          "score": 0.494
         },
         {
-          "title": "Most Americans aren't anti-vaccine. They're uncertain \u2014 and that's a growing public health challenge",
-          "link": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html",
-          "source": "Business News",
-          "score": 0.438
-        },
-        {
-          "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
-          "link": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
+          "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
+          "link": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
           "source": "Business News",
           "score": 0.421
         }
       ],
       "negative": [
-        {
-          "title": "How Canada could hit back to hurt the US economy - and Trump",
-          "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.527
-        },
-        {
-          "title": "Why some of America's biggest brands are losing ground in China",
-          "link": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html",
-          "source": "Business News",
-          "score": -0.382
-        },
         {
           "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
           "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
