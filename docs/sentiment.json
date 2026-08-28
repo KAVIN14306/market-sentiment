@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-27T12:42:13.461863Z",
+  "generated_at": "2026-08-28T14:15:41.957695Z",
   "regions": {
     "india": {
-      "avg_score": 0.046,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.2,
+      "mood": "Positive",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -12,62 +12,50 @@
           "score": 0.869
         },
         {
-          "title": "13 midcap firms deliver over 25% profit growth for two straight quarters; shares surge up to 118%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/13-midcap-stocks-deliver-over-25-profit-growth-for-two-straight-quarters-shares-surge-up-to-118/slideshow/133564831.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.823
-        },
-        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Rupee dips, reversing intraday gains, as importer dollar demand dominates",
-          "link": "https://economictimes.indiatimes.com/markets/forex/rupee-dips-reversing-intraday-gains-as-importer-dollar-demand-dominates/articleshow/133565236.cms",
+          "title": "Where to invest as market headwinds ease: Motilal Oswal backs mid and smallcaps, favours gold over silver",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/where-to-invest-as-market-headwinds-ease-motilal-oswal-backs-mid-and-smallcaps-favours-gold-over-silver/articleshow/133589404.cms",
           "source": "Markets-Economic Times",
-          "score": 0.273
+          "score": 0.625
+        },
+        {
+          "title": "Reliance Jio IPO approved: Is it too late to buy RIL shares to be eligible for shareholder quota?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-approved-is-it-too-late-to-buy-ril-shares-to-be-eligible-for-shareholder-quota/articleshow/133592960.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.612
+        },
+        {
+          "title": "Global Markets: BYD posts first quarterly profit rise in over a year",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-byd-posts-first-quarterly-profit-rise-in-over-a-year/articleshow/133590069.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.44
         }
       ],
       "negative": [
         {
-          "title": "Monthly Expiry shock: Did CAS fail its biggest test after Sensex loses 2,000 points in 6 minutes?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/monthly-expiry-shock-did-cas-fail-its-biggest-test-after-sensex-loses-2000-points-in-6-minutes/articleshow/133566940.cms",
+          "title": "Was Sensex\u2019s 2,000-point expiry crash a one-off? Here's what Friday's close hints about CAS",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/was-sensexs-2000-point-expiry-crash-a-one-off-heres-what-fridays-close-hints-about-cas/articleshow/133591046.cms",
           "source": "Markets-Economic Times",
-          "score": -0.813
+          "score": -0.402
         },
         {
-          "title": "India bonds wobble as supply, RBI cash-drain risks loom",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-wobble-as-supply-rbi-cash-drain-risks-loom/articleshow/133567842.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.459
-        },
-        {
-          "title": "Sebi proposes scrapping merchant banker requirement rule for small-ticket debt via private placement",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-scrapping-merchant-banker-requirement-rule-for-small-ticket-debt-via-private-placement/articleshow/133567099.cms",
+          "title": "CAS chaos: How did Sensex crash 2,000 points in 6 minutes while Nifty stayed stable on monthly expiry?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-did-sensex-crash-2000-points-in-6-minutes-while-nifty-stayed-stable/articleshow/133588676.cms",
           "source": "Markets-Economic Times",
           "score": -0.361
-        },
-        {
-          "title": "Quote of the day by Alfred Winslow Jones: \"The tools that get investors and speculators in and out of the market only after some widely followed average has turned must obviously exaggerate the movements of the market\"",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-alfred-winslow-jones-the-tools-that-get-investors-and-speculators-in-and-out-of-the-market-only-after-some-widely-followed-average-has-turned-must-obviously-exaggerate-the-movements-of-the-market/articleshow/133566518.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.153
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.17,
-      "mood": "Positive",
+      "avg_score": 0.045,
+      "mood": "Mixed / Neutral",
       "positive": [
-        {
-          "title": "Best Buy tops quarterly estimates, raises outlook as computing shows strength",
-          "link": "https://www.cnbc.com/2026/08/27/best-buy-bby-q2-2027-earnings.html",
-          "source": "Business News",
-          "score": 0.893
-        },
         {
           "title": "Lego posts record first-half revenue, CEO touts strong sales at high-end and value pricing",
           "link": "https://www.cnbc.com/2026/08/25/lego-first-half-2026-revenue.html",
@@ -81,19 +69,31 @@
           "score": 0.67
         },
         {
-          "title": "Can the right scent help make your rental feel like home?",
-          "link": "https://www.bbc.co.uk/news/articles/c3w0972z5d8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.637
+          "title": "What the Buss family Lakers dispute can teach the wealthy about trusts",
+          "link": "https://www.cnbc.com/2026/08/27/buss-family-lakers-trust-dispute.html",
+          "source": "Business News",
+          "score": 0.44
         },
         {
-          "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
-          "link": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.494
+          "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
+          "link": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
+          "source": "Business News",
+          "score": 0.421
+        },
+        {
+          "title": "FDA approves daily HIV pill from Gilead designed to simplify treatment for some patients",
+          "link": "https://www.cnbc.com/2026/08/27/fda-approves-gilead-hiv-pill-bixlenvo-designed-to-simplify-treatment.html",
+          "source": "Business News",
+          "score": 0.402
         }
       ],
       "negative": [
+        {
+          "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
+          "link": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.586
+        },
         {
           "title": "Lost in limbo: Where the Paramount merger delay leaves WBD, and what may come next",
           "link": "https://www.cnbc.com/2026/08/26/paramount-merger-delay-wbd-limbo.html",
@@ -101,16 +101,16 @@
           "score": -0.557
         },
         {
-          "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
-          "link": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
-          "source": "Business News",
-          "score": -0.292
+          "title": "Military veterans told they owe thousands of pounds over clerical error",
+          "link": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.402
         },
         {
-          "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
-          "link": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
+          "title": "Imax says it's open to a sale. Why is no one buying?",
+          "link": "https://www.cnbc.com/2026/08/28/imax-sale-potential-buyers.html",
           "source": "Business News",
-          "score": -0.273
+          "score": -0.296
         }
       ],
       "sample_size": 20
