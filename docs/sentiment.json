@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-28T14:15:41.957695Z",
+  "generated_at": "2026-08-29T08:55:20.534386Z",
   "regions": {
     "india": {
-      "avg_score": 0.2,
+      "avg_score": 0.161,
       "mood": "Positive",
       "positive": [
         {
@@ -12,48 +12,48 @@
           "score": 0.869
         },
         {
+          "title": "BlackRock helps pull more Bitcoin wealth deeper into Wall Street",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/blackrock-helps-pull-more-bitcoin-wealth-deeper-into-wall-street/articleshow/133607321.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.725
+        },
+        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Where to invest as market headwinds ease: Motilal Oswal backs mid and smallcaps, favours gold over silver",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/where-to-invest-as-market-headwinds-ease-motilal-oswal-backs-mid-and-smallcaps-favours-gold-over-silver/articleshow/133589404.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.625
-        },
-        {
-          "title": "Reliance Jio IPO approved: Is it too late to buy RIL shares to be eligible for shareholder quota?",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-approved-is-it-too-late-to-buy-ril-shares-to-be-eligible-for-shareholder-quota/articleshow/133592960.cms",
+          "title": "Bajaj Finance, L&amp;T Finance poised to benefit as NBFC earnings recovery broadens: Siddhartha Khemka",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-lt-finance-poised-to-benefit-as-nbfc-earnings-recovery-broadens-siddhartha-khemka/articleshow/133604560.cms",
           "source": "Markets-Economic Times",
           "score": 0.612
         },
         {
-          "title": "Global Markets: BYD posts first quarterly profit rise in over a year",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-byd-posts-first-quarterly-profit-rise-in-over-a-year/articleshow/133590069.cms",
+          "title": "Concurrent Gainers: 13 smallcap stocks that gain for 5 days in a row, surge up to 45%",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-13-smallcap-stocks-that-gain-for-5-days-in-a-row-surge-up-to-45/slideshow/133605584.cms",
           "source": "Markets-Economic Times",
-          "score": 0.44
+          "score": 0.527
         }
       ],
       "negative": [
         {
-          "title": "Was Sensex\u2019s 2,000-point expiry crash a one-off? Here's what Friday's close hints about CAS",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/was-sensexs-2000-point-expiry-crash-a-one-off-heres-what-fridays-close-hints-about-cas/articleshow/133591046.cms",
+          "title": "Investors heartened by Warsh inflation talk, still uncertain about Fed action",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/investors-heartened-by-warsh-inflation-talk-still-uncertain-about-fed-action/articleshow/133603732.cms",
           "source": "Markets-Economic Times",
-          "score": -0.402
+          "score": -0.296
         },
         {
-          "title": "CAS chaos: How did Sensex crash 2,000 points in 6 minutes while Nifty stayed stable on monthly expiry?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-did-sensex-crash-2000-points-in-6-minutes-while-nifty-stayed-stable/articleshow/133588676.cms",
+          "title": "RBI rate hike risk rises: Bandhan AMC\u2019s Suyash Choudhary dials back duration in bond portfolios",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/rbi-rate-hike-risk-rises-bandhan-amcs-suyash-choudhary-dials-back-duration-in-bond-portfolios/articleshow/133605170.cms",
           "source": "Markets-Economic Times",
-          "score": -0.361
+          "score": -0.273
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.045,
+      "avg_score": 0.053,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -89,28 +89,28 @@
       ],
       "negative": [
         {
-          "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
-          "link": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.586
-        },
-        {
           "title": "Lost in limbo: Where the Paramount merger delay leaves WBD, and what may come next",
           "link": "https://www.cnbc.com/2026/08/26/paramount-merger-delay-wbd-limbo.html",
           "source": "Business News",
           "score": -0.557
         },
         {
-          "title": "Military veterans told they owe thousands of pounds over clerical error",
-          "link": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
+          "title": "Wife of man who died after turbulence sues airline",
+          "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.402
+          "score": -0.557
         },
         {
           "title": "Imax says it's open to a sale. Why is no one buying?",
           "link": "https://www.cnbc.com/2026/08/28/imax-sale-potential-buyers.html",
           "source": "Business News",
           "score": -0.296
+        },
+        {
+          "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
+          "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.276
         }
       ],
       "sample_size": 20
