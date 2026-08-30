@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-29T08:55:20.534386Z",
+  "generated_at": "2026-08-30T08:12:48.620221Z",
   "regions": {
     "india": {
-      "avg_score": 0.161,
+      "avg_score": 0.202,
       "mood": "Positive",
       "positive": [
         {
@@ -12,10 +12,10 @@
           "score": 0.869
         },
         {
-          "title": "BlackRock helps pull more Bitcoin wealth deeper into Wall Street",
-          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/blackrock-helps-pull-more-bitcoin-wealth-deeper-into-wall-street/articleshow/133607321.cms",
+          "title": "Paul Black\u2019s 3 thumb rules for identifying great wealth creators",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/paul-blacks-3-thumb-rules-for-identifying-great-wealth-creators/articleshow/133609700.cms",
           "source": "Markets-Economic Times",
-          "score": 0.725
+          "score": 0.807
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -24,44 +24,38 @@
           "score": 0.7
         },
         {
-          "title": "Bajaj Finance, L&amp;T Finance poised to benefit as NBFC earnings recovery broadens: Siddhartha Khemka",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-lt-finance-poised-to-benefit-as-nbfc-earnings-recovery-broadens-siddhartha-khemka/articleshow/133604560.cms",
+          "title": "Corporate actions this week: NTPC, Coal India among nearly 90 cos set to hit record dates for dividend payouts, bonus issues &amp; stock splits",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/corporate-actions-this-week-ntpc-coal-india-among-nearly-90-stocks-with-record-dates-for-bonus-issues-stock-splits-and-dividend-payouts-check-full-list/articleshow/133623707.cms",
           "source": "Markets-Economic Times",
-          "score": 0.612
+          "score": 0.542
         },
         {
-          "title": "Concurrent Gainers: 13 smallcap stocks that gain for 5 days in a row, surge up to 45%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-13-smallcap-stocks-that-gain-for-5-days-in-a-row-surge-up-to-45/slideshow/133605584.cms",
+          "title": "Nifty weekly outlook: Nifty trapped in 23,900-24,750 range; fresh buying should remain selective",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-weekly-outlook-nifty-trapped-in-23900-24750-range-fresh-buying-should-remain-selective/articleshow/133624648.cms",
           "source": "Markets-Economic Times",
-          "score": 0.527
+          "score": 0.511
         }
       ],
       "negative": [
         {
-          "title": "Investors heartened by Warsh inflation talk, still uncertain about Fed action",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/investors-heartened-by-warsh-inflation-talk-still-uncertain-about-fed-action/articleshow/133603732.cms",
+          "title": "GDP data, crude prices among 7 factors likely to steer D-Street this week",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/gdp-data-crude-prices-among-7-factors-likely-to-steer-d-street-this-week/articleshow/133622736.cms",
           "source": "Markets-Economic Times",
-          "score": -0.296
+          "score": -0.572
         },
         {
-          "title": "RBI rate hike risk rises: Bandhan AMC\u2019s Suyash Choudhary dials back duration in bond portfolios",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/rbi-rate-hike-risk-rises-bandhan-amcs-suyash-choudhary-dials-back-duration-in-bond-portfolios/articleshow/133605170.cms",
+          "title": "7 of top 10 firms shed Rs 1.13 lakh cr in m-cap; Airtel, Reliance worst hit",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/7-of-top-10-firms-shed-rs-1-13-lakh-cr-in-m-cap-airtel-reliance-worst-hit/articleshow/133624042.cms",
           "source": "Markets-Economic Times",
-          "score": -0.273
+          "score": -0.511
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.053,
+      "avg_score": 0.019,
       "mood": "Mixed / Neutral",
       "positive": [
-        {
-          "title": "Lego posts record first-half revenue, CEO touts strong sales at high-end and value pricing",
-          "link": "https://www.cnbc.com/2026/08/25/lego-first-half-2026-revenue.html",
-          "source": "Business News",
-          "score": 0.681
-        },
         {
           "title": "Investor competition for commercial real estate sees strongest growth in a year",
           "link": "https://www.cnbc.com/2026/08/25/cre-investor-competition-sees-strongest-growth-in-a-year.html",
@@ -85,6 +79,12 @@
           "link": "https://www.cnbc.com/2026/08/27/fda-approves-gilead-hiv-pill-bixlenvo-designed-to-simplify-treatment.html",
           "source": "Business News",
           "score": 0.402
+        },
+        {
+          "title": "Gap shares jump 12% after company names new Old Navy CEO to revive struggling brand",
+          "link": "https://www.cnbc.com/2026/08/27/gap-q2-2026-earnings.html",
+          "source": "Business News",
+          "score": 0.202
         }
       ],
       "negative": [
