@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-31T08:32:54.236672Z",
+  "generated_at": "2026-09-01T07:39:14.731707Z",
   "regions": {
     "india": {
-      "avg_score": 0.195,
-      "mood": "Positive",
+      "avg_score": 0.031,
+      "mood": "Mixed / Neutral",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -12,68 +12,62 @@
           "score": 0.869
         },
         {
-          "title": "Priority Jewels IPO Day 2: Issue book over 15 times so far, GMP signals 23% listing gain. Should you subscribe?",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/priority-jewels-ipo-day-2-issue-book-over-15-times-so-far-gmp-signals-23-listing-gain-should-you-subscribe/articleshow/133646567.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.751
-        },
-        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Tempsens Instruments shares slide over 4% on profit booking after record listing",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tempsens-instruments-shares-slide-over-4-on-profit-booking-after-record-listing/articleshow/133643263.cms",
+          "title": "Alpha Wealth Summit 2.0: How AI is reshaping portfolio management and the role of human judgement",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/alpha-wealth-summit-2-0-how-ai-is-reshaping-portfolio-management-and-the-role-of-human-judgement/articleshow/133669730.cms",
           "source": "Markets-Economic Times",
-          "score": 0.625
+          "score": 0.494
         },
         {
-          "title": "Ather Energy shares rally 4% after launch of Konarc electric scooter at Rs 99,999. Buy, sell or hold the stock?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-rally-4-after-launch-of-konarc-electric-scooter-at-rs-99999-buy-sell-or-hold-the-stock/articleshow/133643336.cms",
+          "title": "Ace investor Ashish Dhawan picks up 35 lakh shares in Religare Enterprises; stock jumps 5%",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ace-investor-ashish-dhawan-picks-up-35-lakh-shares-in-religare-enterprises-stock-jumps-5/articleshow/133671894.cms",
           "source": "Markets-Economic Times",
-          "score": 0.511
+          "score": 0.296
+        },
+        {
+          "title": "Bajaj Auto shares rise 3% after August sales jump 28% YoY",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-shares-rise-3-after-august-sales-jump-28-yoy/articleshow/133669115.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.296
         }
       ],
       "negative": [
         {
-          "title": "Global Market: Chinese property stocks slide as new rules raise consolidation fears",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-property-stocks-slide-as-new-rules-raise-consolidation-fears/articleshow/133645736.cms",
+          "title": "Battle of metals: Gold or silver? What should investors choose as Warsh stokes rate hike fears?",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/battle-of-metals-gold-or-silver-what-should-investors-choose-as-warsh-stokes-rate-hike-fears/articleshow/133669988.cms",
           "source": "Markets-Economic Times",
-          "score": -0.421
+          "score": -0.697
         },
         {
-          "title": "Nvidia stock under pressure. What\u2019s behind the pullback?",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-under-pressure-whats-behind-the-pullback/slideshow/133645522.cms",
+          "title": "Global Market: Yen weakness puts BOJ under pressure for faster monetary tightening",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-yen-weakness-puts-boj-under-pressure-for-faster-monetary-tightening/articleshow/133671621.cms",
           "source": "Markets-Economic Times",
-          "score": -0.296
+          "score": -0.612
         },
         {
-          "title": "IGL shares jump 3% after CNG price hike in Delhi NCR. What lies ahead?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/igl-shares-jump-3-after-cng-price-hike-in-delhi-ncr-what-lies-ahead/articleshow/133643841.cms",
+          "title": "Global Market: Japan bond yields hit 3% for first time in 30 years amid inflation, fiscal risks",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japan-bond-yields-hit-3-for-first-time-in-30-years-amid-inflation-fiscal-risks/articleshow/133671709.cms",
           "source": "Markets-Economic Times",
-          "score": -0.153
+          "score": -0.273
+        },
+        {
+          "title": "Global Market: China equities muted as Hong Kong stocks slide amid global risks",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-equities-muted-as-hong-kong-stocks-slide-amid-global-risks/articleshow/133670250.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.273
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.028,
+      "avg_score": 0.023,
       "mood": "Mixed / Neutral",
       "positive": [
-        {
-          "title": "Investor competition for commercial real estate sees strongest growth in a year",
-          "link": "https://www.cnbc.com/2026/08/25/cre-investor-competition-sees-strongest-growth-in-a-year.html",
-          "source": "Business News",
-          "score": 0.67
-        },
-        {
-          "title": "'My parents won't lend me \u00a310k but helped my brother': When families play financial favourites",
-          "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.477
-        },
         {
           "title": "What the Buss family Lakers dispute can teach the wealthy about trusts",
           "link": "https://www.cnbc.com/2026/08/27/buss-family-lakers-trust-dispute.html",
@@ -81,25 +75,31 @@
           "score": 0.44
         },
         {
-          "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
-          "link": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
-          "source": "Business News",
-          "score": 0.421
+          "title": "Victoria Beckham's company makes its first profit after 18 years",
+          "link": "https://www.bbc.co.uk/news/articles/cj645yl6d6do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.44
         },
         {
           "title": "FDA approves daily HIV pill from Gilead designed to simplify treatment for some patients",
           "link": "https://www.cnbc.com/2026/08/27/fda-approves-gilead-hiv-pill-bixlenvo-designed-to-simplify-treatment.html",
           "source": "Business News",
           "score": 0.402
+        },
+        {
+          "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently",
+          "link": "https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html",
+          "source": "Business News",
+          "score": 0.318
+        },
+        {
+          "title": "Shein shares fall in long-awaited stock market debut",
+          "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.296
         }
       ],
       "negative": [
-        {
-          "title": "How the US-Canada trade war is being felt on both sides of the border",
-          "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.599
-        },
         {
           "title": "Lost in limbo: Where the Paramount merger delay leaves WBD, and what may come next",
           "link": "https://www.cnbc.com/2026/08/26/paramount-merger-delay-wbd-limbo.html",
@@ -107,10 +107,16 @@
           "score": -0.557
         },
         {
-          "title": "Wife of man who died after turbulence sues airline",
-          "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.557
+          "title": "Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up",
+          "link": "https://www.cnbc.com/2026/08/31/mortgage-rates-surge-middle-east-attacks-oil.html",
+          "source": "Business News",
+          "score": -0.44
+        },
+        {
+          "title": "Trump strikes new drug pricing deals with nine midsized drugmakers",
+          "link": "https://www.cnbc.com/2026/08/31/trump-drug-pricing-deals.html",
+          "source": "Business News",
+          "score": -0.361
         },
         {
           "title": "Imax says it's open to a sale. Why is no one buying?",
@@ -119,10 +125,10 @@
           "score": -0.296
         },
         {
-          "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-          "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
+          "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
+          "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.276
+          "score": -0.202
         }
       ],
       "sample_size": 20
