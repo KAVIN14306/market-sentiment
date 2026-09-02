@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-01T07:39:14.731707Z",
+  "generated_at": "2026-09-02T07:01:43.138118Z",
   "regions": {
     "india": {
-      "avg_score": 0.031,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.222,
+      "mood": "Positive",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -12,73 +12,61 @@
           "score": 0.869
         },
         {
+          "title": "Hero MotoCorp shares fall over 4% as August exports, motorcycle dispatches decline",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hero-motocorp-shares-fall-over-4-as-august-exports-motorcycle-dispatches-decline/articleshow/133700041.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.7
+        },
+        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Alpha Wealth Summit 2.0: How AI is reshaping portfolio management and the role of human judgement",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/alpha-wealth-summit-2-0-how-ai-is-reshaping-portfolio-management-and-the-role-of-human-judgement/articleshow/133669730.cms",
+          "title": "TBZ shares rally 16%, extending gains for a second session. What's triggering the surge?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tbz-shares-rally-16-extending-gains-for-a-second-session-whats-triggering-the-surge/articleshow/133700844.cms",
           "source": "Markets-Economic Times",
-          "score": 0.494
+          "score": 0.557
         },
         {
-          "title": "Ace investor Ashish Dhawan picks up 35 lakh shares in Religare Enterprises; stock jumps 5%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ace-investor-ashish-dhawan-picks-up-35-lakh-shares-in-religare-enterprises-stock-jumps-5/articleshow/133671894.cms",
+          "title": "BEML shares rise 2% after securing Rs 180 crore Vande Bharat sleeper order",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/beml-shares-rise-2-after-securing-rs-180-crore-vande-bharat-sleeper-order/articleshow/133700760.cms",
           "source": "Markets-Economic Times",
-          "score": 0.296
-        },
-        {
-          "title": "Bajaj Auto shares rise 3% after August sales jump 28% YoY",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-shares-rise-3-after-august-sales-jump-28-yoy/articleshow/133669115.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.296
+          "score": 0.542
         }
       ],
       "negative": [
         {
-          "title": "Battle of metals: Gold or silver? What should investors choose as Warsh stokes rate hike fears?",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/battle-of-metals-gold-or-silver-what-should-investors-choose-as-warsh-stokes-rate-hike-fears/articleshow/133669988.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.697
-        },
-        {
-          "title": "Global Market: Yen weakness puts BOJ under pressure for faster monetary tightening",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-yen-weakness-puts-boj-under-pressure-for-faster-monetary-tightening/articleshow/133671621.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.612
-        },
-        {
-          "title": "Global Market: Japan bond yields hit 3% for first time in 30 years amid inflation, fiscal risks",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japan-bond-yields-hit-3-for-first-time-in-30-years-amid-inflation-fiscal-risks/articleshow/133671709.cms",
+          "title": "Global bond selloff deepens as inflation risks, oil prices jolt markets",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/global-bond-selloff-deepens-as-inflation-risks-oil-prices-jolt-markets/articleshow/133699705.cms",
           "source": "Markets-Economic Times",
           "score": -0.273
         },
         {
-          "title": "Global Market: China equities muted as Hong Kong stocks slide amid global risks",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-equities-muted-as-hong-kong-stocks-slide-amid-global-risks/articleshow/133670250.cms",
+          "title": "Kwality Walls shares fall 3% as RIL's foray into ice cream biz raises competition fears",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kwality-walls-shares-fall-3-as-rils-foray-into-ice-cream-biz-raises-competition-fears/articleshow/133698927.cms",
           "source": "Markets-Economic Times",
-          "score": -0.273
+          "score": -0.153
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.023,
+      "avg_score": 0.042,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "What the Buss family Lakers dispute can teach the wealthy about trusts",
-          "link": "https://www.cnbc.com/2026/08/27/buss-family-lakers-trust-dispute.html",
+          "title": "Livestream shopping is gaining steam in the U.S., thanks to apps like TikTok and Whatnot",
+          "link": "https://www.cnbc.com/2026/09/01/tiktok-whatnot-livestream-shopping.html",
           "source": "Business News",
-          "score": 0.44
+          "score": 0.802
         },
         {
-          "title": "Victoria Beckham's company makes its first profit after 18 years",
-          "link": "https://www.bbc.co.uk/news/articles/cj645yl6d6do?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.44
+          "title": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
+          "link": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
+          "source": "Business News",
+          "score": 0.494
         },
         {
           "title": "FDA approves daily HIV pill from Gilead designed to simplify treatment for some patients",
@@ -93,17 +81,17 @@
           "score": 0.318
         },
         {
-          "title": "Shein shares fall in long-awaited stock market debut",
-          "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.296
+          "title": "How one of the largest investors in student housing is playing this school year",
+          "link": "https://www.cnbc.com/2026/09/01/university-student-housing-investor.html",
+          "source": "Business News",
+          "score": 0.202
         }
       ],
       "negative": [
         {
-          "title": "Lost in limbo: Where the Paramount merger delay leaves WBD, and what may come next",
-          "link": "https://www.cnbc.com/2026/08/26/paramount-merger-delay-wbd-limbo.html",
-          "source": "Business News",
+          "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
+          "link": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
           "score": -0.557
         },
         {
@@ -123,12 +111,6 @@
           "link": "https://www.cnbc.com/2026/08/28/imax-sale-potential-buyers.html",
           "source": "Business News",
           "score": -0.296
-        },
-        {
-          "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
-          "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.202
         }
       ],
       "sample_size": 20
