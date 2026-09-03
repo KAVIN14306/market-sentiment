@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-02T07:01:43.138118Z",
+  "generated_at": "2026-09-03T07:05:30.521357Z",
   "regions": {
     "india": {
-      "avg_score": 0.222,
+      "avg_score": 0.261,
       "mood": "Positive",
       "positive": [
         {
@@ -12,50 +12,43 @@
           "score": 0.869
         },
         {
-          "title": "Hero MotoCorp shares fall over 4% as August exports, motorcycle dispatches decline",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hero-motocorp-shares-fall-over-4-as-august-exports-motorcycle-dispatches-decline/articleshow/133700041.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.7
-        },
-        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "TBZ shares rally 16%, extending gains for a second session. What's triggering the surge?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tbz-shares-rally-16-extending-gains-for-a-second-session-whats-triggering-the-surge/articleshow/133700844.cms",
+          "title": "Lumino Industries shares soar 40% from IPO price after strong market debut. Should you buy or wait?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/lumino-industries-shares-soar-40-from-ipo-price-after-strong-market-debut-should-you-buy-or-wait/articleshow/133726784.cms",
           "source": "Markets-Economic Times",
-          "score": 0.557
+          "score": 0.67
         },
         {
-          "title": "BEML shares rise 2% after securing Rs 180 crore Vande Bharat sleeper order",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/beml-shares-rise-2-after-securing-rs-180-crore-vande-bharat-sleeper-order/articleshow/133700760.cms",
+          "title": "Dell\u2019s AI Boom: $95 billion backlog reshapes growth outlook",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dells-ai-boom-95-billion-backlog-reshapes-growth-outlook/slideshow/133726366.cms",
           "source": "Markets-Economic Times",
-          "score": 0.542
-        }
-      ],
-      "negative": [
-        {
-          "title": "Global bond selloff deepens as inflation risks, oil prices jolt markets",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/global-bond-selloff-deepens-as-inflation-risks-oil-prices-jolt-markets/articleshow/133699705.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.273
+          "score": 0.382
         },
         {
-          "title": "Kwality Walls shares fall 3% as RIL's foray into ice cream biz raises competition fears",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kwality-walls-shares-fall-3-as-rils-foray-into-ice-cream-biz-raises-competition-fears/articleshow/133698927.cms",
+          "title": "Trump\u2019s second-term policies put US finances under growing strain as debt tops $40 trillion",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/trumps-second-term-policies-put-us-finances-under-growing-strain-as-debt-tops-40-trillion/articleshow/133726493.cms",
           "source": "Markets-Economic Times",
-          "score": -0.153
+          "score": 0.318
         }
       ],
+      "negative": [],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.042,
+      "avg_score": 0.118,
       "mood": "Mixed / Neutral",
       "positive": [
+        {
+          "title": "Ford's production of highly profitable Super Duty trucks hits 20-year high as it recovers from supplier fires",
+          "link": "https://www.cnbc.com/2026/09/02/ford-sales-f-150-production.html",
+          "source": "Business News",
+          "score": 0.811
+        },
         {
           "title": "Livestream shopping is gaining steam in the U.S., thanks to apps like TikTok and Whatnot",
           "link": "https://www.cnbc.com/2026/09/01/tiktok-whatnot-livestream-shopping.html",
@@ -69,31 +62,19 @@
           "score": 0.494
         },
         {
-          "title": "FDA approves daily HIV pill from Gilead designed to simplify treatment for some patients",
-          "link": "https://www.cnbc.com/2026/08/27/fda-approves-gilead-hiv-pill-bixlenvo-designed-to-simplify-treatment.html",
-          "source": "Business News",
-          "score": 0.402
+          "title": "How Victoria Beckham turned her fashion firm around and made it profitable",
+          "link": "https://www.bbc.co.uk/articles/cj647xd596xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.44
         },
         {
           "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently",
           "link": "https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html",
           "source": "Business News",
           "score": 0.318
-        },
-        {
-          "title": "How one of the largest investors in student housing is playing this school year",
-          "link": "https://www.cnbc.com/2026/09/01/university-student-housing-investor.html",
-          "source": "Business News",
-          "score": 0.202
         }
       ],
       "negative": [
-        {
-          "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
-          "link": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.557
-        },
         {
           "title": "Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up",
           "link": "https://www.cnbc.com/2026/08/31/mortgage-rates-surge-middle-east-attacks-oil.html",
