@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-03T07:05:30.521357Z",
+  "generated_at": "2026-09-04T07:09:38.757793Z",
   "regions": {
     "india": {
-      "avg_score": 0.261,
-      "mood": "Positive",
+      "avg_score": 0.143,
+      "mood": "Mixed / Neutral",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -18,29 +18,60 @@
           "score": 0.7
         },
         {
-          "title": "Lumino Industries shares soar 40% from IPO price after strong market debut. Should you buy or wait?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/lumino-industries-shares-soar-40-from-ipo-price-after-strong-market-debut-should-you-buy-or-wait/articleshow/133726784.cms",
+          "title": "Which stocks should you buy ahead of the festive season? Here are Kotak Securities\u2019 top 10 picks",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/which-stocks-should-you-buy-ahead-of-the-festive-season-here-are-kotak-securities-top-10-picks/articleshow/133754154.cms",
           "source": "Markets-Economic Times",
-          "score": 0.67
+          "score": 0.586
         },
         {
-          "title": "Dell\u2019s AI Boom: $95 billion backlog reshapes growth outlook",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dells-ai-boom-95-billion-backlog-reshapes-growth-outlook/slideshow/133726366.cms",
+          "title": "IFCI shares rally 6% as NSE IPO buzz lifts sentiment; stock gains 35% in a month",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ifci-shares-rally-6-as-nse-ipo-buzz-lifts-sentiment-stock-gains-35-in-a-month/articleshow/133753028.cms",
           "source": "Markets-Economic Times",
-          "score": 0.382
+          "score": 0.557
         },
         {
-          "title": "Trump\u2019s second-term policies put US finances under growing strain as debt tops $40 trillion",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/trumps-second-term-policies-put-us-finances-under-growing-strain-as-debt-tops-40-trillion/articleshow/133726493.cms",
+          "title": "Global Market: JGB yields extend fall as stronger yen, hawkish BOJ outlook lift sentiment",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-jgb-yields-extend-fall-as-stronger-yen-hawkish-boj-outlook-lift-sentiment/articleshow/133753277.cms",
           "source": "Markets-Economic Times",
-          "score": 0.318
+          "score": 0.511
         }
       ],
-      "negative": [],
+      "negative": [
+        {
+          "title": "Is AI boom hiding growing US risks? Nomura warns dollar asset concentration leaves global markets vulnerable to AI shocks",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/is-ai-boom-hiding-growing-us-risks-nomura-warns-dollar-asset-concentration-leaves-global-markets-vulnerable-to-ai-shocks/articleshow/133754300.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.612
+        },
+        {
+          "title": "Global Market: China stocks rebound, but weekly loss looms as AI rally cools",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-rebound-but-weekly-loss-looms-as-ai-rally-cools/articleshow/133754061.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.593
+        },
+        {
+          "title": "India bonds pause before weekly debt supply",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-pause-before-weekly-debt-supply/articleshow/133753419.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.361
+        },
+        {
+          "title": "US Fed rate cut bets fall below 50% after Governor Chris Waller\u2019s comments. What did he say?",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-rate-cut-bets-fall-below-50-after-governor-chris-wallers-comments-what-did-he-say/articleshow/133754387.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.273
+        },
+        {
+          "title": "US Market: Rising R-star adds to pressure on US Treasury yields as AI investment, borrowing lift demand for capital",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-rising-r-star-adds-to-pressure-on-us-treasury-yields-as-ai-investment-borrowing-lift-demand-for-capital/articleshow/133752321.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.226
+        }
+      ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.118,
+      "avg_score": 0.046,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -56,25 +87,37 @@
           "score": 0.802
         },
         {
+          "title": "From cake to pizza: How to get the best birthday freebies (and why there's a catch)",
+          "link": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.791
+        },
+        {
           "title": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
           "link": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
           "source": "Business News",
           "score": 0.494
         },
         {
-          "title": "How Victoria Beckham turned her fashion firm around and made it profitable",
-          "link": "https://www.bbc.co.uk/articles/cj647xd596xo?at_medium=RSS&at_campaign=rss",
+          "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+          "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": 0.44
-        },
-        {
-          "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently",
-          "link": "https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html",
-          "source": "Business News",
-          "score": 0.318
+          "score": 0.25
         }
       ],
       "negative": [
+        {
+          "title": "'I lost my savings after a job interview scam'",
+          "link": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.718
+        },
+        {
+          "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.",
+          "link": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html",
+          "source": "Business News",
+          "score": -0.557
+        },
         {
           "title": "Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up",
           "link": "https://www.cnbc.com/2026/08/31/mortgage-rates-surge-middle-east-attacks-oil.html",
@@ -82,16 +125,16 @@
           "score": -0.44
         },
         {
+          "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
+          "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.382
+        },
+        {
           "title": "Trump strikes new drug pricing deals with nine midsized drugmakers",
           "link": "https://www.cnbc.com/2026/08/31/trump-drug-pricing-deals.html",
           "source": "Business News",
           "score": -0.361
-        },
-        {
-          "title": "Imax says it's open to a sale. Why is no one buying?",
-          "link": "https://www.cnbc.com/2026/08/28/imax-sale-potential-buyers.html",
-          "source": "Business News",
-          "score": -0.296
         }
       ],
       "sample_size": 20
