@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-05T06:52:41.111960Z",
+  "generated_at": "2026-09-06T07:03:12.536586Z",
   "regions": {
     "india": {
-      "avg_score": 0.163,
-      "mood": "Positive",
+      "avg_score": 0.111,
+      "mood": "Mixed / Neutral",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -12,10 +12,10 @@
           "score": 0.869
         },
         {
-          "title": "Festive stock picks: 10 stocks to buy ahead of the festive season. Do you own any?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/festive-stock-picks-10-stocks-to-buy-ahead-of-the-festive-season-do-you-own-any/slideshow/133788821.cms",
+          "title": "Largecaps look better as smallcaps price in strong growth: Franklin Templeton\u2019s Arihant Jain",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/largecaps-look-better-as-smallcaps-price-in-strong-growth-franklin-templetons-arihant-jain/articleshow/133827224.cms",
           "source": "Markets-Economic Times",
-          "score": 0.718
+          "score": 0.832
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -24,42 +24,42 @@
           "score": 0.7
         },
         {
-          "title": "ETMarkets Smart Talk | Don't judge India by Nifty's 21x PE; stock-level valuations still offer opportunities: Emkay Investment Managers: Kashyap Javeri",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-dont-judge-india-by-niftys-21x-pe-stock-level-valuations-still-offer-opportunities-emkay-investment-managers-kashyap-javeri/articleshow/133789173.cms",
+          "title": "Former Tata Technologies CEO McGoldrick sells shares worth Rs 165 crore",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/former-tata-technologies-ceo-mcgoldrick-sells-shares-worth-rs-165-crore/articleshow/133794536.cms",
           "source": "Markets-Economic Times",
-          "score": 0.649
+          "score": 0.477
         },
         {
-          "title": "Gold slides after robust US payrolls boosts rate hike bets",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slides-after-robust-us-payrolls-boosts-rate-hike-bets/articleshow/133787001.cms",
+          "title": "Bitcoin trades at $79,000, next week\u2019s US inflation data to test rate-cut hopes and crypto valuations",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-trades-at-79000-next-weeks-us-inflation-data-to-test-rate-cut-hopes-and-crypto-valuations/articleshow/133794377.cms",
           "source": "Markets-Economic Times",
-          "score": 0.572
+          "score": 0.421
         }
       ],
       "negative": [
         {
-          "title": "US Treasury Secretary Scott Bessent sees crude oil as low as $40 post-Iran war, lower bond yields",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bessent-sees-oil-as-low-as-40-post-iran-war-lower-yields/articleshow/133787900.cms",
+          "title": "Crude oil rally nears $100: Will geopolitical risks push prices higher?",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-rally-nears-100-will-geopolitical-risks-push-prices-higher/articleshow/133826020.cms",
           "source": "Markets-Economic Times",
-          "score": -0.878
+          "score": -0.7
         },
         {
-          "title": "European shares log weekly losses on inflation worries; Volkswagen jumps",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-log-weekly-losses-on-inflation-worries-volkswagen-jumps/articleshow/133786812.cms",
+          "title": "ITC\u2019s tobacco business is going cheap but Kotak Institutional Equities thinks market has it wrong",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/itcs-tobacco-business-is-going-cheap-but-kotak-institutional-equities-thinks-market-has-it-wrong/articleshow/133796628.cms",
           "source": "Markets-Economic Times",
-          "score": -0.511
+          "score": -0.631
         },
         {
-          "title": "Oil ends week higher on renewed US-Iran strikes, diesel hits record",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-ends-week-higher-on-renewed-us-iran-strikes-diesel-hits-record/articleshow/133786882.cms",
+          "title": "Sebi's new sectoral debt fund category explained: Yields, tax and risks",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/sebis-new-sectoral-debt-fund-category-explained-yields-tax-and-risks/articleshow/133827644.cms",
           "source": "Markets-Economic Times",
-          "score": -0.361
+          "score": -0.557
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.053,
+      "avg_score": 0.079,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -87,10 +87,10 @@
           "score": 0.494
         },
         {
-          "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
-          "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.25
+          "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
+          "link": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
+          "source": "Business News",
+          "score": 0.382
         }
       ],
       "negative": [
