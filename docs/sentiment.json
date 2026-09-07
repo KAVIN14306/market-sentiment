@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-06T07:03:12.536586Z",
+  "generated_at": "2026-09-07T07:14:45.162557Z",
   "regions": {
     "india": {
-      "avg_score": 0.111,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.222,
+      "mood": "Positive",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -12,54 +12,54 @@
           "score": 0.869
         },
         {
-          "title": "Largecaps look better as smallcaps price in strong growth: Franklin Templeton\u2019s Arihant Jain",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/largecaps-look-better-as-smallcaps-price-in-strong-growth-franklin-templetons-arihant-jain/articleshow/133827224.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.832
-        },
-        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Former Tata Technologies CEO McGoldrick sells shares worth Rs 165 crore",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/former-tata-technologies-ceo-mcgoldrick-sells-shares-worth-rs-165-crore/articleshow/133794536.cms",
+          "title": "Global Market: Japan\u2019s Nikkei rallies on semiconductor strength as market volatility eases",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-rallies-on-semiconductor-strength-as-market-volatility-eases/articleshow/133867817.cms",
           "source": "Markets-Economic Times",
-          "score": 0.477
+          "score": 0.67
         },
         {
-          "title": "Bitcoin trades at $79,000, next week\u2019s US inflation data to test rate-cut hopes and crypto valuations",
-          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-trades-at-79000-next-weeks-us-inflation-data-to-test-rate-cut-hopes-and-crypto-valuations/articleshow/133794377.cms",
+          "title": "Global Market | South Korea\u2019s NPS suspends FX hedging as won hits near two-year high: Reports",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-south-koreas-nps-suspends-fx-hedging-as-won-hits-near-two-year-high-reports/articleshow/133868620.cms",
           "source": "Markets-Economic Times",
-          "score": 0.421
+          "score": 0.572
+        },
+        {
+          "title": "Waterfield Advisors launches two GIFT City funds for global diversification",
+          "link": "https://economictimes.indiatimes.com/markets/aif-pms/waterfield-advisors-launches-two-gift-city-funds-for-global-diversification/articleshow/133868043.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.562
         }
       ],
       "negative": [
         {
-          "title": "Crude oil rally nears $100: Will geopolitical risks push prices higher?",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-rally-nears-100-will-geopolitical-risks-push-prices-higher/articleshow/133826020.cms",
+          "title": "Infosys, HCLTech, TCS, other IT stocks drop up to 3% as Fed rate hike worries return. Here's why",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-hcltech-tcs-other-it-stocks-drop-up-to-3-as-fed-rate-hike-worries-return-heres-why/articleshow/133866433.cms",
           "source": "Markets-Economic Times",
-          "score": -0.7
+          "score": -0.599
         },
         {
-          "title": "ITC\u2019s tobacco business is going cheap but Kotak Institutional Equities thinks market has it wrong",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/itcs-tobacco-business-is-going-cheap-but-kotak-institutional-equities-thinks-market-has-it-wrong/articleshow/133796628.cms",
+          "title": "Wires on fire: Why UltraTech\u2019s Rs 1,800 crore Ultravolt bet wiped out Rs 21,500 crore in 2 days",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/wires-on-fire-why-ultratechs-rs-1800-crore-ultravolt-bet-wiped-out-rs-21500-crore-in-2-days/articleshow/133865793.cms",
           "source": "Markets-Economic Times",
-          "score": -0.631
+          "score": -0.34
         },
         {
-          "title": "Sebi's new sectoral debt fund category explained: Yields, tax and risks",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/sebis-new-sectoral-debt-fund-category-explained-yields-tax-and-risks/articleshow/133827644.cms",
+          "title": "Did HEG shares really crash 64% in one day? Here\u2019s how the demerger math works",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/did-heg-shares-really-crash-64-in-one-day-heres-how-the-demerger-math-works/articleshow/133866176.cms",
           "source": "Markets-Economic Times",
-          "score": -0.557
+          "score": -0.201
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.079,
+      "avg_score": 0.061,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -67,12 +67,6 @@
           "link": "https://www.cnbc.com/2026/09/02/ford-sales-f-150-production.html",
           "source": "Business News",
           "score": 0.811
-        },
-        {
-          "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
-          "link": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.765
         },
         {
           "title": "The wealth of the world's billionaires reached $15.1 trillion last year, per a new report",
@@ -87,19 +81,19 @@
           "score": 0.494
         },
         {
-          "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
-          "link": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
-          "source": "Business News",
-          "score": 0.382
+          "title": "The \u00a370 refund letter that isn't a scam",
+          "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.459
+        },
+        {
+          "title": "China to pump $54bn into state banks and insurers to boost economy",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.402
         }
       ],
       "negative": [
-        {
-          "title": "UK petrol prices hit highest level since Iran war began",
-          "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.599
-        },
         {
           "title": "THC drinks could soon be harder to find as Congress delays hemp ban again",
           "link": "https://www.cnbc.com/2026/09/04/thc-drinks-congress-hemp-ban.html",
@@ -111,6 +105,18 @@
           "link": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html",
           "source": "Business News",
           "score": -0.557
+        },
+        {
+          "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+          "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.557
+        },
+        {
+          "title": "Jaguar Land Rover boss to meet minister as thousands of job cuts expected",
+          "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.296
         },
         {
           "title": "Longtime Fox News host Maria Bartiromo disputes reports of termination",
