@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-07T07:14:45.162557Z",
+  "generated_at": "2026-09-08T07:10:20.949110Z",
   "regions": {
     "india": {
-      "avg_score": 0.222,
+      "avg_score": 0.198,
       "mood": "Positive",
       "positive": [
         {
@@ -18,48 +18,54 @@
           "score": 0.7
         },
         {
-          "title": "Global Market: Japan\u2019s Nikkei rallies on semiconductor strength as market volatility eases",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-rallies-on-semiconductor-strength-as-market-volatility-eases/articleshow/133867817.cms",
+          "title": "Explosive Gains! ESDS Software shares skyrocket 195% from IPO price in 3 sessions",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/esds-software-solution-shares-rally-195-from-ipo-price-in-just-three-sessions/articleshow/133908672.cms",
           "source": "Markets-Economic Times",
-          "score": 0.67
+          "score": 0.598
         },
         {
-          "title": "Global Market | South Korea\u2019s NPS suspends FX hedging as won hits near two-year high: Reports",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-south-koreas-nps-suspends-fx-hedging-as-won-hits-near-two-year-high-reports/articleshow/133868620.cms",
+          "title": "Why investors are turning bullish on Bloom Energy shares",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-investors-are-turning-bullish-on-bloom-energy-shares/slideshow/133912665.cms",
           "source": "Markets-Economic Times",
-          "score": 0.572
+          "score": 0.511
         },
         {
-          "title": "Waterfield Advisors launches two GIFT City funds for global diversification",
-          "link": "https://economictimes.indiatimes.com/markets/aif-pms/waterfield-advisors-launches-two-gift-city-funds-for-global-diversification/articleshow/133868043.cms",
+          "title": "Copper hits new peak of $14,533/metric ton. Can its reddish glow brighten even further?",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/copper-hits-new-peak-of-14533/metric-ton-can-its-reddish-glow-brighten-even-further/articleshow/133911837.cms",
           "source": "Markets-Economic Times",
-          "score": 0.562
+          "score": 0.44
         }
       ],
       "negative": [
         {
-          "title": "Infosys, HCLTech, TCS, other IT stocks drop up to 3% as Fed rate hike worries return. Here's why",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-hcltech-tcs-other-it-stocks-drop-up-to-3-as-fed-rate-hike-worries-return-heres-why/articleshow/133866433.cms",
+          "title": "SaaS is beating the \u2018SaaSpocalypse\u2019! CLSA explains what AI means for Indian IT stocks",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/saas-is-beating-the-saaspocalypse-clsa-explains-what-ai-means-for-indian-it-stocks/articleshow/133907841.cms",
           "source": "Markets-Economic Times",
-          "score": -0.599
+          "score": -0.509
         },
         {
-          "title": "Wires on fire: Why UltraTech\u2019s Rs 1,800 crore Ultravolt bet wiped out Rs 21,500 crore in 2 days",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/wires-on-fire-why-ultratechs-rs-1800-crore-ultravolt-bet-wiped-out-rs-21500-crore-in-2-days/articleshow/133865793.cms",
+          "title": "Biocon shares rise 2% on 10-year Pertuzumab supply deal for breast cancer therapy in Brazil",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/biocon-shares-rise-2-on-10-year-pertuzumab-supply-deal-for-breast-cancer-therapy-in-brazil/articleshow/133910110.cms",
           "source": "Markets-Economic Times",
-          "score": -0.34
+          "score": -0.494
         },
         {
-          "title": "Did HEG shares really crash 64% in one day? Here\u2019s how the demerger math works",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/did-heg-shares-really-crash-64-in-one-day-heres-how-the-demerger-math-works/articleshow/133866176.cms",
+          "title": "Global Market: Goldman lifts brent, WTI forecasts as Hormuz shipping risks mount",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-goldman-lifts-brent-wti-forecasts-as-hormuz-shipping-risks-mount/articleshow/133908368.cms",
           "source": "Markets-Economic Times",
-          "score": -0.201
+          "score": -0.273
+        },
+        {
+          "title": "India bonds stuck in narrow range, focus on oil, RBI liquidity moves",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-stuck-in-narrow-range-focus-on-oil-rbi-liquidity-moves/articleshow/133910360.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.25
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.061,
+      "avg_score": -0.083,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -81,48 +87,42 @@
           "score": 0.494
         },
         {
-          "title": "The \u00a370 refund letter that isn't a scam",
-          "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.459
-        },
-        {
-          "title": "China to pump $54bn into state banks and insurers to boost economy",
-          "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.402
+          "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
+          "link": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
+          "source": "Business News",
+          "score": 0.382
         }
       ],
       "negative": [
+        {
+          "title": "'JLR job cuts a cause for uncertainty and worry'",
+          "link": "https://www.bbc.co.uk/news/articles/cq5x30003zdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.758
+        },
+        {
+          "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+          "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.66
+        },
+        {
+          "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+          "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.599
+        },
+        {
+          "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+          "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.586
+        },
         {
           "title": "THC drinks could soon be harder to find as Congress delays hemp ban again",
           "link": "https://www.cnbc.com/2026/09/04/thc-drinks-congress-hemp-ban.html",
           "source": "Business News",
           "score": -0.557
-        },
-        {
-          "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.",
-          "link": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html",
-          "source": "Business News",
-          "score": -0.557
-        },
-        {
-          "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-          "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.557
-        },
-        {
-          "title": "Jaguar Land Rover boss to meet minister as thousands of job cuts expected",
-          "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.296
-        },
-        {
-          "title": "Longtime Fox News host Maria Bartiromo disputes reports of termination",
-          "link": "https://www.cnbc.com/2026/09/04/maria-bartiromo-fox-news-termination.html",
-          "source": "Business News",
-          "score": -0.273
         }
       ],
       "sample_size": 20
