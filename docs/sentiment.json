@@ -1,90 +1,60 @@
 {
-  "generated_at": "2026-09-08T07:10:20.949110Z",
+  "generated_at": "2026-09-09T07:17:34.799088Z",
   "regions": {
     "india": {
-      "avg_score": 0.198,
+      "avg_score": 0.164,
       "mood": "Positive",
       "positive": [
         {
-          "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-          "source": "Moneycontrol Market Reports",
-          "score": 0.869
-        },
-        {
-          "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-          "source": "Moneycontrol Market Reports",
-          "score": 0.7
-        },
-        {
-          "title": "Explosive Gains! ESDS Software shares skyrocket 195% from IPO price in 3 sessions",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/esds-software-solution-shares-rally-195-from-ipo-price-in-just-three-sessions/articleshow/133908672.cms",
+          "title": "Adani Enterprises shares gain over 4% as airports arm plans to raise $1 billion from Temasek, BlackRock, others",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-shares-gain-over-4-as-airports-arm-plans-to-raise-1-billion-from-temasek-blackrock-others/articleshow/133954243.cms",
           "source": "Markets-Economic Times",
-          "score": 0.598
+          "score": 0.681
         },
         {
-          "title": "Why investors are turning bullish on Bloom Energy shares",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-investors-are-turning-bullish-on-bloom-energy-shares/slideshow/133912665.cms",
+          "title": "Graphite India shares rocket over 18% to extend gains for second session. What\u2019s behind the surge?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/graphite-india-shares-rocket-over-18-to-extend-gains-for-second-session-whats-behind-the-surge/articleshow/133954975.cms",
           "source": "Markets-Economic Times",
-          "score": 0.511
+          "score": 0.649
         },
         {
-          "title": "Copper hits new peak of $14,533/metric ton. Can its reddish glow brighten even further?",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/copper-hits-new-peak-of-14533/metric-ton-can-its-reddish-glow-brighten-even-further/articleshow/133911837.cms",
+          "title": "Paytm shares jump 5% as workplace AI push gains traction",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-jump-5-as-workplace-ai-push-gains-traction/articleshow/133957200.cms",
           "source": "Markets-Economic Times",
-          "score": 0.44
+          "score": 0.557
+        },
+        {
+          "title": "PC Jeweller shares jump 4%, surge 38% in one week. What's polishing the stock's shine?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pc-jeweller-shares-jump-4-surge-38-in-one-week-whats-polishing-the-stocks-shine/articleshow/133955478.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.296
+        },
+        {
+          "title": "Marvell Technology shares soar: What\u2019s driving the AI chip rally?",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/marvell-technology-shares-soar-whats-driving-the-ai-chip-rally/slideshow/133954721.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.296
         }
       ],
       "negative": [
         {
-          "title": "SaaS is beating the \u2018SaaSpocalypse\u2019! CLSA explains what AI means for Indian IT stocks",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/saas-is-beating-the-saaspocalypse-clsa-explains-what-ai-means-for-indian-it-stocks/articleshow/133907841.cms",
+          "title": "Trump strikes Indian IT again! Why tech stocks lost Rs 55,000 crore in a single session",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/trump-strikes-indian-it-again-why-tech-stocks-lost-rs-55000-crore-in-a-single-session/articleshow/133953804.cms",
           "source": "Markets-Economic Times",
-          "score": -0.509
-        },
-        {
-          "title": "Biocon shares rise 2% on 10-year Pertuzumab supply deal for breast cancer therapy in Brazil",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/biocon-shares-rise-2-on-10-year-pertuzumab-supply-deal-for-breast-cancer-therapy-in-brazil/articleshow/133910110.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.494
-        },
-        {
-          "title": "Global Market: Goldman lifts brent, WTI forecasts as Hormuz shipping risks mount",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-goldman-lifts-brent-wti-forecasts-as-hormuz-shipping-risks-mount/articleshow/133908368.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.273
-        },
-        {
-          "title": "India bonds stuck in narrow range, focus on oil, RBI liquidity moves",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-stuck-in-narrow-range-focus-on-oil-rbi-liquidity-moves/articleshow/133910360.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.25
+          "score": -0.624
         }
       ],
-      "sample_size": 19
+      "sample_size": 15
     },
     "world": {
-      "avg_score": -0.083,
+      "avg_score": -0.11,
       "mood": "Mixed / Neutral",
       "positive": [
-        {
-          "title": "Ford's production of highly profitable Super Duty trucks hits 20-year high as it recovers from supplier fires",
-          "link": "https://www.cnbc.com/2026/09/02/ford-sales-f-150-production.html",
-          "source": "Business News",
-          "score": 0.811
-        },
         {
           "title": "The wealth of the world's billionaires reached $15.1 trillion last year, per a new report",
           "link": "https://www.cnbc.com/2026/09/04/billionaire-wealth-altrata-report.html",
           "source": "Business News",
           "score": 0.557
-        },
-        {
-          "title": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
-          "link": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
-          "source": "Business News",
-          "score": 0.494
         },
         {
           "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
@@ -95,34 +65,34 @@
       ],
       "negative": [
         {
-          "title": "'JLR job cuts a cause for uncertainty and worry'",
-          "link": "https://www.bbc.co.uk/news/articles/cq5x30003zdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.758
-        },
-        {
-          "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-          "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.66
-        },
-        {
-          "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
-          "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.599
-        },
-        {
-          "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-          "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.586
-        },
-        {
           "title": "THC drinks could soon be harder to find as Congress delays hemp ban again",
           "link": "https://www.cnbc.com/2026/09/04/thc-drinks-congress-hemp-ban.html",
           "source": "Business News",
           "score": -0.557
+        },
+        {
+          "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.",
+          "link": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html",
+          "source": "Business News",
+          "score": -0.557
+        },
+        {
+          "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+          "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.557
+        },
+        {
+          "title": "More flights delayed after hundreds cancelled by air traffic control glitch",
+          "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.49
+        },
+        {
+          "title": "Singaporean man pleads guilty in US to massive crypto heist",
+          "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.421
         }
       ],
       "sample_size": 20
