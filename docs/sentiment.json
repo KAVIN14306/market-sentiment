@@ -1,55 +1,79 @@
 {
-  "generated_at": "2026-09-09T07:17:34.799088Z",
+  "generated_at": "2026-09-10T07:13:43.378474Z",
   "regions": {
     "india": {
-      "avg_score": 0.164,
+      "avg_score": 0.175,
       "mood": "Positive",
       "positive": [
         {
-          "title": "Adani Enterprises shares gain over 4% as airports arm plans to raise $1 billion from Temasek, BlackRock, others",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-shares-gain-over-4-as-airports-arm-plans-to-raise-1-billion-from-temasek-blackrock-others/articleshow/133954243.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.681
+          "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+          "source": "Moneycontrol Market Reports",
+          "score": 0.869
         },
         {
-          "title": "Graphite India shares rocket over 18% to extend gains for second session. What\u2019s behind the surge?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/graphite-india-shares-rocket-over-18-to-extend-gains-for-second-session-whats-behind-the-surge/articleshow/133954975.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.649
+          "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+          "source": "Moneycontrol Market Reports",
+          "score": 0.7
         },
         {
-          "title": "Paytm shares jump 5% as workplace AI push gains traction",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-jump-5-as-workplace-ai-push-gains-traction/articleshow/133957200.cms",
+          "title": "NSE unlisted shares vs Nifty: Where did investors make more money ahead of mega IPO?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-unlisted-shares-vs-nifty-where-did-investors-make-more-money-ahead-of-mega-ipo/articleshow/133994701.cms",
           "source": "Markets-Economic Times",
-          "score": 0.557
+          "score": 0.599
         },
         {
-          "title": "PC Jeweller shares jump 4%, surge 38% in one week. What's polishing the stock's shine?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pc-jeweller-shares-jump-4-surge-38-in-one-week-whats-polishing-the-stocks-shine/articleshow/133955478.cms",
+          "title": "Global Market: Japan Nikkei falls as oil tops $100, BOJ rate hike bets rise",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-nikkei-falls-as-oil-tops-100-boj-rate-hike-bets-rise/articleshow/133996320.cms",
           "source": "Markets-Economic Times",
-          "score": 0.296
+          "score": 0.511
         },
         {
-          "title": "Marvell Technology shares soar: What\u2019s driving the AI chip rally?",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/marvell-technology-shares-soar-whats-driving-the-ai-chip-rally/slideshow/133954721.cms",
+          "title": "Jefferies says Adani Enterprises is the \u2018platform behind platforms\u2019 with 4 major growth levers",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-says-adani-enterprises-is-the-platform-behind-platforms-with-4-major-growth-levers/articleshow/133996418.cms",
           "source": "Markets-Economic Times",
-          "score": 0.296
+          "score": 0.439
         }
       ],
       "negative": [
         {
-          "title": "Trump strikes Indian IT again! Why tech stocks lost Rs 55,000 crore in a single session",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/trump-strikes-indian-it-again-why-tech-stocks-lost-rs-55000-crore-in-a-single-session/articleshow/133953804.cms",
+          "title": "Global Market: South Korean stocks fall over 1% as Middle East tensions weigh on risk sentiment",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-stocks-fall-over-1-as-middle-east-tensions-weigh-on-risk-sentiment/articleshow/133996774.cms",
           "source": "Markets-Economic Times",
-          "score": -0.624
+          "score": -0.586
+        },
+        {
+          "title": "India bonds face twin drag from rising oil, US yields",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-face-twin-drag-from-rising-oil-us-yields/articleshow/133995471.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.226
+        },
+        {
+          "title": "US Treasury yields hit highest level since 2023 as buyback disappoints",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-hit-highest-level-since-2023-as-buyback-disappoints/articleshow/133996569.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.202
+        },
+        {
+          "title": "ESDS Software shares plunge 8% after skyrocketing 235% from IPO price in 4 days. What lies ahead?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/esds-software-shares-plunge-8-after-skyrocketing-235-from-ipo-price-in-4-days-what-lies-ahead/articleshow/133994576.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.153
         }
       ],
-      "sample_size": 15
+      "sample_size": 19
     },
     "world": {
-      "avg_score": -0.11,
+      "avg_score": -0.026,
       "mood": "Mixed / Neutral",
       "positive": [
+        {
+          "title": "The one thing you need to do to succeed - according to top bosses",
+          "link": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.612
+        },
         {
           "title": "The wealth of the world's billionaires reached $15.1 trillion last year, per a new report",
           "link": "https://www.cnbc.com/2026/09/04/billionaire-wealth-altrata-report.html",
@@ -77,22 +101,16 @@
           "score": -0.557
         },
         {
-          "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
-          "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+          "title": "Air traffic failure was avoidable, says transport secretary",
+          "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.557
+          "score": -0.511
         },
         {
-          "title": "More flights delayed after hundreds cancelled by air traffic control glitch",
-          "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.49
-        },
-        {
-          "title": "Singaporean man pleads guilty in US to massive crypto heist",
-          "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.421
+          "title": "Longtime Fox News host Maria Bartiromo disputes reports of termination",
+          "link": "https://www.cnbc.com/2026/09/04/maria-bartiromo-fox-news-termination.html",
+          "source": "Business News",
+          "score": -0.273
         }
       ],
       "sample_size": 20
