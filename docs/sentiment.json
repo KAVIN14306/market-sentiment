@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-11T07:14:00.747315Z",
+  "generated_at": "2026-09-12T07:04:47.064752Z",
   "regions": {
     "india": {
-      "avg_score": 0.103,
+      "avg_score": 0.072,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -18,50 +18,74 @@
           "score": 0.7
         },
         {
-          "title": "ESDS Software Solution jumps 5%, extends 6-session rally; shares up 287% from IPO price",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/esds-software-solution-jumps-5-extends-6-session-rally-shares-up-287-from-ipo-price/articleshow/134047669.cms",
+          "title": "Bitcoin vs Ethereum: Which crypto asset could deliver better returns in the next 12 months?",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-vs-ethereum-which-crypto-asset-could-deliver-better-returns-in-the-next-12-months/articleshow/134107421.cms",
           "source": "Markets-Economic Times",
-          "score": 0.612
+          "score": 0.66
         },
         {
-          "title": "Oracle shares rally: Can strong AI demand sustain Oracle\u2019s stock surge?",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/oracle-shares-rally-can-strong-ai-demand-sustain-oracles-stock-surge/slideshow/134048334.cms",
+          "title": "Rs 24,600 crore IPO dhamaka: NSE, Hero Motors to lead 11 public offers next week",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/rs-24600-crore-ipo-dhamaka-nse-hero-motors-to-lead-11-public-offers-next-week/articleshow/134107608.cms",
           "source": "Markets-Economic Times",
-          "score": 0.612
+          "score": 0.557
         },
         {
-          "title": "SBICAP Securities partners with Appreciate for global market access via India INX GA, NSEIXGA",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/sbicap-securities-partners-with-appreciate-for-global-market-access-via-india-inx-ga-nseixga/articleshow/134048797.cms",
+          "title": "Concurrent Gainers: 9 smallcap stocks gain for 5 days in a row",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-9-smallcap-stocks-gain-for-5-days-in-a-row/slideshow/134112346.cms",
           "source": "Markets-Economic Times",
-          "score": 0.599
+          "score": 0.527
         }
       ],
       "negative": [
         {
-          "title": "From 52% to 42%: Is HDFC Bank\u2019s 10 percentage point drop in FII shareholding a worrying sign?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fii-darling-turns-into-exit-trade-is-hdfc-banks-10-foreign-holding-drop-a-worrying-sign/articleshow/134046237.cms",
+          "title": "Indian rupee weakens to 95.55 amid rising crude oil prices and Strait of Hormuz tensions",
+          "link": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-weakens-to-95-55-amid-rising-crude-oil-prices-and-strait-of-hormuz-tensions/articleshow/134103790.cms",
           "source": "Markets-Economic Times",
-          "score": -0.542
+          "score": -0.827
         },
         {
-          "title": "Global bond yields surge as oil spike fuels inflation fears",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-bond-yields-surge-as-oil-spike-fuels-inflation-fears/articleshow/134047045.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.421
-        },
-        {
-          "title": "BSE shares fall 3% as rival NSE gets closer to mega IPO. More pain ahead?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-fall-3-as-rival-nse-gets-closer-to-mega-ipo-more-pain-ahead/articleshow/134047512.cms",
+          "title": "Valuation question! Why did NSE cut its IPO size and price below unlisted market levels?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/valuation-question-why-did-nse-cut-its-ipo-size-and-price-below-unlisted-market-levels/articleshow/134109696.cms",
           "source": "Markets-Economic Times",
           "score": -0.338
+        },
+        {
+          "title": "Will US 10-year bond yield crossing 5% really hurt markets? Yes Securities says fears overblown",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/will-us-10-year-bond-yield-crossing-5-really-hurt-markets-yes-securities-says-fears-overblown/articleshow/134109122.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.325
+        },
+        {
+          "title": "Wall St Week Ahead: Investors brace for possible rate hike at uncertain Fed meeting",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-st-week-ahead-investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting/articleshow/134107285.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.296
+        },
+        {
+          "title": "Global funds sour on India stocks as some cut allocation to zero",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-funds-sour-on-india-stocks-as-some-cut-allocation-to-zero/articleshow/134104559.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.273
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.005,
+      "avg_score": 0.053,
       "mood": "Mixed / Neutral",
       "positive": [
+        {
+          "title": "AI boom helps drive surprise UK growth in July",
+          "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.743
+        },
+        {
+          "title": "Wealthy investors are pouring billions into this new tax strategy despite risks",
+          "link": "https://www.cnbc.com/2026/09/11/wealthy-investors-tax-aware-long-short-strategies.html",
+          "source": "Business News",
+          "score": 0.513
+        },
         {
           "title": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
           "link": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
@@ -69,7 +93,7 @@
           "score": 0.511
         },
         {
-          "title": "Are interest rates on the way up again?",
+          "title": "Interest rates could rise again across the world \u2013 here's why",
           "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "score": 0.459
@@ -79,15 +103,15 @@
           "link": "https://www.cnbc.com/2026/09/10/wealthy-investors-oil-gas-assets.html",
           "source": "Business News",
           "score": 0.273
-        },
-        {
-          "title": "NFL's Roger Goodell is playing the international long game ahead of league's Australia debut",
-          "link": "https://www.cnbc.com/2026/09/10/nfl-commissioner-roger-goodell-international-future.html",
-          "source": "Business News",
-          "score": 0.202
         }
       ],
       "negative": [
+        {
+          "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+          "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.649
+        },
         {
           "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
           "link": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
@@ -98,12 +122,6 @@
           "title": "Kimmel says interview with Senate candidate Talarico won't air on ABC amid FCC threats",
           "link": "https://www.cnbc.com/2026/09/10/abc-kimmel-talarico-fcc.html",
           "source": "Business News",
-          "score": -0.421
-        },
-        {
-          "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-          "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
           "score": -0.421
         }
       ],
