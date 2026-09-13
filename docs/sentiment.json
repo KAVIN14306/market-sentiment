@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-12T07:04:47.064752Z",
+  "generated_at": "2026-09-13T07:23:49.102017Z",
   "regions": {
     "india": {
-      "avg_score": 0.072,
+      "avg_score": 0.085,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -18,68 +18,50 @@
           "score": 0.7
         },
         {
-          "title": "Bitcoin vs Ethereum: Which crypto asset could deliver better returns in the next 12 months?",
-          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-vs-ethereum-which-crypto-asset-could-deliver-better-returns-in-the-next-12-months/articleshow/134107421.cms",
+          "title": "F&amp;O Talk: Nifty has slipped below its crucial support, says Sudeep Shah; picks 5 stocks for next week",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-has-slipped-below-its-crucial-support-says-sudeep-shah-picks-5-stocks-for-next-week/articleshow/134119208.cms",
           "source": "Markets-Economic Times",
           "score": 0.66
         },
         {
-          "title": "Rs 24,600 crore IPO dhamaka: NSE, Hero Motors to lead 11 public offers next week",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/rs-24600-crore-ipo-dhamaka-nse-hero-motors-to-lead-11-public-offers-next-week/articleshow/134107608.cms",
+          "title": "8 midcap stocks clock up to 245% EBITDA growth in June quarter. Do you own any?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/8-midcap-stocks-clock-up-to-245-ebitda-growth-in-june-quarter-do-you-own-any/slideshow/134182581.cms",
           "source": "Markets-Economic Times",
-          "score": 0.557
+          "score": 0.382
         },
         {
-          "title": "Concurrent Gainers: 9 smallcap stocks gain for 5 days in a row",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-9-smallcap-stocks-gain-for-5-days-in-a-row/slideshow/134112346.cms",
+          "title": "Vodafone Idea shares zoom 102% in one year. Is there more steam left after multibagger returns?",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/vodafone-idea-shares-zoom-102-in-one-year-is-there-more-steam-left-after-multibagger-returns/articleshow/134180333.cms",
           "source": "Markets-Economic Times",
-          "score": 0.527
+          "score": 0.296
         }
       ],
       "negative": [
         {
-          "title": "Indian rupee weakens to 95.55 amid rising crude oil prices and Strait of Hormuz tensions",
-          "link": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-weakens-to-95-55-amid-rising-crude-oil-prices-and-strait-of-hormuz-tensions/articleshow/134103790.cms",
+          "title": "Dalal Street Week Ahead: Weak technical setup to keep bulls under pressure",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-weak-technical-setup-to-keep-bulls-under-pressure/articleshow/134125578.cms",
           "source": "Markets-Economic Times",
-          "score": -0.827
+          "score": -0.625
         },
         {
-          "title": "Valuation question! Why did NSE cut its IPO size and price below unlisted market levels?",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/valuation-question-why-did-nse-cut-its-ipo-size-and-price-below-unlisted-market-levels/articleshow/134109696.cms",
+          "title": "FPIs withdraw Rs 13,138 crore from equities in September so far amid global uncertainty",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-withdraw-rs-13138-crore-from-equities-in-september-so-far-amid-global-uncertainty/articleshow/134180766.cms",
           "source": "Markets-Economic Times",
-          "score": -0.338
+          "score": -0.34
         },
         {
-          "title": "Will US 10-year bond yield crossing 5% really hurt markets? Yes Securities says fears overblown",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/will-us-10-year-bond-yield-crossing-5-really-hurt-markets-yes-securities-says-fears-overblown/articleshow/134109122.cms",
+          "title": "Weekly Market Outlook: Can Nifty find its footing as crude, Fed policy drive markets?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/weekly-market-outlook-can-nifty-find-its-footing-as-crude-fed-policy-drive-markets/articleshow/134178071.cms",
           "source": "Markets-Economic Times",
-          "score": -0.325
-        },
-        {
-          "title": "Wall St Week Ahead: Investors brace for possible rate hike at uncertain Fed meeting",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-st-week-ahead-investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting/articleshow/134107285.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.296
-        },
-        {
-          "title": "Global funds sour on India stocks as some cut allocation to zero",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-funds-sour-on-india-stocks-as-some-cut-allocation-to-zero/articleshow/134104559.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.273
+          "score": -0.25
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.053,
+      "avg_score": -0.033,
       "mood": "Mixed / Neutral",
       "positive": [
-        {
-          "title": "AI boom helps drive surprise UK growth in July",
-          "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.743
-        },
         {
           "title": "Wealthy investors are pouring billions into this new tax strategy despite risks",
           "link": "https://www.cnbc.com/2026/09/11/wealthy-investors-tax-aware-long-short-strategies.html",
@@ -103,6 +85,12 @@
           "link": "https://www.cnbc.com/2026/09/10/wealthy-investors-oil-gas-assets.html",
           "source": "Business News",
           "score": 0.273
+        },
+        {
+          "title": "NFL's Roger Goodell is playing the international long game ahead of league's Australia debut",
+          "link": "https://www.cnbc.com/2026/09/10/nfl-commissioner-roger-goodell-international-future.html",
+          "source": "Business News",
+          "score": 0.202
         }
       ],
       "negative": [
@@ -111,6 +99,12 @@
           "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "score": -0.649
+        },
+        {
+          "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
+          "link": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
+          "source": "Business News",
+          "score": -0.44
         },
         {
           "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
@@ -123,6 +117,12 @@
           "link": "https://www.cnbc.com/2026/09/10/abc-kimmel-talarico-fcc.html",
           "source": "Business News",
           "score": -0.421
+        },
+        {
+          "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+          "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.34
         }
       ],
       "sample_size": 20
