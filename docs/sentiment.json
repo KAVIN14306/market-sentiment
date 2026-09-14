@@ -1,65 +1,71 @@
 {
-  "generated_at": "2026-09-13T07:23:49.102017Z",
+  "generated_at": "2026-09-14T07:49:02.724239Z",
   "regions": {
     "india": {
-      "avg_score": 0.085,
+      "avg_score": -0.046,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-          "source": "Moneycontrol Market Reports",
-          "score": 0.869
-        },
-        {
-          "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-          "source": "Moneycontrol Market Reports",
-          "score": 0.7
-        },
-        {
-          "title": "F&amp;O Talk: Nifty has slipped below its crucial support, says Sudeep Shah; picks 5 stocks for next week",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-has-slipped-below-its-crucial-support-says-sudeep-shah-picks-5-stocks-for-next-week/articleshow/134119208.cms",
+          "title": "20 midcap funds, 20 multibaggers: What makes this category a wealth creation machine?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/20-midcap-funds-20-multibaggers-what-makes-this-category-a-wealth-creation-machine/articleshow/134232185.cms",
           "source": "Markets-Economic Times",
-          "score": 0.66
+          "score": 0.649
         },
         {
-          "title": "8 midcap stocks clock up to 245% EBITDA growth in June quarter. Do you own any?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/8-midcap-stocks-clock-up-to-245-ebitda-growth-in-june-quarter-do-you-own-any/slideshow/134182581.cms",
+          "title": "FIIs sell Indian shares worth Rs 14,475 crore in Sept; analyst warns soaring bond yields may deepen selloff",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-sell-indian-shares-worth-rs-14475-crore-in-sept-analyst-warns-soaring-bond-yields-may-deepen-selloff/articleshow/134233848.cms",
           "source": "Markets-Economic Times",
-          "score": 0.382
+          "score": 0.402
         },
         {
-          "title": "Vodafone Idea shares zoom 102% in one year. Is there more steam left after multibagger returns?",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/vodafone-idea-shares-zoom-102-in-one-year-is-there-more-steam-left-after-multibagger-returns/articleshow/134180333.cms",
+          "title": "Global Market: Japan stocks fall as AI concerns hit tech shares; Nikkei down 1.6%",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-stocks-fall-as-ai-concerns-hit-tech-shares-nikkei-down-1-6/articleshow/134232052.cms",
           "source": "Markets-Economic Times",
           "score": 0.296
+        },
+        {
+          "title": "India beats a hasty retreat from a crucial market reform",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-beats-a-hasty-retreat-from-a-crucial-market-reform/articleshow/134232570.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.202
         }
       ],
       "negative": [
         {
-          "title": "Dalal Street Week Ahead: Weak technical setup to keep bulls under pressure",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-weak-technical-setup-to-keep-bulls-under-pressure/articleshow/134125578.cms",
+          "title": "Jefferies says Sebi's proposed CAS changes will remove uncertainty, but still remains negative on BSE. Here\u2019s why",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-says-sebis-proposed-cas-changes-will-remove-uncertainty-but-still-remains-negative-on-bse-heres-why/articleshow/134233906.cms",
           "source": "Markets-Economic Times",
-          "score": -0.625
+          "score": -0.775
         },
         {
-          "title": "FPIs withdraw Rs 13,138 crore from equities in September so far amid global uncertainty",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-withdraw-rs-13138-crore-from-equities-in-september-so-far-amid-global-uncertainty/articleshow/134180766.cms",
+          "title": "US Market: Goldman Sachs expects Fed to hike rates amid inflation fears",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-goldman-sachs-expects-fed-to-hike-rates-amid-inflation-fears/articleshow/134232349.cms",
           "source": "Markets-Economic Times",
-          "score": -0.34
+          "score": -0.421
         },
         {
-          "title": "Weekly Market Outlook: Can Nifty find its footing as crude, Fed policy drive markets?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/weekly-market-outlook-can-nifty-find-its-footing-as-crude-fed-policy-drive-markets/articleshow/134178071.cms",
+          "title": "Global Market: Samsung, SK Hynix reject $18.7 billion upfront power payment proposal",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-samsung-sk-hynix-reject-18-7-billion-upfront-power-payment-proposal/articleshow/134234539.cms",
           "source": "Markets-Economic Times",
-          "score": -0.25
+          "score": -0.402
+        },
+        {
+          "title": "HDFC Bank shares hit 52-week lows over consecutive sessions while analysts scream Buy. Has the stock hit its bottom?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-hit-52-week-lows-over-consecutive-sessions-while-analysts-scream-buy-has-the-stock-hit-its-bottom/articleshow/134233328.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.318
+        },
+        {
+          "title": "Global Market: Japan inflation risks put BOJ rate path in focus",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japan-inflation-risks-put-boj-rate-path-in-focus/articleshow/134234171.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.273
         }
       ],
-      "sample_size": 19
+      "sample_size": 15
     },
     "world": {
-      "avg_score": -0.033,
+      "avg_score": -0.068,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -73,12 +79,6 @@
           "link": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
           "source": "Business News",
           "score": 0.511
-        },
-        {
-          "title": "Interest rates could rise again across the world \u2013 here's why",
-          "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.459
         },
         {
           "title": "Wealthy investors seek oil and gas assets, but bargains are scarce",
@@ -95,10 +95,16 @@
       ],
       "negative": [
         {
-          "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
-          "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
+          "title": "Amazon pauses work with cargo firm after fatal crash",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.649
+          "score": -0.67
+        },
+        {
+          "title": "MPs and Lords call for new law to address AI threat to human rights",
+          "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.527
         },
         {
           "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
@@ -117,12 +123,6 @@
           "link": "https://www.cnbc.com/2026/09/10/abc-kimmel-talarico-fcc.html",
           "source": "Business News",
           "score": -0.421
-        },
-        {
-          "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
-          "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.34
         }
       ],
       "sample_size": 20
