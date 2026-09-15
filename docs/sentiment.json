@@ -1,71 +1,65 @@
 {
-  "generated_at": "2026-09-14T07:49:02.724239Z",
+  "generated_at": "2026-09-15T07:34:42.743516Z",
   "regions": {
     "india": {
-      "avg_score": -0.046,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.222,
+      "mood": "Positive",
       "positive": [
         {
-          "title": "20 midcap funds, 20 multibaggers: What makes this category a wealth creation machine?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/20-midcap-funds-20-multibaggers-what-makes-this-category-a-wealth-creation-machine/articleshow/134232185.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.649
+          "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+          "source": "Moneycontrol Market Reports",
+          "score": 0.869
         },
         {
-          "title": "FIIs sell Indian shares worth Rs 14,475 crore in Sept; analyst warns soaring bond yields may deepen selloff",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-sell-indian-shares-worth-rs-14475-crore-in-sept-analyst-warns-soaring-bond-yields-may-deepen-selloff/articleshow/134233848.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.402
+          "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+          "source": "Moneycontrol Market Reports",
+          "score": 0.7
         },
         {
-          "title": "Global Market: Japan stocks fall as AI concerns hit tech shares; Nikkei down 1.6%",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-stocks-fall-as-ai-concerns-hit-tech-shares-nikkei-down-1-6/articleshow/134232052.cms",
+          "title": "KEC International shares rally 6% after securing new orders worth Rs 1,303 crore across multiple business segments",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kec-international-shares-rally-6-after-securing-new-orders-worth-rs-1303-crore-across-multiple-business-segments/articleshow/134253441.cms",
           "source": "Markets-Economic Times",
-          "score": 0.296
+          "score": 0.66
         },
         {
-          "title": "India beats a hasty retreat from a crucial market reform",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-beats-a-hasty-retreat-from-a-crucial-market-reform/articleshow/134232570.cms",
+          "title": "Hero Motors IPO opens tomorrow; GMP signals 29% potential listing upside. Check key details",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/hero-motors-ipo-opens-tomorrow-gmp-signals-29-potential-listing-upside-check-key-details/articleshow/134253888.cms",
           "source": "Markets-Economic Times",
-          "score": 0.202
+          "score": 0.557
+        },
+        {
+          "title": "NSE IPO set to open on September 17; GMP signals 11% listing gain",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-set-to-open-on-september-17-gmp-signals-11-listing-gain/articleshow/134254563.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.527
         }
       ],
       "negative": [
         {
-          "title": "Jefferies says Sebi's proposed CAS changes will remove uncertainty, but still remains negative on BSE. Here\u2019s why",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-says-sebis-proposed-cas-changes-will-remove-uncertainty-but-still-remains-negative-on-bse-heres-why/articleshow/134233906.cms",
+          "title": "Bond market turmoil puts Fed Rate decision under spotlight",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bond-market-turmoil-puts-fed-rate-decision-under-spotlight/articleshow/134254468.cms",
           "source": "Markets-Economic Times",
-          "score": -0.775
+          "score": -0.361
         },
         {
-          "title": "US Market: Goldman Sachs expects Fed to hike rates amid inflation fears",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-goldman-sachs-expects-fed-to-hike-rates-amid-inflation-fears/articleshow/134232349.cms",
+          "title": "Paytm shares drop 3% after govt shields UPI payments only up to Rs 2,000 from charges. Should you buy the dip?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-drop-3-after-govt-shields-upi-payments-only-up-to-rs-2000-from-charges-should-you-buy-the-dip/articleshow/134254233.cms",
           "source": "Markets-Economic Times",
-          "score": -0.421
+          "score": -0.25
         },
         {
-          "title": "Global Market: Samsung, SK Hynix reject $18.7 billion upfront power payment proposal",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-samsung-sk-hynix-reject-18-7-billion-upfront-power-payment-proposal/articleshow/134234539.cms",
+          "title": "US Market: Fed rate hike looms as hotter inflation clouds policy outlook",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-fed-rate-hike-looms-as-hotter-inflation-clouds-policy-outlook/articleshow/134253724.cms",
           "source": "Markets-Economic Times",
-          "score": -0.402
-        },
-        {
-          "title": "HDFC Bank shares hit 52-week lows over consecutive sessions while analysts scream Buy. Has the stock hit its bottom?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-hit-52-week-lows-over-consecutive-sessions-while-analysts-scream-buy-has-the-stock-hit-its-bottom/articleshow/134233328.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.318
-        },
-        {
-          "title": "Global Market: Japan inflation risks put BOJ rate path in focus",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japan-inflation-risks-put-boj-rate-path-in-focus/articleshow/134234171.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.273
+          "score": -0.153
         }
       ],
-      "sample_size": 15
+      "sample_size": 19
     },
     "world": {
-      "avg_score": -0.068,
+      "avg_score": 0.001,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -81,30 +75,30 @@
           "score": 0.511
         },
         {
+          "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
+          "link": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+          "source": "Business News",
+          "score": 0.353
+        },
+        {
           "title": "Wealthy investors seek oil and gas assets, but bargains are scarce",
           "link": "https://www.cnbc.com/2026/09/10/wealthy-investors-oil-gas-assets.html",
           "source": "Business News",
           "score": 0.273
         },
         {
-          "title": "NFL's Roger Goodell is playing the international long game ahead of league's Australia debut",
-          "link": "https://www.cnbc.com/2026/09/10/nfl-commissioner-roger-goodell-international-future.html",
-          "source": "Business News",
-          "score": 0.202
+          "title": "Pubs in England and Wales to allow digital ID apps to prove age",
+          "link": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.226
         }
       ],
       "negative": [
         {
-          "title": "Amazon pauses work with cargo firm after fatal crash",
-          "link": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
+          "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.67
-        },
-        {
-          "title": "MPs and Lords call for new law to address AI threat to human rights",
-          "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.527
+          "score": -0.66
         },
         {
           "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
