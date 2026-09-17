@@ -1,27 +1,15 @@
 {
-  "generated_at": "2026-09-16T07:33:57.051183Z",
+  "generated_at": "2026-09-17T07:30:18.500619Z",
   "regions": {
     "india": {
-      "avg_score": 0.318,
+      "avg_score": 0.203,
       "mood": "Positive",
       "positive": [
-        {
-          "title": "Paytm wins, but ATM also wins! Why CMS Info Systems shares jumped 7% on UPI MDR",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-wins-but-atm-also-wins-why-cms-info-systems-shares-jumped-7-on-upi-mdr/articleshow/134278876.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.888
-        },
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.869
-        },
-        {
-          "title": "UPI MDR bonanza: Why Paytm may win bigger, but Pine Labs could gain faster",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/upi-mdr-bonanza-why-paytm-may-win-bigger-but-pine-labs-could-gain-faster/articleshow/134279070.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.791
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -30,43 +18,49 @@
           "score": 0.7
         },
         {
-          "title": "Global Market: China, Hong Kong shares rise as tech stocks gain ahead of Fed decision",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-shares-rise-as-tech-stocks-gain-ahead-of-fed-decision/articleshow/134280040.cms",
+          "title": "GMR Airports shares gain 2% after JM Financial retains Buy rating; sees up to 24% upside",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/gmr-airports-shares-gain-2-after-jm-financial-retains-buy-rating-sees-up-to-24-upside/articleshow/134302927.cms",
           "source": "Markets-Economic Times",
           "score": 0.681
+        },
+        {
+          "title": "Sensex rises 200 points, Nifty above 23,300 despite Fed rate hike. Why bears may be ready to pounce",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-200-points-nifty-above-23300-despite-fed-rate-hike-why-bears-may-be-ready-to-pounce/articleshow/134303083.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.637
+        },
+        {
+          "title": "$46 billion IPO: NSE is the world\u2019s most expensive stock exchange. Can it also become the most valuable?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/46-billion-ipo-nse-is-the-worlds-most-expensive-stock-exchange-can-it-also-become-the-most-valuable/articleshow/134302520.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.526
         }
       ],
       "negative": [
         {
-          "title": "Nithin Kamath says new UPI charges on investing, broking don\u2019t make sense: 'I don't see how we can absorb this indefinitely'",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-says-new-upi-charges-on-investing-broking-dont-make-sense-i-dont-see-how-we-can-absorb-this-indefinitely/articleshow/134280407.cms",
+          "title": "ETMarkets Smart Talk| India less vulnerable to US rate shocks, but expensive midcaps remain at risk: Amar K Ambani",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/etmarkets-smart-talk-india-less-vulnerable-to-us-rate-shocks-but-expensive-midcaps-remain-at-risk-amar-k-ambani/articleshow/134304584.cms",
           "source": "Markets-Economic Times",
-          "score": -0.273
-        },
-        {
-          "title": "UPI MDR explained for investors: How will new charges impact your mutual fund SIPs and stock investments?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/upi-mdr-explained-for-investors-how-will-new-charges-impact-your-mutual-fund-sips-and-stock-investments/articleshow/134280097.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.273
+          "score": -0.441
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.02,
+      "avg_score": 0.032,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.665
+          "title": "Flyers are happier with U.S. airports, despite near record travel levels, J.D. Power report shows",
+          "link": "https://www.cnbc.com/2026/09/16/airport-satisfaction.html",
+          "source": "Business News",
+          "score": 0.527
         },
         {
-          "title": "Wealthy investors are pouring billions into this new tax strategy despite risks",
-          "link": "https://www.cnbc.com/2026/09/11/wealthy-investors-tax-aware-long-short-strategies.html",
-          "source": "Business News",
-          "score": 0.513
+          "title": "US interest rates raised for first time in three years",
+          "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.459
         },
         {
           "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
@@ -83,28 +77,10 @@
       ],
       "negative": [
         {
-          "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
-          "link": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.498
-        },
-        {
           "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
           "link": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
           "source": "Business News",
           "score": -0.44
-        },
-        {
-          "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
-          "link": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
-          "source": "Business News",
-          "score": -0.44
-        },
-        {
-          "title": "Complaints to watchdog about water firms soar",
-          "link": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.402
         },
         {
           "title": "U.S. auto market predictions for 2030: More hybrids, no Chinese entrants",
