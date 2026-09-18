@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-17T07:30:18.500619Z",
+  "generated_at": "2026-09-18T07:19:02.863942Z",
   "regions": {
     "india": {
-      "avg_score": 0.203,
+      "avg_score": 0.152,
       "mood": "Positive",
       "positive": [
         {
@@ -18,38 +18,68 @@
           "score": 0.7
         },
         {
-          "title": "GMR Airports shares gain 2% after JM Financial retains Buy rating; sees up to 24% upside",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/gmr-airports-shares-gain-2-after-jm-financial-retains-buy-rating-sees-up-to-24-upside/articleshow/134302927.cms",
+          "title": "GPT Infraprojects shares surge 9% after securing Rs 484 crore railway order from RVNL",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/gpt-infraprojects-shares-surge-9-after-securing-rs-484-crore-railway-order-from-rvnl/articleshow/134326998.cms",
           "source": "Markets-Economic Times",
-          "score": 0.681
+          "score": 0.542
         },
         {
-          "title": "Sensex rises 200 points, Nifty above 23,300 despite Fed rate hike. Why bears may be ready to pounce",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-200-points-nifty-above-23300-despite-fed-rate-hike-why-bears-may-be-ready-to-pounce/articleshow/134303083.cms",
+          "title": "Gold prices at Rs 1.52 lakh/10 gram, silver gains Rs 1,000/kg as falling oil lends support. Key levels to track",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-at-rs-1-52-lakh/10-gram-silver-gains-rs-1000/kg-as-falling-oil-lends-support-key-levels-to-track/articleshow/134326398.cms",
           "source": "Markets-Economic Times",
-          "score": 0.637
+          "score": 0.542
         },
         {
-          "title": "$46 billion IPO: NSE is the world\u2019s most expensive stock exchange. Can it also become the most valuable?",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/46-billion-ipo-nse-is-the-worlds-most-expensive-stock-exchange-can-it-also-become-the-most-valuable/articleshow/134302520.cms",
+          "title": "Yatharth Hospitals shares rally 10% to fresh record high as Advent set to acquire 25% stake; stock up 20% in two days",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/yatharth-hospitals-shares-rally-10-to-fresh-record-high-as-advent-set-to-acquire-25-stake-stock-up-20-in-two-days/articleshow/134326269.cms",
           "source": "Markets-Economic Times",
-          "score": 0.526
+          "score": 0.542
         }
       ],
       "negative": [
         {
-          "title": "ETMarkets Smart Talk| India less vulnerable to US rate shocks, but expensive midcaps remain at risk: Amar K Ambani",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/etmarkets-smart-talk-india-less-vulnerable-to-us-rate-shocks-but-expensive-midcaps-remain-at-risk-amar-k-ambani/articleshow/134304584.cms",
+          "title": "MCX traders complain of commodity position prices not reflecting on Zerodha, broker blames delay in exchange reports",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-traders-complain-of-commodity-position-prices-not-reflecting-on-zerodha-broker-blames-delay-in-exchange-reports/articleshow/134328172.cms",
           "source": "Markets-Economic Times",
-          "score": -0.441
+          "score": -0.758
+        },
+        {
+          "title": "Even JPMorgan can\u2019t predict oil\u2019s next move as Iran war crosses more red lines",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/even-jpmorgan-cant-predict-oils-next-move-as-iran-war-crosses-more-red-lines/articleshow/134327059.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.599
+        },
+        {
+          "title": "India bonds little changed, debt auction cutoff to guide",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-little-changed-debt-auction-cutoff-to-guide/articleshow/134326777.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.301
+        },
+        {
+          "title": "How Bessent, America's bond salesman, cornered Japan on big spending",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/how-bessent-americas-bond-salesman-cornered-japan-on-big-spending/articleshow/134326610.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.273
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.032,
+      "avg_score": 0.121,
       "mood": "Mixed / Neutral",
       "positive": [
+        {
+          "title": "NASCAR CEO Steve O\u2019Donnell talks growth opportunities, possible international expansion",
+          "link": "https://www.cnbc.com/2026/09/17/nascar-steve-odonnell-media-international-expansion.html",
+          "source": "Business News",
+          "score": 0.637
+        },
+        {
+          "title": "Interest rates held but Bank signals rise if energy prices stay high",
+          "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.565
+        },
         {
           "title": "Flyers are happier with U.S. airports, despite near record travel levels, J.D. Power report shows",
           "link": "https://www.cnbc.com/2026/09/16/airport-satisfaction.html",
@@ -57,38 +87,19 @@
           "score": 0.527
         },
         {
-          "title": "US interest rates raised for first time in three years",
-          "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+          "title": "Charities say gifts by deceased donors are getting held up at financial firms",
+          "link": "https://www.cnbc.com/2026/09/17/charities-ira-gifts-hurdles.html",
+          "source": "Business News",
+          "score": 0.494
+        },
+        {
+          "title": "Japan raises interest rate to new 31-year high to curb rising prices",
+          "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "score": 0.459
-        },
-        {
-          "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
-          "link": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
-          "source": "Business News",
-          "score": 0.353
-        },
-        {
-          "title": "Kraft Heinz bets on more flavors for Philadelphia cream cheese as it looks to revive brands",
-          "link": "https://www.cnbc.com/2026/09/15/kraft-heinz-new-philadelphia-cream-cheese-flavors.html",
-          "source": "Business News",
-          "score": 0.34
         }
       ],
-      "negative": [
-        {
-          "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
-          "link": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
-          "source": "Business News",
-          "score": -0.44
-        },
-        {
-          "title": "U.S. auto market predictions for 2030: More hybrids, no Chinese entrants",
-          "link": "https://www.cnbc.com/2026/09/15/us-auto-market-predictions-2030-john-murphy.html",
-          "source": "Business News",
-          "score": -0.357
-        }
-      ],
+      "negative": [],
       "sample_size": 20
     }
   }
