@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-18T07:19:02.863942Z",
+  "generated_at": "2026-09-19T07:15:31.003653Z",
   "regions": {
     "india": {
-      "avg_score": 0.152,
+      "avg_score": 0.238,
       "mood": "Positive",
       "positive": [
         {
@@ -18,54 +18,42 @@
           "score": 0.7
         },
         {
-          "title": "GPT Infraprojects shares surge 9% after securing Rs 484 crore railway order from RVNL",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/gpt-infraprojects-shares-surge-9-after-securing-rs-484-crore-railway-order-from-rvnl/articleshow/134326998.cms",
+          "title": "F&amp;O Talk: 23,050 key Nifty support; Sudeep Shah outlines Tata stocks strategy, names 5 picks",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-23050-key-nifty-support-sudeep-shah-outlines-tata-stocks-strategy-names-5-picks/articleshow/134349624.cms",
           "source": "Markets-Economic Times",
-          "score": 0.542
+          "score": 0.66
         },
         {
-          "title": "Gold prices at Rs 1.52 lakh/10 gram, silver gains Rs 1,000/kg as falling oil lends support. Key levels to track",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-at-rs-1-52-lakh/10-gram-silver-gains-rs-1000/kg-as-falling-oil-lends-support-key-levels-to-track/articleshow/134326398.cms",
+          "title": "Gold rises to one-week high, heads for weekly gain on easing oil prices",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-to-one-week-high-heads-for-weekly-gain-on-easing-oil-prices/articleshow/134347676.cms",
           "source": "Markets-Economic Times",
-          "score": 0.542
+          "score": 0.66
         },
         {
-          "title": "Yatharth Hospitals shares rally 10% to fresh record high as Advent set to acquire 25% stake; stock up 20% in two days",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/yatharth-hospitals-shares-rally-10-to-fresh-record-high-as-advent-set-to-acquire-25-stake-stock-up-20-in-two-days/articleshow/134326269.cms",
+          "title": "Even as trading and markets moved faster, Warren Buffett made patience profitable and cool",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/even-as-trading-and-markets-moved-faster-warren-buffett-made-patience-profitable-and-cool/articleshow/134349434.cms",
           "source": "Markets-Economic Times",
-          "score": 0.542
+          "score": 0.637
         }
       ],
       "negative": [
         {
-          "title": "MCX traders complain of commodity position prices not reflecting on Zerodha, broker blames delay in exchange reports",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-traders-complain-of-commodity-position-prices-not-reflecting-on-zerodha-broker-blames-delay-in-exchange-reports/articleshow/134328172.cms",
+          "title": "Crude Oil Above $100: Can Saudi Arabia\u2019s export disruption trigger a new global energy shock?",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-above-100-can-saudi-arabias-export-disruption-trigger-a-new-global-energy-shock/articleshow/134349488.cms",
           "source": "Markets-Economic Times",
-          "score": -0.758
+          "score": -0.772
         },
         {
-          "title": "Even JPMorgan can\u2019t predict oil\u2019s next move as Iran war crosses more red lines",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/even-jpmorgan-cant-predict-oils-next-move-as-iran-war-crosses-more-red-lines/articleshow/134327059.cms",
+          "title": "BoJ has room to accelerate rate hikes as inflation pressures build: Report",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/boj-has-room-to-accelerate-rate-hikes-as-inflation-pressures-build-report/articleshow/134349111.cms",
           "source": "Markets-Economic Times",
-          "score": -0.599
-        },
-        {
-          "title": "India bonds little changed, debt auction cutoff to guide",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-little-changed-debt-auction-cutoff-to-guide/articleshow/134326777.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.301
-        },
-        {
-          "title": "How Bessent, America's bond salesman, cornered Japan on big spending",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/how-bessent-americas-bond-salesman-cornered-japan-on-big-spending/articleshow/134326610.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.273
+          "score": -0.318
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.121,
+      "avg_score": -0.009,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -75,31 +63,50 @@
           "score": 0.637
         },
         {
-          "title": "Interest rates held but Bank signals rise if energy prices stay high",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.565
+          "title": "Why more companies are fighting over consumers' beauty, health and wellness spending",
+          "link": "https://www.cnbc.com/2026/09/18/beauty-health-wellness-consumer-spending.html",
+          "source": "Business News",
+          "score": 0.604
         },
         {
-          "title": "Flyers are happier with U.S. airports, despite near record travel levels, J.D. Power report shows",
-          "link": "https://www.cnbc.com/2026/09/16/airport-satisfaction.html",
-          "source": "Business News",
-          "score": 0.527
+          "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+          "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.572
         },
         {
           "title": "Charities say gifts by deceased donors are getting held up at financial firms",
           "link": "https://www.cnbc.com/2026/09/17/charities-ira-gifts-hurdles.html",
           "source": "Business News",
           "score": 0.494
-        },
-        {
-          "title": "Japan raises interest rate to new 31-year high to curb rising prices",
-          "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.459
         }
       ],
-      "negative": [],
+      "negative": [
+        {
+          "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+          "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.833
+        },
+        {
+          "title": "Flight chaos caused by 'millisecond' software defect, report says",
+          "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.727
+        },
+        {
+          "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+          "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.542
+        },
+        {
+          "title": "Wendy's franchisee files for Chapter 11 bankruptcy protection as burger chain struggles",
+          "link": "https://www.cnbc.com/2026/09/18/wendys-franchisee-files-for-chapter-11-bankruptcy-protection.html",
+          "source": "Business News",
+          "score": -0.361
+        }
+      ],
       "sample_size": 20
     }
   }
