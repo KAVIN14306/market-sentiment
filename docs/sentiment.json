@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-19T07:15:31.003653Z",
+  "generated_at": "2026-09-19T19:36:15.693218Z",
   "regions": {
     "india": {
-      "avg_score": 0.238,
+      "avg_score": 0.186,
       "mood": "Positive",
       "positive": [
         {
@@ -18,14 +18,14 @@
           "score": 0.7
         },
         {
-          "title": "F&amp;O Talk: 23,050 key Nifty support; Sudeep Shah outlines Tata stocks strategy, names 5 picks",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-23050-key-nifty-support-sudeep-shah-outlines-tata-stocks-strategy-names-5-picks/articleshow/134349624.cms",
+          "title": "Dalal Street Week Ahead: Can Nifty defend the 23,000 support zone?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-can-nifty-defend-the-23000-support-zone/articleshow/134351910.cms",
           "source": "Markets-Economic Times",
           "score": 0.66
         },
         {
-          "title": "Gold rises to one-week high, heads for weekly gain on easing oil prices",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-to-one-week-high-heads-for-weekly-gain-on-easing-oil-prices/articleshow/134347676.cms",
+          "title": "F&amp;O Talk: 23,050 key Nifty support; Sudeep Shah outlines Tata stocks strategy, names 5 picks",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-23050-key-nifty-support-sudeep-shah-outlines-tata-stocks-strategy-names-5-picks/articleshow/134349624.cms",
           "source": "Markets-Economic Times",
           "score": 0.66
         },
@@ -42,6 +42,18 @@
           "link": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-above-100-can-saudi-arabias-export-disruption-trigger-a-new-global-energy-shock/articleshow/134349488.cms",
           "source": "Markets-Economic Times",
           "score": -0.772
+        },
+        {
+          "title": "Warren Buffett sounds alarm as stock market warning returns for only second time in 155 years",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/warren-buffett-sounds-alarm-as-stock-market-warning-returns-for-only-second-time-in-155-years/articleshow/134351304.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.586
+        },
+        {
+          "title": "Bitcoin reclaims $80,000, Ethereum nears $2,620 despite hawkish Fed, CLARITY Act setback",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-reclaims-80000-ethereum-nears-2620-despite-hawkish-fed-clarity-act-setback/articleshow/134351470.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.421
         },
         {
           "title": "BoJ has room to accelerate rate hikes as inflation pressures build: Report",
