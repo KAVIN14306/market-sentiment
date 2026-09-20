@@ -1,15 +1,21 @@
 {
-  "generated_at": "2026-09-19T19:36:15.693218Z",
+  "generated_at": "2026-09-20T07:40:17.870605Z",
   "regions": {
     "india": {
-      "avg_score": 0.186,
-      "mood": "Positive",
+      "avg_score": 0.15,
+      "mood": "Mixed / Neutral",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.869
+        },
+        {
+          "title": "Will Nifty extend gains to 4th session on Monday? US sanctions on Russia among factors to decide D-Street action",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-extend-gains-to-4th-session-on-monday-us-sanctions-on-russia-among-factors-to-decide-d-street-action/articleshow/134363267.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.7
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -28,26 +34,20 @@
           "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-23050-key-nifty-support-sudeep-shah-outlines-tata-stocks-strategy-names-5-picks/articleshow/134349624.cms",
           "source": "Markets-Economic Times",
           "score": 0.66
-        },
-        {
-          "title": "Even as trading and markets moved faster, Warren Buffett made patience profitable and cool",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/even-as-trading-and-markets-moved-faster-warren-buffett-made-patience-profitable-and-cool/articleshow/134349434.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.637
         }
       ],
       "negative": [
-        {
-          "title": "Crude Oil Above $100: Can Saudi Arabia\u2019s export disruption trigger a new global energy shock?",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-above-100-can-saudi-arabias-export-disruption-trigger-a-new-global-energy-shock/articleshow/134349488.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.772
-        },
         {
           "title": "Warren Buffett sounds alarm as stock market warning returns for only second time in 155 years",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/warren-buffett-sounds-alarm-as-stock-market-warning-returns-for-only-second-time-in-155-years/articleshow/134351304.cms",
           "source": "Markets-Economic Times",
           "score": -0.586
+        },
+        {
+          "title": "JioBlackRock CIO Rishi Kohli decodes Nifty\u2019s inflection point after two years of weak returns",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/jioblackrock-cio-rishi-kohli-decodes-niftys-inflection-point-after-two-years-of-weak-returns/articleshow/134363762.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.44
         },
         {
           "title": "Bitcoin reclaims $80,000, Ethereum nears $2,620 despite hawkish Fed, CLARITY Act setback",
@@ -56,16 +56,16 @@
           "score": -0.421
         },
         {
-          "title": "BoJ has room to accelerate rate hikes as inflation pressures build: Report",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/boj-has-room-to-accelerate-rate-hikes-as-inflation-pressures-build-report/articleshow/134349111.cms",
+          "title": "NSE GMP falls to its lowest level since the IPO announcement. Is the listing pop fading?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-gmp-falls-to-its-lowest-level-since-the-ipo-announcement-is-the-listing-pop-fading/articleshow/134364080.cms",
           "source": "Markets-Economic Times",
-          "score": -0.318
+          "score": -0.382
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.009,
+      "avg_score": -0.02,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -81,10 +81,10 @@
           "score": 0.604
         },
         {
-          "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-          "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+          "title": "Billionaire Man United owner says he has lost confidence in the UK",
+          "link": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": 0.572
+          "score": 0.586
         },
         {
           "title": "Charities say gifts by deceased donors are getting held up at financial firms",
@@ -107,10 +107,10 @@
           "score": -0.727
         },
         {
-          "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
-          "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
+          "title": "Not all AI workers think the tech could kill everyone",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.542
+          "score": -0.691
         },
         {
           "title": "Wendy's franchisee files for Chapter 11 bankruptcy protection as burger chain struggles",
