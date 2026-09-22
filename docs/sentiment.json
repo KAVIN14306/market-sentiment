@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-21T07:52:49.997815Z",
+  "generated_at": "2026-09-22T07:36:58.163177Z",
   "regions": {
     "india": {
-      "avg_score": 0.237,
+      "avg_score": 0.247,
       "mood": "Positive",
       "positive": [
         {
@@ -18,55 +18,43 @@
           "score": 0.7
         },
         {
-          "title": "Sensex jumps 550 points, Nifty nears 23,400 as oil prices cool down despite Middle East tensions. What lies ahead?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-400-points-nifty-nears-23400-as-oil-prices-cool-down-despite-middle-east-tensions-what-lies-ahead/articleshow/134380591.cms",
+          "title": "Hindustan Copper shares gain 3% as company plans Rs 7,000 crore capital investment in next 5 years",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-copper-shares-gain-3-as-company-plans-rs-7000-crore-capital-investment-in-next-5-years/articleshow/134404296.cms",
           "source": "Markets-Economic Times",
-          "score": 0.536
+          "score": 0.681
         },
         {
-          "title": "RIL selloff wipes off Rs 4 lakh crore from market value as shares drop 21% in 2026 so far. Should you buy now?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ril-selloff-wipes-off-rs-4-lakh-crore-from-market-value-as-shares-drop-21-in-2026-so-far-should-you-buy-now/articleshow/134380690.cms",
+          "title": "Will Roadster reveal trigger a fresh rally in Tesla shares?",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/will-roadster-reveal-trigger-a-fresh-rally-in-tesla-shares/slideshow/134405748.cms",
           "source": "Markets-Economic Times",
-          "score": 0.361
+          "score": 0.542
         },
         {
-          "title": "India bonds calm as oil dip counters US selloff, RBI sales",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-calm-as-oil-dip-counters-us-selloff-rbi-sales/articleshow/134381830.cms",
+          "title": "Global Market: China stocks climb on AI boost, US-China talks in focus",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-climb-on-ai-boost-us-china-talks-in-focus/articleshow/134403343.cms",
           "source": "Markets-Economic Times",
-          "score": 0.318
+          "score": 0.402
         }
       ],
       "negative": [
         {
-          "title": "How to trade TCS, Tata Chemicals, other Tata stocks as boardroom battles could reach court",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-to-trade-tcs-tata-chemicals-other-tata-stocks-as-boardroom-battles-could-reach-court/articleshow/134383483.cms",
+          "title": "HDFC Bank shares hit 7-week high as RBI weighs Anup Bagchi for CEO post. What lies ahead?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-hit-7-week-high-as-rbi-weighs-anup-bagchi-for-ceo-post-what-lies-ahead/articleshow/134404789.cms",
           "source": "Markets-Economic Times",
-          "score": -0.361
+          "score": -0.153
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.078,
+      "avg_score": 0.017,
       "mood": "Mixed / Neutral",
       "positive": [
-        {
-          "title": "NASCAR CEO Steve O\u2019Donnell talks growth opportunities, possible international expansion",
-          "link": "https://www.cnbc.com/2026/09/17/nascar-steve-odonnell-media-international-expansion.html",
-          "source": "Business News",
-          "score": 0.637
-        },
         {
           "title": "Why more companies are fighting over consumers' beauty, health and wellness spending",
           "link": "https://www.cnbc.com/2026/09/18/beauty-health-wellness-consumer-spending.html",
           "source": "Business News",
           "score": 0.604
-        },
-        {
-          "title": "Charities say gifts by deceased donors are getting held up at financial firms",
-          "link": "https://www.cnbc.com/2026/09/17/charities-ira-gifts-hurdles.html",
-          "source": "Business News",
-          "score": 0.494
         },
         {
           "title": "\u2018It's awful\u2019: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -75,19 +63,19 @@
           "score": 0.459
         },
         {
-          "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-          "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+          "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+          "link": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": 0.421
+          "score": 0.318
+        },
+        {
+          "title": "Budget airline king Bill Franke warms to first-class seats and premium upgrades",
+          "link": "https://www.cnbc.com/2026/09/20/bill-franke-frontier-spirit-budget-airlines.html",
+          "source": "Business News",
+          "score": 0.273
         }
       ],
       "negative": [
-        {
-          "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
-          "link": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.869
-        },
         {
           "title": "Wendy's franchisee files for Chapter 11 bankruptcy protection as burger chain struggles",
           "link": "https://www.cnbc.com/2026/09/18/wendys-franchisee-files-for-chapter-11-bankruptcy-protection.html",
@@ -95,10 +83,28 @@
           "score": -0.361
         },
         {
-          "title": "Will you get \u00a313,000 a year when you stop working? Here's how to check",
-          "link": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
+          "title": "Borrowing surge puts pressure on chancellor ahead of Budget",
+          "link": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "score": -0.296
+        },
+        {
+          "title": "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
+          "link": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
+          "source": "Business News",
+          "score": -0.273
+        },
+        {
+          "title": "Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed",
+          "link": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
+          "source": "Business News",
+          "score": -0.226
+        },
+        {
+          "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
+          "link": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.226
         }
       ],
       "sample_size": 20
