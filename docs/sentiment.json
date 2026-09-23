@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-22T07:36:58.163177Z",
+  "generated_at": "2026-09-23T07:38:59.651880Z",
   "regions": {
     "india": {
-      "avg_score": 0.247,
+      "avg_score": 0.255,
       "mood": "Positive",
       "positive": [
         {
@@ -12,49 +12,49 @@
           "score": 0.869
         },
         {
+          "title": "Hero Motors shares hit 20% upper circuit after lackluster debut. Should you buy, sell or hold?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hero-motors-shares-rally-20-to-hit-upper-circuit-after-listing-at-2-discount-to-ipo-price-should-you-buy-sell-or-hold/articleshow/134427748.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.7
+        },
+        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Hindustan Copper shares gain 3% as company plans Rs 7,000 crore capital investment in next 5 years",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-copper-shares-gain-3-as-company-plans-rs-7000-crore-capital-investment-in-next-5-years/articleshow/134404296.cms",
+          "title": "Global Market: China, Hong Kong stocks fall as investors temper Trump-Xi meeting hopes; property shares gain",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-fall-as-investors-temper-trump-xi-meeting-hopes-property-shares-gain/articleshow/134427229.cms",
           "source": "Markets-Economic Times",
           "score": 0.681
         },
         {
-          "title": "Will Roadster reveal trigger a fresh rally in Tesla shares?",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/will-roadster-reveal-trigger-a-fresh-rally-in-tesla-shares/slideshow/134405748.cms",
+          "title": "UBS upgrades Bajaj Finance shares, LT Finance as it sees NBFCs better placed than banks. Here\u2019s why",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ubs-upgrades-bajaj-finance-shares-lt-finance-as-it-sees-nbfcs-better-placed-than-banks-heres-why/articleshow/134426549.cms",
           "source": "Markets-Economic Times",
-          "score": 0.542
-        },
-        {
-          "title": "Global Market: China stocks climb on AI boost, US-China talks in focus",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-climb-on-ai-boost-us-china-talks-in-focus/articleshow/134403343.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.402
+          "score": 0.625
         }
       ],
       "negative": [
         {
-          "title": "HDFC Bank shares hit 7-week high as RBI weighs Anup Bagchi for CEO post. What lies ahead?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-hit-7-week-high-as-rbi-weighs-anup-bagchi-for-ceo-post-what-lies-ahead/articleshow/134404789.cms",
+          "title": "Meesho shares drop 4% after block deal worth Rs 900 crore. Should you buy the dip?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/meesho-shares-drop-4-after-block-deal-worth-rs-900-crore-should-you-buy-the-dip/articleshow/134427534.cms",
           "source": "Markets-Economic Times",
-          "score": -0.153
+          "score": -0.226
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.017,
+      "avg_score": -0.067,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "Why more companies are fighting over consumers' beauty, health and wellness spending",
-          "link": "https://www.cnbc.com/2026/09/18/beauty-health-wellness-consumer-spending.html",
-          "source": "Business News",
-          "score": 0.604
+          "title": "Will Trump's AI rebrand to 'super intelligence' catch on?",
+          "link": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.791
         },
         {
           "title": "\u2018It's awful\u2019: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -63,10 +63,10 @@
           "score": 0.459
         },
         {
-          "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
-          "link": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.318
+          "title": "Autonomous trucking company Aurora looks to accelerate toward profitability",
+          "link": "https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html",
+          "source": "Business News",
+          "score": 0.273
         },
         {
           "title": "Budget airline king Bill Franke warms to first-class seats and premium upgrades",
@@ -77,34 +77,34 @@
       ],
       "negative": [
         {
-          "title": "Wendy's franchisee files for Chapter 11 bankruptcy protection as burger chain struggles",
-          "link": "https://www.cnbc.com/2026/09/18/wendys-franchisee-files-for-chapter-11-bankruptcy-protection.html",
+          "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.844
+        },
+        {
+          "title": "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud",
+          "link": "https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html",
+          "source": "Business News",
+          "score": -0.586
+        },
+        {
+          "title": "Trump says he would back ban on diesel exports",
+          "link": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.557
+        },
+        {
+          "title": "Rich nations must cut debt as global shocks push up borrowing costs, IMF chief tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.382
+        },
+        {
+          "title": "McDonald's is hosting an investor day as its U.S. business struggles. Here are 4 things to expect",
+          "link": "https://www.cnbc.com/2026/09/22/mcdonalds-mcd-hosts-investor-day.html",
           "source": "Business News",
           "score": -0.361
-        },
-        {
-          "title": "Borrowing surge puts pressure on chancellor ahead of Budget",
-          "link": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.296
-        },
-        {
-          "title": "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
-          "link": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
-          "source": "Business News",
-          "score": -0.273
-        },
-        {
-          "title": "Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed",
-          "link": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
-          "source": "Business News",
-          "score": -0.226
-        },
-        {
-          "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.226
         }
       ],
       "sample_size": 20
