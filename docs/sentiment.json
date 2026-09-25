@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-24T07:30:52.981982Z",
+  "generated_at": "2026-09-25T07:34:27.620750Z",
   "regions": {
     "india": {
-      "avg_score": 0.12,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.191,
+      "mood": "Positive",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -18,40 +18,34 @@
           "score": 0.7
         },
         {
-          "title": "IPO reality check! Is GMP a useful signal or just market noise? Here\u2019s what experts think",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-reality-check-is-gmp-a-useful-signal-or-just-market-noise-heres-what-experts-think/articleshow/134452734.cms",
+          "title": "800% gains, 106 multibaggers in 3 years; now every second Nifty 500 stock is down in 2026. Time for caution?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/800-gains-106-multibaggers-in-3-years-now-every-second-nifty-500-stock-is-down-in-2026-time-for-caution/articleshow/134475160.cms",
           "source": "Markets-Economic Times",
-          "score": 0.493
+          "score": 0.625
         },
         {
-          "title": "McDonald\u2019s shares tumble 5%: What triggered the sell-off?",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/mcdonalds-shares-tumble-5-what-triggered-the-sell-off/slideshow/134454179.cms",
+          "title": "Balrampur Chini Mills shares rally 4% as company receives Rs 75 crore BioE3 grant from government",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/balrampur-chini-mills-shares-rally-4-as-company-receives-rs-75-crore-bioe3-grant-from-government/articleshow/134477303.cms",
           "source": "Markets-Economic Times",
-          "score": 0.296
+          "score": 0.572
         },
         {
-          "title": "Stocks to buy: UBS picks 4 NBFC shares with upside potential of up to 36%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-ubs-picks-4-nbfc-shares-with-upside-potential-of-up-to-36/slideshow/134453126.cms",
+          "title": "IPO multibagger ESDS shares hit 5% lower circuit as Q1 net profit more than halves. Time to sell?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-multibagger-esds-shares-hit-5-lower-circuit-as-q1-net-profit-more-than-halves-time-to-sell/articleshow/134475720.cms",
           "source": "Markets-Economic Times",
-          "score": 0.296
+          "score": 0.44
         }
       ],
       "negative": [
         {
-          "title": "PB Fintech loses Rs 22,700 cr from market value as stock crashes 26% after IRDAI\u2019s reform plans. What Citi and Jefferies are warning",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-loses-rs-22700-cr-from-market-value-as-stock-crashes-26-after-irdais-reform-plans-what-citi-and-jefferies-are-warning/articleshow/134454219.cms",
+          "title": "US Market: Bond fund managers turn cautious as yields, AI debt raise risks",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-bond-fund-managers-turn-cautious-as-yields-ai-debt-raise-risks/articleshow/134475249.cms",
           "source": "Markets-Economic Times",
-          "score": -0.318
+          "score": -0.612
         },
         {
-          "title": "Multibagger trap: 15 stocks that soared up to 4,000% in 2025 crashed as much as 90%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/multibagger-trap-15-stocks-that-soared-up-to-4000-in-2025-crashed-as-much-as-90/articleshow/134453848.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.318
-        },
-        {
-          "title": "China, Hong Kong stocks decline as Trump-Xi talks face investor scepticism",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/china-hong-kong-stocks-decline-as-trump-xi-talks-face-investor-scepticism/articleshow/134452880.cms",
+          "title": "Tata Sons boardroom battle intensifies but Tata Group stocks remain unbothered. Should you buy?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-group-stocks-in-focus-as-tata-sons-rejects-noel-tatas-objections-says-chandrasekarans-reappointment-is-valid/articleshow/134475308.cms",
           "source": "Markets-Economic Times",
           "score": -0.202
         }
@@ -59,32 +53,38 @@
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.071,
+      "avg_score": 0.018,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "How the oil capital of the US welcomed a solar power boom",
-          "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+          "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+          "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": 0.34
+          "score": 0.637
         },
         {
-          "title": "Autonomous trucking company Aurora looks to accelerate toward profitability",
-          "link": "https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html",
+          "title": "Cat owners are spending more and boosting pet retailers",
+          "link": "https://www.cnbc.com/2026/09/24/cat-ownership-food-sales-dog-demand.html",
           "source": "Business News",
-          "score": 0.273
+          "score": 0.398
+        },
+        {
+          "title": "Darden Restaurants stock falls as Olive Garden reports slower growth",
+          "link": "https://www.cnbc.com/2026/09/24/darden-restaurants-dri-q1-2027-earnings.html",
+          "source": "Business News",
+          "score": 0.382
+        },
+        {
+          "title": "MGM Resorts shares sink 11% after Barry Diller's People Inc. rescinds takeover offer",
+          "link": "https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html",
+          "source": "Business News",
+          "score": 0.296
         },
         {
           "title": "Royal Caribbean agrees to take 50% equity stake in Sandals for $3 billion",
           "link": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
           "source": "Business News",
           "score": 0.202
-        },
-        {
-          "title": "Why McDonald's is following Walmart and Amazon into the advertising business",
-          "link": "https://www.cnbc.com/2026/09/23/why-mcdonalds-is-building-an-advertising-business.html",
-          "source": "Business News",
-          "score": 0.178
         }
       ],
       "negative": [
@@ -95,16 +95,10 @@
           "score": -0.586
         },
         {
-          "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-          "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
+          "title": "Scam hotel booking sent family to Wetherspoon pub",
+          "link": "https://www.bbc.co.uk/news/articles/c3zxzqyj24xeo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.511
-        },
-        {
-          "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
-          "link": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.459
+          "score": -0.572
         },
         {
           "title": "McDonald's is hosting an investor day as its U.S. business struggles. Here are 4 things to expect",
@@ -113,10 +107,10 @@
           "score": -0.361
         },
         {
-          "title": "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
-          "link": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
+          "title": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
+          "link": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html",
           "source": "Business News",
-          "score": -0.273
+          "score": -0.318
         }
       ],
       "sample_size": 20
