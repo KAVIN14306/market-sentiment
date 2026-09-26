@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-25T07:34:27.620750Z",
+  "generated_at": "2026-09-26T07:27:31.351940Z",
   "regions": {
     "india": {
-      "avg_score": 0.191,
-      "mood": "Positive",
+      "avg_score": 0.13,
+      "mood": "Mixed / Neutral",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -18,50 +18,56 @@
           "score": 0.7
         },
         {
-          "title": "800% gains, 106 multibaggers in 3 years; now every second Nifty 500 stock is down in 2026. Time for caution?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/800-gains-106-multibaggers-in-3-years-now-every-second-nifty-500-stock-is-down-in-2026-time-for-caution/articleshow/134475160.cms",
+          "title": "Wall Street Week Ahead: Jobs report, inflation data to test US rate path, economic strength",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-jobs-report-inflation-data-to-test-us-rate-path-economic-strength/articleshow/134497643.cms",
           "source": "Markets-Economic Times",
-          "score": 0.625
+          "score": 0.494
         },
         {
-          "title": "Balrampur Chini Mills shares rally 4% as company receives Rs 75 crore BioE3 grant from government",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/balrampur-chini-mills-shares-rally-4-as-company-receives-rs-75-crore-bioe3-grant-from-government/articleshow/134477303.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.572
-        },
-        {
-          "title": "IPO multibagger ESDS shares hit 5% lower circuit as Q1 net profit more than halves. Time to sell?",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-multibagger-esds-shares-hit-5-lower-circuit-as-q1-net-profit-more-than-halves-time-to-sell/articleshow/134475720.cms",
+          "title": "Give blood, buy bonds: Countries get creative in hunt for cash",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/give-blood-buy-bonds-countries-get-creative-in-hunt-for-cash/articleshow/134497672.cms",
           "source": "Markets-Economic Times",
           "score": 0.44
+        },
+        {
+          "title": "ETMarkets Smart Talk | Rate-cut cycle over, RBI may be at cusp of rate hikes; yields could inch higher: Puneet Pal",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-rate-cut-cycle-over-rbi-may-be-at-cusp-of-rate-hikes-yields-could-inch-higher-puneet-pal/articleshow/134499579.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.402
         }
       ],
       "negative": [
         {
-          "title": "US Market: Bond fund managers turn cautious as yields, AI debt raise risks",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-bond-fund-managers-turn-cautious-as-yields-ai-debt-raise-risks/articleshow/134475249.cms",
+          "title": "Prestige Group drops Rs 2,700 cr IPO plan for hospitality arm, cites bad market conditions",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/prestige-group-drops-rs-2700-cr-ipo-plan-for-hospitality-arm-cites-bad-market-conditions/articleshow/134499033.cms",
           "source": "Markets-Economic Times",
-          "score": -0.612
+          "score": -0.542
         },
         {
-          "title": "Tata Sons boardroom battle intensifies but Tata Group stocks remain unbothered. Should you buy?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-group-stocks-in-focus-as-tata-sons-rejects-noel-tatas-objections-says-chandrasekarans-reappointment-is-valid/articleshow/134475308.cms",
+          "title": "FIIs unlikely to return in large numbers without new growth engines in India: Bernstein",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-unlikely-to-return-in-large-numbers-without-new-growth-engines-in-india-bernstein/articleshow/134499010.cms",
           "source": "Markets-Economic Times",
-          "score": -0.202
+          "score": -0.292
+        },
+        {
+          "title": "Forex reserves drop to $781 billion after hitting a peak of $785 billion",
+          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/forex-reserves-drop-to-781-billion-after-hitting-a-peak-of-785-billion/articleshow/134497071.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.273
+        },
+        {
+          "title": "Nifty logs 7th straight weekly loss for the first time in 6 years: Time to be fearful, or can bulls pull off a comeback?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-logs-7th-straight-weekly-losses-for-the-first-time-in-6-years-time-to-be-fearful-or-can-bulls-pull-off-a-comeback/articleshow/134498300.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.226
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.018,
+      "avg_score": 0.029,
       "mood": "Mixed / Neutral",
       "positive": [
-        {
-          "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
-          "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.637
-        },
         {
           "title": "Cat owners are spending more and boosting pet retailers",
           "link": "https://www.cnbc.com/2026/09/24/cat-ownership-food-sales-dog-demand.html",
@@ -75,34 +81,34 @@
           "score": 0.382
         },
         {
+          "title": "Novo is betting on its next chapter as Eli Lilly gains more ground in GLP-1s",
+          "link": "https://www.cnbc.com/2026/09/25/novo-eli-lilly-obesity-drugs.html",
+          "source": "Business News",
+          "score": 0.34
+        },
+        {
           "title": "MGM Resorts shares sink 11% after Barry Diller's People Inc. rescinds takeover offer",
           "link": "https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html",
           "source": "Business News",
           "score": 0.296
         },
         {
-          "title": "Royal Caribbean agrees to take 50% equity stake in Sandals for $3 billion",
-          "link": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
+          "title": "Why McDonald's is following Walmart and Amazon into the advertising business",
+          "link": "https://www.cnbc.com/2026/09/23/why-mcdonalds-is-building-an-advertising-business.html",
           "source": "Business News",
-          "score": 0.202
+          "score": 0.178
         }
       ],
       "negative": [
         {
-          "title": "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud",
-          "link": "https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html",
-          "source": "Business News",
-          "score": -0.586
-        },
-        {
-          "title": "Scam hotel booking sent family to Wetherspoon pub",
-          "link": "https://www.bbc.co.uk/news/articles/c3zxzqyj24xeo?at_medium=RSS&at_campaign=rss",
+          "title": "Man City found guilty of breaking financial rules",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.572
+          "score": -0.421
         },
         {
-          "title": "McDonald's is hosting an investor day as its U.S. business struggles. Here are 4 things to expect",
-          "link": "https://www.cnbc.com/2026/09/22/mcdonalds-mcd-hosts-investor-day.html",
+          "title": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
+          "link": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html",
           "source": "Business News",
           "score": -0.361
         },
