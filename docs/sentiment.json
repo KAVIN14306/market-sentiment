@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-26T07:27:31.351940Z",
+  "generated_at": "2026-09-27T07:57:52.157615Z",
   "regions": {
     "india": {
-      "avg_score": 0.13,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.333,
+      "mood": "Positive",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -18,54 +18,29 @@
           "score": 0.7
         },
         {
-          "title": "Wall Street Week Ahead: Jobs report, inflation data to test US rate path, economic strength",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-jobs-report-inflation-data-to-test-us-rate-path-economic-strength/articleshow/134497643.cms",
+          "title": "Nifty at key 23,000 support: Can bulls trigger a technical rebound?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-at-key-23000-support-can-bulls-trigger-a-technical-rebound/articleshow/134500890.cms",
           "source": "Markets-Economic Times",
-          "score": 0.494
+          "score": 0.66
         },
         {
-          "title": "Give blood, buy bonds: Countries get creative in hunt for cash",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/give-blood-buy-bonds-countries-get-creative-in-hunt-for-cash/articleshow/134497672.cms",
+          "title": "Natural gas defies energy shock as strong supply keeps prices in check",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/natural-gas-defies-energy-shock-as-strong-supply-keeps-prices-in-check/articleshow/134515059.cms",
           "source": "Markets-Economic Times",
-          "score": 0.44
+          "score": 0.649
         },
         {
-          "title": "ETMarkets Smart Talk | Rate-cut cycle over, RBI may be at cusp of rate hikes; yields could inch higher: Puneet Pal",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-rate-cut-cycle-over-rbi-may-be-at-cusp-of-rate-hikes-yields-could-inch-higher-puneet-pal/articleshow/134499579.cms",
+          "title": "Bonus &amp; dividends: SAIL, IGL among 10 stocks turning ex-record date this week. Do you own any?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-dividends-sail-igl-among-10-stocks-turning-ex-record-date-this-week-do-you-own-any/articleshow/134514676.cms",
           "source": "Markets-Economic Times",
-          "score": 0.402
+          "score": 0.542
         }
       ],
-      "negative": [
-        {
-          "title": "Prestige Group drops Rs 2,700 cr IPO plan for hospitality arm, cites bad market conditions",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/prestige-group-drops-rs-2700-cr-ipo-plan-for-hospitality-arm-cites-bad-market-conditions/articleshow/134499033.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.542
-        },
-        {
-          "title": "FIIs unlikely to return in large numbers without new growth engines in India: Bernstein",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-unlikely-to-return-in-large-numbers-without-new-growth-engines-in-india-bernstein/articleshow/134499010.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.292
-        },
-        {
-          "title": "Forex reserves drop to $781 billion after hitting a peak of $785 billion",
-          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/forex-reserves-drop-to-781-billion-after-hitting-a-peak-of-785-billion/articleshow/134497071.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.273
-        },
-        {
-          "title": "Nifty logs 7th straight weekly loss for the first time in 6 years: Time to be fearful, or can bulls pull off a comeback?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-logs-7th-straight-weekly-losses-for-the-first-time-in-6-years-time-to-be-fearful-or-can-bulls-pull-off-a-comeback/articleshow/134498300.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.226
-        }
-      ],
+      "negative": [],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.029,
+      "avg_score": 0.01,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -101,22 +76,34 @@
       ],
       "negative": [
         {
-          "title": "Man City found guilty of breaking financial rules",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.421
-        },
-        {
           "title": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
           "link": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html",
           "source": "Business News",
           "score": -0.361
         },
         {
+          "title": "Airlines waive change fees ahead of nor'easter as flight disruptions trickle in",
+          "link": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+          "source": "Business News",
+          "score": -0.34
+        },
+        {
           "title": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
           "link": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html",
           "source": "Business News",
           "score": -0.318
+        },
+        {
+          "title": "Heathrow Airport warns third runway could be delayed by four years",
+          "link": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.318
+        },
+        {
+          "title": "Clubs seek legal advice over Man City charges compensation",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.153
         }
       ],
       "sample_size": 20
