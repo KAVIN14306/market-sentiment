@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-27T07:57:52.157615Z",
+  "generated_at": "2026-09-28T08:34:28.213228Z",
   "regions": {
     "india": {
-      "avg_score": 0.333,
-      "mood": "Positive",
+      "avg_score": 0.073,
+      "mood": "Mixed / Neutral",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -18,29 +18,54 @@
           "score": 0.7
         },
         {
-          "title": "Nifty at key 23,000 support: Can bulls trigger a technical rebound?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-at-key-23000-support-can-bulls-trigger-a-technical-rebound/articleshow/134500890.cms",
+          "title": "Global Market: Chinese stocks slide as US-China optimism fades, tech shares tumble",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-stocks-slide-as-us-china-optimism-fades-tech-shares-tumble/articleshow/134495616.cms",
           "source": "Markets-Economic Times",
-          "score": 0.66
+          "score": 0.691
         },
         {
-          "title": "Natural gas defies energy shock as strong supply keeps prices in check",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/natural-gas-defies-energy-shock-as-strong-supply-keeps-prices-in-check/articleshow/134515059.cms",
+          "title": "AceVector IPO, 2 other mainboard offers see strong demand on Day 2. Check GMP, subscription status",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/acevector-ipo-2-other-mainboard-offers-see-strong-demand-on-day-2-check-gmp-subscription-status/articleshow/134535455.cms",
           "source": "Markets-Economic Times",
-          "score": 0.649
+          "score": 0.421
         },
         {
-          "title": "Bonus &amp; dividends: SAIL, IGL among 10 stocks turning ex-record date this week. Do you own any?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-dividends-sail-igl-among-10-stocks-turning-ex-record-date-this-week-do-you-own-any/articleshow/134514676.cms",
+          "title": "Jefferies names Max Financial as its top insurance pick, sees 41% upside despite target cut",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-names-max-financial-as-its-top-insurance-pick-sees-41-upside-despite-target-cut/articleshow/134536100.cms",
           "source": "Markets-Economic Times",
-          "score": 0.542
+          "score": 0.385
         }
       ],
-      "negative": [],
+      "negative": [
+        {
+          "title": "Rupee pinned just shy of 96/USD as RBI intervention counters oil woes",
+          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-pinned-just-shy-of-96/usd-as-rbi-intervention-counters-oil-woes/articleshow/134535315.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.599
+        },
+        {
+          "title": "Trump cannot afford to let AI boom fail: 'Big Short' investor Michael Burry explains why",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-cannot-afford-to-let-ai-boom-fail-big-short-investor-michael-burry-explains-why/articleshow/134535736.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.542
+        },
+        {
+          "title": "India 10-year yield hits over two-year high as supply angst adds to global woes",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-yield-hits-over-two-year-high-as-supply-angst-adds-to-global-woes/articleshow/134535660.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.44
+        },
+        {
+          "title": "Global Market: BOJ policymakers see case for faster rate hikes as inflation risks mount",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-boj-policymakers-see-case-for-faster-rate-hikes-as-inflation-risks-mount/articleshow/134535393.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.273
+        }
+      ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.01,
+      "avg_score": 0.031,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -62,30 +87,30 @@
           "score": 0.34
         },
         {
+          "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
+          "link": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.318
+        },
+        {
           "title": "MGM Resorts shares sink 11% after Barry Diller's People Inc. rescinds takeover offer",
           "link": "https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html",
           "source": "Business News",
           "score": 0.296
-        },
-        {
-          "title": "Why McDonald's is following Walmart and Amazon into the advertising business",
-          "link": "https://www.cnbc.com/2026/09/23/why-mcdonalds-is-building-an-advertising-business.html",
-          "source": "Business News",
-          "score": 0.178
         }
       ],
       "negative": [
+        {
+          "title": "My hometown shows that high streets have to change or die",
+          "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.599
+        },
         {
           "title": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
           "link": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html",
           "source": "Business News",
           "score": -0.361
-        },
-        {
-          "title": "Airlines waive change fees ahead of nor'easter as flight disruptions trickle in",
-          "link": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
-          "source": "Business News",
-          "score": -0.34
         },
         {
           "title": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
@@ -94,16 +119,10 @@
           "score": -0.318
         },
         {
-          "title": "Heathrow Airport warns third runway could be delayed by four years",
-          "link": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+          "title": "Why the PM could finally drop the triple lock pension pledge",
+          "link": "https://www.bbc.co.uk/news/articles/c6jdvmy1287yo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.318
-        },
-        {
-          "title": "Clubs seek legal advice over Man City charges compensation",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.153
+          "score": -0.273
         }
       ],
       "sample_size": 20
