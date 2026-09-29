@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-28T08:34:28.213228Z",
+  "generated_at": "2026-09-29T08:17:12.773044Z",
   "regions": {
     "india": {
-      "avg_score": 0.073,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.253,
+      "mood": "Positive",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -12,62 +12,56 @@
           "score": 0.869
         },
         {
+          "title": "BSE shares rise 2% ahead of Nifty 50 entry tomorrow. Top brokerages share mixed outlook",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-rise-2-ahead-of-nifty-50-entry-tomorrow-top-brokerages-share-mixed-outlook/articleshow/134559508.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.784
+        },
+        {
+          "title": "Power Mech Projects shares gain 3% after securing Rs 279 crore order from Telangana Power Generation Corporation",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/power-mech-projects-shares-gain-3-after-securing-rs-279-crore-order-from-telangana-power-generation-corporation/articleshow/134558476.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.784
+        },
+        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Global Market: Chinese stocks slide as US-China optimism fades, tech shares tumble",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-stocks-slide-as-us-china-optimism-fades-tech-shares-tumble/articleshow/134495616.cms",
+          "title": "NCC shares rally 5% after securing Rs 1,076 crore Andhra Pradesh drinking water project",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ncc-shares-rally-5-after-securing-rs-1076-crore-andhra-pradesh-drinking-water-project/articleshow/134558547.cms",
           "source": "Markets-Economic Times",
-          "score": 0.691
-        },
-        {
-          "title": "AceVector IPO, 2 other mainboard offers see strong demand on Day 2. Check GMP, subscription status",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/acevector-ipo-2-other-mainboard-offers-see-strong-demand-on-day-2-check-gmp-subscription-status/articleshow/134535455.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.421
-        },
-        {
-          "title": "Jefferies names Max Financial as its top insurance pick, sees 41% upside despite target cut",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-names-max-financial-as-its-top-insurance-pick-sees-41-upside-despite-target-cut/articleshow/134536100.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.385
+          "score": 0.542
         }
       ],
       "negative": [
         {
-          "title": "Rupee pinned just shy of 96/USD as RBI intervention counters oil woes",
-          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-pinned-just-shy-of-96/usd-as-rbi-intervention-counters-oil-woes/articleshow/134535315.cms",
+          "title": "Copper prices may surge another 50%, predicts Deutsche Bank; supply to users could exhaust by 2028",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/copper-prices-may-surge-another-50-predicts-deutsche-bank-supply-to-users-could-exhaust-by-2028/articleshow/134559135.cms",
           "source": "Markets-Economic Times",
-          "score": -0.599
-        },
-        {
-          "title": "Trump cannot afford to let AI boom fail: 'Big Short' investor Michael Burry explains why",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-cannot-afford-to-let-ai-boom-fail-big-short-investor-michael-burry-explains-why/articleshow/134535736.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.542
-        },
-        {
-          "title": "India 10-year yield hits over two-year high as supply angst adds to global woes",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-yield-hits-over-two-year-high-as-supply-angst-adds-to-global-woes/articleshow/134535660.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.44
-        },
-        {
-          "title": "Global Market: BOJ policymakers see case for faster rate hikes as inflation risks mount",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-boj-policymakers-see-case-for-faster-rate-hikes-as-inflation-risks-mount/articleshow/134535393.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.273
+          "score": -0.296
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.031,
+      "avg_score": -0.014,
       "mood": "Mixed / Neutral",
       "positive": [
+        {
+          "title": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
+          "link": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
+          "source": "Business News",
+          "score": 0.421
+        },
+        {
+          "title": "OpenAI scraps rollout of new model over safety concerns",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.421
+        },
         {
           "title": "Cat owners are spending more and boosting pet retailers",
           "link": "https://www.cnbc.com/2026/09/24/cat-ownership-food-sales-dog-demand.html",
@@ -85,26 +79,26 @@
           "link": "https://www.cnbc.com/2026/09/25/novo-eli-lilly-obesity-drugs.html",
           "source": "Business News",
           "score": 0.34
-        },
-        {
-          "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
-          "link": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.318
-        },
-        {
-          "title": "MGM Resorts shares sink 11% after Barry Diller's People Inc. rescinds takeover offer",
-          "link": "https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html",
-          "source": "Business News",
-          "score": 0.296
         }
       ],
       "negative": [
         {
-          "title": "My hometown shows that high streets have to change or die",
-          "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+          "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+          "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.599
+          "score": -0.848
+        },
+        {
+          "title": "Warning more homes will be uninsurable due to flood risk",
+          "link": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.542
+        },
+        {
+          "title": "Ex-Disney CEO Bob Chapek says he raised concerns with the board 'weekly' during Iger power battle",
+          "link": "https://www.cnbc.com/2026/09/28/disney-bob-chapek-bob-iger-power-battle-board.html",
+          "source": "Business News",
+          "score": -0.382
         },
         {
           "title": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
@@ -117,12 +111,6 @@
           "link": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html",
           "source": "Business News",
           "score": -0.318
-        },
-        {
-          "title": "Why the PM could finally drop the triple lock pension pledge",
-          "link": "https://www.bbc.co.uk/news/articles/c6jdvmy1287yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.273
         }
       ],
       "sample_size": 20
