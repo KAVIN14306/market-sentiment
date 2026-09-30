@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-29T08:17:12.773044Z",
+  "generated_at": "2026-09-30T08:17:48.826257Z",
   "regions": {
     "india": {
-      "avg_score": 0.253,
+      "avg_score": 0.195,
       "mood": "Positive",
       "positive": [
         {
@@ -12,16 +12,10 @@
           "score": 0.869
         },
         {
-          "title": "BSE shares rise 2% ahead of Nifty 50 entry tomorrow. Top brokerages share mixed outlook",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-rise-2-ahead-of-nifty-50-entry-tomorrow-top-brokerages-share-mixed-outlook/articleshow/134559508.cms",
+          "title": "Inox Clean Energy files DRHP for Rs 10,000 crore IPO, largest in Indian private sector renewable energy space",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/inox-clean-energy-files-drhp-for-rs-10000-crore-ipo-largest-in-indian-private-sector-renewable-energy-space/articleshow/134583774.cms",
           "source": "Markets-Economic Times",
-          "score": 0.784
-        },
-        {
-          "title": "Power Mech Projects shares gain 3% after securing Rs 279 crore order from Telangana Power Generation Corporation",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/power-mech-projects-shares-gain-3-after-securing-rs-279-crore-order-from-telangana-power-generation-corporation/articleshow/134558476.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.784
+          "score": 0.71
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -30,18 +24,48 @@
           "score": 0.7
         },
         {
-          "title": "NCC shares rally 5% after securing Rs 1,076 crore Andhra Pradesh drinking water project",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ncc-shares-rally-5-after-securing-rs-1076-crore-andhra-pradesh-drinking-water-project/articleshow/134558547.cms",
+          "title": "Indian markets are not vulnerable: Sebi chief Tuhin Kanta Pandey remains optimistic even as Sensex, Nifty bleed",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-markets-are-not-vulnerable-sebi-chief-tuhin-kanta-pandey-remains-optimistic-even-as-sensex-nifty-bleed/articleshow/134585319.cms",
           "source": "Markets-Economic Times",
-          "score": 0.542
+          "score": 0.687
+        },
+        {
+          "title": "Global Market: China factory activity returns to growth in September as AI boom supports industrial sector",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-china-factory-activity-returns-to-growth-in-september-as-ai-boom-supports-industrial-sector/articleshow/134583926.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.625
         }
       ],
       "negative": [
         {
-          "title": "Copper prices may surge another 50%, predicts Deutsche Bank; supply to users could exhaust by 2028",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/copper-prices-may-surge-another-50-predicts-deutsche-bank-supply-to-users-could-exhaust-by-2028/articleshow/134559135.cms",
+          "title": "TCS, Wipro, other IT stocks rebound up to 6%, snapping 8-day losing streak. Why is Jefferies cautious?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-wipro-other-it-stocks-rebound-up-to-6-snapping-8-day-losing-streak-why-is-jefferies-cautious/articleshow/134583730.cms",
           "source": "Markets-Economic Times",
-          "score": -0.296
+          "score": -0.459
+        },
+        {
+          "title": "Global Market: Chinese stocks struggle near one-year lows as policy support disappoints",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-stocks-struggle-near-one-year-lows-as-policy-support-disappoints/articleshow/134583057.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.459
+        },
+        {
+          "title": "Will RBI rate hikes intensify selloff in bank stocks? Analysts explain why fears may be overdone",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-rbi-rate-hikes-intensify-selloff-in-bank-stocks-analysts-explain-why-fears-may-be-overdone/articleshow/134584665.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.421
+        },
+        {
+          "title": "Nifty shorts hit a six-month high in worst September F&amp;O series in 25 years. Time for extra caution?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-shorts-hit-a-six-month-high-in-worst-september-fo-series-in-25-years-time-for-extra-caution/articleshow/134585448.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.34
+        },
+        {
+          "title": "Avalon Tech shares fall 6% after Rs 883 crore block deal; 3 promoter entities likely sellers",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/avalon-tech-shares-fall-6-after-rs-883-crore-block-deal-3-promoter-entities-likely-sellers/articleshow/134583113.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.178
         }
       ],
       "sample_size": 19
@@ -51,48 +75,36 @@
       "mood": "Mixed / Neutral",
       "positive": [
         {
+          "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+          "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.791
+        },
+        {
           "title": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
           "link": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
           "source": "Business News",
           "score": 0.421
         },
         {
-          "title": "OpenAI scraps rollout of new model over safety concerns",
-          "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.421
-        },
-        {
-          "title": "Cat owners are spending more and boosting pet retailers",
-          "link": "https://www.cnbc.com/2026/09/24/cat-ownership-food-sales-dog-demand.html",
-          "source": "Business News",
-          "score": 0.398
-        },
-        {
-          "title": "Darden Restaurants stock falls as Olive Garden reports slower growth",
-          "link": "https://www.cnbc.com/2026/09/24/darden-restaurants-dri-q1-2027-earnings.html",
-          "source": "Business News",
-          "score": 0.382
-        },
-        {
           "title": "Novo is betting on its next chapter as Eli Lilly gains more ground in GLP-1s",
           "link": "https://www.cnbc.com/2026/09/25/novo-eli-lilly-obesity-drugs.html",
           "source": "Business News",
           "score": 0.34
+        },
+        {
+          "title": "Household energy bills forecast to see biggest rise in four years",
+          "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.273
         }
       ],
       "negative": [
         {
-          "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
-          "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+          "title": "Huel ad banned for suggesting its products could replace all conventional food",
+          "link": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.848
-        },
-        {
-          "title": "Warning more homes will be uninsurable due to flood risk",
-          "link": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.542
+          "score": -0.459
         },
         {
           "title": "Ex-Disney CEO Bob Chapek says he raised concerns with the board 'weekly' during Iger power battle",
@@ -107,10 +119,16 @@
           "score": -0.361
         },
         {
-          "title": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
-          "link": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html",
+          "title": "Alaska Airlines CEO 'not overly concerned' about new Boeing Max 10 delay",
+          "link": "https://www.cnbc.com/2026/09/29/boeing-max-delay-alaska-airlines-ceo.html",
           "source": "Business News",
           "score": -0.318
+        },
+        {
+          "title": "Disney laying off around 300 employees in latest cuts under new CEO Josh D'Amaro",
+          "link": "https://www.cnbc.com/2026/09/29/disney-layoffs-josh-damaro.html",
+          "source": "Business News",
+          "score": -0.296
         }
       ],
       "sample_size": 20
