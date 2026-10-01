@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-30T08:17:48.826257Z",
+  "generated_at": "2026-10-01T08:41:17.367515Z",
   "regions": {
     "india": {
-      "avg_score": 0.195,
+      "avg_score": 0.22,
       "mood": "Positive",
       "positive": [
         {
@@ -12,10 +12,10 @@
           "score": 0.869
         },
         {
-          "title": "Inox Clean Energy files DRHP for Rs 10,000 crore IPO, largest in Indian private sector renewable energy space",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/inox-clean-energy-files-drhp-for-rs-10000-crore-ipo-largest-in-indian-private-sector-renewable-energy-space/articleshow/134583774.cms",
+          "title": "Highway Infrastructure shares jump 9% after Rs 245 crore toll operations win from UP authority, NHAI",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/highway-infrastructure-shares-jump-9-after-rs-245-crore-toll-operations-win-from-up-authority-nhai/articleshow/134610442.cms",
           "source": "Markets-Economic Times",
-          "score": 0.71
+          "score": 0.743
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -24,73 +24,55 @@
           "score": 0.7
         },
         {
-          "title": "Indian markets are not vulnerable: Sebi chief Tuhin Kanta Pandey remains optimistic even as Sensex, Nifty bleed",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-markets-are-not-vulnerable-sebi-chief-tuhin-kanta-pandey-remains-optimistic-even-as-sensex-nifty-bleed/articleshow/134585319.cms",
+          "title": "Moneyview shares skyrocket 82% from IPO price after strong market debut. Should you buy, sell or hold?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/moneyview-shares-skyrocket-82-from-ipo-price-after-strong-market-debut-should-you-buy-sell-or-hold/articleshow/134611871.cms",
           "source": "Markets-Economic Times",
-          "score": 0.687
+          "score": 0.67
         },
         {
-          "title": "Global Market: China factory activity returns to growth in September as AI boom supports industrial sector",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-china-factory-activity-returns-to-growth-in-september-as-ai-boom-supports-industrial-sector/articleshow/134583926.cms",
+          "title": "Global Market: Japan\u2019s Nikkei hits six-week high as chip stocks rally on AI optimism",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-hits-six-week-high-as-chip-stocks-rally-on-ai-optimism/articleshow/134609469.cms",
           "source": "Markets-Economic Times",
-          "score": 0.625
+          "score": 0.542
         }
       ],
       "negative": [
         {
-          "title": "TCS, Wipro, other IT stocks rebound up to 6%, snapping 8-day losing streak. Why is Jefferies cautious?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-wipro-other-it-stocks-rebound-up-to-6-snapping-8-day-losing-streak-why-is-jefferies-cautious/articleshow/134583730.cms",
+          "title": "8 weeks, 2,000 points gone: Nifty\u2019s longest losing streak in 25 years raises bear market fears",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/8-weeks-2000-points-gone-niftys-longest-losing-streak-in-25-years-raises-bear-market-fears/articleshow/134612838.cms",
           "source": "Markets-Economic Times",
-          "score": -0.459
+          "score": -0.66
         },
         {
-          "title": "Global Market: Chinese stocks struggle near one-year lows as policy support disappoints",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-stocks-struggle-near-one-year-lows-as-policy-support-disappoints/articleshow/134583057.cms",
+          "title": "Global markets defy bond turmoil as stocks stay near record highs",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-markets-defy-bond-turmoil-as-stocks-stay-near-record-highs/articleshow/134612349.cms",
           "source": "Markets-Economic Times",
-          "score": -0.459
+          "score": -0.361
         },
         {
-          "title": "Will RBI rate hikes intensify selloff in bank stocks? Analysts explain why fears may be overdone",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-rbi-rate-hikes-intensify-selloff-in-bank-stocks-analysts-explain-why-fears-may-be-overdone/articleshow/134584665.cms",
+          "title": "Global Market: BOJ policymakers see scope for faster rate hikes as inflation pressure builds",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boj-policymakers-see-scope-for-faster-rate-hikes-as-inflation-pressure-builds/articleshow/134609392.cms",
           "source": "Markets-Economic Times",
-          "score": -0.421
-        },
-        {
-          "title": "Nifty shorts hit a six-month high in worst September F&amp;O series in 25 years. Time for extra caution?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-shorts-hit-a-six-month-high-in-worst-september-fo-series-in-25-years-time-for-extra-caution/articleshow/134585448.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.34
-        },
-        {
-          "title": "Avalon Tech shares fall 6% after Rs 883 crore block deal; 3 promoter entities likely sellers",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/avalon-tech-shares-fall-6-after-rs-883-crore-block-deal-3-promoter-entities-likely-sellers/articleshow/134583113.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.178
+          "score": -0.296
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.014,
+      "avg_score": -0.045,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-          "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+          "title": "Holiday retail sales are expected to top $1 trillion as inflation boosts growth",
+          "link": "https://www.cnbc.com/2026/09/30/holiday-retail-sales-inflation.html",
+          "source": "Business News",
+          "score": 0.813
+        },
+        {
+          "title": "Energy bills are rising by \u00a360 a year - here's what you can do about it",
+          "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": 0.791
-        },
-        {
-          "title": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
-          "link": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
-          "source": "Business News",
-          "score": 0.421
-        },
-        {
-          "title": "Novo is betting on its next chapter as Eli Lilly gains more ground in GLP-1s",
-          "link": "https://www.cnbc.com/2026/09/25/novo-eli-lilly-obesity-drugs.html",
-          "source": "Business News",
-          "score": 0.34
+          "score": 0.273
         },
         {
           "title": "Household energy bills forecast to see biggest rise in four years",
@@ -101,22 +83,22 @@
       ],
       "negative": [
         {
-          "title": "Huel ad banned for suggesting its products could replace all conventional food",
-          "link": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
+          "title": "AI boom could trigger market shocks, Bank of England boss warns",
+          "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "score": -0.459
+        },
+        {
+          "title": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study",
+          "link": "https://www.cnbc.com/2026/09/30/novo-wegovy-pill-weight-loss-injections.html",
+          "source": "Business News",
+          "score": -0.382
         },
         {
           "title": "Ex-Disney CEO Bob Chapek says he raised concerns with the board 'weekly' during Iger power battle",
           "link": "https://www.cnbc.com/2026/09/28/disney-bob-chapek-bob-iger-power-battle-board.html",
           "source": "Business News",
           "score": -0.382
-        },
-        {
-          "title": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
-          "link": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html",
-          "source": "Business News",
-          "score": -0.361
         },
         {
           "title": "Alaska Airlines CEO 'not overly concerned' about new Boeing Max 10 delay",
