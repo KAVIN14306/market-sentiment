@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-01T08:41:17.367515Z",
+  "generated_at": "2026-10-02T08:19:13.815543Z",
   "regions": {
     "india": {
-      "avg_score": 0.22,
-      "mood": "Positive",
+      "avg_score": 0.143,
+      "mood": "Mixed / Neutral",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -12,10 +12,10 @@
           "score": 0.869
         },
         {
-          "title": "Highway Infrastructure shares jump 9% after Rs 245 crore toll operations win from UP authority, NHAI",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/highway-infrastructure-shares-jump-9-after-rs-245-crore-toll-operations-win-from-up-authority-nhai/articleshow/134610442.cms",
+          "title": "ETMarkets Smart Talk| \u2018Desi to Videsi\u2019: How GIFT City is changing the way Indians invest globally \u2014 Mustafa Pardiwala",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/etmarkets-smart-talk-desi-to-videsi-how-gift-city-is-changing-the-way-indians-invest-globally-mustafa-pardiwala/articleshow/134633325.cms",
           "source": "Markets-Economic Times",
-          "score": 0.743
+          "score": 0.746
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -24,42 +24,36 @@
           "score": 0.7
         },
         {
-          "title": "Moneyview shares skyrocket 82% from IPO price after strong market debut. Should you buy, sell or hold?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/moneyview-shares-skyrocket-82-from-ipo-price-after-strong-market-debut-should-you-buy-sell-or-hold/articleshow/134611871.cms",
+          "title": "Gold price today: Precious metal slips ahead of US Jobs data; MCX closed for Gandhi Jayanti",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-today-precious-metal-slips-ahead-of-us-jobs-data-mcx-closed-for-gandhi-jayanti/articleshow/134631649.cms",
           "source": "Markets-Economic Times",
-          "score": 0.67
+          "score": 0.572
         },
         {
-          "title": "Global Market: Japan\u2019s Nikkei hits six-week high as chip stocks rally on AI optimism",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-hits-six-week-high-as-chip-stocks-rally-on-ai-optimism/articleshow/134609469.cms",
+          "title": "Global Markets | Japan's Nikkei retreats from 6-week high as investors lock in gains",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-retreats-from-6-week-high-as-investors-lock-in-gains/articleshow/134633243.cms",
           "source": "Markets-Economic Times",
-          "score": 0.542
+          "score": 0.34
         }
       ],
       "negative": [
         {
-          "title": "8 weeks, 2,000 points gone: Nifty\u2019s longest losing streak in 25 years raises bear market fears",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/8-weeks-2000-points-gone-niftys-longest-losing-streak-in-25-years-raises-bear-market-fears/articleshow/134612838.cms",
+          "title": "Market crash wipes out Rs 26 lakh cr in 8 weeks! Why soaring bond yields may hurt Sensex, Nifty more than elevated oil prices",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-crash-wipes-out-rs-26-lakh-cr-in-8-weeks-why-soaring-bond-yields-may-hurt-sensex-nifty-more-than-elevated-oil-prices/articleshow/134632014.cms",
           "source": "Markets-Economic Times",
-          "score": -0.66
+          "score": -0.571
         },
         {
-          "title": "Global markets defy bond turmoil as stocks stay near record highs",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-markets-defy-bond-turmoil-as-stocks-stay-near-record-highs/articleshow/134612349.cms",
+          "title": "FPIs pull record Rs 3 lakh crore from Indian equities in 9 months. More pain ahead?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-pull-record-rs-3-lakh-crore-from-indian-equities-in-9-months-more-pain-ahead/articleshow/134630889.cms",
           "source": "Markets-Economic Times",
-          "score": -0.361
-        },
-        {
-          "title": "Global Market: BOJ policymakers see scope for faster rate hikes as inflation pressure builds",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boj-policymakers-see-scope-for-faster-rate-hikes-as-inflation-pressure-builds/articleshow/134609392.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.296
+          "score": -0.556
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.045,
+      "avg_score": -0.113,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -69,48 +63,48 @@
           "score": 0.813
         },
         {
-          "title": "Energy bills are rising by \u00a360 a year - here's what you can do about it",
-          "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.273
+          "title": "Mattel shares rise after reports of takeover interest from Authentic Brands Group",
+          "link": "https://www.cnbc.com/2026/10/01/mattel-authentic-brands-takeover-interest.html",
+          "source": "Business News",
+          "score": 0.637
         },
         {
-          "title": "Household energy bills forecast to see biggest rise in four years",
-          "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.273
+          "title": "Walmart is using light-up digital shelf labels to help shoppers and employees find items",
+          "link": "https://www.cnbc.com/2026/10/01/walmart-digital-shelf-label-tools.html",
+          "source": "Business News",
+          "score": 0.402
         }
       ],
       "negative": [
         {
-          "title": "AI boom could trigger market shocks, Bank of England boss warns",
-          "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
+          "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+          "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.459
+          "score": -0.959
         },
         {
-          "title": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study",
-          "link": "https://www.cnbc.com/2026/09/30/novo-wegovy-pill-weight-loss-injections.html",
-          "source": "Business News",
-          "score": -0.382
+          "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+          "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.818
         },
         {
-          "title": "Ex-Disney CEO Bob Chapek says he raised concerns with the board 'weekly' during Iger power battle",
-          "link": "https://www.cnbc.com/2026/09/28/disney-bob-chapek-bob-iger-power-battle-board.html",
-          "source": "Business News",
-          "score": -0.382
+          "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
+          "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.66
         },
         {
-          "title": "Alaska Airlines CEO 'not overly concerned' about new Boeing Max 10 delay",
-          "link": "https://www.cnbc.com/2026/09/29/boeing-max-delay-alaska-airlines-ceo.html",
+          "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
+          "link": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
           "source": "Business News",
-          "score": -0.318
+          "score": -0.477
         },
         {
-          "title": "Disney laying off around 300 employees in latest cuts under new CEO Josh D'Amaro",
-          "link": "https://www.cnbc.com/2026/09/29/disney-layoffs-josh-damaro.html",
+          "title": "Boeing engineers and technical workers approve new contract, avoiding strike",
+          "link": "https://www.cnbc.com/2026/10/01/boeing-contract-engineers-technical-workers.html",
           "source": "Business News",
-          "score": -0.296
+          "score": -0.44
         }
       ],
       "sample_size": 20
