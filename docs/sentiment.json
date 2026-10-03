@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T08:19:13.815543Z",
+  "generated_at": "2026-10-03T07:55:05.247445Z",
   "regions": {
     "india": {
-      "avg_score": 0.143,
+      "avg_score": 0.072,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -12,56 +12,56 @@
           "score": 0.869
         },
         {
-          "title": "ETMarkets Smart Talk| \u2018Desi to Videsi\u2019: How GIFT City is changing the way Indians invest globally \u2014 Mustafa Pardiwala",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/etmarkets-smart-talk-desi-to-videsi-how-gift-city-is-changing-the-way-indians-invest-globally-mustafa-pardiwala/articleshow/134633325.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.746
-        },
-        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Gold price today: Precious metal slips ahead of US Jobs data; MCX closed for Gandhi Jayanti",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-today-precious-metal-slips-ahead-of-us-jobs-data-mcx-closed-for-gandhi-jayanti/articleshow/134631649.cms",
+          "title": "\u200bBonus issues &amp; stock split: 5 stocks rewarding shareholders next week",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issues-stock-split-5-stocks-rewarding-shareholders-next-week/slideshow/134651748.cms",
           "source": "Markets-Economic Times",
-          "score": 0.572
+          "score": 0.527
         },
         {
-          "title": "Global Markets | Japan's Nikkei retreats from 6-week high as investors lock in gains",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-retreats-from-6-week-high-as-investors-lock-in-gains/articleshow/134633243.cms",
+          "title": "Wall Street Week Ahead: Spiking bond yields, midterms, earnings to test US stocks' typical fourth-quarter strength",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-street-week-ahead-spiking-bond-yields-midterms-earnings-to-test-us-stocks-typical-fourth-quarter-strength/articleshow/134651438.cms",
           "source": "Markets-Economic Times",
-          "score": 0.34
+          "score": 0.494
+        },
+        {
+          "title": "Largecaps face investor apathy, mid and smallcaps fuel euphoria: Kotak Institutional Equities",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/large-caps-face-investor-apathy-mid-and-small-caps-fuel-euphoria/articleshow/134650331.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.477
         }
       ],
       "negative": [
         {
-          "title": "Market crash wipes out Rs 26 lakh cr in 8 weeks! Why soaring bond yields may hurt Sensex, Nifty more than elevated oil prices",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-crash-wipes-out-rs-26-lakh-cr-in-8-weeks-why-soaring-bond-yields-may-hurt-sensex-nifty-more-than-elevated-oil-prices/articleshow/134632014.cms",
+          "title": "More than half of mid-to-large cap companies fail to deliver returns in 2026",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/more-than-half-of-mid-to-large-cap-companies-fail-to-deliver-returns-in-2026/articleshow/134650512.cms",
           "source": "Markets-Economic Times",
-          "score": -0.571
+          "score": -0.542
         },
         {
-          "title": "FPIs pull record Rs 3 lakh crore from Indian equities in 9 months. More pain ahead?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-pull-record-rs-3-lakh-crore-from-indian-equities-in-9-months-more-pain-ahead/articleshow/134630889.cms",
+          "title": "Concurrent Losers: 14 midcap stocks decline for 5 consecutive sessions",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-14-midcap-stocks-decline-for-5-consecutive-sessions/slideshow/134652347.cms",
           "source": "Markets-Economic Times",
-          "score": -0.556
+          "score": -0.527
+        },
+        {
+          "title": "AI earnings shield US stocks, but bond risks rise: Jefferies' Wood",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-earnings-shield-us-stocks-but-bond-risks-rise-jefferies-wood/articleshow/134650285.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.392
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.113,
+      "avg_score": -0.04,
       "mood": "Mixed / Neutral",
       "positive": [
-        {
-          "title": "Holiday retail sales are expected to top $1 trillion as inflation boosts growth",
-          "link": "https://www.cnbc.com/2026/09/30/holiday-retail-sales-inflation.html",
-          "source": "Business News",
-          "score": 0.813
-        },
         {
           "title": "Mattel shares rise after reports of takeover interest from Authentic Brands Group",
           "link": "https://www.cnbc.com/2026/10/01/mattel-authentic-brands-takeover-interest.html",
@@ -73,26 +73,32 @@
           "link": "https://www.cnbc.com/2026/10/01/walmart-digital-shelf-label-tools.html",
           "source": "Business News",
           "score": 0.402
+        },
+        {
+          "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
+          "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+          "source": "Business News",
+          "score": 0.226
+        },
+        {
+          "title": "UK diesel prices top \u00a32 a litre for first time, RAC says",
+          "link": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.202
         }
       ],
       "negative": [
-        {
-          "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
-          "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.959
-        },
-        {
-          "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-          "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.818
-        },
         {
           "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
           "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "score": -0.66
+        },
+        {
+          "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+          "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.527
         },
         {
           "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
@@ -105,6 +111,12 @@
           "link": "https://www.cnbc.com/2026/10/01/boeing-contract-engineers-technical-workers.html",
           "source": "Business News",
           "score": -0.44
+        },
+        {
+          "title": "General Motors Q3 sales drop 5.5%, while Toyota buoyed by EVs, hybrids",
+          "link": "https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html",
+          "source": "Business News",
+          "score": -0.273
         }
       ],
       "sample_size": 20
