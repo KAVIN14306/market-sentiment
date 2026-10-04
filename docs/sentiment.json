@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-03T07:55:05.247445Z",
+  "generated_at": "2026-10-04T08:17:17.678152Z",
   "regions": {
     "india": {
-      "avg_score": 0.072,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.152,
+      "mood": "Positive",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -18,48 +18,48 @@
           "score": 0.7
         },
         {
-          "title": "\u200bBonus issues &amp; stock split: 5 stocks rewarding shareholders next week",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issues-stock-split-5-stocks-rewarding-shareholders-next-week/slideshow/134651748.cms",
+          "title": "Cube Highways Trust secures Rs.1,150 crore through AAA-rated NCDs",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cube-highways-trust-secures-rs-1150-crore-through-aaa-rated-ncds/articleshow/134655392.cms",
           "source": "Markets-Economic Times",
-          "score": 0.527
+          "score": 0.681
         },
         {
-          "title": "Wall Street Week Ahead: Spiking bond yields, midterms, earnings to test US stocks' typical fourth-quarter strength",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-street-week-ahead-spiking-bond-yields-midterms-earnings-to-test-us-stocks-typical-fourth-quarter-strength/articleshow/134651438.cms",
+          "title": "Will Nifty, Sensex plunge for 9th straight week? TCS Q2, 4 factors to drive Dalal Street from Monday",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-plunge-for-9th-straight-week-tcs-q2-4-factors-to-drive-dalal-street-from-monday/articleshow/134669285.cms",
           "source": "Markets-Economic Times",
-          "score": 0.494
+          "score": 0.557
         },
         {
-          "title": "Largecaps face investor apathy, mid and smallcaps fuel euphoria: Kotak Institutional Equities",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/large-caps-face-investor-apathy-mid-and-small-caps-fuel-euphoria/articleshow/134650331.cms",
+          "title": "Bonus issues, stock splits and dividends: 10 stocks turning ex-record date this week. Do you own any?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issues-stock-splits-and-dividends-10-stocks-turning-ex-record-date-this-week-do-you-own-any/articleshow/134669646.cms",
           "source": "Markets-Economic Times",
-          "score": 0.477
+          "score": 0.542
         }
       ],
       "negative": [
         {
-          "title": "More than half of mid-to-large cap companies fail to deliver returns in 2026",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/more-than-half-of-mid-to-large-cap-companies-fail-to-deliver-returns-in-2026/articleshow/134650512.cms",
+          "title": "Rate cut cycle near turning point. What lies ahead for Indian bonds?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rate-cut-cycle-near-turning-point-what-lies-ahead-for-indian-bonds/articleshow/134671117.cms",
           "source": "Markets-Economic Times",
-          "score": -0.542
+          "score": -0.599
         },
         {
-          "title": "Concurrent Losers: 14 midcap stocks decline for 5 consecutive sessions",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-14-midcap-stocks-decline-for-5-consecutive-sessions/slideshow/134652347.cms",
+          "title": "9 penny stocks crash up to 57% in just 2 months",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/9-penny-stocks-crash-up-to-57-in-just-2-months/slideshow/134669386.cms",
           "source": "Markets-Economic Times",
-          "score": -0.527
+          "score": -0.402
         },
         {
-          "title": "AI earnings shield US stocks, but bond risks rise: Jefferies' Wood",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-earnings-shield-us-stocks-but-bond-risks-rise-jefferies-wood/articleshow/134650285.cms",
+          "title": "After Nifty\u2019s longest losing streak in 25 years, what should investors do now?",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/afterniftys-longest-losing-streak-in-25-years-what-should-investors-do-now/articleshow/134670772.cms",
           "source": "Markets-Economic Times",
-          "score": -0.392
+          "score": -0.382
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.04,
+      "avg_score": -0.029,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -67,12 +67,6 @@
           "link": "https://www.cnbc.com/2026/10/01/mattel-authentic-brands-takeover-interest.html",
           "source": "Business News",
           "score": 0.637
-        },
-        {
-          "title": "Walmart is using light-up digital shelf labels to help shoppers and employees find items",
-          "link": "https://www.cnbc.com/2026/10/01/walmart-digital-shelf-label-tools.html",
-          "source": "Business News",
-          "score": 0.402
         },
         {
           "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
@@ -88,12 +82,6 @@
         }
       ],
       "negative": [
-        {
-          "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-          "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.66
-        },
         {
           "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
           "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
