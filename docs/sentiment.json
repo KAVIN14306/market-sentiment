@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-05T08:48:52.336698Z",
+  "generated_at": "2026-10-06T08:51:07.207654Z",
   "regions": {
     "india": {
-      "avg_score": 0.043,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.182,
+      "mood": "Positive",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -18,111 +18,87 @@
           "score": 0.7
         },
         {
-          "title": "Avenue Supermarts shares fall 4% despite 18% YoY revenue growth in Q2 update",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/avenue-supermarts-shares-fall-4-despite-18-yoy-revenue-growth-in-q2-update/articleshow/134689213.cms",
+          "title": "SRIT India shares hit 5% upper circuit after strong debut, jump 19% from IPO price. Should you buy, sell or hold?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/srit-india-shares-hit-5-upper-circuit-after-strong-debut-jump-19-from-ipo-price-should-you-buy-sell-or-hold/articleshow/134727442.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.67
+        },
+        {
+          "title": "Orient Cables shares tumble 10% a day after strong market debut",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/orient-cables-shares-tumble-10-a-day-after-strong-market-debut/articleshow/134727066.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.67
+        },
+        {
+          "title": "Is CEG stock the biggest winner from the AI power boom?",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/is-ceg-stock-the-biggest-winner-from-the-ai-power-boom/slideshow/134726816.cms",
           "source": "Markets-Economic Times",
           "score": 0.586
-        },
-        {
-          "title": "CAS chaos eases? Jefferies names top stock picks as options volumes recover, IPOs and commodities gain traction",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-eases-jefferies-names-top-stock-picks-as-options-volumes-recover-ipos-and-commodities-gain-traction/articleshow/134692619.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.421
-        },
-        {
-          "title": "US ETF inflows smash annual record as investors favor funds",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-etf-inflows-smash-annual-record-as-investors-favor-funds/articleshow/134690541.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.402
         }
       ],
       "negative": [
         {
-          "title": "Nifty rebounds after record 8-week rout, but is this a dead cat bounce investors should fear?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-rebounds-after-record-8-week-rout-but-is-this-a-dead-cat-bounce-investors-should-fear/articleshow/134688822.cms",
+          "title": "Global Market: Euro under pressure as France debt worries, Spain vote weigh",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-euro-under-pressure-as-france-debt-worries-spain-vote-weigh/articleshow/134726226.cms",
           "source": "Markets-Economic Times",
-          "score": -0.886
+          "score": -0.758
         },
         {
-          "title": "Can Nifty break the 8-week deadlock or will pain continue? Here\u2019s what charts indicate",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-nifty-break-the-8-week-deadlock-or-will-pain-continue-heres-what-charts-indicate/articleshow/134688975.cms",
+          "title": "Why junk bonds deliver equity-like returns but with far inferior volatility, explains Saurabh Mukherjea",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/why-junk-bonds-deliver-equity-like-returns-but-with-far-inferior-volatility-explains-saurabh-mukherjea/articleshow/134727904.cms",
           "source": "Markets-Economic Times",
-          "score": -0.459
+          "score": -0.55
         },
         {
-          "title": "ESDS Software shares hit 5% lower circuit, crash nearly 30% in 6 sessions. What's behind the selloff?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/esds-software-shares-hit-5-lower-circuit-crash-nearly-30-in-6-sessions-whats-behind-the-selloff/articleshow/134688677.cms",
+          "title": "Rupee slips to over 2-month low on portfolio outflows, RBI likely steps in",
+          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-to-over-2-month-low-on-portfolio-outflows-rbi-likely-steps-in/articleshow/134725847.cms",
           "source": "Markets-Economic Times",
-          "score": -0.402
-        },
-        {
-          "title": "Q2 business update impact: PNB, Bank of Baroda, AU Small Finance Bank shares jump up to 4%. What lies ahead?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/q2-business-update-impact-pnb-bank-of-baroda-au-small-finance-bank-shares-jump-up-to-4-what-lies-ahead/articleshow/134691858.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.153
-        },
-        {
-          "title": "How to trade HDFC Bank shares after new CEO appointment? Technical indicators still signal weakness",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-to-trade-hdfc-bank-shares-after-new-ceo-appointment-technical-indicators-still-signal-weakness/articleshow/134687576.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.153
+          "score": -0.273
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.078,
+      "avg_score": -0.028,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-          "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.791
-        },
-        {
-          "title": "Mattel shares rise after reports of takeover interest from Authentic Brands Group",
-          "link": "https://www.cnbc.com/2026/10/01/mattel-authentic-brands-takeover-interest.html",
+          "title": "Why airfares could rise even more, but airline profits won't",
+          "link": "https://www.cnbc.com/2026/10/05/airfare-prices-airline-profits.html",
           "source": "Business News",
-          "score": 0.637
-        },
-        {
-          "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
-          "link": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.625
+          "score": 0.642
         },
         {
           "title": "Why brands like E.l.f., Wendy's and Gap are branching out into original music",
           "link": "https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html",
           "source": "Business News",
           "score": 0.586
-        },
-        {
-          "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
-          "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-          "source": "Business News",
-          "score": 0.226
         }
       ],
       "negative": [
         {
-          "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
-          "link": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
+          "title": "AstraZeneca CEO says Summit drug could drive next generation of cancer combinations after $2 billion investment",
+          "link": "https://www.cnbc.com/2026/10/05/astrazeneca-ceo-says-summit-drug-could-drive-future-cancer-combos.html",
           "source": "Business News",
-          "score": -0.477
+          "score": -0.66
         },
         {
-          "title": "How India became dangerously addicted to Chinese imports",
-          "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
+          "title": "Lego fraudster among last year's most high-profile insurance scammers",
+          "link": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.459
+          "score": -0.542
         },
         {
-          "title": "Boeing engineers and technical workers approve new contract, avoiding strike",
-          "link": "https://www.cnbc.com/2026/10/01/boeing-contract-engineers-technical-workers.html",
+          "title": "Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand",
+          "link": "https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html",
           "source": "Business News",
-          "score": -0.44
+          "score": -0.402
+        },
+        {
+          "title": "Wood Group offshore workers launch 48-hour strike in row over pay",
+          "link": "https://www.bbc.co.uk/news/articles/cm79pn0y8257o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.226
         }
       ],
       "sample_size": 20
