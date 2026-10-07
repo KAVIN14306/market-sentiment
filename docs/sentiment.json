@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-06T08:51:07.207654Z",
+  "generated_at": "2026-10-07T08:29:44.982515Z",
   "regions": {
     "india": {
-      "avg_score": 0.182,
-      "mood": "Positive",
+      "avg_score": 0.109,
+      "mood": "Mixed / Neutral",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -12,54 +12,60 @@
           "score": 0.869
         },
         {
+          "title": "Nifty earnings seen rising 27%, strongest growth in 17 quarters in Q2: Motilal Oswal",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nifty-earnings-seen-rising-27-strongest-growth-in-17-quarters-in-q2-motilal-oswal/articleshow/134758313.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.802
+        },
+        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "SRIT India shares hit 5% upper circuit after strong debut, jump 19% from IPO price. Should you buy, sell or hold?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/srit-india-shares-hit-5-upper-circuit-after-strong-debut-jump-19-from-ipo-price-should-you-buy-sell-or-hold/articleshow/134727442.cms",
+          "title": "Why India could become a global hub for responsible digital assets innovation",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-india-could-become-a-global-hub-for-responsible-digital-assets-innovation/articleshow/134759241.cms",
           "source": "Markets-Economic Times",
-          "score": 0.67
+          "score": 0.681
         },
         {
-          "title": "Orient Cables shares tumble 10% a day after strong market debut",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/orient-cables-shares-tumble-10-a-day-after-strong-market-debut/articleshow/134727066.cms",
+          "title": "What's fueling the surge in Penguin Solutions shares?",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/whats-fueling-the-surge-in-penguin-solutions-shares/slideshow/134759471.cms",
           "source": "Markets-Economic Times",
-          "score": 0.67
-        },
-        {
-          "title": "Is CEG stock the biggest winner from the AI power boom?",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/is-ceg-stock-the-biggest-winner-from-the-ai-power-boom/slideshow/134726816.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.586
+          "score": 0.44
         }
       ],
       "negative": [
         {
-          "title": "Global Market: Euro under pressure as France debt worries, Spain vote weigh",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-euro-under-pressure-as-france-debt-worries-spain-vote-weigh/articleshow/134726226.cms",
+          "title": "Global Market: Hedge fund group warns BoE repo reforms could worsen market stress",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-hedge-fund-group-warns-boe-repo-reforms-could-worsen-market-stress/articleshow/134759516.cms",
           "source": "Markets-Economic Times",
           "score": -0.758
         },
         {
-          "title": "Why junk bonds deliver equity-like returns but with far inferior volatility, explains Saurabh Mukherjea",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/why-junk-bonds-deliver-equity-like-returns-but-with-far-inferior-volatility-explains-saurabh-mukherjea/articleshow/134727904.cms",
+          "title": "EIA raises oil price forecasts as Iran war tightens global markets",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/eia-raises-oil-price-forecasts-as-iran-war-tightens-global-markets/articleshow/134758136.cms",
           "source": "Markets-Economic Times",
-          "score": -0.55
+          "score": -0.599
         },
         {
-          "title": "Rupee slips to over 2-month low on portfolio outflows, RBI likely steps in",
-          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-to-over-2-month-low-on-portfolio-outflows-rbi-likely-steps-in/articleshow/134725847.cms",
+          "title": "Tata Motors PV, Maruti Suzuki, Ashok Leyland, auto stocks drop up to 3% as RBI signals rate cuts are \u2018off the table\u2019",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-pv-maruti-suzuki-ashok-leyland-auto-stocks-drop-up-to-3-as-rbi-signals-rate-cuts-are-off-the-table/articleshow/134760101.cms",
           "source": "Markets-Economic Times",
-          "score": -0.273
+          "score": -0.511
+        },
+        {
+          "title": "US Market: Treasury bill yields rise as money-fund demand weakens",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-treasury-bill-yields-rise-as-money-fund-demand-weakens/articleshow/134758312.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.25
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.028,
+      "avg_score": -0.026,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -83,10 +89,10 @@
           "score": -0.66
         },
         {
-          "title": "Lego fraudster among last year's most high-profile insurance scammers",
-          "link": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
+          "title": "Jaguar unveils new electric car after 'woke' ridicule",
+          "link": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.542
+          "score": -0.459
         },
         {
           "title": "Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand",
@@ -95,10 +101,10 @@
           "score": -0.402
         },
         {
-          "title": "Wood Group offshore workers launch 48-hour strike in row over pay",
-          "link": "https://www.bbc.co.uk/news/articles/cm79pn0y8257o?at_medium=RSS&at_campaign=rss",
+          "title": "Equinor says it may stop investing in UK if oil and gas fields do not get go-ahead",
+          "link": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.226
+          "score": -0.296
         }
       ],
       "sample_size": 20
