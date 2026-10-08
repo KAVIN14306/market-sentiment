@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-07T08:29:44.982515Z",
+  "generated_at": "2026-10-08T08:46:07.912093Z",
   "regions": {
     "india": {
-      "avg_score": 0.109,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.222,
+      "mood": "Positive",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -12,10 +12,10 @@
           "score": 0.869
         },
         {
-          "title": "Nifty earnings seen rising 27%, strongest growth in 17 quarters in Q2: Motilal Oswal",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nifty-earnings-seen-rising-27-strongest-growth-in-17-quarters-in-q2-motilal-oswal/articleshow/134758313.cms",
+          "title": "ET Alpha Wealth Summit 2.0: Bear markets can breed best investment ideas, says Nilesh Shah",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-bear-markets-can-breed-best-investment-ideas-says-nilesh-shah/articleshow/134781340.cms",
           "source": "Markets-Economic Times",
-          "score": 0.802
+          "score": 0.813
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -24,48 +24,36 @@
           "score": 0.7
         },
         {
-          "title": "Why India could become a global hub for responsible digital assets innovation",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-india-could-become-a-global-hub-for-responsible-digital-assets-innovation/articleshow/134759241.cms",
+          "title": "Indian firms seen posting faster profit growth despite global headwinds",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-firms-seen-posting-faster-profit-growth-despite-global-headwinds/articleshow/134782749.cms",
           "source": "Markets-Economic Times",
-          "score": 0.681
+          "score": 0.67
         },
         {
-          "title": "What's fueling the surge in Penguin Solutions shares?",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/whats-fueling-the-surge-in-penguin-solutions-shares/slideshow/134759471.cms",
+          "title": "Can Applied Digital's AI data-centre growth drive further gains?",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-applied-digitals-ai-data-centre-growth-drive-further-gains/slideshow/134781369.cms",
           "source": "Markets-Economic Times",
-          "score": 0.44
+          "score": 0.612
         }
       ],
       "negative": [
         {
-          "title": "Global Market: Hedge fund group warns BoE repo reforms could worsen market stress",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-hedge-fund-group-warns-boe-repo-reforms-could-worsen-market-stress/articleshow/134759516.cms",
+          "title": "Paytm shares crash 10%, wipe off Rs 10,970 crore from m-cap. More pain ahead?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-crash-10-wipe-off-rs-10970-crore-m-cap-more-pain-ahead/articleshow/134783164.cms",
           "source": "Markets-Economic Times",
-          "score": -0.758
+          "score": -0.624
         },
         {
-          "title": "EIA raises oil price forecasts as Iran war tightens global markets",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/eia-raises-oil-price-forecasts-as-iran-war-tightens-global-markets/articleshow/134758136.cms",
+          "title": "Jefferies cuts target prices for BSE, Turtlemint &amp; other stocks ahead of Q2 results. Check list",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-cuts-target-prices-for-bse-turtlemint-amp-other-stocks-ahead-of-q2-results-check-list/slideshow/134781227.cms",
           "source": "Markets-Economic Times",
-          "score": -0.599
-        },
-        {
-          "title": "Tata Motors PV, Maruti Suzuki, Ashok Leyland, auto stocks drop up to 3% as RBI signals rate cuts are \u2018off the table\u2019",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-pv-maruti-suzuki-ashok-leyland-auto-stocks-drop-up-to-3-as-rbi-signals-rate-cuts-are-off-the-table/articleshow/134760101.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.511
-        },
-        {
-          "title": "US Market: Treasury bill yields rise as money-fund demand weakens",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-treasury-bill-yields-rise-as-money-fund-demand-weakens/articleshow/134758312.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.25
+          "score": -0.296
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.026,
+      "avg_score": 0.085,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -75,10 +63,28 @@
           "score": 0.642
         },
         {
+          "title": "Disney+ to stream upcoming Super Bowl",
+          "link": "https://www.cnbc.com/2026/10/07/disney-stream-super-bowl-2027.html",
+          "source": "Business News",
+          "score": 0.599
+        },
+        {
           "title": "Why brands like E.l.f., Wendy's and Gap are branching out into original music",
           "link": "https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html",
           "source": "Business News",
           "score": 0.586
+        },
+        {
+          "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
+          "link": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
+          "source": "Business News",
+          "score": 0.536
+        },
+        {
+          "title": "The wildlife winners set to appear on your banknotes revealed",
+          "link": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.477
         }
       ],
       "negative": [
@@ -89,22 +95,16 @@
           "score": -0.66
         },
         {
-          "title": "Jaguar unveils new electric car after 'woke' ridicule",
-          "link": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss",
+          "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
+          "link": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.459
+          "score": -0.527
         },
         {
           "title": "Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand",
           "link": "https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html",
           "source": "Business News",
           "score": -0.402
-        },
-        {
-          "title": "Equinor says it may stop investing in UK if oil and gas fields do not get go-ahead",
-          "link": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.296
         }
       ],
       "sample_size": 20
