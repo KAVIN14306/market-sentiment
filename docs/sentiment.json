@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T08:46:07.912093Z",
+  "generated_at": "2026-10-09T08:49:23.699683Z",
   "regions": {
     "india": {
-      "avg_score": 0.222,
+      "avg_score": 0.178,
       "mood": "Positive",
       "positive": [
         {
@@ -12,56 +12,62 @@
           "score": 0.869
         },
         {
-          "title": "ET Alpha Wealth Summit 2.0: Bear markets can breed best investment ideas, says Nilesh Shah",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-bear-markets-can-breed-best-investment-ideas-says-nilesh-shah/articleshow/134781340.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.813
-        },
-        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Indian firms seen posting faster profit growth despite global headwinds",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-firms-seen-posting-faster-profit-growth-despite-global-headwinds/articleshow/134782749.cms",
+          "title": "15,410% rally in 5 years! Multibagger Cupid shares jump 3% to hit fresh 52-week high",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/15410-rally-in-5-years-multibagger-cupid-shares-jump-3-to-hit-fresh-52-week-high/articleshow/134812919.cms",
           "source": "Markets-Economic Times",
-          "score": 0.67
+          "score": 0.585
         },
         {
-          "title": "Can Applied Digital's AI data-centre growth drive further gains?",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-applied-digitals-ai-data-centre-growth-drive-further-gains/slideshow/134781369.cms",
+          "title": "Apollo, Max Health, other hospital stocks rally up to 5% despite cancer drug price caps. Why Jefferies stays bullish",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/apollo-hospitals-max-health-hospital-stocks-jump-up-to-5-after-30-cap-on-cancer-drugs-what-is-jefferies-saying/articleshow/134811131.cms",
           "source": "Markets-Economic Times",
-          "score": 0.612
+          "score": 0.545
+        },
+        {
+          "title": "Vivriti Asset Management returns over Rs 3,400 crore to investors across two fund vintages",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vivriti-asset-management-returns-over-rs-3400-crore-to-investors-across-two-fund-vintages/articleshow/134815238.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.361
         }
       ],
       "negative": [
         {
-          "title": "Paytm shares crash 10%, wipe off Rs 10,970 crore from m-cap. More pain ahead?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-crash-10-wipe-off-rs-10970-crore-m-cap-more-pain-ahead/articleshow/134783164.cms",
+          "title": "US 10-year Treasury yield could hit 6% as oil prices, debt worries mount: Pimco CIO",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-10-year-treasury-yield-could-hit-6-as-oil-prices-debt-worries-mount-pimco-cio/articleshow/134825801.cms",
           "source": "Markets-Economic Times",
-          "score": -0.624
+          "score": -0.542
         },
         {
-          "title": "Jefferies cuts target prices for BSE, Turtlemint &amp; other stocks ahead of Q2 results. Check list",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-cuts-target-prices-for-bse-turtlemint-amp-other-stocks-ahead-of-q2-results-check-list/slideshow/134781227.cms",
+          "title": "Why is Broadcom stock falling despite strong AI demand?",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-is-broadcom-stock-falling-despite-strong-ai-demand/slideshow/134814635.cms",
           "source": "Markets-Economic Times",
-          "score": -0.296
+          "score": -0.446
+        },
+        {
+          "title": "Global Market: China stocks hit over one-year low as AI selloff deepens; Hong Kong rebounds",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-hit-over-one-year-low-as-ai-selloff-deepens-hong-kong-rebounds/articleshow/134819429.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.273
+        },
+        {
+          "title": "Global IPO market faces setback as high-profile listings are scrapped, delayed in 2026",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-ipo-market-faces-setback-as-high-profile-listings-are-scrapped-delayed-in-2026/articleshow/134821533.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.226
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.085,
+      "avg_score": -0.047,
       "mood": "Mixed / Neutral",
       "positive": [
-        {
-          "title": "Why airfares could rise even more, but airline profits won't",
-          "link": "https://www.cnbc.com/2026/10/05/airfare-prices-airline-profits.html",
-          "source": "Business News",
-          "score": 0.642
-        },
         {
           "title": "Disney+ to stream upcoming Super Bowl",
           "link": "https://www.cnbc.com/2026/10/07/disney-stream-super-bowl-2027.html",
@@ -69,8 +75,8 @@
           "score": 0.599
         },
         {
-          "title": "Why brands like E.l.f., Wendy's and Gap are branching out into original music",
-          "link": "https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html",
+          "title": "Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'",
+          "link": "https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html",
           "source": "Business News",
           "score": 0.586
         },
@@ -79,12 +85,6 @@
           "link": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
           "source": "Business News",
           "score": 0.536
-        },
-        {
-          "title": "The wildlife winners set to appear on your banknotes revealed",
-          "link": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.477
         }
       ],
       "negative": [
@@ -95,16 +95,28 @@
           "score": -0.66
         },
         {
-          "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
-          "link": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
+          "title": "'Add me to WhatsApp' scam calls to be investigated",
+          "link": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.527
+          "score": -0.572
         },
         {
           "title": "Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand",
           "link": "https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html",
           "source": "Business News",
           "score": -0.402
+        },
+        {
+          "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+          "link": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.402
+        },
+        {
+          "title": "PepsiCo cuts earnings forecast as North American turnaround takes longer than expected",
+          "link": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html",
+          "source": "Business News",
+          "score": -0.296
         }
       ],
       "sample_size": 20
