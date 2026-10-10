@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-09T08:49:23.699683Z",
+  "generated_at": "2026-10-10T08:21:46.714125Z",
   "regions": {
     "india": {
-      "avg_score": 0.178,
-      "mood": "Positive",
+      "avg_score": 0.043,
+      "mood": "Mixed / Neutral",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -18,54 +18,54 @@
           "score": 0.7
         },
         {
-          "title": "15,410% rally in 5 years! Multibagger Cupid shares jump 3% to hit fresh 52-week high",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/15410-rally-in-5-years-multibagger-cupid-shares-jump-3-to-hit-fresh-52-week-high/articleshow/134812919.cms",
+          "title": "Concurrent Gainers: 14 smallcap stocks that gain for 5 days in a row",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-14-smallcap-stocks-that-gain-for-5-days-in-a-row/slideshow/134849891.cms",
           "source": "Markets-Economic Times",
-          "score": 0.585
+          "score": 0.527
         },
         {
-          "title": "Apollo, Max Health, other hospital stocks rally up to 5% despite cancer drug price caps. Why Jefferies stays bullish",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/apollo-hospitals-max-health-hospital-stocks-jump-up-to-5-after-30-cap-on-cancer-drugs-what-is-jefferies-saying/articleshow/134811131.cms",
+          "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-one-week-high-heads-for-weekly-gain-on-bargain-hunting/articleshow/134847226.cms",
           "source": "Markets-Economic Times",
-          "score": 0.545
+          "score": 0.527
         },
         {
-          "title": "Vivriti Asset Management returns over Rs 3,400 crore to investors across two fund vintages",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vivriti-asset-management-returns-over-rs-3400-crore-to-investors-across-two-fund-vintages/articleshow/134815238.cms",
+          "title": "Poonawalla Fincorp Q2 profit soars five-fold YoY to Rs 375 crore",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/poonawalla-fincorp-q2-profit-soars-five-fold-yoy-to-rs-375-crore/articleshow/134847141.cms",
           "source": "Markets-Economic Times",
-          "score": 0.361
+          "score": 0.44
         }
       ],
       "negative": [
         {
-          "title": "US 10-year Treasury yield could hit 6% as oil prices, debt worries mount: Pimco CIO",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-10-year-treasury-yield-could-hit-6-as-oil-prices-debt-worries-mount-pimco-cio/articleshow/134825801.cms",
+          "title": "Brent commands a war premium as Middle East supply risks keep oil on edge",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/brent-commands-a-war-premium-as-middle-east-supply-risks-keep-oil-on-edge/articleshow/134848278.cms",
           "source": "Markets-Economic Times",
-          "score": -0.542
+          "score": -0.718
         },
         {
-          "title": "Why is Broadcom stock falling despite strong AI demand?",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-is-broadcom-stock-falling-despite-strong-ai-demand/slideshow/134814635.cms",
+          "title": "Market crash ahead? Warren Buffett's guide to navigate through bear attacks",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/market-crash-ahead-warren-buffetts-guide-to-navigate-through-bear-attacks/articleshow/134847888.cms",
           "source": "Markets-Economic Times",
-          "score": -0.446
+          "score": -0.681
         },
         {
-          "title": "Global Market: China stocks hit over one-year low as AI selloff deepens; Hong Kong rebounds",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-hit-over-one-year-low-as-ai-selloff-deepens-hong-kong-rebounds/articleshow/134819429.cms",
+          "title": "D-Street breaks 8-week losing run, outlook stays cautious though",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-breaks-8-week-losing-run-outlook-stays-cautious-though/articleshow/134847017.cms",
           "source": "Markets-Economic Times",
-          "score": -0.273
+          "score": -0.459
         },
         {
-          "title": "Global IPO market faces setback as high-profile listings are scrapped, delayed in 2026",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-ipo-market-faces-setback-as-high-profile-listings-are-scrapped-delayed-in-2026/articleshow/134821533.cms",
+          "title": "RBI tightens forex derivative rules: What changes for hedging, cancelled trades",
+          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-tightens-forex-derivative-rules-what-changes-for-hedging-cancelled-trades/articleshow/134847351.cms",
           "source": "Markets-Economic Times",
-          "score": -0.226
+          "score": -0.25
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.047,
+      "avg_score": 0.045,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -85,6 +85,18 @@
           "link": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
           "source": "Business News",
           "score": 0.536
+        },
+        {
+          "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
+          "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+          "source": "Business News",
+          "score": 0.477
+        },
+        {
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.44
         }
       ],
       "negative": [
@@ -95,21 +107,21 @@
           "score": -0.66
         },
         {
-          "title": "'Add me to WhatsApp' scam calls to be investigated",
-          "link": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
+          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+          "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.572
+          "score": -0.586
+        },
+        {
+          "title": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
+          "link": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.494
         },
         {
           "title": "Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand",
           "link": "https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html",
           "source": "Business News",
-          "score": -0.402
-        },
-        {
-          "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-          "link": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
           "score": -0.402
         },
         {
