@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T08:21:46.714125Z",
+  "generated_at": "2026-10-11T08:38:01.838993Z",
   "regions": {
     "india": {
-      "avg_score": 0.043,
+      "avg_score": 0.128,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -18,54 +18,36 @@
           "score": 0.7
         },
         {
-          "title": "Concurrent Gainers: 14 smallcap stocks that gain for 5 days in a row",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-14-smallcap-stocks-that-gain-for-5-days-in-a-row/slideshow/134849891.cms",
+          "title": "Bonus, dividends, rights issues and stock splits: TCS, Vedanta, Ola Electric among 14 stocks turning ex-record date this week",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-dividends-rights-issues-and-stock-splits-tcs-vedanta-ola-electric-among-14-stocks-turning-ex-record-date-this-week/articleshow/134865638.cms",
           "source": "Markets-Economic Times",
-          "score": 0.527
+          "score": 0.542
         },
         {
-          "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-one-week-high-heads-for-weekly-gain-on-bargain-hunting/articleshow/134847226.cms",
+          "title": "ET Alpha Wealth Summit 2.0: What do Shah Rukh Khan and SIFs have in common? Radhika Gupta explains",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-what-do-shah-rukh-khan-and-sifs-have-in-common-radhika-gupta-explains/articleshow/134866717.cms",
           "source": "Markets-Economic Times",
-          "score": 0.527
+          "score": 0.494
         },
         {
-          "title": "Poonawalla Fincorp Q2 profit soars five-fold YoY to Rs 375 crore",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/poonawalla-fincorp-q2-profit-soars-five-fold-yoy-to-rs-375-crore/articleshow/134847141.cms",
+          "title": "FII selloff intensifies! Foreign investors sell Indian equities worth Rs 45,000 crore in just 6 sessions. What can reverse the trend?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fii-selloff-intensifies-foreign-investors-sell-indian-equities-worth-rs-45000-crore-in-just-6-sessions-what-can-reverse-the-trend/articleshow/134866745.cms",
           "source": "Markets-Economic Times",
-          "score": 0.44
+          "score": 0.294
         }
       ],
       "negative": [
         {
-          "title": "Brent commands a war premium as Middle East supply risks keep oil on edge",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/brent-commands-a-war-premium-as-middle-east-supply-risks-keep-oil-on-edge/articleshow/134848278.cms",
+          "title": "Michael Price\u2019s investing tips: Avoid spreadsheet traps, ignore market consensus and be a contrarian",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/michael-prices-investing-tips-avoid-spreadsheet-traps-ignore-market-consensus-and-be-a-contrarian/articleshow/134865689.cms",
           "source": "Markets-Economic Times",
-          "score": -0.718
-        },
-        {
-          "title": "Market crash ahead? Warren Buffett's guide to navigate through bear attacks",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/market-crash-ahead-warren-buffetts-guide-to-navigate-through-bear-attacks/articleshow/134847888.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.681
-        },
-        {
-          "title": "D-Street breaks 8-week losing run, outlook stays cautious though",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-breaks-8-week-losing-run-outlook-stays-cautious-though/articleshow/134847017.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.459
-        },
-        {
-          "title": "RBI tightens forex derivative rules: What changes for hedging, cancelled trades",
-          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-tightens-forex-derivative-rules-what-changes-for-hedging-cancelled-trades/articleshow/134847351.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.25
+          "score": -0.572
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.045,
+      "avg_score": 0.065,
       "mood": "Mixed / Neutral",
       "positive": [
         {
