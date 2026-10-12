@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-11T08:38:01.838993Z",
+  "generated_at": "2026-10-12T09:00:46.207306Z",
   "regions": {
     "india": {
-      "avg_score": 0.128,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.174,
+      "mood": "Positive",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -12,42 +12,66 @@
           "score": 0.869
         },
         {
+          "title": "Banks seek RBI relief, clarity on India's latest rupee-defence measures: Report",
+          "link": "https://economictimes.indiatimes.com/markets/forex/banks-seek-rbi-relief-clarity-on-indias-latest-rupee-defence-measures-report/articleshow/134885468.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.7
+        },
+        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Bonus, dividends, rights issues and stock splits: TCS, Vedanta, Ola Electric among 14 stocks turning ex-record date this week",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-dividends-rights-issues-and-stock-splits-tcs-vedanta-ola-electric-among-14-stocks-turning-ex-record-date-this-week/articleshow/134865638.cms",
+          "title": "US bull market nears four-year milestone as AI boom fuels profits, growth",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-bull-market-nears-four-year-milestone-as-ai-boom-fuels-profits-growth/articleshow/134886825.cms",
           "source": "Markets-Economic Times",
-          "score": 0.542
+          "score": 0.67
         },
         {
-          "title": "ET Alpha Wealth Summit 2.0: What do Shah Rukh Khan and SIFs have in common? Radhika Gupta explains",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-what-do-shah-rukh-khan-and-sifs-have-in-common-radhika-gupta-explains/articleshow/134866717.cms",
+          "title": "Can Fin Homes shares rally up to 5% after Q2 net profit jumps 10% to Rs 275 crore, NII rises 7%",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-fin-homes-shares-rally-up-to-5-after-q2-net-profit-jumps-10-to-rs-275-crore-nii-rises-7/articleshow/134885315.cms",
           "source": "Markets-Economic Times",
-          "score": 0.494
-        },
-        {
-          "title": "FII selloff intensifies! Foreign investors sell Indian equities worth Rs 45,000 crore in just 6 sessions. What can reverse the trend?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fii-selloff-intensifies-foreign-investors-sell-indian-equities-worth-rs-45000-crore-in-just-6-sessions-what-can-reverse-the-trend/articleshow/134866745.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.294
+          "score": 0.625
         }
       ],
       "negative": [
         {
-          "title": "Michael Price\u2019s investing tips: Avoid spreadsheet traps, ignore market consensus and be a contrarian",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/michael-prices-investing-tips-avoid-spreadsheet-traps-ignore-market-consensus-and-be-a-contrarian/articleshow/134865689.cms",
+          "title": "Cheap Venezuelan crude could add up to Rs 12,600 crore to RIL\u2019s EBITDA. What investors should know",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cheap-venezuelan-crude-could-add-up-to-rs-12600-crore-to-rils-ebitda-what-investors-should-know/articleshow/134886181.cms",
           "source": "Markets-Economic Times",
           "score": -0.572
+        },
+        {
+          "title": "Telecom stocks under fire, sink up to 13% as Elon Musk\u2019s Starlink buys spectrum from Grain Management",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/telecom-stocks-under-fire-sink-up-to-13-as-elon-musks-starlink-buys-spectrum-from-grain-management/articleshow/134886760.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.34
+        },
+        {
+          "title": "US Market: Four warning signs that bond selling could intensify",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-four-warning-signs-that-bond-selling-could-intensify/articleshow/134886417.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.34
+        },
+        {
+          "title": "Global Market: Goldman Sachs raises December Brent oil price forecast to $90 on supply risks",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-goldman-sachs-raises-december-brent-oil-price-forecast-to-90-on-supply-risks/articleshow/134886299.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.273
+        },
+        {
+          "title": "Moneyview shares rally 93% from IPO price in 7 sessions. What lies ahead?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/moneyview-shares-rally-93-from-ipo-price-in-7-sessions-what-lies-ahead/articleshow/134886000.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.153
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.065,
+      "avg_score": 0.078,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -75,10 +99,10 @@
           "score": 0.477
         },
         {
-          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.44
+          "title": "Delta CEO: 'Safety is going to make the call' on launching Saudi Arabia flight",
+          "link": "https://www.cnbc.com/2026/10/09/delta-riyadh-flight-safety-houthi-attacks.html",
+          "source": "Business News",
+          "score": 0.421
         }
       ],
       "negative": [
@@ -89,21 +113,15 @@
           "score": -0.66
         },
         {
-          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-          "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.586
-        },
-        {
-          "title": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
-          "link": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.494
-        },
-        {
           "title": "Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand",
           "link": "https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html",
           "source": "Business News",
+          "score": -0.402
+        },
+        {
+          "title": "Debt advice that may leave you owing even more money",
+          "link": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
           "score": -0.402
         },
         {
