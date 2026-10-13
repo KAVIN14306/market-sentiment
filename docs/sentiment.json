@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-12T09:00:46.207306Z",
+  "generated_at": "2026-10-13T09:15:11.433319Z",
   "regions": {
     "india": {
-      "avg_score": 0.174,
-      "mood": "Positive",
+      "avg_score": 0.097,
+      "mood": "Mixed / Neutral",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -12,66 +12,54 @@
           "score": 0.869
         },
         {
-          "title": "Banks seek RBI relief, clarity on India's latest rupee-defence measures: Report",
-          "link": "https://economictimes.indiatimes.com/markets/forex/banks-seek-rbi-relief-clarity-on-indias-latest-rupee-defence-measures-report/articleshow/134885468.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.7
-        },
-        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "US bull market nears four-year milestone as AI boom fuels profits, growth",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-bull-market-nears-four-year-milestone-as-ai-boom-fuels-profits-growth/articleshow/134886825.cms",
+          "title": "Nvidia\u2019s share of China AI chip market falls to 34% as Huawei gains ground",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-share-of-china-ai-chip-market-falls-to-34-as-huawei-gains-ground/articleshow/134911589.cms",
           "source": "Markets-Economic Times",
-          "score": 0.67
+          "score": 0.557
         },
         {
-          "title": "Can Fin Homes shares rally up to 5% after Q2 net profit jumps 10% to Rs 275 crore, NII rises 7%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-fin-homes-shares-rally-up-to-5-after-q2-net-profit-jumps-10-to-rs-275-crore-nii-rises-7/articleshow/134885315.cms",
+          "title": "Global Market: BoE's Megan Greene says UK interest rates may not be restrictive enough",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boes-megan-greene-says-uk-interest-rates-may-not-be-restrictive-enough/articleshow/134911302.cms",
           "source": "Markets-Economic Times",
-          "score": 0.625
+          "score": 0.459
+        },
+        {
+          "title": "Nifty 50 at 26,500 in 4-5 months? Monarch Networth CEO points to 3 key triggers",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-50-at-26500-in-4-5-months-monarch-networth-ceo-points-to-3-key-triggers/articleshow/134911710.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.402
         }
       ],
       "negative": [
         {
-          "title": "Cheap Venezuelan crude could add up to Rs 12,600 crore to RIL\u2019s EBITDA. What investors should know",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cheap-venezuelan-crude-could-add-up-to-rs-12600-crore-to-rils-ebitda-what-investors-should-know/articleshow/134886181.cms",
+          "title": "Surging bond yields wreak havoc on Dalal Street, but IMF sees more pain ahead. Why AI is one of the culprits",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/surging-bond-yields-wreak-havoc-on-dalal-street-but-imf-sees-more-pain-ahead-why-ai-is-one-of-the-culprits/articleshow/134911842.cms",
           "source": "Markets-Economic Times",
-          "score": -0.572
+          "score": -0.809
         },
         {
-          "title": "Telecom stocks under fire, sink up to 13% as Elon Musk\u2019s Starlink buys spectrum from Grain Management",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/telecom-stocks-under-fire-sink-up-to-13-as-elon-musks-starlink-buys-spectrum-from-grain-management/articleshow/134886760.cms",
+          "title": "Paytm, Pine Labs, Mobikwik shares crash up to 7% as UPI MPR fee rollout delayed beyond Diwali",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-pine-labs-mobikwik-shares-crash-up-to-7-as-upi-mpr-fee-rollout-delayed-beyond-diwali/articleshow/134912740.cms",
           "source": "Markets-Economic Times",
           "score": -0.34
         },
         {
-          "title": "US Market: Four warning signs that bond selling could intensify",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-four-warning-signs-that-bond-selling-could-intensify/articleshow/134886417.cms",
+          "title": "Global Market: Hong Kong dollar nears weak side of trading band, raising prospect of HKMA intervention",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-hong-kong-dollar-nears-weak-side-of-trading-band-raising-prospect-of-hkma-intervention/articleshow/134910651.cms",
           "source": "Markets-Economic Times",
-          "score": -0.34
-        },
-        {
-          "title": "Global Market: Goldman Sachs raises December Brent oil price forecast to $90 on supply risks",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-goldman-sachs-raises-december-brent-oil-price-forecast-to-90-on-supply-risks/articleshow/134886299.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.273
-        },
-        {
-          "title": "Moneyview shares rally 93% from IPO price in 7 sessions. What lies ahead?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/moneyview-shares-rally-93-from-ipo-price-in-7-sessions-what-lies-ahead/articleshow/134886000.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.153
+          "score": -0.178
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.078,
+      "avg_score": 0.104,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -93,36 +81,36 @@
           "score": 0.536
         },
         {
+          "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
+          "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.535
+        },
+        {
           "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
           "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
           "source": "Business News",
           "score": 0.477
-        },
-        {
-          "title": "Delta CEO: 'Safety is going to make the call' on launching Saudi Arabia flight",
-          "link": "https://www.cnbc.com/2026/10/09/delta-riyadh-flight-safety-houthi-attacks.html",
-          "source": "Business News",
-          "score": 0.421
         }
       ],
       "negative": [
         {
-          "title": "AstraZeneca CEO says Summit drug could drive next generation of cancer combinations after $2 billion investment",
-          "link": "https://www.cnbc.com/2026/10/05/astrazeneca-ceo-says-summit-drug-could-drive-future-cancer-combos.html",
+          "title": "Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks",
+          "link": "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html",
           "source": "Business News",
-          "score": -0.66
+          "score": -0.44
         },
         {
-          "title": "Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand",
-          "link": "https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html",
+          "title": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
+          "link": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
           "source": "Business News",
-          "score": -0.402
+          "score": -0.382
         },
         {
-          "title": "Debt advice that may leave you owing even more money",
-          "link": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+          "title": "Heating oil customers face tough winter despite shake-up promise",
+          "link": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.402
+          "score": -0.353
         },
         {
           "title": "PepsiCo cuts earnings forecast as North American turnaround takes longer than expected",
