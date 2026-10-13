@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-13T09:15:11.433319Z",
+  "generated_at": "2026-10-13T15:38:55.424913Z",
   "regions": {
     "india": {
-      "avg_score": 0.097,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.271,
+      "mood": "Positive",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -12,56 +12,50 @@
           "score": 0.869
         },
         {
+          "title": "US stocks: Goldman Sachs quarterly profit rises on equities strength",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-goldman-sachs-quarterly-profit-rises-on-equities-strength/articleshow/134918322.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.727
+        },
+        {
+          "title": "US stocks: Citi profit jumps 40% with higher investment banking, services and wealth revenue",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/citi-profit-jumps-40-with-higher-investment-banking-services-and-wealth-revenue/articleshow/134918104.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.727
+        },
+        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Nvidia\u2019s share of China AI chip market falls to 34% as Huawei gains ground",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-share-of-china-ai-chip-market-falls-to-34-as-huawei-gains-ground/articleshow/134911589.cms",
+          "title": "Anand Rathi Share and Stock Brokers Q2 results: Profit jumps 50% YoY to Rs 42 crore, revenue rises 20%",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/anand-rathi-share-and-stock-brokers-q2-results-profit-jumps-50-yoy-to-rs-42-crore-revenue-rises-20/articleshow/134918674.cms",
           "source": "Markets-Economic Times",
-          "score": 0.557
-        },
-        {
-          "title": "Global Market: BoE's Megan Greene says UK interest rates may not be restrictive enough",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boes-megan-greene-says-uk-interest-rates-may-not-be-restrictive-enough/articleshow/134911302.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.459
-        },
-        {
-          "title": "Nifty 50 at 26,500 in 4-5 months? Monarch Networth CEO points to 3 key triggers",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-50-at-26500-in-4-5-months-monarch-networth-ceo-points-to-3-key-triggers/articleshow/134911710.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.402
+          "score": 0.625
         }
       ],
       "negative": [
         {
-          "title": "Surging bond yields wreak havoc on Dalal Street, but IMF sees more pain ahead. Why AI is one of the culprits",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/surging-bond-yields-wreak-havoc-on-dalal-street-but-imf-sees-more-pain-ahead-why-ai-is-one-of-the-culprits/articleshow/134911842.cms",
+          "title": "US stocks opens lower after bank earnings; chips weigh",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-opens-lower-after-bank-earnings-chips-weigh/articleshow/134919499.cms",
           "source": "Markets-Economic Times",
-          "score": -0.809
-        },
-        {
-          "title": "Paytm, Pine Labs, Mobikwik shares crash up to 7% as UPI MPR fee rollout delayed beyond Diwali",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-pine-labs-mobikwik-shares-crash-up-to-7-as-upi-mpr-fee-rollout-delayed-beyond-diwali/articleshow/134912740.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.34
-        },
-        {
-          "title": "Global Market: Hong Kong dollar nears weak side of trading band, raising prospect of HKMA intervention",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-hong-kong-dollar-nears-weak-side-of-trading-band-raising-prospect-of-hkma-intervention/articleshow/134910651.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.178
+          "score": -0.296
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.104,
+      "avg_score": 0.112,
       "mood": "Mixed / Neutral",
       "positive": [
+        {
+          "title": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
+          "link": "https://www.cnbc.com/2026/10/13/unitedhealth-group-unh-earnings-q3-2026.html",
+          "source": "Business News",
+          "score": 0.735
+        },
         {
           "title": "Disney+ to stream upcoming Super Bowl",
           "link": "https://www.cnbc.com/2026/10/07/disney-stream-super-bowl-2027.html",
@@ -81,19 +75,19 @@
           "score": 0.536
         },
         {
-          "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
-          "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+          "title": "Poundland in rescue talks as owners seek buyer",
+          "link": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": 0.535
-        },
-        {
-          "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
-          "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-          "source": "Business News",
-          "score": 0.477
+          "score": 0.511
         }
       ],
       "negative": [
+        {
+          "title": "BA flight forced to turn back over cracked window",
+          "link": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.459
+        },
         {
           "title": "Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks",
           "link": "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html",
