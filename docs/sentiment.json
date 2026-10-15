@@ -1,59 +1,46 @@
 {
-  "generated_at": "2026-10-14T07:25:30.266150Z",
+  "generated_at": "2026-10-15T04:00:26.885838Z",
   "regions": {
     "india": {
-      "avg_score": 0.134,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.254,
+      "mood": "Positive",
       "positive": [
         {
-          "title": "TCS, HCL Tech, Infosys shares surge up to 11% in 2 days; Nifty IT soars 2,000 points. More steam left for rally?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-hcl-tech-infosys-shares-surge-up-to-11-in-2-days-nifty-it-soars-2000-points-more-steam-left-for-rally/articleshow/134933219.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.599
+          "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+          "source": "Moneycontrol Market Reports",
+          "score": 0.869
         },
         {
-          "title": "Sensex, Nifty muted a day after sharp rally, IT stocks extend gains. What lies ahead for Dalal Street?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-muted-a-day-after-sharp-rally-it-stocks-extend-gains-what-lies-ahead-for-dalal-street/articleshow/134933372.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.459
+          "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+          "source": "Moneycontrol Market Reports",
+          "score": 0.7
         },
         {
-          "title": "Canara Bank Q2 Results: Standalone net profit rises 8% YoY to Rs 5,175 crore, NII jumps 20%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/canara-bank-q2-results-standalone-net-profit-rises-8-yoy-to-rs-5175-crore-nii-jumps-20/articleshow/134935180.cms",
+          "title": "Tech Mahindra Share Price Live Updates: Tech Mahindra posts impressive returns",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-live-updates-15-oct-2026/liveblog/134956068.cms",
           "source": "Markets-Economic Times",
-          "score": 0.44
+          "score": 0.67
         },
         {
-          "title": "Q2 Results Live Updates: Canara Bank Q2 net profit rises 8.4% YoY, NII at 20.4% YoY",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/tata-tech-groww-q2-results-fy27-bhel-canara-bank-tata-technologies-earnings-dividend-2026-share-price-updates/liveblog/134933806.cms",
+          "title": "ICICI Bank Share Price Live Updates: ICICI Bank's beta indicates a robust market presence",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-updates-15-oct-2026/liveblog/134955831.cms",
           "source": "Markets-Economic Times",
-          "score": 0.44
+          "score": 0.557
         },
         {
-          "title": "Global Market: Japan five-year bond yield steady after strong demand at auction",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-five-year-bond-yield-steady-after-strong-demand-at-auction/articleshow/134934716.cms",
+          "title": "Tonbo Imaging India IPO opens today; GMP signals 71% listing gain, check key details",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/tonbo-imaging-india-ipo-opens-today-gmp-signals-71-listing-gain-check-key-details/articleshow/134956306.cms",
           "source": "Markets-Economic Times",
-          "score": 0.421
+          "score": 0.527
         }
       ],
-      "negative": [
-        {
-          "title": "Global Market: Why China\u2019s CXMT is putting global memory chip giants under pressure",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-why-chinas-cxmt-is-putting-global-memory-chip-giants-under-pressure/articleshow/134934456.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.296
-        },
-        {
-          "title": "Bank of Baroda shares drop 3% after NMC Healthcare founder BR Shetty files $15 bn lawsuit; lender issues clarification",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bank-of-baroda-shares-drop-3-after-nmc-healthcare-founder-br-shetty-files-15-bn-lawsuit-lender-issues-clarification/articleshow/134933740.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.202
-        }
-      ],
-      "sample_size": 15
+      "negative": [],
+      "sample_size": 19
     },
     "world": {
-      "avg_score": 0.109,
+      "avg_score": -0.053,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -63,28 +50,28 @@
           "score": 0.735
         },
         {
-          "title": "Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'",
-          "link": "https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html",
-          "source": "Business News",
-          "score": 0.586
-        },
-        {
           "title": "United Airlines is making it harder to reach its top frequent flyer status in 2027",
           "link": "https://www.cnbc.com/2026/10/13/united-flight-segments-earn-elite-status.html",
           "source": "Business News",
           "score": 0.572
         },
         {
-          "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
-          "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+          "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+          "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
           "source": "Business News",
-          "score": 0.477
+          "score": 0.511
         },
         {
-          "title": "Delta CEO: 'Safety is going to make the call' on launching Saudi Arabia flight",
-          "link": "https://www.cnbc.com/2026/10/09/delta-riyadh-flight-safety-houthi-attacks.html",
+          "title": "From BJ\u2019s to Lululemon, retailers are trimming assortments to boost business",
+          "link": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
           "source": "Business News",
-          "score": 0.421
+          "score": 0.402
+        },
+        {
+          "title": "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits",
+          "link": "https://www.cnbc.com/2026/10/13/walmart-glp-1s-inhalers-insulin-employee-benefits.html",
+          "source": "Business News",
+          "score": 0.202
         }
       ],
       "negative": [
@@ -93,6 +80,18 @@
           "link": "https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html",
           "source": "Business News",
           "score": -0.67
+        },
+        {
+          "title": "Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster to make",
+          "link": "https://www.cnbc.com/2026/10/14/merck-moderna-cancer-vaccine-manufacturing-time.html",
+          "source": "Business News",
+          "score": -0.66
+        },
+        {
+          "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
+          "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+          "source": "Business News",
+          "score": -0.542
         },
         {
           "title": "Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks",
@@ -105,18 +104,6 @@
           "link": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
           "source": "Business News",
           "score": -0.382
-        },
-        {
-          "title": "Bank of America hit with $1.2bn fine for money laundering failings",
-          "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.34
-        },
-        {
-          "title": "PepsiCo cuts earnings forecast as North American turnaround takes longer than expected",
-          "link": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html",
-          "source": "Business News",
-          "score": -0.296
         }
       ],
       "sample_size": 20
