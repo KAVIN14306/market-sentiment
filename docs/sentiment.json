@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T04:00:26.885838Z",
+  "generated_at": "2026-10-15T07:38:12.663045Z",
   "regions": {
     "india": {
-      "avg_score": 0.254,
+      "avg_score": 0.319,
       "mood": "Positive",
       "positive": [
         {
@@ -18,29 +18,36 @@
           "score": 0.7
         },
         {
-          "title": "Tech Mahindra Share Price Live Updates: Tech Mahindra posts impressive returns",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-live-updates-15-oct-2026/liveblog/134956068.cms",
+          "title": "IDBI Bank shares fall 7% as investors book profit after Fairfax deal gets cabinet nod",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/idbi-bank-shares-fall-7-as-investors-book-profit-after-fairfax-deal-gets-cabinet-nod/articleshow/134959588.cms",
           "source": "Markets-Economic Times",
-          "score": 0.67
+          "score": 0.625
         },
         {
-          "title": "ICICI Bank Share Price Live Updates: ICICI Bank's beta indicates a robust market presence",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-updates-15-oct-2026/liveblog/134955831.cms",
+          "title": "Global Market: TSMC set for sixth straight record quarterly profit on AI chip boom",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-tsmc-set-for-sixth-straight-record-quarterly-profit-on-ai-chip-boom/articleshow/134957993.cms",
           "source": "Markets-Economic Times",
-          "score": 0.557
+          "score": 0.586
         },
         {
-          "title": "Tonbo Imaging India IPO opens today; GMP signals 71% listing gain, check key details",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/tonbo-imaging-india-ipo-opens-today-gmp-signals-71-listing-gain-check-key-details/articleshow/134956306.cms",
+          "title": "Indian bonds breathe easy as Treasury yields decline",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-breathe-easy-as-treasury-yields-decline/articleshow/134960547.cms",
           "source": "Markets-Economic Times",
-          "score": 0.527
+          "score": 0.572
         }
       ],
-      "negative": [],
+      "negative": [
+        {
+          "title": "Global Market: Bank of China (Hong Kong) plans $3.3 billion onshore yuan debt issuance",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-bank-of-china-hong-kong-plans-3-3-billion-onshore-yuan-debt-issuance/articleshow/134958921.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.361
+        }
+      ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.053,
+      "avg_score": -0.007,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -56,6 +63,12 @@
           "score": 0.572
         },
         {
+          "title": "UK economy sees surprise growth in August ahead of Healey's first Budget",
+          "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.572
+        },
+        {
           "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
           "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
           "source": "Business News",
@@ -66,12 +79,6 @@
           "link": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
           "source": "Business News",
           "score": 0.402
-        },
-        {
-          "title": "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits",
-          "link": "https://www.cnbc.com/2026/10/13/walmart-glp-1s-inhalers-insulin-employee-benefits.html",
-          "source": "Business News",
-          "score": 0.202
         }
       ],
       "negative": [
