@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-15T07:38:12.663045Z",
+  "generated_at": "2026-10-16T07:09:55.457980Z",
   "regions": {
     "india": {
-      "avg_score": 0.319,
-      "mood": "Positive",
+      "avg_score": 0.114,
+      "mood": "Mixed / Neutral",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -18,36 +18,60 @@
           "score": 0.7
         },
         {
-          "title": "IDBI Bank shares fall 7% as investors book profit after Fairfax deal gets cabinet nod",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/idbi-bank-shares-fall-7-as-investors-book-profit-after-fairfax-deal-gets-cabinet-nod/articleshow/134959588.cms",
+          "title": "Karur Vysya Bank shares rally 6% after Q2 profit jumps 37% YoY",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/karur-vysya-bank-shares-rally-6-after-q2-profit-jumps-37-yoy/articleshow/134982900.cms",
           "source": "Markets-Economic Times",
           "score": 0.625
         },
         {
-          "title": "Global Market: TSMC set for sixth straight record quarterly profit on AI chip boom",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-tsmc-set-for-sixth-straight-record-quarterly-profit-on-ai-chip-boom/articleshow/134957993.cms",
+          "title": "Microsoft\u2019s AI strategy gains traction as Wall Street bets on cloud growth",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/microsofts-ai-strategy-gains-traction-as-wall-street-bets-on-cloud-growth/slideshow/134984150.cms",
           "source": "Markets-Economic Times",
-          "score": 0.586
+          "score": 0.612
         },
         {
-          "title": "Indian bonds breathe easy as Treasury yields decline",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-breathe-easy-as-treasury-yields-decline/articleshow/134960547.cms",
+          "title": "Global Market: China's wealthy rush to unwind offshore trusts as tax deadline looms",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-chinas-wealthy-rush-to-unwind-offshore-trusts-as-tax-deadline-looms/articleshow/134982601.cms",
           "source": "Markets-Economic Times",
-          "score": 0.572
+          "score": 0.612
         }
       ],
       "negative": [
         {
-          "title": "Global Market: Bank of China (Hong Kong) plans $3.3 billion onshore yuan debt issuance",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-bank-of-china-hong-kong-plans-3-3-billion-onshore-yuan-debt-issuance/articleshow/134958921.cms",
+          "title": "AI debt crisis? CoreWeave sell-off rattles tech investors",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-debt-crisis-coreweave-sell-off-rattles-tech-investors/slideshow/134985217.cms",
           "source": "Markets-Economic Times",
-          "score": -0.361
+          "score": -0.765
+        },
+        {
+          "title": "Global hedge funds suffer steep losses as AI trade unwinds, Asia funds hit hardest",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-hedge-funds-suffer-steep-losses-as-ai-trade-unwinds-asia-funds-hit-hardest/articleshow/134982825.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.735
+        },
+        {
+          "title": "Bulls fight back as Sensex stages 700-point comeback. 4 factors driving the rally",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-are-markets-rising-today-sensex-soars-700-pts-from-days-low-nifty-nears-23150-4-factors-fuelling-the-surge/articleshow/134983166.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.382
+        },
+        {
+          "title": "Indonesia\u2019s $1.5 trillion market faces a historic downgrade: Why global investors are worried",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indonesias-1-5-trillion-market-faces-a-historic-downgrade-why-global-investors-are-worried/articleshow/134984330.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.296
+        },
+        {
+          "title": "US Market: Fed Chair Warsh offers no signal on October interest-rate decision",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-fed-chair-warsh-offers-no-signal-on-october-interest-rate-decision/articleshow/134984000.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.296
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.007,
+      "avg_score": 0.063,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -57,15 +81,15 @@
           "score": 0.735
         },
         {
+          "title": "Banks say Healey planning to increase tax on their profits in Budget",
+          "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.637
+        },
+        {
           "title": "United Airlines is making it harder to reach its top frequent flyer status in 2027",
           "link": "https://www.cnbc.com/2026/10/13/united-flight-segments-earn-elite-status.html",
           "source": "Business News",
-          "score": 0.572
-        },
-        {
-          "title": "UK economy sees surprise growth in August ahead of Healey's first Budget",
-          "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
           "score": 0.572
         },
         {
@@ -75,10 +99,10 @@
           "score": 0.511
         },
         {
-          "title": "From BJ\u2019s to Lululemon, retailers are trimming assortments to boost business",
-          "link": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
-          "source": "Business News",
-          "score": 0.402
+          "title": "Nandy 'minded to intervene' in Sky's \u00a31.6bn takeover of ITV entertainment arm",
+          "link": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.421
         }
       ],
       "negative": [
@@ -99,18 +123,6 @@
           "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
           "source": "Business News",
           "score": -0.542
-        },
-        {
-          "title": "Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks",
-          "link": "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html",
-          "source": "Business News",
-          "score": -0.44
-        },
-        {
-          "title": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
-          "link": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
-          "source": "Business News",
-          "score": -0.382
         }
       ],
       "sample_size": 20
