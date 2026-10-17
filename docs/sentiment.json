@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T07:09:55.457980Z",
+  "generated_at": "2026-10-17T06:57:51.287082Z",
   "regions": {
     "india": {
-      "avg_score": 0.114,
+      "avg_score": 0.149,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -12,80 +12,68 @@
           "score": 0.869
         },
         {
-          "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-          "source": "Moneycontrol Market Reports",
-          "score": 0.7
+          "title": "ET Alpha Wealth Summit 2.0 | Why alternatives are becoming essential for wealth creation beyond stocks and bonds, says Rahul Jain",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/et-alpha-wealth-summit-2-0-why-alternatives-are-becoming-essential-for-wealth-creation-beyond-stocks-and-bonds-says-rahul-jain/articleshow/135008310.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.818
         },
         {
-          "title": "Karur Vysya Bank shares rally 6% after Q2 profit jumps 37% YoY",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/karur-vysya-bank-shares-rally-6-after-q2-profit-jumps-37-yoy/articleshow/134982900.cms",
+          "title": "ETMarkets Smart Talk | Manufacturing, healthcare and financialisation could create India\u2019s next wealth creators: Sanjay Doshi",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-manufacturing-healthcare-and-financialisation-could-create-indias-next-wealth-creators-sanjay-doshi/articleshow/135008355.cms",
           "source": "Markets-Economic Times",
-          "score": 0.625
+          "score": 0.791
         },
         {
-          "title": "Microsoft\u2019s AI strategy gains traction as Wall Street bets on cloud growth",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/microsofts-ai-strategy-gains-traction-as-wall-street-bets-on-cloud-growth/slideshow/134984150.cms",
+          "title": "IT's time to celebrate when chips are down; Nifty IT soars 11.7% to log biggest weekly rally since 2008",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/its-time-to-celebrate-when-chips-are-down-nifty-it-soars-11-7-to-log-biggest-weekly-rally-since-2008/articleshow/135007166.cms",
           "source": "Markets-Economic Times",
-          "score": 0.612
+          "score": 0.751
         },
         {
-          "title": "Global Market: China's wealthy rush to unwind offshore trusts as tax deadline looms",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-chinas-wealthy-rush-to-unwind-offshore-trusts-as-tax-deadline-looms/articleshow/134982601.cms",
+          "title": "European shares close out best week since June as earnings soften blow from tech selloff",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-close-out-best-week-since-june-as-earnings-soften-blow-from-tech-selloff/articleshow/135007075.cms",
           "source": "Markets-Economic Times",
-          "score": 0.612
+          "score": 0.751
         }
       ],
       "negative": [
         {
-          "title": "AI debt crisis? CoreWeave sell-off rattles tech investors",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-debt-crisis-coreweave-sell-off-rattles-tech-investors/slideshow/134985217.cms",
+          "title": "Brent crude oil prices hit $110 for first time since May as Iran attacks continue, Ukraine eyes Russia energy infra",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/brentcrude-oil-prices-hit-110-for-first-time-since-may-as-iran-attacks-continue-ukraine-eyes-russia-energy-infra/articleshow/135008770.cms",
           "source": "Markets-Economic Times",
-          "score": -0.765
+          "score": -0.67
         },
         {
-          "title": "Global hedge funds suffer steep losses as AI trade unwinds, Asia funds hit hardest",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-hedge-funds-suffer-steep-losses-as-ai-trade-unwinds-asia-funds-hit-hardest/articleshow/134982825.cms",
+          "title": "AI bubble burst may trigger 2008-like banking crisis, says Gary Marcus",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-bubble-burst-may-trigger-2008-like-banking-crisis-says-gary-marcus/articleshow/135007219.cms",
           "source": "Markets-Economic Times",
-          "score": -0.735
+          "score": -0.625
         },
         {
-          "title": "Bulls fight back as Sensex stages 700-point comeback. 4 factors driving the rally",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-are-markets-rising-today-sensex-soars-700-pts-from-days-low-nifty-nears-23150-4-factors-fuelling-the-surge/articleshow/134983166.cms",
+          "title": "Why India's steel demand is defying global weakness",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-indias-steel-demand-is-defying-global-weakness/articleshow/135008082.cms",
           "source": "Markets-Economic Times",
-          "score": -0.382
+          "score": -0.511
         },
         {
-          "title": "Indonesia\u2019s $1.5 trillion market faces a historic downgrade: Why global investors are worried",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indonesias-1-5-trillion-market-faces-a-historic-downgrade-why-global-investors-are-worried/articleshow/134984330.cms",
+          "title": "Dollar heads for weekly loss as Fed hike bets fade, AI jitters linger",
+          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-heads-for-weekly-loss-as-fed-hike-bets-fade-ai-jitters-linger/articleshow/135007121.cms",
           "source": "Markets-Economic Times",
-          "score": -0.296
+          "score": -0.318
         },
         {
-          "title": "US Market: Fed Chair Warsh offers no signal on October interest-rate decision",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-fed-chair-warsh-offers-no-signal-on-october-interest-rate-decision/articleshow/134984000.cms",
+          "title": "Global markets: Stocks slip as dollar heads for weekly loss",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-stocks-slip-as-dollar-heads-for-weekly-loss/articleshow/135007060.cms",
           "source": "Markets-Economic Times",
-          "score": -0.296
+          "score": -0.318
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.063,
+      "avg_score": -0.02,
       "mood": "Mixed / Neutral",
       "positive": [
-        {
-          "title": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
-          "link": "https://www.cnbc.com/2026/10/13/unitedhealth-group-unh-earnings-q3-2026.html",
-          "source": "Business News",
-          "score": 0.735
-        },
-        {
-          "title": "Banks say Healey planning to increase tax on their profits in Budget",
-          "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.637
-        },
         {
           "title": "United Airlines is making it harder to reach its top frequent flyer status in 2027",
           "link": "https://www.cnbc.com/2026/10/13/united-flight-segments-earn-elite-status.html",
@@ -103,6 +91,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "score": 0.421
+        },
+        {
+          "title": "Nike's India campus is a long-term growth bet amid turnaround",
+          "link": "https://www.cnbc.com/2026/10/16/nike-india-campus-china-sales.html",
+          "source": "Business News",
+          "score": 0.382
         }
       ],
       "negative": [
@@ -123,6 +117,12 @@
           "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
           "source": "Business News",
           "score": -0.542
+        },
+        {
+          "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+          "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.459
         }
       ],
       "sample_size": 20
