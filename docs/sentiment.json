@@ -1,74 +1,50 @@
 {
-  "generated_at": "2026-10-17T06:57:51.287082Z",
+  "generated_at": "2026-10-18T01:02:41.886506Z",
   "regions": {
     "india": {
-      "avg_score": 0.149,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.272,
+      "mood": "Positive",
       "positive": [
         {
-          "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-          "source": "Moneycontrol Market Reports",
-          "score": 0.869
+          "title": "ixigo Q2 profit at Rs 63 cr on robust show in hotel booking biz",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ixigo-q2-profit-at-rs-63-cr-on-robust-show-in-hotel-booking-biz/articleshow/135012396.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.649
         },
         {
-          "title": "ET Alpha Wealth Summit 2.0 | Why alternatives are becoming essential for wealth creation beyond stocks and bonds, says Rahul Jain",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/et-alpha-wealth-summit-2-0-why-alternatives-are-becoming-essential-for-wealth-creation-beyond-stocks-and-bonds-says-rahul-jain/articleshow/135008310.cms",
+          "title": "Nifty reclaims 200 WMA; eyes further gains as key resistance shapes next move",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-reclaims-200-wma-eyes-further-gains-as-key-resistance-shapes-next-move/articleshow/135011480.cms",
           "source": "Markets-Economic Times",
-          "score": 0.818
+          "score": 0.625
         },
         {
-          "title": "ETMarkets Smart Talk | Manufacturing, healthcare and financialisation could create India\u2019s next wealth creators: Sanjay Doshi",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-manufacturing-healthcare-and-financialisation-could-create-indias-next-wealth-creators-sanjay-doshi/articleshow/135008355.cms",
+          "title": "Concurrent Gainers: 15 stocks gain for 5 days in a row",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-15-stocks-gain-for-5-days-in-a-row/slideshow/135008981.cms",
           "source": "Markets-Economic Times",
-          "score": 0.791
+          "score": 0.527
         },
         {
-          "title": "IT's time to celebrate when chips are down; Nifty IT soars 11.7% to log biggest weekly rally since 2008",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/its-time-to-celebrate-when-chips-are-down-nifty-it-soars-11-7-to-log-biggest-weekly-rally-since-2008/articleshow/135007166.cms",
+          "title": "Central Bank of India Q2 profit rises 21% as loans grow 30%",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/central-bank-of-india-q2-profit-rises-21-as-loans-grow-30/articleshow/135014014.cms",
           "source": "Markets-Economic Times",
-          "score": 0.751
+          "score": 0.44
         },
         {
-          "title": "European shares close out best week since June as earnings soften blow from tech selloff",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-close-out-best-week-since-june-as-earnings-soften-blow-from-tech-selloff/articleshow/135007075.cms",
+          "title": "ICICI Bank Q2 Results: Net profit jumps 20% YoY to Rs 14,843 crore, NII rises 18%",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q2-results-net-profit-jumps-20-to-rs-14843-crore-nii-rises-18-yoy/articleshow/135011810.cms",
           "source": "Markets-Economic Times",
-          "score": 0.751
+          "score": 0.44
         }
       ],
       "negative": [
         {
-          "title": "Brent crude oil prices hit $110 for first time since May as Iran attacks continue, Ukraine eyes Russia energy infra",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/brentcrude-oil-prices-hit-110-for-first-time-since-may-as-iran-attacks-continue-ukraine-eyes-russia-energy-infra/articleshow/135008770.cms",
+          "title": "Rising borrowing costs signal funding risks for global AI expansion: Jefferies report",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/rising-borrowing-costs-signal-funding-risks-for-global-ai-expansion-jefferies-report/articleshow/135012567.cms",
           "source": "Markets-Economic Times",
-          "score": -0.67
-        },
-        {
-          "title": "AI bubble burst may trigger 2008-like banking crisis, says Gary Marcus",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-bubble-burst-may-trigger-2008-like-banking-crisis-says-gary-marcus/articleshow/135007219.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.625
-        },
-        {
-          "title": "Why India's steel demand is defying global weakness",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-indias-steel-demand-is-defying-global-weakness/articleshow/135008082.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.511
-        },
-        {
-          "title": "Dollar heads for weekly loss as Fed hike bets fade, AI jitters linger",
-          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-heads-for-weekly-loss-as-fed-hike-bets-fade-ai-jitters-linger/articleshow/135007121.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.318
-        },
-        {
-          "title": "Global markets: Stocks slip as dollar heads for weekly loss",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-stocks-slip-as-dollar-heads-for-weekly-loss/articleshow/135007060.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.318
+          "score": -0.273
         }
       ],
-      "sample_size": 19
+      "sample_size": 15
     },
     "world": {
       "avg_score": -0.02,
