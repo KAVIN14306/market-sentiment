@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T01:16:40.721124Z",
+  "generated_at": "2026-10-20T01:50:10.928980Z",
   "regions": {
     "india": {
-      "avg_score": 0.154,
+      "avg_score": 0.276,
       "mood": "Positive",
       "positive": [
         {
@@ -12,10 +12,16 @@
           "score": 0.869
         },
         {
-          "title": "Bajaj Finance Q2 preview: Profit may jump 29%, NII 24% as strong loan growth lifts earnings",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q2-preview-profit-may-jump-29-nii-24-as-strong-loan-growth-lifts-earnings/articleshow/135026829.cms",
+          "title": "Apple India in sweet spot as FY26 revenue crosses Rs 1 lakh crore, profit soars",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/apple-india-in-sweet-spot-as-fy26-revenue-crosses-rs-1-lakh-crore-profit-soars/articleshow/135058877.cms",
           "source": "Markets-Economic Times",
-          "score": 0.832
+          "score": 0.71
+        },
+        {
+          "title": "Union Bank Q2 net profit up 30% as margins improve",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/union-bank-q2-net-profit-up-30-as-margins-improve/articleshow/135059129.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.7
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -24,36 +30,30 @@
           "score": 0.7
         },
         {
-          "title": "Nifty rally faces crucial test at key resistance levels: Analysts",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-gains-3-as-analysts-predict-recovery-key-resistance-levels-ahead/articleshow/135037107.cms",
+          "title": "Maharajah Bonds gain investor appeal with TDS exemption",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/maharajah-bonds-gain-investor-appeal-with-tds-exemption/articleshow/135059192.cms",
           "source": "Markets-Economic Times",
-          "score": 0.402
-        },
-        {
-          "title": "FPI selling crosses Rs 52,000 crore in October as Nifty defies foreign exodus",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpi-selling-crosses-rs-52000-crore-in-october-as-nifty-defies-foreign-exodus/articleshow/135025955.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.402
+          "score": 0.527
         }
       ],
       "negative": [
         {
-          "title": "Pharma Q2 Outlook: Pricing pressure, US competition to weigh on select players",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/indias-pharmaceutical-companies-to-report-mixed-results-as-domestic-growth-offsets-pricing-pressures/articleshow/135037267.cms",
+          "title": "ED freezes trading accounts in scam tied to social media",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ed-freezes-trading-accounts-in-scam-tied-to-social-media/articleshow/135059209.cms",
           "source": "Markets-Economic Times",
-          "score": -0.296
+          "score": -0.586
         },
         {
-          "title": "Global Market Today: Asian shares fall as AI spending worries weigh on sentiment",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-fall-as-ai-spending-worries-weigh-on-sentiment/articleshow/135037337.cms",
+          "title": "Banking stocks, high oil prices drag Indian markets lower",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/banking-stocks-high-oil-prices-drag-indian-markets-lower/articleshow/135058914.cms",
           "source": "Markets-Economic Times",
-          "score": -0.153
+          "score": -0.477
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.027,
+      "avg_score": -0.028,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -73,26 +73,20 @@
           "link": "https://www.cnbc.com/2026/10/16/nike-india-campus-china-sales.html",
           "source": "Business News",
           "score": 0.382
-        },
-        {
-          "title": "People playing loud music on buses could face \u00a3100 fine",
-          "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.382
         }
       ],
       "negative": [
-        {
-          "title": "Airport attacks put aviation in crosshairs of geopolitical conflicts",
-          "link": "https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html",
-          "source": "Business News",
-          "score": -0.67
-        },
         {
           "title": "Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster to make",
           "link": "https://www.cnbc.com/2026/10/14/merck-moderna-cancer-vaccine-manufacturing-time.html",
           "source": "Business News",
           "score": -0.66
+        },
+        {
+          "title": "Vinted blocks French looters listing stolen goods for sale",
+          "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.625
         },
         {
           "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
@@ -101,14 +95,14 @@
           "score": -0.542
         },
         {
-          "title": "Don't fall for this - how to protect yourself from AI scams",
-          "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+          "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+          "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.296
+          "score": -0.318
         },
         {
-          "title": "Home sellers cut asking prices on 3,000 properties a day",
-          "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+          "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+          "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "score": -0.273
         }
