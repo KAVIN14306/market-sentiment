@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-20T01:50:10.928980Z",
+  "generated_at": "2026-10-21T01:35:46.556999Z",
   "regions": {
     "india": {
-      "avg_score": 0.276,
-      "mood": "Positive",
+      "avg_score": 0.083,
+      "mood": "Mixed / Neutral",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -12,99 +12,93 @@
           "score": 0.869
         },
         {
-          "title": "Apple India in sweet spot as FY26 revenue crosses Rs 1 lakh crore, profit soars",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/apple-india-in-sweet-spot-as-fy26-revenue-crosses-rs-1-lakh-crore-profit-soars/articleshow/135058877.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.71
-        },
-        {
-          "title": "Union Bank Q2 net profit up 30% as margins improve",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/union-bank-q2-net-profit-up-30-as-margins-improve/articleshow/135059129.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.7
-        },
-        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Maharajah Bonds gain investor appeal with TDS exemption",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/maharajah-bonds-gain-investor-appeal-with-tds-exemption/articleshow/135059192.cms",
+          "title": "Aerospace and military contractors raise 2026 profit forecasts",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/aerospace-and-military-contractors-raise-2026-profit-forecasts/articleshow/135072414.cms",
           "source": "Markets-Economic Times",
-          "score": 0.527
+          "score": 0.44
+        },
+        {
+          "title": "Stocks in news: Reliance Industries, Eternal, IREDA, Yes Bank, Trent and Hindustan Zinc",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-eternal-ireda-yes-bank-trent-and-hindustan-zinc/articleshow/135074022.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.402
+        },
+        {
+          "title": "Can Jio Platforms IPO deliver long-term growth for high-risk investors?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-jio-platforms-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/135078638.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.382
         }
       ],
       "negative": [
         {
-          "title": "ED freezes trading accounts in scam tied to social media",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ed-freezes-trading-accounts-in-scam-tied-to-social-media/articleshow/135059209.cms",
+          "title": "Bessent sees no spillover from France bond market\u2019s turmoil",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bessent-sees-no-spillover-from-france-bond-markets-turmoil/articleshow/135079201.cms",
           "source": "Markets-Economic Times",
-          "score": -0.586
+          "score": -0.572
         },
         {
-          "title": "Banking stocks, high oil prices drag Indian markets lower",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/banking-stocks-high-oil-prices-drag-indian-markets-lower/articleshow/135058914.cms",
+          "title": "Copper stays range bound as US tariff uncertainty, oil inflation risks weigh",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/copper-stays-range-bound-as-us-tariff-uncertainty-oil-inflation-risks-weigh/articleshow/135074839.cms",
           "source": "Markets-Economic Times",
-          "score": -0.477
+          "score": -0.542
+        },
+        {
+          "title": "How to invest Rs 10 lakh amid market uncertainty: Experts weigh in",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/investing-rs-10-lakh-experts-decode-the-right-mix/articleshow/135078375.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.34
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.028,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.153,
+      "mood": "Positive",
       "positive": [
         {
-          "title": "United Airlines is making it harder to reach its top frequent flyer status in 2027",
-          "link": "https://www.cnbc.com/2026/10/13/united-flight-segments-earn-elite-status.html",
+          "title": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
+          "link": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html",
           "source": "Business News",
-          "score": 0.572
+          "score": 0.802
         },
         {
-          "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-          "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+          "title": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
+          "link": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
           "source": "Business News",
-          "score": 0.511
+          "score": 0.778
+        },
+        {
+          "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
+          "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+          "source": "Business News",
+          "score": 0.421
         },
         {
           "title": "Nike's India campus is a long-term growth bet amid turnaround",
           "link": "https://www.cnbc.com/2026/10/16/nike-india-campus-china-sales.html",
           "source": "Business News",
           "score": 0.382
+        },
+        {
+          "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
+          "link": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
+          "source": "Business News",
+          "score": 0.351
         }
       ],
       "negative": [
         {
-          "title": "Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster to make",
-          "link": "https://www.cnbc.com/2026/10/14/merck-moderna-cancer-vaccine-manufacturing-time.html",
+          "title": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
+          "link": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
           "source": "Business News",
-          "score": -0.66
-        },
-        {
-          "title": "Vinted blocks French looters listing stolen goods for sale",
-          "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.625
-        },
-        {
-          "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-          "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-          "source": "Business News",
-          "score": -0.542
-        },
-        {
-          "title": "US bans DeepSeek AI from government use as tech tension with China continues",
-          "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
           "score": -0.318
-        },
-        {
-          "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-          "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.273
         }
       ],
       "sample_size": 20
