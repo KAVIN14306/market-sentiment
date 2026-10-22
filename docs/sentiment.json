@@ -1,66 +1,66 @@
 {
-  "generated_at": "2026-10-21T01:35:46.556999Z",
+  "generated_at": "2026-10-22T01:32:18.994542Z",
   "regions": {
     "india": {
-      "avg_score": 0.083,
+      "avg_score": 0.01,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-          "source": "Moneycontrol Market Reports",
-          "score": 0.869
+          "title": "US stocks today: Nasdaq leads Wall Street higher as SpaceX, Super Micro lift AI sentiment",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-leads-wall-street-higher-as-spacex-super-micro-lift-ai-sentiment/articleshow/135100483.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.599
         },
         {
-          "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-          "source": "Moneycontrol Market Reports",
-          "score": 0.7
-        },
-        {
-          "title": "Aerospace and military contractors raise 2026 profit forecasts",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/aerospace-and-military-contractors-raise-2026-profit-forecasts/articleshow/135072414.cms",
+          "title": "Aditya Birla AMC Q2 net profit dips 8.4% to Rs 221 crore",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/aditya-birla-amc-q2-net-profit-dips-8-4-to-rs-221-crore/articleshow/135103619.cms",
           "source": "Markets-Economic Times",
           "score": 0.44
         },
         {
-          "title": "Stocks in news: Reliance Industries, Eternal, IREDA, Yes Bank, Trent and Hindustan Zinc",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-eternal-ireda-yes-bank-trent-and-hindustan-zinc/articleshow/135074022.cms",
+          "title": "Jio IPO attracts Rs 70,000 crore in bids on day 1, outpaces LIC, NSE issues",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-bids-hit-70000-crore-on-day-1-outpaces-nse-lic-gic-issues/articleshow/135103495.cms",
           "source": "Markets-Economic Times",
           "score": 0.402
         },
         {
-          "title": "Can Jio Platforms IPO deliver long-term growth for high-risk investors?",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-jio-platforms-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/135078638.cms",
+          "title": "Meta raises AI spending forecast to $145 billion, plans new share issue; Q3 revenue beats estimates",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/meta-raises-ai-spending-forecast-to-145-billion-plans-new-share-issue-q3-revenue-beats-estimates/articleshow/135100437.cms",
           "source": "Markets-Economic Times",
-          "score": 0.382
+          "score": 0.296
         }
       ],
       "negative": [
         {
-          "title": "Bessent sees no spillover from France bond market\u2019s turmoil",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bessent-sees-no-spillover-from-france-bond-markets-turmoil/articleshow/135079201.cms",
+          "title": "RBI flags widening inflation risks, puts rate cuts on ice",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-flags-widening-inflation-risks-puts-rate-cuts-on-ice/articleshow/135103555.cms",
           "source": "Markets-Economic Times",
-          "score": -0.572
+          "score": -0.511
         },
         {
-          "title": "Copper stays range bound as US tariff uncertainty, oil inflation risks weigh",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/copper-stays-range-bound-as-us-tariff-uncertainty-oil-inflation-risks-weigh/articleshow/135074839.cms",
+          "title": "Rupee soars to 6-week high on Jio IPO flows, weaker dollar",
+          "link": "https://economictimes.indiatimes.com/markets/forex/rupee-soars-to-6-week-high-on-jio-ipo-flows-weaker-dollar/articleshow/135103368.cms",
           "source": "Markets-Economic Times",
-          "score": -0.542
+          "score": -0.44
         },
         {
-          "title": "How to invest Rs 10 lakh amid market uncertainty: Experts weigh in",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/investing-rs-10-lakh-experts-decode-the-right-mix/articleshow/135078375.cms",
+          "title": "HDFC Bank begins probe into alleged internal data leak",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-begins-probe-into-alleged-internal-data-leak/articleshow/135103464.cms",
           "source": "Markets-Economic Times",
           "score": -0.34
+        },
+        {
+          "title": "Jefferies sees valuation upside in select IT stocks despite muted growth forecast",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-sees-valuation-upside-in-select-it-stocks-despite-muted-growth-forecast/articleshow/135103176.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.292
         }
       ],
-      "sample_size": 19
+      "sample_size": 15
     },
     "world": {
-      "avg_score": 0.153,
-      "mood": "Positive",
+      "avg_score": 0.075,
+      "mood": "Mixed / Neutral",
       "positive": [
         {
           "title": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
@@ -75,30 +75,54 @@
           "score": 0.778
         },
         {
+          "title": "United Airlines set to open its biggest airport lounge in $2.6 billion overhaul at Houston hub",
+          "link": "https://www.cnbc.com/2026/10/21/united-airlines-biggest-airport-lounge-houston.html",
+          "source": "Business News",
+          "score": 0.421
+        },
+        {
           "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
           "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
           "source": "Business News",
           "score": 0.421
         },
         {
-          "title": "Nike's India campus is a long-term growth bet amid turnaround",
-          "link": "https://www.cnbc.com/2026/10/16/nike-india-campus-china-sales.html",
+          "title": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
+          "link": "https://www.cnbc.com/2026/10/21/netflix-theatrical-strategy.html",
           "source": "Business News",
-          "score": 0.382
-        },
-        {
-          "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
-          "link": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
-          "source": "Business News",
-          "score": 0.351
+          "score": 0.361
         }
       ],
       "negative": [
+        {
+          "title": "Meta fined $25bn for 'lies' over user data privacy",
+          "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.421
+        },
+        {
+          "title": "The political ad wars are still being fought over the airwaves even as digital gains share",
+          "link": "https://www.cnbc.com/2026/10/21/why-broadcast-tv-still-dominates-political-ad-spending.html",
+          "source": "Business News",
+          "score": -0.318
+        },
         {
           "title": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
           "link": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
           "source": "Business News",
           "score": -0.318
+        },
+        {
+          "title": "Websites taken down worldwide as critical cyber-security update issued",
+          "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.318
+        },
+        {
+          "title": "EBay to lay off 9% of workforce in its second round of job cuts this year",
+          "link": "https://www.cnbc.com/2026/10/21/ebay-layoffs-workforce-cuts.html",
+          "source": "Business News",
+          "score": -0.296
         }
       ],
       "sample_size": 20
