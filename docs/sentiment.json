@@ -1,90 +1,84 @@
 {
-  "generated_at": "2026-10-22T01:32:18.994542Z",
+  "generated_at": "2026-10-23T01:31:31.808199Z",
   "regions": {
     "india": {
-      "avg_score": 0.01,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.168,
+      "mood": "Positive",
       "positive": [
         {
-          "title": "US stocks today: Nasdaq leads Wall Street higher as SpaceX, Super Micro lift AI sentiment",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-leads-wall-street-higher-as-spacex-super-micro-lift-ai-sentiment/articleshow/135100483.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.599
+          "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+          "source": "Moneycontrol Market Reports",
+          "score": 0.869
         },
         {
-          "title": "Aditya Birla AMC Q2 net profit dips 8.4% to Rs 221 crore",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/aditya-birla-amc-q2-net-profit-dips-8-4-to-rs-221-crore/articleshow/135103619.cms",
+          "title": "Yes Bank AT1 Bonds: Why the Supreme Court Reversed the \u20b98,415 Crore Write-Down",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-at1-bonds-why-the-supreme-court-reversed-the-8415-crore-write-down/videoshow/135131450.cms",
           "source": "Markets-Economic Times",
-          "score": 0.44
+          "score": 0.743
         },
         {
-          "title": "Jio IPO attracts Rs 70,000 crore in bids on day 1, outpaces LIC, NSE issues",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-bids-hit-70000-crore-on-day-1-outpaces-nse-lic-gic-issues/articleshow/135103495.cms",
+          "title": "Jio Platforms IPO subscribed 5.57 times on day 2 on strong interest",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-subscribed-5-57-times-on-day-2-on-strong-interest/articleshow/135130103.cms",
           "source": "Markets-Economic Times",
-          "score": 0.402
+          "score": 0.743
         },
         {
-          "title": "Meta raises AI spending forecast to $145 billion, plans new share issue; Q3 revenue beats estimates",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/meta-raises-ai-spending-forecast-to-145-billion-plans-new-share-issue-q3-revenue-beats-estimates/articleshow/135100437.cms",
+          "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+          "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+          "source": "Moneycontrol Market Reports",
+          "score": 0.7
+        },
+        {
+          "title": "Yes Bank AT1 coupon due, bondholders seek clarity",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-at1-coupon-due-bondholders-seek-clarity/articleshow/135131245.cms",
           "source": "Markets-Economic Times",
-          "score": 0.296
+          "score": 0.66
         }
       ],
       "negative": [
         {
-          "title": "RBI flags widening inflation risks, puts rate cuts on ice",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-flags-widening-inflation-risks-puts-rate-cuts-on-ice/articleshow/135103555.cms",
+          "title": "IPO-bound companies defer launches to avoid Jio mega issue",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-bound-companies-defer-launches-to-avoid-jio-mega-issue/articleshow/135130261.cms",
           "source": "Markets-Economic Times",
-          "score": -0.511
+          "score": -0.527
         },
         {
-          "title": "Rupee soars to 6-week high on Jio IPO flows, weaker dollar",
-          "link": "https://economictimes.indiatimes.com/markets/forex/rupee-soars-to-6-week-high-on-jio-ipo-flows-weaker-dollar/articleshow/135103368.cms",
+          "title": "US stocks today: Nasdaq slumps 2.5%, S&amp;P 1% as revived AI doubts ignite tech selloff",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-slumps-2-5-sp-1-as-revived-ai-doubts-ignite-tech-selloff/articleshow/135127224.cms",
           "source": "Markets-Economic Times",
-          "score": -0.44
-        },
-        {
-          "title": "HDFC Bank begins probe into alleged internal data leak",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-begins-probe-into-alleged-internal-data-leak/articleshow/135103464.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.34
-        },
-        {
-          "title": "Jefferies sees valuation upside in select IT stocks despite muted growth forecast",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-sees-valuation-upside-in-select-it-stocks-despite-muted-growth-forecast/articleshow/135103176.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.292
+          "score": -0.296
         }
       ],
-      "sample_size": 15
+      "sample_size": 19
     },
     "world": {
-      "avg_score": 0.075,
+      "avg_score": 0.027,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
-          "link": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html",
-          "source": "Business News",
-          "score": 0.802
+          "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+          "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.751
         },
         {
-          "title": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
-          "link": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
-          "source": "Business News",
-          "score": 0.778
+          "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+          "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.691
         },
         {
-          "title": "United Airlines set to open its biggest airport lounge in $2.6 billion overhaul at Houston hub",
-          "link": "https://www.cnbc.com/2026/10/21/united-airlines-biggest-airport-lounge-houston.html",
+          "title": "American Express brings Airbnb bookings and rewards to Amex Travel platform",
+          "link": "https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html",
           "source": "Business News",
-          "score": 0.421
+          "score": 0.477
         },
         {
-          "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
-          "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+          "title": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
+          "link": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
           "source": "Business News",
-          "score": 0.421
+          "score": 0.361
         },
         {
           "title": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
@@ -95,9 +89,15 @@
       ],
       "negative": [
         {
-          "title": "Meta fined $25bn for 'lies' over user data privacy",
-          "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
+          "title": "Moderna shares plunge after cancer vaccine data leaks \u2014 despite positive results",
+          "link": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+          "source": "Business News",
+          "score": -0.729
+        },
+        {
+          "title": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
+          "link": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html",
+          "source": "Business News",
           "score": -0.421
         },
         {
@@ -107,20 +107,14 @@
           "score": -0.318
         },
         {
-          "title": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
-          "link": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
-          "source": "Business News",
-          "score": -0.318
-        },
-        {
-          "title": "Websites taken down worldwide as critical cyber-security update issued",
-          "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.318
-        },
-        {
           "title": "EBay to lay off 9% of workforce in its second round of job cuts this year",
           "link": "https://www.cnbc.com/2026/10/21/ebay-layoffs-workforce-cuts.html",
+          "source": "Business News",
+          "score": -0.296
+        },
+        {
+          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+          "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
           "source": "Business News",
           "score": -0.296
         }
