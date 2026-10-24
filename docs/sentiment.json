@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-23T01:31:31.808199Z",
+  "generated_at": "2026-10-24T01:34:55.347380Z",
   "regions": {
     "india": {
-      "avg_score": 0.168,
+      "avg_score": 0.228,
       "mood": "Positive",
       "positive": [
         {
@@ -12,16 +12,10 @@
           "score": 0.869
         },
         {
-          "title": "Yes Bank AT1 Bonds: Why the Supreme Court Reversed the \u20b98,415 Crore Write-Down",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-at1-bonds-why-the-supreme-court-reversed-the-8415-crore-write-down/videoshow/135131450.cms",
+          "title": "Shriram Finance Q2 profit jumps 59% YoY to Rs 3,677 crore on  strong interest income, lower funding costs",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/shriram-finance-q2-profit-jumps-59-yoy-to-rs-3677-crore-on-strong-interest-income-lower-funding-costs/articleshow/135150195.cms",
           "source": "Markets-Economic Times",
-          "score": 0.743
-        },
-        {
-          "title": "Jio Platforms IPO subscribed 5.57 times on day 2 on strong interest",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-subscribed-5-57-times-on-day-2-on-strong-interest/articleshow/135130103.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.743
+          "score": 0.791
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -30,44 +24,32 @@
           "score": 0.7
         },
         {
-          "title": "Yes Bank AT1 coupon due, bondholders seek clarity",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-at1-coupon-due-bondholders-seek-clarity/articleshow/135131245.cms",
+          "title": "Jana Small Finance Bank Q2 profit jumps 127%, raises FY27 growth outlook",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jana-small-finance-bank-q2-profit-jumps-127-raises-fy27-growth-outlook/articleshow/135150094.cms",
           "source": "Markets-Economic Times",
-          "score": 0.66
+          "score": 0.67
+        },
+        {
+          "title": "Tata Motors CV posts Rs 2,138 crore Q2 profit",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-posts-rs-2138-crore-q2-profit/articleshow/135154453.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.44
         }
       ],
       "negative": [
         {
-          "title": "IPO-bound companies defer launches to avoid Jio mega issue",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-bound-companies-defer-launches-to-avoid-jio-mega-issue/articleshow/135130261.cms",
+          "title": "US Markets Today: Dow ends 600 pts lower as AI doubts persist ahead of Fed meet",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-dow-ends-600-pts-lower-as-ai-doubts-persist-ahead-of-fed-meet/articleshow/135155408.cms",
           "source": "Markets-Economic Times",
           "score": -0.527
-        },
-        {
-          "title": "US stocks today: Nasdaq slumps 2.5%, S&amp;P 1% as revived AI doubts ignite tech selloff",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-slumps-2-5-sp-1-as-revived-ai-doubts-ignite-tech-selloff/articleshow/135127224.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.296
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.027,
+      "avg_score": -0.02,
       "mood": "Mixed / Neutral",
       "positive": [
-        {
-          "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-          "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.751
-        },
-        {
-          "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
-          "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.691
-        },
         {
           "title": "American Express brings Airbnb bookings and rewards to Amex Travel platform",
           "link": "https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html",
@@ -85,6 +67,18 @@
           "link": "https://www.cnbc.com/2026/10/21/netflix-theatrical-strategy.html",
           "source": "Business News",
           "score": 0.361
+        },
+        {
+          "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+          "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+          "source": "Business News",
+          "score": 0.224
+        },
+        {
+          "title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
+          "link": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
+          "source": "Business News",
+          "score": 0.178
         }
       ],
       "negative": [
@@ -95,28 +89,22 @@
           "score": -0.729
         },
         {
+          "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+          "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.572
+        },
+        {
           "title": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
           "link": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html",
           "source": "Business News",
           "score": -0.421
         },
         {
-          "title": "The political ad wars are still being fought over the airwaves even as digital gains share",
-          "link": "https://www.cnbc.com/2026/10/21/why-broadcast-tv-still-dominates-political-ad-spending.html",
-          "source": "Business News",
-          "score": -0.318
-        },
-        {
-          "title": "EBay to lay off 9% of workforce in its second round of job cuts this year",
-          "link": "https://www.cnbc.com/2026/10/21/ebay-layoffs-workforce-cuts.html",
-          "source": "Business News",
-          "score": -0.296
-        },
-        {
-          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-          "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-          "source": "Business News",
-          "score": -0.296
+          "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+          "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.226
         }
       ],
       "sample_size": 20
