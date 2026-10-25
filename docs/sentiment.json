@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-24T01:34:55.347380Z",
+  "generated_at": "2026-10-25T01:10:21.713332Z",
   "regions": {
     "india": {
-      "avg_score": 0.228,
-      "mood": "Positive",
+      "avg_score": 0.1,
+      "mood": "Mixed / Neutral",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -12,42 +12,60 @@
           "score": 0.869
         },
         {
-          "title": "Shriram Finance Q2 profit jumps 59% YoY to Rs 3,677 crore on  strong interest income, lower funding costs",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/shriram-finance-q2-profit-jumps-59-yoy-to-rs-3677-crore-on-strong-interest-income-lower-funding-costs/articleshow/135150195.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.791
-        },
-        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Jana Small Finance Bank Q2 profit jumps 127%, raises FY27 growth outlook",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jana-small-finance-bank-q2-profit-jumps-127-raises-fy27-growth-outlook/articleshow/135150094.cms",
+          "title": "Growth, value stocks set for reshuffle as S&amp;P adopts new rules",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/growth-value-stocks-set-for-reshuffle-as-sp-adopts-new-rules/articleshow/135161737.cms",
           "source": "Markets-Economic Times",
-          "score": 0.67
+          "score": 0.691
         },
         {
-          "title": "Tata Motors CV posts Rs 2,138 crore Q2 profit",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-posts-rs-2138-crore-q2-profit/articleshow/135154453.cms",
+          "title": "Lenskart, Meesho among top picks as value retail leads India's consumption story: Siddhartha Khemka",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/lenskart-meesho-among-top-picks-as-value-retail-leads-indias-consumption-story-siddhartha-khemka/articleshow/135164184.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.494
+        },
+        {
+          "title": "AU Small Finance Bank Q2 profit jumps 53% to Rs 858 crore",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/au-small-finance-bank-q2-profit-jumps-53-to-rs-858-crore/articleshow/135169847.cms",
           "source": "Markets-Economic Times",
           "score": 0.44
         }
       ],
       "negative": [
         {
-          "title": "US Markets Today: Dow ends 600 pts lower as AI doubts persist ahead of Fed meet",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-dow-ends-600-pts-lower-as-ai-doubts-persist-ahead-of-fed-meet/articleshow/135155408.cms",
+          "title": "FIIs dump Indian stocks for 10th straight week as markets slide: Is the worst over or more pain ahead?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-indian-stocks-for-10th-straight-week-as-markets-slide-is-the-worst-over-or-more-pain-ahead/articleshow/135165684.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.855
+        },
+        {
+          "title": "Bitcoin hovers near $80,000 and Ethereum at $2,370 as macro uncertainty and weak institutional flows weigh on crypto markets",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hovers-near-80000-and-ethereum-at-2370-as-macro-uncertainty-and-weak-institutional-flows-weigh-on-crypto-markets/articleshow/135164499.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.649
+        },
+        {
+          "title": "Concurrent Losers: 13 stocks decline for 5 consecutive sessions",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-13-stocks-decline-for-5-consecutive-sessions/slideshow/135164244.cms",
           "source": "Markets-Economic Times",
           "score": -0.527
+        },
+        {
+          "title": "Portfolio Killers: 10 US stocks that wiped out up to 66% of investors\u2019 wealth in 2026",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/portfolio-killers-10-us-stocks-that-wiped-out-up-to-66-of-investors-wealth-in-2026/slideshow/135167355.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.273
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.02,
+      "avg_score": 0.001,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -55,6 +73,12 @@
           "link": "https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html",
           "source": "Business News",
           "score": 0.477
+        },
+        {
+          "title": "Why popular airplanes are getting scrapped years early",
+          "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+          "source": "Business News",
+          "score": 0.421
         },
         {
           "title": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
@@ -73,12 +97,6 @@
           "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
           "source": "Business News",
           "score": 0.224
-        },
-        {
-          "title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
-          "link": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
-          "source": "Business News",
-          "score": 0.178
         }
       ],
       "negative": [
