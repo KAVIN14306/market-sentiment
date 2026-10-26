@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T01:10:21.713332Z",
+  "generated_at": "2026-10-26T01:10:08.970586Z",
   "regions": {
     "india": {
-      "avg_score": 0.1,
+      "avg_score": 0.092,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -18,54 +18,42 @@
           "score": 0.7
         },
         {
-          "title": "Growth, value stocks set for reshuffle as S&amp;P adopts new rules",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/growth-value-stocks-set-for-reshuffle-as-sp-adopts-new-rules/articleshow/135161737.cms",
+          "title": "Stocks in news: Infosys, Kotak Mahindra Bank, YES Bank, Raymond, BPCL, Coforge and Senco Gold",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-kotak-mahindra-bank-yes-bank-raymond-bpcl-coforge-and-senco-gold/articleshow/135195002.cms",
           "source": "Markets-Economic Times",
-          "score": 0.691
+          "score": 0.532
         },
         {
-          "title": "Lenskart, Meesho among top picks as value retail leads India's consumption story: Siddhartha Khemka",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/lenskart-meesho-among-top-picks-as-value-retail-leads-indias-consumption-story-siddhartha-khemka/articleshow/135164184.cms",
+          "title": "F&amp;O Talk: Nifty plunged 2% this week. Are charts indicating a deeper sell-off?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fo-talk-nifty-plunged-2-this-week-do-charts-indicate-a-bearish-picture-for-coming-week/articleshow/135186474.cms",
           "source": "Markets-Economic Times",
-          "score": 0.494
+          "score": 0.402
         },
         {
-          "title": "AU Small Finance Bank Q2 profit jumps 53% to Rs 858 crore",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/au-small-finance-bank-q2-profit-jumps-53-to-rs-858-crore/articleshow/135169847.cms",
+          "title": "Global Market Today: Asian shares slip as AI jitters deepen ahead of big tech earnings",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-slip-as-ai-jitters-deepen-ahead-of-big-tech-earnings/articleshow/135200167.cms",
           "source": "Markets-Economic Times",
-          "score": 0.44
+          "score": 0.296
         }
       ],
       "negative": [
         {
-          "title": "FIIs dump Indian stocks for 10th straight week as markets slide: Is the worst over or more pain ahead?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-indian-stocks-for-10th-straight-week-as-markets-slide-is-the-worst-over-or-more-pain-ahead/articleshow/135165684.cms",
+          "title": "FPIs withdraw Rs 48,056 cr from equities in Oct so far amid elevated crude oil prices",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-withdraw-rs-48056-cr-from-equities-in-oct-so-far-amid-elevated-crude-oil-prices/articleshow/135185267.cms",
           "source": "Markets-Economic Times",
-          "score": -0.855
+          "score": -0.572
         },
         {
-          "title": "Bitcoin hovers near $80,000 and Ethereum at $2,370 as macro uncertainty and weak institutional flows weigh on crypto markets",
-          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hovers-near-80000-and-ethereum-at-2370-as-macro-uncertainty-and-weak-institutional-flows-weigh-on-crypto-markets/articleshow/135164499.cms",
+          "title": "Double-digit growth seen on corporate scoreboard in Q2, but bank, IT, pharma lags",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/double-digit-growth-seen-on-corporate-scoreboard-in-q2-but-bank-it-pharma-lags/articleshow/135200205.cms",
           "source": "Markets-Economic Times",
-          "score": -0.649
-        },
-        {
-          "title": "Concurrent Losers: 13 stocks decline for 5 consecutive sessions",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-13-stocks-decline-for-5-consecutive-sessions/slideshow/135164244.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.527
-        },
-        {
-          "title": "Portfolio Killers: 10 US stocks that wiped out up to 66% of investors\u2019 wealth in 2026",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/portfolio-killers-10-us-stocks-that-wiped-out-up-to-66-of-investors-wealth-in-2026/slideshow/135167355.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.273
+          "score": -0.351
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.001,
+      "avg_score": -0.005,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -87,16 +75,16 @@
           "score": 0.361
         },
         {
-          "title": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
-          "link": "https://www.cnbc.com/2026/10/21/netflix-theatrical-strategy.html",
-          "source": "Business News",
-          "score": 0.361
-        },
-        {
           "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
           "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
           "source": "Business News",
           "score": 0.224
+        },
+        {
+          "title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
+          "link": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
+          "source": "Business News",
+          "score": 0.178
         }
       ],
       "negative": [
@@ -107,22 +95,22 @@
           "score": -0.729
         },
         {
-          "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
-          "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.572
-        },
-        {
           "title": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
           "link": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html",
           "source": "Business News",
           "score": -0.421
         },
         {
-          "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-          "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+          "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+          "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.226
+          "score": -0.296
+        },
+        {
+          "title": "Will a new code end 'rip-off parking charges'?",
+          "link": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.273
         }
       ],
       "sample_size": 20
