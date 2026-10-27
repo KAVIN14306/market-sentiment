@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-26T01:10:08.970586Z",
+  "generated_at": "2026-10-27T02:04:40.756404Z",
   "regions": {
     "india": {
-      "avg_score": 0.092,
+      "avg_score": 0.058,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -18,49 +18,73 @@
           "score": 0.7
         },
         {
-          "title": "Stocks in news: Infosys, Kotak Mahindra Bank, YES Bank, Raymond, BPCL, Coforge and Senco Gold",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-kotak-mahindra-bank-yes-bank-raymond-bpcl-coforge-and-senco-gold/articleshow/135195002.cms",
+          "title": "Can SFC Environmental Technologies IPO deliver long-term growth for high-risk investors?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-sfc-environmental-technologies-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/135222205.cms",
           "source": "Markets-Economic Times",
-          "score": 0.532
+          "score": 0.382
         },
         {
-          "title": "F&amp;O Talk: Nifty plunged 2% this week. Are charts indicating a deeper sell-off?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fo-talk-nifty-plunged-2-this-week-do-charts-indicate-a-bearish-picture-for-coming-week/articleshow/135186474.cms",
+          "title": "SBI launches CyRIS centre to strengthen cybersecurity capabilities",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-launches-cyris-centre-to-strengthen-cybersecurity-capabilities/articleshow/135222316.cms",
           "source": "Markets-Economic Times",
-          "score": 0.402
+          "score": 0.318
         },
         {
-          "title": "Global Market Today: Asian shares slip as AI jitters deepen ahead of big tech earnings",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-slip-as-ai-jitters-deepen-ahead-of-big-tech-earnings/articleshow/135200167.cms",
+          "title": "Noel Tata renews challenge to Chandrasekaran\u2019s reappointment, questions Tata Sons board voting and conflict of interest",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/noel-tata-renews-challenge-to-chandrasekarans-reappointment-questions-tata-sons-board-voting-and-conflict-of-interest/articleshow/135222355.cms",
           "source": "Markets-Economic Times",
-          "score": 0.296
+          "score": 0.25
         }
       ],
       "negative": [
         {
-          "title": "FPIs withdraw Rs 48,056 cr from equities in Oct so far amid elevated crude oil prices",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-withdraw-rs-48056-cr-from-equities-in-oct-so-far-amid-elevated-crude-oil-prices/articleshow/135185267.cms",
+          "title": "India earns nearly 50% more from fuel exports in April-September as costlier oil and weak rupee outweigh lower volumes",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-earns-nearly-50-more-from-fuel-exports-in-april-september-as-costlier-oil-and-weak-rupee-outweigh-lower-volumes/articleshow/135222347.cms",
           "source": "Markets-Economic Times",
-          "score": -0.572
+          "score": -0.625
         },
         {
-          "title": "Double-digit growth seen on corporate scoreboard in Q2, but bank, IT, pharma lags",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/double-digit-growth-seen-on-corporate-scoreboard-in-q2-but-bank-it-pharma-lags/articleshow/135200205.cms",
+          "title": "NBFCs curb fresh loans in rural markets as weak monsoon raises repayment risks",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nbfcs-curb-fresh-loans-in-rural-markets-as-weak-monsoon-raises-repayment-risks/articleshow/135222291.cms",
           "source": "Markets-Economic Times",
-          "score": -0.351
+          "score": -0.402
+        },
+        {
+          "title": "Rising concentration in AI stocks poses a risk: Kunal Kapoor, Morningstar CEO",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rising-concentration-in-ai-stocks-poses-a-risk-kunal-kapoor-morningstar-ceo/articleshow/135221935.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.273
+        },
+        {
+          "title": "Indian markets rebound, but rising oil prices keep investors cautious",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/d-st-makes-a-comeback-after-weeks-of-decline-yet-investors-remain-cautious-amid-ongoing-market-concerns/articleshow/135221724.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.153
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.005,
+      "avg_score": 0.067,
       "mood": "Mixed / Neutral",
       "positive": [
+        {
+          "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+          "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.802
+        },
         {
           "title": "American Express brings Airbnb bookings and rewards to Amex Travel platform",
           "link": "https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html",
           "source": "Business News",
           "score": 0.477
+        },
+        {
+          "title": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
+          "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
+          "source": "Business News",
+          "score": 0.468
         },
         {
           "title": "Why popular airplanes are getting scrapped years early",
@@ -73,18 +97,6 @@
           "link": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
           "source": "Business News",
           "score": 0.361
-        },
-        {
-          "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
-          "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
-          "source": "Business News",
-          "score": 0.224
-        },
-        {
-          "title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
-          "link": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
-          "source": "Business News",
-          "score": 0.178
         }
       ],
       "negative": [
@@ -101,16 +113,10 @@
           "score": -0.421
         },
         {
-          "title": "Are California voters about to impose 'world's first' tax on billionaires?",
-          "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+          "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+          "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.296
-        },
-        {
-          "title": "Will a new code end 'rip-off parking charges'?",
-          "link": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.273
+          "score": -0.402
         }
       ],
       "sample_size": 20
