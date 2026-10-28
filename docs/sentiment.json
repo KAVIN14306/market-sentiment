@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T02:04:40.756404Z",
+  "generated_at": "2026-10-28T02:14:59.896048Z",
   "regions": {
     "india": {
-      "avg_score": 0.058,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.326,
+      "mood": "Positive",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -18,73 +18,55 @@
           "score": 0.7
         },
         {
-          "title": "Can SFC Environmental Technologies IPO deliver long-term growth for high-risk investors?",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-sfc-environmental-technologies-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/135222205.cms",
+          "title": "Credit card additions hit second-highest monthly level in 2026 as banks gear up for festive season",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/credit-card-additions-hit-second-highest-monthly-level-in-2026-as-banks-gear-up-for-festive-season/articleshow/135248516.cms",
           "source": "Markets-Economic Times",
-          "score": 0.382
+          "score": 0.681
         },
         {
-          "title": "SBI launches CyRIS centre to strengthen cybersecurity capabilities",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-launches-cyris-centre-to-strengthen-cybersecurity-capabilities/articleshow/135222316.cms",
+          "title": "Max Financial Services reports massive profit growth of Rs 100 crore in Q2 FY26",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/max-financial-services-reports-massive-profit-growth-of-rs-100-crore-in-q2-fy26/articleshow/135248590.cms",
           "source": "Markets-Economic Times",
-          "score": 0.318
+          "score": 0.67
         },
         {
-          "title": "Noel Tata renews challenge to Chandrasekaran\u2019s reappointment, questions Tata Sons board voting and conflict of interest",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/noel-tata-renews-challenge-to-chandrasekarans-reappointment-questions-tata-sons-board-voting-and-conflict-of-interest/articleshow/135222355.cms",
+          "title": "India in striking distance of 8% growth as reforms boost economy: Shaktikanta Das",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-in-striking-distance-of-8-growth-as-reforms-boost-economy-shaktikanta-das/articleshow/135248583.cms",
           "source": "Markets-Economic Times",
-          "score": 0.25
+          "score": 0.649
         }
       ],
       "negative": [
         {
-          "title": "India earns nearly 50% more from fuel exports in April-September as costlier oil and weak rupee outweigh lower volumes",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-earns-nearly-50-more-from-fuel-exports-in-april-september-as-costlier-oil-and-weak-rupee-outweigh-lower-volumes/articleshow/135222347.cms",
+          "title": "Bond market doubts gridlock will ease deficit woes this time",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bond-market-doubts-gridlock-will-ease-deficit-woes-this-time/articleshow/135248828.cms",
           "source": "Markets-Economic Times",
-          "score": -0.625
-        },
-        {
-          "title": "NBFCs curb fresh loans in rural markets as weak monsoon raises repayment risks",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nbfcs-curb-fresh-loans-in-rural-markets-as-weak-monsoon-raises-repayment-risks/articleshow/135222291.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.402
-        },
-        {
-          "title": "Rising concentration in AI stocks poses a risk: Kunal Kapoor, Morningstar CEO",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rising-concentration-in-ai-stocks-poses-a-risk-kunal-kapoor-morningstar-ceo/articleshow/135221935.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.273
-        },
-        {
-          "title": "Indian markets rebound, but rising oil prices keep investors cautious",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/d-st-makes-a-comeback-after-weeks-of-decline-yet-investors-remain-cautious-amid-ongoing-market-concerns/articleshow/135221724.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.153
+          "score": -0.649
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.067,
+      "avg_score": -0.02,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
-          "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+          "title": "I get \u00a34,062 a year and am trying my best - here's what I want from the Budget",
+          "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": 0.802
+          "score": 0.67
         },
         {
-          "title": "American Express brings Airbnb bookings and rewards to Amex Travel platform",
-          "link": "https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html",
+          "title": "American Airlines hikes annual fees on rewards cards for first time since 2018",
+          "link": "https://www.cnbc.com/2026/10/27/american-airlines-citi-aadvantage-card-fee.html",
           "source": "Business News",
           "score": 0.477
         },
         {
-          "title": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
-          "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
-          "source": "Business News",
-          "score": 0.468
+          "title": "China's families are now supporting more old people than kids",
+          "link": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.44
         },
         {
           "title": "Why popular airplanes are getting scrapped years early",
@@ -93,10 +75,10 @@
           "score": 0.421
         },
         {
-          "title": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
-          "link": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
+          "title": "JetBlue stock surges as company outlook calms investors",
+          "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
           "source": "Business News",
-          "score": 0.361
+          "score": 0.318
         }
       ],
       "negative": [
@@ -107,16 +89,28 @@
           "score": -0.729
         },
         {
-          "title": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
-          "link": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html",
-          "source": "Business News",
-          "score": -0.421
+          "title": "Donald Trump's biggest economic problem looks strangely familiar",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.599
         },
         {
-          "title": "Apple says it will replace iPhone Duo handsets with screen problems",
-          "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+          "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
+          "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+          "source": "Business News",
+          "score": -0.557
+        },
+        {
+          "title": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
+          "link": "https://www.cnbc.com/2026/10/27/us-measles-public-health.html",
+          "source": "Business News",
+          "score": -0.459
+        },
+        {
+          "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+          "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.402
+          "score": -0.349
         }
       ],
       "sample_size": 20
