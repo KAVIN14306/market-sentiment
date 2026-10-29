@@ -1,10 +1,16 @@
 {
-  "generated_at": "2026-10-28T02:14:59.896048Z",
+  "generated_at": "2026-10-29T02:27:22.959242Z",
   "regions": {
     "india": {
-      "avg_score": 0.326,
-      "mood": "Positive",
+      "avg_score": 0.082,
+      "mood": "Mixed / Neutral",
       "positive": [
+        {
+          "title": "D-Street poised for positive start as GIFT Nifty signals gains",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135280739.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.924
+        },
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -18,43 +24,55 @@
           "score": 0.7
         },
         {
-          "title": "Credit card additions hit second-highest monthly level in 2026 as banks gear up for festive season",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/credit-card-additions-hit-second-highest-monthly-level-in-2026-as-banks-gear-up-for-festive-season/articleshow/135248516.cms",
+          "title": "Global Market Today: Asian shares edge higher as investors assess tech earnings, Fed outlook",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-shares-edge-higher-as-investors-assess-tech-earnings-fed-outlook/articleshow/135285079.cms",
           "source": "Markets-Economic Times",
-          "score": 0.681
+          "score": 0.296
         },
         {
-          "title": "Max Financial Services reports massive profit growth of Rs 100 crore in Q2 FY26",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/max-financial-services-reports-massive-profit-growth-of-rs-100-crore-in-q2-fy26/articleshow/135248590.cms",
+          "title": "Jio Platforms shares surge 21% on debut, overtake Airtel in market cap",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-surges-21-on-debut-overtakes-bharti-airtel/articleshow/135285038.cms",
           "source": "Markets-Economic Times",
-          "score": 0.67
-        },
-        {
-          "title": "India in striking distance of 8% growth as reforms boost economy: Shaktikanta Das",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-in-striking-distance-of-8-growth-as-reforms-boost-economy-shaktikanta-das/articleshow/135248583.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.649
+          "score": 0.296
         }
       ],
       "negative": [
         {
-          "title": "Bond market doubts gridlock will ease deficit woes this time",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bond-market-doubts-gridlock-will-ease-deficit-woes-this-time/articleshow/135248828.cms",
+          "title": "Rupee weakens on dollar demand, elevated crude oil prices",
+          "link": "https://economictimes.indiatimes.com/markets/forex/rupee-closes-weaker-at-95-22-as-traders-await-us-fed-decision-oil-prices-rise/articleshow/135284779.cms",
           "source": "Markets-Economic Times",
-          "score": -0.649
+          "score": -0.758
+        },
+        {
+          "title": "The bond market swings, but US stocks remain steady after the Fed says it won't raise interest rates",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/the-bond-market-swings-but-us-stocks-remain-steady-after-the-fed-says-it-wont-raise-interest-rates/articleshow/135286393.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.497
+        },
+        {
+          "title": "MSCI puts Polycab exit on hold amid insolvency case uncertainty",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/msci-puts-polycab-india-removal-on-hold/articleshow/135285448.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.34
+        },
+        {
+          "title": "US oil prices fall as investors gauge risks to Mideast supply",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/us-oil-prices-fall-as-investors-gauge-risks-to-mideast-supply/articleshow/135286261.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.273
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.02,
+      "avg_score": -0.005,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "I get \u00a34,062 a year and am trying my best - here's what I want from the Budget",
-          "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.67
+          "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
+          "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
+          "source": "Business News",
+          "score": 0.586
         },
         {
           "title": "American Airlines hikes annual fees on rewards cards for first time since 2018",
@@ -63,36 +81,30 @@
           "score": 0.477
         },
         {
-          "title": "China's families are now supporting more old people than kids",
-          "link": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.44
-        },
-        {
-          "title": "Why popular airplanes are getting scrapped years early",
-          "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
-          "source": "Business News",
-          "score": 0.421
-        },
-        {
           "title": "JetBlue stock surges as company outlook calms investors",
           "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
           "source": "Business News",
           "score": 0.318
+        },
+        {
+          "title": "Stellantis stock rises 13% as automaker's turnaround plan, cost cuts gain traction",
+          "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
+          "source": "Business News",
+          "score": 0.296
+        },
+        {
+          "title": "Healey unveils \u00a3100 for energy bills and bank tax in first Budget",
+          "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.273
         }
       ],
       "negative": [
         {
-          "title": "Moderna shares plunge after cancer vaccine data leaks \u2014 despite positive results",
-          "link": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-          "source": "Business News",
-          "score": -0.729
-        },
-        {
-          "title": "Donald Trump's biggest economic problem looks strangely familiar",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
+          "title": "I earn \u00a330,000. I'm angry there was no fuel duty cut in the Budget",
+          "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.599
+          "score": -0.765
         },
         {
           "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
@@ -107,10 +119,10 @@
           "score": -0.459
         },
         {
-          "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-          "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.349
+          "title": "Why China is desperate to ship cars outside of the country",
+          "link": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
+          "source": "Business News",
+          "score": -0.318
         }
       ],
       "sample_size": 20
