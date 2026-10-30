@@ -1,21 +1,27 @@
 {
-  "generated_at": "2026-10-29T02:27:22.959242Z",
+  "generated_at": "2026-10-30T02:36:48.206234Z",
   "regions": {
     "india": {
-      "avg_score": 0.082,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.162,
+      "mood": "Positive",
       "positive": [
-        {
-          "title": "D-Street poised for positive start as GIFT Nifty signals gains",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135280739.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.924
-        },
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.869
+        },
+        {
+          "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a muted start; Asian shares trade lower",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-hcl-tech-adani-green-share-price-30-october-2026/liveblog/135338769.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.842
+        },
+        {
+          "title": "Hero MotoCorp bets on premiumisation, EVs to sustain growth momentum",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hero-motocorp-faces-margin-pressure-despite-strong-q2-growth/articleshow/135337599.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.735
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -24,50 +30,56 @@
           "score": 0.7
         },
         {
-          "title": "Global Market Today: Asian shares edge higher as investors assess tech earnings, Fed outlook",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-shares-edge-higher-as-investors-assess-tech-earnings-fed-outlook/articleshow/135285079.cms",
+          "title": "Suzlon Energy Q2 profit up 1.3%, revenue rises 26%",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/suzlon-energy-q2-profit-up-1-3-revenue-rises-26/articleshow/135338430.cms",
           "source": "Markets-Economic Times",
-          "score": 0.296
-        },
-        {
-          "title": "Jio Platforms shares surge 21% on debut, overtake Airtel in market cap",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-surges-21-on-debut-overtakes-bharti-airtel/articleshow/135285038.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.296
+          "score": 0.612
         }
       ],
       "negative": [
         {
-          "title": "Rupee weakens on dollar demand, elevated crude oil prices",
-          "link": "https://economictimes.indiatimes.com/markets/forex/rupee-closes-weaker-at-95-22-as-traders-await-us-fed-decision-oil-prices-rise/articleshow/135284779.cms",
+          "title": "Global Market Today: Asian stocks slide as tech earnings disappoint, AI fears mount",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today/articleshow/135337523.cms",
           "source": "Markets-Economic Times",
-          "score": -0.758
+          "score": -0.67
         },
         {
-          "title": "The bond market swings, but US stocks remain steady after the Fed says it won't raise interest rates",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/the-bond-market-swings-but-us-stocks-remain-steady-after-the-fed-says-it-wont-raise-interest-rates/articleshow/135286393.cms",
+          "title": "IndiGo posts Rs 1,879-crore loss as high fuel costs, geopolitical woes hit; capacity cuts &amp; yield management offer only partial relief, says CEO Willie Walsh",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/indigo-posts-rs-1879-crore-loss-as-high-fuel-costs-geopolitical-woes-hit-capacity-cuts-and-yield-management-offer-only-partial-relief-says-ceo-willie-walsh/articleshow/135339101.cms",
           "source": "Markets-Economic Times",
-          "score": -0.497
+          "score": -0.511
         },
         {
-          "title": "MSCI puts Polycab exit on hold amid insolvency case uncertainty",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/msci-puts-polycab-india-removal-on-hold/articleshow/135285448.cms",
+          "title": "Weak quarter for Intel sends shivers through cooling chip stocks",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/weak-quarter-for-intel-sends-shivers-through-cooling-chip-stocks/articleshow/135338775.cms",
           "source": "Markets-Economic Times",
-          "score": -0.34
+          "score": -0.44
         },
         {
-          "title": "US oil prices fall as investors gauge risks to Mideast supply",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/us-oil-prices-fall-as-investors-gauge-risks-to-mideast-supply/articleshow/135286261.cms",
+          "title": "Amazon burns cash, Intel flags weak PC demand as AI boom's costs ripple across markets",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/amazon-burns-cash-intel-flags-weak-pc-demand-as-ai-booms-costs-ripple-across-markets/articleshow/135338818.cms",
           "source": "Markets-Economic Times",
-          "score": -0.273
+          "score": -0.402
+        },
+        {
+          "title": "Gold prices edge lower as US inflation data reinforces Fed outlook",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-edge-lower-as-us-inflation-data-reinforces-fed-outlook/articleshow/135338698.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.296
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": -0.005,
+      "avg_score": 0.141,
       "mood": "Mixed / Neutral",
       "positive": [
+        {
+          "title": "Merck tops quarterly estimates, hikes profit outlook as new Keytruda form shows strength",
+          "link": "https://www.cnbc.com/2026/10/29/merck-mrk-earnings-q3-2026.html",
+          "source": "Business News",
+          "score": 0.856
+        },
         {
           "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
           "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
@@ -75,37 +87,25 @@
           "score": 0.586
         },
         {
+          "title": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success",
+          "link": "https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html",
+          "source": "Business News",
+          "score": 0.572
+        },
+        {
+          "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
+          "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
+          "source": "Business News",
+          "score": 0.527
+        },
+        {
           "title": "American Airlines hikes annual fees on rewards cards for first time since 2018",
           "link": "https://www.cnbc.com/2026/10/27/american-airlines-citi-aadvantage-card-fee.html",
           "source": "Business News",
           "score": 0.477
-        },
-        {
-          "title": "JetBlue stock surges as company outlook calms investors",
-          "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
-          "source": "Business News",
-          "score": 0.318
-        },
-        {
-          "title": "Stellantis stock rises 13% as automaker's turnaround plan, cost cuts gain traction",
-          "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
-          "source": "Business News",
-          "score": 0.296
-        },
-        {
-          "title": "Healey unveils \u00a3100 for energy bills and bank tax in first Budget",
-          "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.273
         }
       ],
       "negative": [
-        {
-          "title": "I earn \u00a330,000. I'm angry there was no fuel duty cut in the Budget",
-          "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.765
-        },
         {
           "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
           "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
@@ -113,10 +113,10 @@
           "score": -0.557
         },
         {
-          "title": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
-          "link": "https://www.cnbc.com/2026/10/27/us-measles-public-health.html",
-          "source": "Business News",
-          "score": -0.459
+          "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+          "link": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.511
         },
         {
           "title": "Why China is desperate to ship cars outside of the country",
