@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-30T02:36:48.206234Z",
+  "generated_at": "2026-10-31T02:23:19.105024Z",
   "regions": {
     "india": {
-      "avg_score": 0.162,
+      "avg_score": 0.17,
       "mood": "Positive",
       "positive": [
         {
@@ -12,16 +12,10 @@
           "score": 0.869
         },
         {
-          "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a muted start; Asian shares trade lower",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-hcl-tech-adani-green-share-price-30-october-2026/liveblog/135338769.cms",
+          "title": "Reliance Retail Q2 Results: Revenue up 6%, but late festive season, digital spends hit profit",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q2-results-net-profit-falls-24-yoy-to-rs-2611-crore-gross-revenue-rises-6/articleshow/135366729.cms",
           "source": "Markets-Economic Times",
-          "score": 0.842
-        },
-        {
-          "title": "Hero MotoCorp bets on premiumisation, EVs to sustain growth momentum",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hero-motocorp-faces-margin-pressure-despite-strong-q2-growth/articleshow/135337599.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.735
+          "score": 0.834
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -30,48 +24,48 @@
           "score": 0.7
         },
         {
-          "title": "Suzlon Energy Q2 profit up 1.3%, revenue rises 26%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/suzlon-energy-q2-profit-up-1-3-revenue-rises-26/articleshow/135338430.cms",
+          "title": "Zee Entertainment Q2 profit drops 40% to Rs 46 crore as EBITDA margin contracts to 3.2%",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/zee-entertainment-q2-profit-drops-40-to-rs-46-crore-as-ebitda-margin-contracts-to-3-2/articleshow/135369566.cms",
           "source": "Markets-Economic Times",
-          "score": 0.612
+          "score": 0.691
+        },
+        {
+          "title": "Lodha Developers H1FY27 net profit soars 63%, expects to beat full-year guidance",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lodha-developers-h1fy27-net-profit-soars-63-expects-to-beat-full-year-guidance/articleshow/135369310.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.44
         }
       ],
       "negative": [
         {
-          "title": "Global Market Today: Asian stocks slide as tech earnings disappoint, AI fears mount",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today/articleshow/135337523.cms",
+          "title": "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-street-drops-to-its-worst-day-since-june-after-the-sell-off-for-tech-stocks-deepens/articleshow/135382776.cms",
           "source": "Markets-Economic Times",
-          "score": -0.67
+          "score": -0.625
         },
         {
-          "title": "IndiGo posts Rs 1,879-crore loss as high fuel costs, geopolitical woes hit; capacity cuts &amp; yield management offer only partial relief, says CEO Willie Walsh",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/indigo-posts-rs-1879-crore-loss-as-high-fuel-costs-geopolitical-woes-hit-capacity-cuts-and-yield-management-offer-only-partial-relief-says-ceo-willie-walsh/articleshow/135339101.cms",
+          "title": "Intel stock plunges 30% as weak PC demand and AI costs trigger global chip selloff",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/intel-plunges-25-as-weak-pc-demand-and-ai-costs-trigger-global-chip-selloff/articleshow/135371230.cms",
           "source": "Markets-Economic Times",
-          "score": -0.511
+          "score": -0.527
         },
         {
-          "title": "Weak quarter for Intel sends shivers through cooling chip stocks",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/weak-quarter-for-intel-sends-shivers-through-cooling-chip-stocks/articleshow/135338775.cms",
+          "title": "Nasdaq 100 cracks 5%, wipes out $2 trillion in October as AI spending fears deepen",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-100-cracks-5-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen/articleshow/135376949.cms",
           "source": "Markets-Economic Times",
-          "score": -0.44
+          "score": -0.421
         },
         {
-          "title": "Amazon burns cash, Intel flags weak PC demand as AI boom's costs ripple across markets",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/amazon-burns-cash-intel-flags-weak-pc-demand-as-ai-booms-costs-ripple-across-markets/articleshow/135338818.cms",
+          "title": "US stocks today: Dow Jones crashes 500 pts, Nasdaq over 2.5% as AI cash burn fears spark tech selloff",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-dow-jones-crashes-500-pts-nasdaq-over-2-5-as-ai-cash-burn-fears-spark-tech-selloff/articleshow/135377269.cms",
           "source": "Markets-Economic Times",
-          "score": -0.402
-        },
-        {
-          "title": "Gold prices edge lower as US inflation data reinforces Fed outlook",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-edge-lower-as-us-inflation-data-reinforces-fed-outlook/articleshow/135338698.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.296
+          "score": -0.226
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.141,
+      "avg_score": 0.104,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -99,10 +93,10 @@
           "score": 0.527
         },
         {
-          "title": "American Airlines hikes annual fees on rewards cards for first time since 2018",
-          "link": "https://www.cnbc.com/2026/10/27/american-airlines-citi-aadvantage-card-fee.html",
-          "source": "Business News",
-          "score": 0.477
+          "title": "City of London chief tops UK Black Powerlist",
+          "link": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.511
         }
       ],
       "negative": [
@@ -113,16 +107,22 @@
           "score": -0.557
         },
         {
-          "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
-          "link": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+          "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.511
+          "score": -0.494
         },
         {
           "title": "Why China is desperate to ship cars outside of the country",
           "link": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
           "source": "Business News",
           "score": -0.318
+        },
+        {
+          "title": "How Poundland grew from a market stall to a high street giant",
+          "link": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.202
         }
       ],
       "sample_size": 20
