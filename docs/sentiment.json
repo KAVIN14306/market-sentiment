@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-31T02:23:19.105024Z",
+  "generated_at": "2026-11-01T02:14:21.454099Z",
   "regions": {
     "india": {
-      "avg_score": 0.17,
+      "avg_score": 0.257,
       "mood": "Positive",
       "positive": [
         {
@@ -12,10 +12,10 @@
           "score": 0.869
         },
         {
-          "title": "Reliance Retail Q2 Results: Revenue up 6%, but late festive season, digital spends hit profit",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q2-results-net-profit-falls-24-yoy-to-rs-2611-crore-gross-revenue-rises-6/articleshow/135366729.cms",
+          "title": "ET Wealth Expo | Only 6 of 1990's Sensex stocks survive: S Naren's case for smarter asset allocation",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-only-6-of-1990s-sensex-stocks-survive-s-narens-case-for-smarter-asset-allocation/articleshow/135397428.cms",
           "source": "Markets-Economic Times",
-          "score": 0.834
+          "score": 0.827
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -24,55 +24,43 @@
           "score": 0.7
         },
         {
-          "title": "Zee Entertainment Q2 profit drops 40% to Rs 46 crore as EBITDA margin contracts to 3.2%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/zee-entertainment-q2-profit-drops-40-to-rs-46-crore-as-ebitda-margin-contracts-to-3-2/articleshow/135369566.cms",
+          "title": "Concurrent Gainers: 8 stocks that gain for 5 days in a row",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-8-stocks-that-gain-for-5-days-in-a-row/slideshow/135392399.cms",
           "source": "Markets-Economic Times",
-          "score": 0.691
+          "score": 0.527
         },
         {
-          "title": "Lodha Developers H1FY27 net profit soars 63%, expects to beat full-year guidance",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lodha-developers-h1fy27-net-profit-soars-63-expects-to-beat-full-year-guidance/articleshow/135369310.cms",
+          "title": "Muthoot Finance Q2 cons profit jumps 36% YoY to Rs 3,278 crore",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-q2-cons-profit-jumps-36-yoy-to-rs-3278-crore/articleshow/135401237.cms",
           "source": "Markets-Economic Times",
           "score": 0.44
         }
       ],
       "negative": [
         {
-          "title": "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-street-drops-to-its-worst-day-since-june-after-the-sell-off-for-tech-stocks-deepens/articleshow/135382776.cms",
+          "title": "Silver loses more than half its value from record high: What went wrong and will it recover?",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/silver-loses-more-than-half-its-value-from-record-high-what-went-wrong-and-will-it-recover/articleshow/135395608.cms",
           "source": "Markets-Economic Times",
-          "score": -0.625
-        },
-        {
-          "title": "Intel stock plunges 30% as weak PC demand and AI costs trigger global chip selloff",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/intel-plunges-25-as-weak-pc-demand-and-ai-costs-trigger-global-chip-selloff/articleshow/135371230.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.527
-        },
-        {
-          "title": "Nasdaq 100 cracks 5%, wipes out $2 trillion in October as AI spending fears deepen",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-100-cracks-5-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen/articleshow/135376949.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.421
-        },
-        {
-          "title": "US stocks today: Dow Jones crashes 500 pts, Nasdaq over 2.5% as AI cash burn fears spark tech selloff",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-dow-jones-crashes-500-pts-nasdaq-over-2-5-as-ai-cash-burn-fears-spark-tech-selloff/articleshow/135377269.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.226
+          "score": -0.459
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.104,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.161,
+      "mood": "Positive",
       "positive": [
         {
           "title": "Merck tops quarterly estimates, hikes profit outlook as new Keytruda form shows strength",
           "link": "https://www.cnbc.com/2026/10/29/merck-mrk-earnings-q3-2026.html",
           "source": "Business News",
           "score": 0.856
+        },
+        {
+          "title": "Automakers like Rivian and Ford are \u2018democratizing 3D printing\u2019 to reduce costs and increase speed",
+          "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
+          "source": "Business News",
+          "score": 0.586
         },
         {
           "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
@@ -91,21 +79,9 @@
           "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
           "source": "Business News",
           "score": 0.527
-        },
-        {
-          "title": "City of London chief tops UK Black Powerlist",
-          "link": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.511
         }
       ],
       "negative": [
-        {
-          "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
-          "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
-          "source": "Business News",
-          "score": -0.557
-        },
         {
           "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
           "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
