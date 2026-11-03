@@ -1,27 +1,21 @@
 {
-  "generated_at": "2026-11-02T02:31:41.720897Z",
+  "generated_at": "2026-11-03T03:55:57.616754Z",
   "regions": {
     "india": {
-      "avg_score": 0.224,
+      "avg_score": 0.263,
       "mood": "Positive",
       "positive": [
-        {
-          "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade lower",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-hcl-tech-adani-green-share-price-02-november-2026/liveblog/135442032.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.912
-        },
-        {
-          "title": "D-Street poised for a positive start as GIFT Nifty trades firmly higher",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135431803.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.899
-        },
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.869
+        },
+        {
+          "title": "Bonus issue alert! Last day to buy this Rakesh Jhunjhunwala-backed smallcap pharma stock for 1:1 bonus bonanza",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-last-day-to-buy-this-rakesh-jhunjhunwala-backed-smallcap-pharma-stock-for-11-bonus-bonanza/articleshow/135479214.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.859
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -30,37 +24,37 @@
           "score": 0.7
         },
         {
-          "title": "Reliance Industries eyes growth boost from O2C, retail and Jio businesses",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-reports-strong-growth-in-september-quarter-driven-by-oil-to-chemicals-segment/articleshow/135441477.cms",
+          "title": "BLS Polymers IPO shares to debut today. GMP points to 45% listing gains",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bls-polymers-ipo-shares-to-debut-today-gmp-points-to-45-listing-gains/articleshow/135480538.cms",
           "source": "Markets-Economic Times",
-          "score": 0.649
+          "score": 0.557
+        },
+        {
+          "title": "Positive Breakout: These 10 stocks cross above their 200 DMAs",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-10-stocks-cross-above-their-200-dmas/slideshow/135479126.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.557
         }
       ],
       "negative": [
         {
-          "title": "Oil slips more than 1% as talks continue on ending Iran war",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-slips-more-than-1-as-talks-continue-on-ending-iran-war/articleshow/135442064.cms",
+          "title": "Dollar under pressure as oil prices slump, Australia rate decision awaited",
+          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-under-pressure-as-oil-prices-slump-australia-rate-decision-awaited/articleshow/135478890.cms",
           "source": "Markets-Economic Times",
-          "score": -0.599
+          "score": -0.318
         },
         {
-          "title": "Global Market Today: Asian shares bend under AI stress; Apple earnings loom",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-shares-bend-under-ai-stress-apple-earnings-loom/articleshow/135441259.cms",
+          "title": "Oil Price Today (November 3): Crude oil rebounds to $105 as fresh attacks outweigh peace talks. What are experts saying?",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-november-3-crude-oil-falls-as-peace-talk-hopes-outweigh-attacks-will-prices-dip-further/articleshow/135479398.cms",
           "source": "Markets-Economic Times",
-          "score": -0.361
-        },
-        {
-          "title": "Gold lingers near one-year low as Fed hike expectations firm",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-lingers-near-one-year-low-as-fed-hike-expectations-firm/articleshow/135442111.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.273
+          "score": -0.202
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.136,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.151,
+      "mood": "Positive",
       "positive": [
         {
           "title": "Merck tops quarterly estimates, hikes profit outlook as new Keytruda form shows strength",
@@ -95,22 +89,22 @@
       ],
       "negative": [
         {
+          "title": "North Korea denies being behind record $6.3bn Binance hack",
+          "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.421
+        },
+        {
           "title": "Why China is desperate to ship cars outside of the country",
           "link": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
           "source": "Business News",
           "score": -0.318
         },
         {
-          "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-          "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
+          "title": "Apple unsure when more foldable iPhones will be available after selling out",
+          "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.296
-        },
-        {
-          "title": "Thousands of jobs at Virgin Media O2 to be cut",
-          "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.273
+          "score": -0.25
         }
       ],
       "sample_size": 20
