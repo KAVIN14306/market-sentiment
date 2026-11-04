@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-03T03:55:57.616754Z",
+  "generated_at": "2026-11-04T03:00:17.136849Z",
   "regions": {
     "india": {
-      "avg_score": 0.263,
+      "avg_score": 0.216,
       "mood": "Positive",
       "positive": [
         {
@@ -12,49 +12,49 @@
           "score": 0.869
         },
         {
-          "title": "Bonus issue alert! Last day to buy this Rakesh Jhunjhunwala-backed smallcap pharma stock for 1:1 bonus bonanza",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-last-day-to-buy-this-rakesh-jhunjhunwala-backed-smallcap-pharma-stock-for-11-bonus-bonanza/articleshow/135479214.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.859
-        },
-        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "BLS Polymers IPO shares to debut today. GMP points to 45% listing gains",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bls-polymers-ipo-shares-to-debut-today-gmp-points-to-45-listing-gains/articleshow/135480538.cms",
+          "title": "Happiest minds Q2 net profit rises 15% as AI uncertainty weighs",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/happiest-minds-q2-net-profit-rises-15-as-ai-uncertainty-weighs/articleshow/135517935.cms",
           "source": "Markets-Economic Times",
-          "score": 0.557
+          "score": 0.691
         },
         {
-          "title": "Positive Breakout: These 10 stocks cross above their 200 DMAs",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-10-stocks-cross-above-their-200-dmas/slideshow/135479126.cms",
+          "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade lower",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-nse-bse-sbi-share-price-04-november-2026/liveblog/135518116.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.652
+        },
+        {
+          "title": "Positive Breakout: These 8 stocks cross above their 200 DMAs",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-8-stocks-cross-above-their-200-dmas/slideshow/135518684.cms",
           "source": "Markets-Economic Times",
           "score": 0.557
         }
       ],
       "negative": [
         {
-          "title": "Dollar under pressure as oil prices slump, Australia rate decision awaited",
-          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-under-pressure-as-oil-prices-slump-australia-rate-decision-awaited/articleshow/135478890.cms",
+          "title": "Oil Price Today (November 4): Crude oil falls below $104 ahead of US midterm elections outcome. What are analysts saying?",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-november-4-crude-oil-falls-below-104-ahead-of-us-midterm-elections-what-are-analysts-saying/articleshow/135518787.cms",
           "source": "Markets-Economic Times",
-          "score": -0.318
+          "score": -0.572
         },
         {
-          "title": "Oil Price Today (November 3): Crude oil rebounds to $105 as fresh attacks outweigh peace talks. What are experts saying?",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-november-3-crude-oil-falls-as-peace-talk-hopes-outweigh-attacks-will-prices-dip-further/articleshow/135479398.cms",
+          "title": "Sebi imposes Rs 40 lakh penalty on two brokers in Axis Mutual Fund front-running case",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-imposes-rs-40-lakh-penalty-on-two-brokers-in-axis-mutual-fund-front-running-case/articleshow/135516888.cms",
           "source": "Markets-Economic Times",
-          "score": -0.202
+          "score": -0.527
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.151,
-      "mood": "Positive",
+      "avg_score": 0.069,
+      "mood": "Mixed / Neutral",
       "positive": [
         {
           "title": "Merck tops quarterly estimates, hikes profit outlook as new Keytruda form shows strength",
@@ -69,42 +69,54 @@
           "score": 0.586
         },
         {
-          "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
-          "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
-          "source": "Business News",
-          "score": 0.586
-        },
-        {
-          "title": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success",
-          "link": "https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html",
-          "source": "Business News",
-          "score": 0.572
-        },
-        {
           "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
           "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
           "source": "Business News",
           "score": 0.527
+        },
+        {
+          "title": "Pfizer hikes full-year outlook on new product growth, taps company veteran as new CFO",
+          "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
+          "source": "Business News",
+          "score": 0.382
+        },
+        {
+          "title": "Versant earnings beat expectations as digital platforms drive growth",
+          "link": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html",
+          "source": "Business News",
+          "score": 0.382
         }
       ],
       "negative": [
         {
-          "title": "North Korea denies being behind record $6.3bn Binance hack",
-          "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "title": "Poundland supplier 'will lose millions' if retailer collapses",
+          "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.421
+          "score": -0.599
         },
         {
-          "title": "Why China is desperate to ship cars outside of the country",
-          "link": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
+          "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.477
+        },
+        {
+          "title": "Canva announces major job cuts after 'our hardest year yet'",
+          "link": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.357
+        },
+        {
+          "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.296
+        },
+        {
+          "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
+          "link": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
           "source": "Business News",
-          "score": -0.318
-        },
-        {
-          "title": "Apple unsure when more foldable iPhones will be available after selling out",
-          "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.25
+          "score": -0.273
         }
       ],
       "sample_size": 20
