@@ -1,10 +1,16 @@
 {
-  "generated_at": "2026-11-04T03:00:17.136849Z",
+  "generated_at": "2026-11-05T03:29:43.764579Z",
   "regions": {
     "india": {
-      "avg_score": 0.216,
+      "avg_score": 0.245,
       "mood": "Positive",
       "positive": [
+        {
+          "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a gap-up start; Asian shares trade mixed",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-bse-lenskart-share-price-05-november-2026/liveblog/135555859.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.882
+        },
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -18,99 +24,81 @@
           "score": 0.7
         },
         {
-          "title": "Happiest minds Q2 net profit rises 15% as AI uncertainty weighs",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/happiest-minds-q2-net-profit-rises-15-as-ai-uncertainty-weighs/articleshow/135517935.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.691
-        },
-        {
-          "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade lower",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-nse-bse-sbi-share-price-04-november-2026/liveblog/135518116.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.652
-        },
-        {
           "title": "Positive Breakout: These 8 stocks cross above their 200 DMAs",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-8-stocks-cross-above-their-200-dmas/slideshow/135518684.cms",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-8-stocks-cross-above-their-200-dmas/slideshow/135555821.cms",
           "source": "Markets-Economic Times",
           "score": 0.557
+        },
+        {
+          "title": "Alcohol stocks jump as blue wave boosts industry prospects",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/alcohol-stocks-jump-as-blue-wave-boosts-industry-prospects/articleshow/135551002.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.542
         }
       ],
       "negative": [
         {
-          "title": "Oil Price Today (November 4): Crude oil falls below $104 ahead of US midterm elections outcome. What are analysts saying?",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-november-4-crude-oil-falls-below-104-ahead-of-us-midterm-elections-what-are-analysts-saying/articleshow/135518787.cms",
+          "title": "US midterm elections: Crude cools, but Iran war risks keeps markets guessing",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-midterm-elections-crude-cools-but-iran-war-risks-keeps-markets-guessing/articleshow/135555256.cms",
           "source": "Markets-Economic Times",
-          "score": -0.572
+          "score": -0.885
         },
         {
-          "title": "Sebi imposes Rs 40 lakh penalty on two brokers in Axis Mutual Fund front-running case",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-imposes-rs-40-lakh-penalty-on-two-brokers-in-axis-mutual-fund-front-running-case/articleshow/135516888.cms",
+          "title": "Oil falls for a fourth day on expectations for lower risk of Iran war escalation",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation/articleshow/135556154.cms",
           "source": "Markets-Economic Times",
-          "score": -0.527
+          "score": -0.802
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.069,
+      "avg_score": 0.123,
       "mood": "Mixed / Neutral",
       "positive": [
         {
-          "title": "Merck tops quarterly estimates, hikes profit outlook as new Keytruda form shows strength",
-          "link": "https://www.cnbc.com/2026/10/29/merck-mrk-earnings-q3-2026.html",
+          "title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
+          "link": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
           "source": "Business News",
-          "score": 0.856
+          "score": 0.727
         },
         {
-          "title": "Automakers like Rivian and Ford are \u2018democratizing 3D printing\u2019 to reduce costs and increase speed",
-          "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
+          "title": "New Flutter CEO bets on FanDuel promotions to win customers as profits suffer",
+          "link": "https://www.cnbc.com/2026/11/04/flutter-fanduel-promotions-q3-2026.html",
           "source": "Business News",
-          "score": 0.586
+          "score": 0.494
         },
         {
-          "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
-          "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
+          "title": "McDonald's stock rises as earnings beat, U.S. restaurants show improvement",
+          "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
           "source": "Business News",
-          "score": 0.527
+          "score": 0.459
         },
         {
-          "title": "Pfizer hikes full-year outlook on new product growth, taps company veteran as new CFO",
-          "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
-          "source": "Business News",
-          "score": 0.382
+          "title": "Interest rates expected to rise for first time in over three years",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.459
         },
         {
-          "title": "Versant earnings beat expectations as digital platforms drive growth",
-          "link": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html",
+          "title": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
+          "link": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html",
           "source": "Business News",
-          "score": 0.382
+          "score": 0.44
         }
       ],
       "negative": [
         {
-          "title": "Poundland supplier 'will lose millions' if retailer collapses",
+          "title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
+          "link": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
+          "source": "Business News",
+          "score": -0.71
+        },
+        {
+          "title": "Poundland owner in crunch talks as retailer's collapse looms",
           "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.599
-        },
-        {
-          "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.477
-        },
-        {
-          "title": "Canva announces major job cuts after 'our hardest year yet'",
-          "link": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.357
-        },
-        {
-          "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.296
+          "score": -0.586
         },
         {
           "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
