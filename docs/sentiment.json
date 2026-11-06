@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-05T03:29:43.764579Z",
+  "generated_at": "2026-11-06T03:26:30.872070Z",
   "regions": {
     "india": {
-      "avg_score": 0.245,
-      "mood": "Positive",
+      "avg_score": 0.105,
+      "mood": "Mixed / Neutral",
       "positive": [
-        {
-          "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a gap-up start; Asian shares trade mixed",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-bse-lenskart-share-price-05-november-2026/liveblog/135555859.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.882
-        },
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.869
+        },
+        {
+          "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a gap-down start; Asian shares trade lower",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-hcl-tech-adani-green-share-price-06-november-2026/liveblog/135590270.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.842
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -24,36 +24,54 @@
           "score": 0.7
         },
         {
-          "title": "Positive Breakout: These 8 stocks cross above their 200 DMAs",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-8-stocks-cross-above-their-200-dmas/slideshow/135555821.cms",
+          "title": "Gold set for weekly gain as markets await US payrolls data",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-weekly-gain-as-markets-await-us-payrolls-data/articleshow/135590413.cms",
           "source": "Markets-Economic Times",
-          "score": 0.557
+          "score": 0.586
         },
         {
-          "title": "Alcohol stocks jump as blue wave boosts industry prospects",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/alcohol-stocks-jump-as-blue-wave-boosts-industry-prospects/articleshow/135551002.cms",
+          "title": "Positive Breakout: These 8 large-cap stocks cross above their 200 DMAs",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-8-large-cap-stocks-cross-above-their-200-dmas/slideshow/135590791.cms",
           "source": "Markets-Economic Times",
-          "score": 0.542
+          "score": 0.557
         }
       ],
       "negative": [
         {
-          "title": "US midterm elections: Crude cools, but Iran war risks keeps markets guessing",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-midterm-elections-crude-cools-but-iran-war-risks-keeps-markets-guessing/articleshow/135555256.cms",
+          "title": "Asia fuel oil benchmarks slump as market prices in potential Iran war de-escalation",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/asia-fuel-oil-benchmarks-slump-as-market-prices-in-potential-iran-war-de-escalation/articleshow/135590514.cms",
           "source": "Markets-Economic Times",
-          "score": -0.885
+          "score": -0.599
         },
         {
-          "title": "Oil falls for a fourth day on expectations for lower risk of Iran war escalation",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation/articleshow/135556154.cms",
+          "title": "Middle East crude oil premiums tumble to pre-war levels amid ample supply",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/middle-east-crude-oil-premiums-tumble-to-pre-war-levels-amid-ample-supply/articleshow/135590447.cms",
           "source": "Markets-Economic Times",
-          "score": -0.802
+          "score": -0.572
+        },
+        {
+          "title": "Wall Street fear gauge soars and retail traders bolt as markets in tailspin",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-fear-gauge-soars-and-retail-traders-bolt-as-markets-in-tailspin/articleshow/135590367.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.494
+        },
+        {
+          "title": "Japan's Nikkei slumps 5.5% as market rout deepens on AI worries",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-slumps-5-5-as-market-rout-deepens-on-ai-worries/articleshow/135590552.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.421
+        },
+        {
+          "title": "AI backlash could threaten Anthropic IPO timing, potential investors say",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say/articleshow/135589533.cms",
+          "source": "Markets-Economic Times",
+          "score": -0.382
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.123,
+      "avg_score": 0.105,
       "mood": "Mixed / Neutral",
       "positive": [
         {
@@ -61,6 +79,18 @@
           "link": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
           "source": "Business News",
           "score": 0.727
+        },
+        {
+          "title": "Consumers are spending on physical gifts even as travel tops wish lists, Visa survey finds",
+          "link": "https://www.cnbc.com/2026/11/05/visa-holiday-shopping-physical-gifts-travel.html",
+          "source": "Business News",
+          "score": 0.718
+        },
+        {
+          "title": "Interest rates hiked to 4% in first increase in over three years",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": 0.649
         },
         {
           "title": "New Flutter CEO bets on FanDuel promotions to win customers as profits suffer",
@@ -73,18 +103,6 @@
           "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
           "source": "Business News",
           "score": 0.459
-        },
-        {
-          "title": "Interest rates expected to rise for first time in over three years",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.459
-        },
-        {
-          "title": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
-          "link": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html",
-          "source": "Business News",
-          "score": 0.44
         }
       ],
       "negative": [
@@ -95,10 +113,22 @@
           "score": -0.71
         },
         {
-          "title": "Poundland owner in crunch talks as retailer's collapse looms",
-          "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+          "title": "'I was asked if I was a crier': Your worst job interviews revealed",
+          "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.586
+          "score": -0.625
+        },
+        {
+          "title": "Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz\u2019s Trian",
+          "link": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
+          "source": "Business News",
+          "score": -0.494
+        },
+        {
+          "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.421
         },
         {
           "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
