@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-06T03:26:30.872070Z",
+  "generated_at": "2026-11-07T02:47:26.195055Z",
   "regions": {
     "india": {
-      "avg_score": 0.105,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.164,
+      "mood": "Positive",
       "positive": [
         {
           "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
@@ -12,67 +12,61 @@
           "score": 0.869
         },
         {
-          "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a gap-down start; Asian shares trade lower",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-hcl-tech-adani-green-share-price-06-november-2026/liveblog/135590270.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.842
-        },
-        {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.7
         },
         {
-          "title": "Gold set for weekly gain as markets await US payrolls data",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-weekly-gain-as-markets-await-us-payrolls-data/articleshow/135590413.cms",
+          "title": "India's 10-year bond posts best week in 7 years, leads emerging Asia as oil slides",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-posts-best-week-in-7-years-leads-emerging-asia-as-oil-slides/articleshow/135606792.cms",
           "source": "Markets-Economic Times",
-          "score": 0.586
+          "score": 0.637
         },
         {
-          "title": "Positive Breakout: These 8 large-cap stocks cross above their 200 DMAs",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-8-large-cap-stocks-cross-above-their-200-dmas/slideshow/135590791.cms",
+          "title": "Indian rupee strengthens past 94/$ as oil slides, foreign inflows return",
+          "link": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-strengthens-past-94/-as-oil-slides-foreign-inflows-return/articleshow/135604040.cms",
           "source": "Markets-Economic Times",
-          "score": 0.557
+          "score": 0.459
+        },
+        {
+          "title": "British Airways parent profit drops on higher fuel costs",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/british-airways-parent-profit-drops-on-higher-fuel-costs/articleshow/135605804.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.44
         }
       ],
       "negative": [
         {
-          "title": "Asia fuel oil benchmarks slump as market prices in potential Iran war de-escalation",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/asia-fuel-oil-benchmarks-slump-as-market-prices-in-potential-iran-war-de-escalation/articleshow/135590514.cms",
+          "title": "US stocks today: Nasdaq rebounds as chip stocks recover from steep losses, rate fears persist",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-opens-higher-as-chips-pare-losses-rate-hike-fears-linger/articleshow/135611515.cms",
           "source": "Markets-Economic Times",
-          "score": -0.599
+          "score": -0.67
         },
         {
-          "title": "Middle East crude oil premiums tumble to pre-war levels amid ample supply",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/middle-east-crude-oil-premiums-tumble-to-pre-war-levels-amid-ample-supply/articleshow/135590447.cms",
+          "title": "Copper price falls for 4th day, heads for worst week since March on AI rout",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/copper-falls-for-4th-day-heads-for-worst-week-since-march-on-ai-rout/articleshow/135605625.cms",
           "source": "Markets-Economic Times",
-          "score": -0.572
+          "score": -0.625
         },
         {
-          "title": "Wall Street fear gauge soars and retail traders bolt as markets in tailspin",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-fear-gauge-soars-and-retail-traders-bolt-as-markets-in-tailspin/articleshow/135590367.cms",
+          "title": "Trump Media's investors lost $2.2 billion while Trump holds $460 million stake",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-medias-investors-lost-2-2-billion-while-trump-holds-460-million-stake/articleshow/135605723.cms",
           "source": "Markets-Economic Times",
-          "score": -0.494
+          "score": -0.318
         },
         {
-          "title": "Japan's Nikkei slumps 5.5% as market rout deepens on AI worries",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-slumps-5-5-as-market-rout-deepens-on-ai-worries/articleshow/135590552.cms",
+          "title": "Anthropic listing under pressure: Investors question timing and sky-high valuation",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-listing-under-pressure-investors-question-timing-and-sky-high-valuation/slideshow/135600960.cms",
           "source": "Markets-Economic Times",
-          "score": -0.421
-        },
-        {
-          "title": "AI backlash could threaten Anthropic IPO timing, potential investors say",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say/articleshow/135589533.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.382
+          "score": -0.296
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.105,
-      "mood": "Mixed / Neutral",
+      "avg_score": 0.167,
+      "mood": "Positive",
       "positive": [
         {
           "title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
@@ -87,22 +81,22 @@
           "score": 0.718
         },
         {
-          "title": "Interest rates hiked to 4% in first increase in over three years",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": 0.649
+          "title": "Small retailers brace for 'huge hit' this holiday season as shipping costs spike",
+          "link": "https://www.cnbc.com/2026/11/06/small-business-holiday-shipping-costs.html",
+          "source": "Business News",
+          "score": 0.612
+        },
+        {
+          "title": "Where's the growth? Legacy automakers face a tougher 2027 as costs rise, market tightens",
+          "link": "https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html",
+          "source": "Business News",
+          "score": 0.511
         },
         {
           "title": "New Flutter CEO bets on FanDuel promotions to win customers as profits suffer",
           "link": "https://www.cnbc.com/2026/11/04/flutter-fanduel-promotions-q3-2026.html",
           "source": "Business News",
           "score": 0.494
-        },
-        {
-          "title": "McDonald's stock rises as earnings beat, U.S. restaurants show improvement",
-          "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
-          "source": "Business News",
-          "score": 0.459
         }
       ],
       "negative": [
@@ -113,28 +107,16 @@
           "score": -0.71
         },
         {
-          "title": "'I was asked if I was a crier': Your worst job interviews revealed",
-          "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "score": -0.625
-        },
-        {
           "title": "Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz\u2019s Trian",
           "link": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
           "source": "Business News",
           "score": -0.494
         },
         {
-          "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "score": -0.421
-        },
-        {
-          "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-          "link": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
-          "source": "Business News",
-          "score": -0.273
+          "score": -0.382
         }
       ],
       "sample_size": 20
