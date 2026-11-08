@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T02:47:26.195055Z",
+  "generated_at": "2026-11-08T02:29:20.521466Z",
   "regions": {
     "india": {
-      "avg_score": 0.164,
+      "avg_score": 0.239,
       "mood": "Positive",
       "positive": [
         {
@@ -10,6 +10,12 @@
           "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
           "source": "Moneycontrol Market Reports",
           "score": 0.869
+        },
+        {
+          "title": "Gold drops as strong US payrolls boost dollar, yields",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-as-strong-us-payrolls-boost-dollar-yields/articleshow/135626183.cms",
+          "source": "Markets-Economic Times",
+          "score": 0.718
         },
         {
           "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
@@ -24,16 +30,10 @@
           "score": 0.637
         },
         {
-          "title": "Indian rupee strengthens past 94/$ as oil slides, foreign inflows return",
-          "link": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-strengthens-past-94/-as-oil-slides-foreign-inflows-return/articleshow/135604040.cms",
+          "title": "Concurrent Gainers: 9 stocks gain for 5 days in a row",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-9-stocks-gain-for-5-days-in-a-row/slideshow/135631187.cms",
           "source": "Markets-Economic Times",
-          "score": 0.459
-        },
-        {
-          "title": "British Airways parent profit drops on higher fuel costs",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/british-airways-parent-profit-drops-on-higher-fuel-costs/articleshow/135605804.cms",
-          "source": "Markets-Economic Times",
-          "score": 0.44
+          "score": 0.527
         }
       ],
       "negative": [
@@ -44,28 +44,16 @@
           "score": -0.67
         },
         {
-          "title": "Copper price falls for 4th day, heads for worst week since March on AI rout",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/copper-falls-for-4th-day-heads-for-worst-week-since-march-on-ai-rout/articleshow/135605625.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.625
-        },
-        {
           "title": "Trump Media's investors lost $2.2 billion while Trump holds $460 million stake",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-medias-investors-lost-2-2-billion-while-trump-holds-460-million-stake/articleshow/135605723.cms",
           "source": "Markets-Economic Times",
           "score": -0.318
-        },
-        {
-          "title": "Anthropic listing under pressure: Investors question timing and sky-high valuation",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-listing-under-pressure-investors-question-timing-and-sky-high-valuation/slideshow/135600960.cms",
-          "source": "Markets-Economic Times",
-          "score": -0.296
         }
       ],
       "sample_size": 19
     },
     "world": {
-      "avg_score": 0.167,
+      "avg_score": 0.157,
       "mood": "Positive",
       "positive": [
         {
@@ -117,6 +105,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "score": -0.382
+        },
+        {
+          "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+          "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "score": -0.202
         }
       ],
       "sample_size": 20
