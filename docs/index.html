@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Market Pulse — Daily Sentiment</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#12141a; --paper:#f3efe4; --paper-dim:#e9e3d3; --navy:#0c1420; --navy-2:#161f2e;
+    --saffron:#c9782f; --saffron-2:#e0a45c; --up:#2e7d4f; --down:#a83232; --rule: rgba(18,20,26,0.14);
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:'Inter',sans-serif;-webkit-font-smoothing:antialiased;}
+  .masthead{background:var(--navy);color:var(--paper);padding:28px 24px 22px;border-bottom:4px solid var(--saffron);}
+  .masthead-inner{max-width:1120px;margin:0 auto;display:flex;justify-content:space-between;align-items:flex-end;flex-wrap:wrap;gap:12px;}
+  .brand h1{font-family:'Fraunces',serif;font-weight:700;font-size:clamp(28px,4vw,42px);margin:0;}
+  .brand .tag{font-size:11px;letter-spacing:0.14em;text-transform:uppercase;color:var(--saffron-2);}
+  .datebar{font-family:'JetBrains Mono',monospace;font-size:12px;color:#b9c2cf;text-align:right;}
+  .badge{display:inline-block;margin-right:8px;padding:1px 7px;border:1px solid currentColor;border-radius:3px;font-size:10px;letter-spacing:0.12em;}
+  .badge.live{color:#5fd08a;} .badge.snap{color:var(--saffron-2);}
+  #refreshBtn{margin-top:8px;font-family:'JetBrains Mono',monospace;font-size:12px;padding:6px 12px;cursor:pointer;background:var(--saffron);color:#fff;border:0;border-radius:3px;}
+  #refreshBtn:hover{background:var(--saffron-2);}
+  #refreshBtn:disabled{opacity:.7;cursor:progress;}
+  #refreshBtn .spin{display:inline-block;}
+  #refreshBtn.busy .spin{animation:spin 1s linear infinite;}
+  @keyframes spin{to{transform:rotate(360deg);}}
+  #status{margin-top:6px;font-size:11px;color:#8f9bad;min-height:14px;}
+  #status.err{color:#f0a0a0;}
+  main{max-width:1120px;margin:0 auto;padding:32px 24px 60px;}
+  .gauge-row{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:36px;}
+  @media (max-width:760px){.gauge-row,.cols{grid-template-columns:1fr;}}
+  .gauge-card{background:var(--paper-dim);border:1px solid var(--rule);padding:20px 22px;}
+  .gauge-card .region{font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:0.12em;text-transform:uppercase;color:#6b6252;margin-bottom:6px;}
+  .gauge-card h2{font-family:'Fraunces',serif;font-size:24px;margin:0 0 14px;font-weight:600;}
+  .meter{height:10px;background:#dcd4bf;position:relative;margin-bottom:8px;overflow:hidden;}
+  .meter-fill{height:100%;position:absolute;left:0;top:0;}
+  .meter-label{display:flex;justify-content:space-between;font-family:'JetBrains Mono',monospace;font-size:11px;color:#6b6252;}
+  .mood{font-weight:600;font-size:15px;margin-top:10px;color:var(--saffron);}
+  .section-label{font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:0.16em;text-transform:uppercase;color:#8a8168;border-bottom:1px solid var(--rule);padding-bottom:8px;margin:44px 0 18px;}
+  .cols{display:grid;grid-template-columns:1fr 1fr;gap:28px;}
+  .news-block h3{font-family:'Fraunces',serif;font-size:19px;margin:0 0 14px;display:flex;align-items:center;gap:8px;}
+  .dot{width:8px;height:8px;border-radius:50%;display:inline-block;}
+  .dot.up{background:var(--up);} .dot.down{background:var(--down);}
+  .card{background:#fffdf7;border:1px solid var(--rule);border-left:3px solid transparent;padding:14px 16px;margin-bottom:10px;}
+  .card.pos{border-left-color:var(--up);} .card.neg{border-left-color:var(--down);}
+  .card p{margin:0;font-size:14px;line-height:1.5;}
+  .card a{color:inherit;text-decoration:none;}
+  .card a:hover{text-decoration:underline;}
+  .card .src{display:block;margin-top:8px;font-family:'JetBrains Mono',monospace;font-size:10.5px;color:#8a8168;}
+  .empty{font-size:13px;color:#8a8168;font-style:italic;}
+  .note{margin-top:48px;padding:18px 20px;background:var(--navy);color:#c9d0da;font-size:13px;line-height:1.6;}
+  footer{text-align:center;font-family:'JetBrains Mono',monospace;font-size:11px;color:#8a8168;padding:20px 0 40px;}
+</style>
+</head>
+<body>
+
+<div class="masthead">
+  <div class="masthead-inner">
+    <div class="brand">
+      <h1>Market Pulse</h1>
+      <span class="tag">Sentiment Desk · Auto-updated</span>
+    </div>
+
+    <div class="datebar">
+      <div id="updated">Loading…</div>
+      <button id="refreshBtn" type="button" onclick="refreshLive()"><span class="spin">🔄</span> <span id="refreshLabel">Refresh</span></button>
+      <div id="status" role="status" aria-live="polite"></div>
+    </div>
+
+  </div>
+</div>
+
+<main>
+  <div class="gauge-row" id="gauges"></div>
+  <div class="section-label">Indian Markets</div>
+  <div class="cols" id="india-cols"></div>
+  <div class="section-label">World Markets</div>
+  <div class="cols" id="world-cols"></div>
+  <div class="note">
+    <strong>How this updates:</strong> A GitHub Actions job runs daily, pulls free RSS headlines
+    (Economic Times, Moneycontrol, Business Standard for India; CNBC, BBC Business, Investing.com for World),
+    scores them with VADER sentiment, and rewrites <code>sentiment.json</code> — which this page shows on load
+    (<em>Scheduled</em>). Press <strong>Refresh</strong> to pull the same feeds right now, directly in your browser,
+    and re-score them (<em>Live</em>). No paid API keys required.
+  </div>
+</main>
+<footer>MARKET PULSE — FOR INFORMATIONAL PURPOSES ONLY, NOT INVESTMENT ADVICE</footer>
+
+<script src="vader.js"></script>
+<script>
+const FEEDS = {
+  india: [
+    "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
+    "https://www.moneycontrol.com/rss/marketreports.xml",
+    "https://www.business-standard.com/rss/markets-106.rss"
+  ],
+  world: [
+    "https://www.cnbc.com/id/10001147/device/rss/rss.html",
+    "https://feeds.bbci.co.uk/news/business/rss.xml",
+    "https://www.investing.com/rss/news_25.rss"
+  ]
+};
+const PER_FEED = 15, MAX_PER_REGION = 20, THRESHOLD = 0.15, TIMEOUT_MS = 10000;
+
+// RSS feeds don't send CORS headers, so the browser reads them through free public CORS proxies.
+const XML_PROXIES = [
+  u => 'https://api.allorigins.win/raw?url=' + encodeURIComponent(u),
+  u => 'https://corsproxy.io/?url=' + encodeURIComponent(u)
+];
+const rss2json = u => 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(u);
+
+let mode = 'snapshot';   // 'snapshot' = scheduled sentiment.json, 'live' = fetched on button press
+let busy = false;
+let analyzerPromise = null;
+let snapshot = null;     // last scheduled data, used as a per-region fallback
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const safeUrl = u => /^https?:\/\//i.test(u || '') ? u : '#';
+
+function setHeader(kind, text) {
+  const badge = kind === 'live' ? '<span class="badge live">LIVE</span>' : '<span class="badge snap">SCHEDULED</span>';
+  $('updated').innerHTML = badge + esc(text);
+}
+function setStatus(text, isErr) {
+  const el = $('status'); el.textContent = text || ''; el.className = isErr ? 'err' : '';
+}
+
+/* ---------- Scheduled snapshot (written daily by GitHub Actions) ---------- */
+async function load() {
+  try {
+    const res = await fetch('sentiment.json', {cache: 'no-store'});
+    const data = await res.json();
+    snapshot = data.regions;
+    mode = 'snapshot';
+    setHeader('snap', 'Updated ' + new Date(data.generated_at).toLocaleString());
+    renderAll(data.regions);
+    return true;
+  } catch (e) {
+    $('updated').textContent = 'No data yet — waiting for first Action run';
+    return false;
+  }
+}
+
+/* ---------- Live refresh (runs in the browser) ---------- */
+function getAnalyzer() {
+  if (!analyzerPromise) {
+    analyzerPromise = fetch('vader-lexicon.json')
+      .then(r => { if (!r.ok) throw new Error('lexicon ' + r.status); return r.json(); })
+      .then(lex => new VaderAnalyzer(lex))
+      .catch(e => { analyzerPromise = null; throw e; });
+  }
+  return analyzerPromise;
+}
+
+async function timedFetch(url) {
+  const ctl = new AbortController();
+  const t = setTimeout(() => ctl.abort(), TIMEOUT_MS);
+  try {
+    const r = await fetch(url, {signal: ctl.signal, cache: 'no-store'});
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    return r;
+  } finally { clearTimeout(t); }
+}
+
+function parseXml(text) {
+  const doc = new DOMParser().parseFromString(text, 'text/xml');
+  if (doc.querySelector('parsererror')) throw new Error('bad xml');
+  const feedTitle = (doc.querySelector('channel > title, feed > title') || {}).textContent || '';
+  const nodes = Array.from(doc.querySelectorAll('item, entry'));
+  const items = nodes.map(n => {
+    const q = sel => { const e = n.querySelector(sel); return e ? e.textContent.trim() : ''; };
+    const linkEl = n.querySelector('link');
+    const link = linkEl ? (linkEl.getAttribute('href') || linkEl.textContent.trim()) : '';
+    const when = Date.parse(q('pubDate') || q('published') || q('updated') || q('date'));
+    return {title: q('title'), link, published: isNaN(when) ? null : when};
+  }).filter(i => i.title);
+  return {source: feedTitle.trim(), items};
+}
+
+async function fetchFeed(url) {
+  for (const proxy of XML_PROXIES) {
+    try {
+      const r = await timedFetch(proxy(url));
+      const parsed = parseXml(await r.text());
+      if (parsed.items.length) return parsed;
+    } catch (e) { /* try next proxy */ }
+  }
+  // last resort: rss2json (returns JSON, may be cached a little longer)
+  const r = await timedFetch(rss2json(url));
+  const j = await r.json();
+  if (j.status !== 'ok' || !(j.items || []).length) throw new Error('rss2json failed');
+  return {
+    source: (j.feed && j.feed.title) || url,
+    items: j.items.map(i => {
+      // rss2json pubDate is "YYYY-MM-DD HH:MM:SS" in UTC
+      const when = Date.parse(String(i.pubDate || '').replace(' ', 'T') + 'Z');
+      return {title: (i.title || '').trim(), link: i.link || '', published: isNaN(when) ? null : when};
+    }).filter(i => i.title)
+  };
+}
+
+function summarize(items) {
+  if (!items.length) return {avg_score: 0, mood: 'No data', positive: [], negative: [], sample_size: 0};
+  const avg = items.reduce((a, i) => a + i.score, 0) / items.length;
+  const positive = items.filter(i => i.score > THRESHOLD).sort((a, b) => b.score - a.score).slice(0, 5);
+  const negative = items.filter(i => i.score < -THRESHOLD).sort((a, b) => a.score - b.score).slice(0, 5);
+  const mood = avg > THRESHOLD ? 'Positive' : avg < -THRESHOLD ? 'Negative' : 'Mixed / Neutral';
+  return {avg_score: Math.round(avg * 1000) / 1000, mood, positive, negative, sample_size: items.length};
+}
+
+async function liveData() {
+  const analyzer = await getAnalyzer();
+  const regions = {};
+  let ok = 0, total = 0;
+  for (const [region, urls] of Object.entries(FEEDS)) {
+    const results = await Promise.allSettled(urls.map(fetchFeed));
+    const seen = new Set(), items = [];
+    results.forEach(r => {
+      total++;
+      if (r.status !== 'fulfilled') return;
+      ok++;
+      r.value.items.slice(0, PER_FEED).forEach(it => {
+        const key = it.title.toLowerCase();
+        if (seen.has(key)) return;
+        seen.add(key);
+        items.push({
+          title: it.title, link: it.link, source: r.value.source || 'RSS',
+          published: it.published,
+          score: Math.round(analyzer.polarity(it.title).compound * 1000) / 1000
+        });
+      });
+    });
+    // newest first, so "current" news wins when there are more than MAX_PER_REGION
+    items.sort((a, b) => (b.published || 0) - (a.published || 0));
+    regions[region] = summarize(items.slice(0, MAX_PER_REGION));
+  }
+  return {regions, ok, total};
+}
+
+async function refreshLive() {
+  if (busy) return;
+  busy = true;
+  const btn = $('refreshBtn');
+  btn.disabled = true; btn.classList.add('busy');
+  $('refreshLabel').textContent = 'Fetching latest…';
+  setStatus('Pulling current headlines from 6 feeds…');
+  try {
+    const {regions, ok, total} = await liveData();
+    const got = Object.values(regions).reduce((a, r) => a + r.sample_size, 0);
+    if (!ok || !got) throw new Error('no feeds reachable');
+    // A region whose feeds all failed keeps its scheduled data instead of showing "No data"
+    const stale = [];
+    for (const name of Object.keys(regions)) {
+      if (!regions[name].sample_size && snapshot && snapshot[name]) { regions[name] = snapshot[name]; stale.push(name); }
+    }
+    mode = 'live';
+    renderAll(regions);
+    setHeader('live', 'Fetched ' + new Date().toLocaleString());
+    setStatus(ok + ' of ' + total + ' feeds loaded' + (ok < total ? ' — some sources were unreachable' : '') +
+      (stale.length ? '; ' + stale.join(' & ') + ' shown from scheduled data' : ''));
+  } catch (e) {
+    // Keep whatever is on screen; fall back to the scheduled snapshot if nothing is shown yet.
+    if (mode !== 'live') await load();
+    setStatus('Live fetch failed (' + e.message + '). Showing ' + (mode === 'live' ? 'the last live data' : 'the scheduled data') + '.', true);
+  } finally {
+    busy = false;
+    btn.disabled = false; btn.classList.remove('busy');
+    $('refreshLabel').textContent = 'Refresh';
+  }
+}
+
+/* ---------- Rendering ---------- */
+function renderAll(regions) {
+  renderGauges(regions);
+  renderCols(regions.india, 'india-cols');
+  renderCols(regions.world, 'world-cols');
+}
+
+function moodColor(score){
+  if (score > 0.15) return 'linear-gradient(90deg,var(--saffron),var(--up))';
+  if (score < -0.15) return 'linear-gradient(90deg,var(--down),var(--saffron))';
+  return 'linear-gradient(90deg,var(--down),var(--saffron),var(--up))';
+}
+
+function renderGauges(regions){
+  const el = $('gauges');
+  el.innerHTML = '';
+  for (const [name, r] of Object.entries(regions)){
+    const pct = Math.round(((r.avg_score + 1) / 2) * 100);
+    el.innerHTML += `
+      <div class="gauge-card">
+        <div class="region">${esc(name)}</div>
+        <h2>${esc(r.mood)}</h2>
+        <div class="meter"><div class="meter-fill" style="width:${pct}%;background:${moodColor(r.avg_score)};"></div></div>
+        <div class="meter-label"><span>Bearish</span><span>Bullish</span></div>
+        <div class="mood">Average sentiment score: ${esc(r.avg_score)} across ${esc(r.sample_size || 0)} headlines</div>
+      </div>`;
+  }
+}
+
+function ago(ms){
+  if (!ms) return '';
+  const m = Math.max(0, Math.round((Date.now() - ms) / 60000));
+  if (m < 1) return ' · just now';
+  if (m < 60) return ' · ' + m + ' min ago';
+  const h = Math.round(m / 60);
+  if (h < 48) return ' · ' + h + ' h ago';
+  return ' · ' + Math.round(h / 24) + ' d ago';
+}
+
+function cardHtml(item, cls){
+  return `<div class="card ${cls}"><p><a href="${esc(safeUrl(item.link))}" target="_blank" rel="noopener">${esc(item.title)}</a></p><span class="src">${esc(item.source)} · score ${esc(item.score)}${ago(item.published)}</span></div>`;
+}
+
+function renderCols(r, elId){
+  const el = $(elId);
+  const pos = (r.positive||[]).map(i => cardHtml(i,'pos')).join('') || '<div class="empty">No strongly positive headlines right now.</div>';
+  const neg = (r.negative||[]).map(i => cardHtml(i,'neg')).join('') || '<div class="empty">No strongly negative headlines right now.</div>';
+  el.innerHTML = `
+    <div class="news-block"><h3><span class="dot up"></span>Positive</h3>${pos}</div>
+    <div class="news-block"><h3><span class="dot down"></span>Negative</h3>${neg}</div>`;
+}
+
+load();
+// Re-read the scheduled snapshot every 5 minutes (never overwrites live data you just refreshed)
+setInterval(() => { if (mode !== 'live' && !busy) load(); }, 5 * 60 * 1000);
+</script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+{
+  "generated_at": "1970-01-01T00:00:00Z",
+  "regions": {
+    "india": {"headlines": [], "avg_score": 0, "mood": "Waiting for first update", "positive": [], "negative": [], "sample_size": 0},
+    "world": {"headlines": [], "avg_score": 0, "mood": "Waiting for first update", "positive": [], "negative": [], "sample_size": 0}
+  }
+}
